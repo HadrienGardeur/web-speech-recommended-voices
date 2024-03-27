@@ -44,10 +44,16 @@
             ]
           },
           "rate": {
-            "type": "number"
+            "type": "number",
+            "minimum": 0.1,
+            "maximum": 10,
+            "default": 1
           },
           "pitch": {
-            "type": "number"
+            "type": "number",
+            "minimum": 0,
+            "maximum": 2,
+            "default": 1
           },
           "os": {
             "type": "array",

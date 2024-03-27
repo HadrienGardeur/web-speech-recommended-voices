@@ -24,7 +24,7 @@ TBD
 
 ## Voice list as JSON
 
-TBD
+> This README will provide a detailed description of each property in a future revision, but for now it's limited to a [JSON Schema](voices.schema.json) that can be used for validation.
 
 ## Notes
 
