@@ -11,14 +11,21 @@ This repository is part of a larger project, meant to identify best practices fo
 * Italian (`it-it`)
 * Spanish (`es-es` and `es-mx`)
 
+## Use cases
+
+* Providing the best possible default voice per language
+* Displaying an ordered list of recommended voices
+* Filtering recommended voices per gender, platform and browser
+* Default speed and pitch values for recommended voices
+
 ## Principles
 
 TBD
 
-## Voice list
+## Voice list as JSON
 
 TBD
 
-## Appendix A - JSON Schema
+## Notes
 
 TBD
