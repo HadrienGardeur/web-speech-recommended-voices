@@ -1,0 +1,849 @@
+{
+  "language": "en",
+  "voices": [
+    {
+      "label": "Jenny (US)",
+      "name": "Microsoft Jenny Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Aria (US)",
+      "name": "Microsoft Aria Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Guy (US)",
+      "name": "Microsoft Guy Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Sonia (UK)",
+      "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Ryan (UK)",
+      "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Google female voice (US)",
+      "name": "Google US English",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Google female voice (UK)",
+      "name": "Google UK English Female",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Google male voice (UK)",
+      "name": "Google UK English Male",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Allison (US)",
+      "name": "Allison (Enhanced)",
+      "altNames": [
+        "Allison (mejorada)",
+        "Allison (premium)",
+        "Allison (ottimizzata)",
+        "Allison (English (United States))",
+        "Allison (anglais (États-Unis))",
+        "Allison (inglés (Estados Unidos))",
+        "Allison (inglese (Stati Uniti))"
+      ],
+      "overrides": "Allison",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Ava (US)",
+      "name": "Ava (Premium)",
+      "altNames": [
+        "Ava (premium)",
+        "Ava (de qualité)",
+        "Ava (English (United States))",
+        "Ava (anglais (États-Unis))",
+        "Ava (inglés (Estados Unidos))",
+        "Ava (inglese (Stati Uniti))"
+      ],
+      "overrides": "Ava",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Joelle (US)",
+      "name": "Joelle (Enhanced)",
+      "altNames": [
+        "Joelle (mejorada)",
+        "Joelle (premium)",
+        "Joelle (ottimizzata)",
+        "Joelle (English (United States))",
+        "Joelle (anglais (États-Unis))",
+        "Joelle (inglés (Estados Unidos))",
+        "Joelle (inglese (Stati Uniti))"
+      ],
+      "overrides": "Joelle",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Zoe (US)",
+      "name": "Zoe (Premium)",
+      "altNames": [
+        "Zoe (premium)",
+        "Zoe (de qualité)",
+        "Zoe (English (United States))",
+        "Zoe (anglais (États-Unis))",
+        "Zoe (inglés (Estados Unidos))",
+        "Zoe (inglese (Stati Uniti))"
+      ],
+      "overrides": "Zoe",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Nicky (US)",
+      "name": "Nicky",
+      "note": "Nicky is missing the usual info about voice quality in its name, which means that we can't identify its variants. For this reason, this voice is listed lower than other high quality voices available for Apple devices.",
+      "altNames": [
+        "Nicky (English (United States))",
+        "Nicky (anglais (États-Unis))",
+        "Nicky (inglés (Estados Unidos))",
+        "Nicky (inglese (Stati Uniti))"
+      ],
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Samantha (US)",
+      "name": "Samantha (Enhanced)",
+      "altNames": [
+        "Samantha (mejorada)",
+        "Samantha (premium)",
+        "Samantha (ottimizzata)",
+        "Samantha (English (United States))",
+        "Samantha (anglais (États-Unis))",
+        "Samantha (inglés (Estados Unidos))",
+        "Samantha (inglese (Stati Uniti))"
+      ],
+      "overrides": "Samantha",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Evan (US)",
+      "name": "Evan (Enhanced)",
+      "altNames": [
+        "Evan (mejorada)",
+        "Evan (premium)",
+        "Evan (ottimizzata)",
+        "Evan (English (United States))",
+        "Evan (anglais (États-Unis))",
+        "Evan (inglés (Estados Unidos))",
+        "Evan (inglese (Stati Uniti))"
+      ],
+      "overrides": "Evan",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Nathan (US)",
+      "name": "Nathan (Enhanced)",
+      "altNames": [
+        "Nathan (mejorada)",
+        "Nathan (premium)",
+        "Nathan (ottimizzata)",
+        "Nathan (English (United States))",
+        "Nathan (anglais (États-Unis))",
+        "Nathan (inglés (Estados Unidos))",
+        "Nathan (inglese (Stati Uniti))"
+      ],
+      "overrides": "Nathan",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Tom (US)",
+      "name": "Tom (Enhanced)",
+      "altNames": [
+        "Tom (mejorada)",
+        "Tom (premium)",
+        "Tom (ottimizzata)",
+        "Tom (English (United States))",
+        "Tom (anglais (États-Unis))",
+        "Tom (inglés (Estados Unidos))",
+        "Tom (inglese (Stati Uniti))"
+      ],
+      "overrides": "Tom",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Alex (US)",
+      "name": "Alex",
+      "note": "Unlike most other voices on Apple devices, Alex has a single variant.",
+      "altNames": [
+        "Alex (English (United States))",
+        "Alex (anglais (États-Unis))",
+        "Alex (inglés (Estados Unidos))",
+        "Alex (inglese (Stati Uniti))"
+      ],
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Stephanie (UK)",
+      "name": "Stephanie (Enhanced)",
+      "altNames": [
+        "Stephanie (mejorada)",
+        "Stephanie (premium)",
+        "Stephanie (ottimizzata)",
+        "Stephanie (English (United Kingdom))",
+        "Stephanie (anglais (Royaume-Uni))",
+        "Stephanie (inglés (Reino Unido))",
+        "Stephanie (inglese (Regno Unito))"
+      ],
+      "overrides": "Stephanie",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Serena (UK)",
+      "name": "Serena (Premium)",
+      "altNames": [
+        "Serena (premium)",
+        "Serena (de qualité)",
+        "Serena (English (United Kingdom))",
+        "Serena (anglais (Royaume-Uni))",
+        "Serena (inglés (Reino Unido))",
+        "Serena (inglese (Regno Unito))"
+      ],
+      "overrides": "Serena",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Kate (UK)",
+      "name": "Kate (Enhanced)",
+      "altNames": [
+        "Kate (mejorada)",
+        "Kate (premium)",
+        "Kate (ottimizzata)",
+        "Kate (English (United Kingdom))",
+        "Kate (anglais (Royaume-Uni))",
+        "Kate (inglés (Reino Unido))",
+        "Kate (inglese (Regno Unito))"
+      ],
+      "overrides": "Kate",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Jamie (UK)",
+      "name": "Jamie (Premium)",
+      "altNames": [
+        "Jamie (premium)",
+        "Jamie (de qualité)",
+        "Jamie (English (United Kingdom))",
+        "Jamie (anglais (Royaume-Uni))",
+        "Jamie (inglés (Reino Unido))",
+        "Jamie (inglese (Regno Unito))"
+      ],
+      "overrides": "Jamie",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Oliver (UK)",
+      "name": "Oliver (Enhanced)",
+      "altNames": [
+        "Oliver (mejorada)",
+        "Oliver (premium)",
+        "Oliver (ottimizzata)",
+        "Oliver (English (United Kingdom))",
+        "Oliver (anglais (Royaume-Uni))",
+        "Oliver (inglés (Reino Unido))",
+        "Oliver (inglese (Regno Unito))"
+      ],
+      "overrides": "Oliver",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Daniel (UK)",
+      "name": "Daniel (Enhanced)",
+      "altNames": [
+        "Daniel (mejorada)",
+        "Daniel (premium)",
+        "Daniel (ottimizzata)",
+        "Daniel (English (United Kingdom))",
+        "Daniel (anglais (Royaume-Uni))",
+        "Daniel (inglés (Reino Unido))",
+        "Daniel (inglese (Regno Unito))"
+      ],
+      "overrides": "Daniel",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Michelle (US)",
+      "name": "Microsoft Michelle Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Ana (US)",
+      "name": "Microsoft Ana Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Eric (US)",
+      "name": "Microsoft Eric Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Steffan (US)",
+      "name": "Microsoft Steffan Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Christopher (US)",
+      "name": "Microsoft Christopher Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Roger (US)",
+      "name": "Microsoft Roger Online (Natural) - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Libby (UK)",
+      "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Maisie (UK)",
+      "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Thomas (UK)",
+      "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Samantha (US)",
+      "name": "Samantha",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 0.9,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Daniel (UK)",
+      "name": "Daniel",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 0.9,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Zira (US)",
+      "name": "Microsoft Zira - English (United States)",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "David (US)",
+      "name": "Microsoft David - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "Mark (US)",
+      "name": "Microsoft Mark - English (United States)",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "Hazel (UK)",
+      "name": "Microsoft Hazel - English (Great Britain)",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "Susan (UK)",
+      "name": "Microsoft Susan - English (Great Britain)",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "George (UK)",
+      "name": "Microsoft George - English (Great Britain)",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ]
+    },
+    {
+      "label": "US female voice 1",
+      "name": "Chrome OS US English 1",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US female voice 2",
+      "name": "Chrome OS US English 2",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US female voice 3",
+      "name": "Chrome OS US English 3",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US female voice 4",
+      "name": "Chrome OS US English 6",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US female voice 5",
+      "name": "Chrome OS US English 8",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US male voice 1",
+      "name": "Chrome OS US English 4",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US male voice 2",
+      "name": "Chrome OS US English 5",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US male voice 3",
+      "name": "Chrome OS US English 7",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK female voice 1",
+      "name": "Chrome OS UK English 1",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK female voice 2",
+      "name": "Chrome OS UK English 3",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK female voice 3",
+      "name": "Chrome OS UK English 5",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK female voice 4",
+      "name": "Chrome OS UK English 7",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK male voice 1",
+      "name": "Chrome OS UK English 2",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK male voice 2",
+      "name": "Chrome OS UK English 4",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "UK male voice 3",
+      "name": "Chrome OS UK English 6",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ]
+    },
+    {
+      "label": "US voice",
+      "name": "english United-States",
+      "language": "en-US",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "default": true
+    },
+    {
+      "label": "UK voice",
+      "name": "english Great Britain",
+      "language": "en-GB",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "default": true
+    }
+  ]
+}

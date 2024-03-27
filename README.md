@@ -6,7 +6,19 @@ This repository is part of a larger project, meant to identify best practices fo
 
 ## Initial list of supported languages
 
-* English (`en-us` and `en-gb`)
+* [English](json/en.json) (`en-us` and `en-gb`)
 * French (`fr-fr` and `fr-ca`)
 * Italian (`it-it`)
 * Spanish (`es-es` and `es-mx`)
+
+## Principles
+
+TBD
+
+## Voice list
+
+TBD
+
+## Appendix A - JSON Schema
+
+TBD
