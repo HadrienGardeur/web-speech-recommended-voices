@@ -17,15 +17,15 @@ With its focus on voice selection, the goal of this project is to document highe
 
 * Providing the best possible default voice per language
 * Displaying an ordered list of recommended voices
-* Filtering recommended voices per gender, platform and browser
-* Default speed and pitch values for recommended voices
+* Displaying user-friendly voice names
+* Filtering recommended voices per gender and age (adult vs children)
 
 ## Guiding principles
 
 * Each voice list is ordered and meant to provide an optimal listening experience on all browsers/OS/languages covered by this project.
 * But each list also includes default options, to make sure that there's always something reliable to lean on.
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
-* The number of voices can look overwhelming (50+ voices in English) but in practice, just a few of them will be available to users on each of their device.
+* The number of voices can look overwhelming (60+ voices in English) but in practice, just a few of them will be available to users on each of their device.
 * Whenever possible, we'll always try to include a good mix of high quality and default options for both genders.
 * Since the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
 * Regional variants are also grouped together in a single list rather than separated in their own files on purpose. On some devices, only two or three voices might be available and separating regional variants wouldn't make much sense.
