@@ -43,6 +43,10 @@
               "male"
             ]
           },
+          "children": {
+            "type": "boolean",
+            "default": false
+          },
           "rate": {
             "type": "number",
             "minimum": 0.1,

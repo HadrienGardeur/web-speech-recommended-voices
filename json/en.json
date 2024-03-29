@@ -4,6 +4,7 @@
     {
       "label": "Jenny (US)",
       "name": "Microsoft Jenny Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
@@ -18,6 +19,7 @@
     {
       "label": "Aria (US)",
       "name": "Microsoft Aria Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
@@ -25,6 +27,31 @@
       "os": [
         "Windows"
       ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Michelle (US)",
+      "name": "Microsoft Michelle Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Ana (US)",
+      "name": "Microsoft Ana Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "female",
+      "children": true,
+      "rate": 1,
+      "pitch": 1,
       "browser": [
         "Edge"
       ]
@@ -32,6 +59,7 @@
     {
       "label": "Guy (US)",
       "name": "Microsoft Guy Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
       "language": "en-US",
       "gender": "male",
       "rate": 1,
@@ -39,6 +67,54 @@
       "os": [
         "Windows"
       ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Eric (US)",
+      "name": "Microsoft Eric Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Steffan (US)",
+      "name": "Microsoft Steffan Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Christopher (US)",
+      "name": "Microsoft Christopher Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Roger (US)",
+      "name": "Microsoft Roger Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
       "browser": [
         "Edge"
       ]
@@ -46,6 +122,7 @@
     {
       "label": "Sonia (UK)",
       "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -53,6 +130,31 @@
       "os": [
         "Windows"
       ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Libby (UK)",
+      "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Maisie (UK)",
+      "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-GB",
+      "gender": "female",
+      "children": true,
+      "rate": 1,
+      "pitch": 1,
       "browser": [
         "Edge"
       ]
@@ -60,6 +162,7 @@
     {
       "label": "Ryan (UK)",
       "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
@@ -72,41 +175,67 @@
       ]
     },
     {
-      "label": "Google female voice (US)",
-      "name": "Google US English",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "ChromeDesktop"
-      ]
-    },
-    {
-      "label": "Google female voice (UK)",
-      "name": "Google UK English Female",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "ChromeDesktop"
-      ]
-    },
-    {
-      "label": "Google male voice (UK)",
-      "name": "Google UK English Male",
+      "label": "Thomas (UK)",
+      "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
       "browser": [
-        "ChromeDesktop"
+        "Edge"
+      ]
+    },
+    {
+      "label": "Ava (US)",
+      "name": "Ava (Premium)",
+      "note": "Ava can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Ava (premium)",
+        "Ava (de qualité)",
+        "Ava (English (United States))",
+        "Ava (anglais (États-Unis))",
+        "Ava (inglés (Estados Unidos))",
+        "Ava (inglese (Stati Uniti))"
+      ],
+      "overrides": "Ava",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Zoe (US)",
+      "name": "Zoe (Premium)",
+      "note": "Zoe can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Zoe (premium)",
+        "Zoe (de qualité)",
+        "Zoe (English (United States))",
+        "Zoe (anglais (États-Unis))",
+        "Zoe (inglés (Estados Unidos))",
+        "Zoe (inglese (Stati Uniti))"
+      ],
+      "overrides": "Zoe",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
       ]
     },
     {
       "label": "Allison (US)",
       "name": "Allison (Enhanced)",
+      "note": "Allison can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Allison (mejorada)",
         "Allison (premium)",
@@ -128,30 +257,9 @@
       ]
     },
     {
-      "label": "Ava (US)",
-      "name": "Ava (Premium)",
-      "altNames": [
-        "Ava (premium)",
-        "Ava (de qualité)",
-        "Ava (English (United States))",
-        "Ava (anglais (États-Unis))",
-        "Ava (inglés (Estados Unidos))",
-        "Ava (inglese (Stati Uniti))"
-      ],
-      "overrides": "Ava",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
       "label": "Joelle (US)",
       "name": "Joelle (Enhanced)",
+      "note": "Joelle can be installed on all Apple devices. Unlike most other voices on Apple devices, Joelle has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Joelle (mejorada)",
         "Joelle (premium)",
@@ -161,9 +269,9 @@
         "Joelle (inglés (Estados Unidos))",
         "Joelle (inglese (Stati Uniti))"
       ],
-      "overrides": "Joelle",
       "language": "en-US",
       "gender": "female",
+      "children": true,
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -171,77 +279,11 @@
         "iOS",
         "iPadOS"
       ]
-    },
-    {
-      "label": "Zoe (US)",
-      "name": "Zoe (Premium)",
-      "altNames": [
-        "Zoe (premium)",
-        "Zoe (de qualité)",
-        "Zoe (English (United States))",
-        "Zoe (anglais (États-Unis))",
-        "Zoe (inglés (Estados Unidos))",
-        "Zoe (inglese (Stati Uniti))"
-      ],
-      "overrides": "Zoe",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
-      "label": "Nicky (US)",
-      "name": "Nicky",
-      "note": "Nicky is missing the usual info about voice quality in its name, which means that we can't identify its variants. For this reason, this voice is listed lower than other high quality voices available for Apple devices.",
-      "altNames": [
-        "Nicky (English (United States))",
-        "Nicky (anglais (États-Unis))",
-        "Nicky (inglés (Estados Unidos))",
-        "Nicky (inglese (Stati Uniti))"
-      ],
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "default": true
-    },
-    {
-      "label": "Samantha (US)",
-      "name": "Samantha (Enhanced)",
-      "altNames": [
-        "Samantha (mejorada)",
-        "Samantha (premium)",
-        "Samantha (ottimizzata)",
-        "Samantha (English (United States))",
-        "Samantha (anglais (États-Unis))",
-        "Samantha (inglés (Estados Unidos))",
-        "Samantha (inglese (Stati Uniti))"
-      ],
-      "overrides": "Samantha",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "default": true
     },
     {
       "label": "Evan (US)",
       "name": "Evan (Enhanced)",
+      "note": "Evan can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Evan (mejorada)",
         "Evan (premium)",
@@ -265,6 +307,7 @@
     {
       "label": "Nathan (US)",
       "name": "Nathan (Enhanced)",
+      "note": "Nathan can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Nathan (mejorada)",
         "Nathan (premium)",
@@ -288,6 +331,7 @@
     {
       "label": "Tom (US)",
       "name": "Tom (Enhanced)",
+      "note": "Tom can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Tom (mejorada)",
         "Tom (premium)",
@@ -311,7 +355,7 @@
     {
       "label": "Alex (US)",
       "name": "Alex",
-      "note": "Unlike most other voices on Apple devices, Alex has a single variant.",
+      "note": "Alex can be installed on all Apple devices. Unlike most other voices on Apple devices, Alex has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Alex (English (United States))",
         "Alex (anglais (États-Unis))",
@@ -329,8 +373,33 @@
       ]
     },
     {
+      "label": "Kate (UK)",
+      "name": "Kate (Enhanced)",
+      "note": "Kate can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Kate (mejorada)",
+        "Kate (premium)",
+        "Kate (ottimizzata)",
+        "Kate (English (United Kingdom))",
+        "Kate (anglais (Royaume-Uni))",
+        "Kate (inglés (Reino Unido))",
+        "Kate (inglese (Regno Unito))"
+      ],
+      "overrides": "Kate",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Stephanie (UK)",
       "name": "Stephanie (Enhanced)",
+      "note": "Stephanie can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Stephanie (mejorada)",
         "Stephanie (premium)",
@@ -354,6 +423,7 @@
     {
       "label": "Serena (UK)",
       "name": "Serena (Premium)",
+      "note": "Serena can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Serena (premium)",
         "Serena (de qualité)",
@@ -374,31 +444,9 @@
       ]
     },
     {
-      "label": "Kate (UK)",
-      "name": "Kate (Enhanced)",
-      "altNames": [
-        "Kate (mejorada)",
-        "Kate (premium)",
-        "Kate (ottimizzata)",
-        "Kate (English (United Kingdom))",
-        "Kate (anglais (Royaume-Uni))",
-        "Kate (inglés (Reino Unido))",
-        "Kate (inglese (Regno Unito))"
-      ],
-      "overrides": "Kate",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
       "label": "Jamie (UK)",
       "name": "Jamie (Premium)",
+      "note": "Jamie can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Jamie (premium)",
         "Jamie (de qualité)",
@@ -421,6 +469,7 @@
     {
       "label": "Oliver (UK)",
       "name": "Oliver (Enhanced)",
+      "note": "Oliver can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Oliver (mejorada)",
         "Oliver (premium)",
@@ -442,8 +491,169 @@
       ]
     },
     {
+      "label": "Google female voice (US)",
+      "name": "Google US English",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Google female voice (UK)",
+      "name": "Google UK English Female",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Google male voice (UK)",
+      "name": "Google UK English Male",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ]
+    },
+    {
+      "label": "Zira (US)",
+      "name": "Microsoft Zira - English (United States)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "David (US)",
+      "name": "Microsoft David - English (United States)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "Mark (US)",
+      "name": "Microsoft Mark - English (United States)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "Hazel (UK)",
+      "name": "Microsoft Hazel - English (Great Britain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "Susan (UK)",
+      "name": "Microsoft Susan - English (Great Britain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-GB",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "George (UK)",
+      "name": "Microsoft George - English (Great Britain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "default": true
+    },
+    {
+      "label": "Nicky (US)",
+      "name": "Nicky",
+      "note": "Nicky is missing the usual info about voice quality in its name, which means that we can't identify its variants. For this reason, this voice is listed lower than other high quality voices available for Apple devices. That said, Nicky is probably the best pre-loaded voice on Apple devices.",
+      "altNames": [
+        "Nicky (English (United States))",
+        "Nicky (anglais (États-Unis))",
+        "Nicky (inglés (Estados Unidos))",
+        "Nicky (inglese (Stati Uniti))"
+      ],
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
+      "label": "Samantha (US)",
+      "name": "Samantha (Enhanced)",
+      "note": "While this is meant to identify the highest quality variant for the Samantha voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Samantha voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Samantha (mejorada)",
+        "Samantha (premium)",
+        "Samantha (ottimizzata)",
+        "Samantha (English (United States))",
+        "Samantha (anglais (États-Unis))",
+        "Samantha (inglés (Estados Unidos))",
+        "Samantha (inglese (Stati Uniti))"
+      ],
+      "overrides": "Samantha",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "default": true
+    },
+    {
       "label": "Daniel (UK)",
       "name": "Daniel (Enhanced)",
+      "note": "While this is meant to identify the highest quality variant for the Daniel voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Samantha voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [
         "Daniel (mejorada)",
         "Daniel (premium)",
@@ -466,107 +676,9 @@
       "default": true
     },
     {
-      "label": "Michelle (US)",
-      "name": "Microsoft Michelle Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Ana (US)",
-      "name": "Microsoft Ana Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Eric (US)",
-      "name": "Microsoft Eric Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Steffan (US)",
-      "name": "Microsoft Steffan Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Christopher (US)",
-      "name": "Microsoft Christopher Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Roger (US)",
-      "name": "Microsoft Roger Online (Natural) - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Libby (UK)",
-      "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Maisie (UK)",
-      "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
-      "label": "Thomas (UK)",
-      "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
-      "language": "en-GB",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ]
-    },
-    {
       "label": "Samantha (US)",
       "name": "Samantha",
+      "note": "This entry is meant to identify the pre-loaded variant of the Samantha voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "en-US",
       "gender": "female",
       "rate": 0.9,
@@ -581,6 +693,7 @@
     {
       "label": "Daniel (UK)",
       "name": "Daniel",
+      "note": "This entry is meant to identify the pre-loaded variant of the Daniel voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "en-GB",
       "gender": "male",
       "rate": 0.9,
@@ -593,72 +706,6 @@
       "default": true
     },
     {
-      "label": "Zira (US)",
-      "name": "Microsoft Zira - English (United States)",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
-      "label": "David (US)",
-      "name": "Microsoft David - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
-      "label": "Mark (US)",
-      "name": "Microsoft Mark - English (United States)",
-      "language": "en-US",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
-      "label": "Hazel (UK)",
-      "name": "Microsoft Hazel - English (Great Britain)",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
-      "label": "Susan (UK)",
-      "name": "Microsoft Susan - English (Great Britain)",
-      "language": "en-GB",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
-      "label": "George (UK)",
-      "name": "Microsoft George - English (Great Britain)",
-      "language": "en-GB",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Windows"
-      ]
-    },
-    {
       "label": "US female voice 1",
       "name": "Chrome OS US English 1",
       "language": "en-US",
@@ -667,7 +714,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US female voice 2",
@@ -678,7 +726,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US female voice 3",
@@ -689,7 +738,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US female voice 4",
@@ -700,7 +750,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US female voice 5",
@@ -711,7 +762,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US male voice 1",
@@ -722,7 +774,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US male voice 2",
@@ -733,7 +786,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US male voice 3",
@@ -744,7 +798,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK female voice 1",
@@ -755,7 +810,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK female voice 2",
@@ -766,7 +822,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK female voice 3",
@@ -777,7 +834,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK female voice 4",
@@ -788,7 +846,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK male voice 1",
@@ -799,7 +858,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK male voice 2",
@@ -810,7 +870,8 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "UK male voice 3",
@@ -821,11 +882,13 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ]
+      ],
+      "default": true
     },
     {
       "label": "US voice",
       "name": "english United-States",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "en-US",
       "rate": 1,
       "pitch": 1,
@@ -837,6 +900,7 @@
     {
       "label": "UK voice",
       "name": "english Great Britain",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "en-GB",
       "rate": 1,
       "pitch": 1,
