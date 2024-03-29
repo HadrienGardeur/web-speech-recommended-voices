@@ -87,7 +87,7 @@
               ]
             }
           },
-          "default": {
+          "preloaded": {
             "type": "boolean",
             "default": false
           }
