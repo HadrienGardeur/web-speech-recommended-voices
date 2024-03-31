@@ -41,7 +41,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Ana (US)",
@@ -54,7 +55,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Guy (US)",
@@ -81,7 +83,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Steffan (US)",
@@ -93,7 +96,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Christopher (US)",
@@ -105,7 +109,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Roger (US)",
@@ -117,7 +122,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Sonia (UK)",
@@ -144,7 +150,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Maisie (UK)",
@@ -157,7 +164,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Ryan (UK)",
@@ -184,7 +192,8 @@
       "pitch": 1,
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Ava (US)",
