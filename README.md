@@ -38,4 +38,44 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Notes
 
-TBD
+### General
+
+* The Web Speech API returns the following fields through the `getVoices()` method: `name`, `voiceURI`, `lang`, `localService` and `default`.
+* While `voiceURI` should be the most consistent way of identifying a voice in theory, in practice this couldn't be further from the truth. Most browsers use the same value than `name` for `voiceURI` and do not enforce uniqueness, while Firefox goes into a completely different direction.
+* As we'll see in notes for specific browsers/OS, `name` is also inconsistently implemented and can return different values for the same voice on the same device.
+* `localService` indicates if a voice is available for offline use and it seems to be working as expected, which is why the current list of recommended voices doesn't contain that information.
+* `lang` seems to be surprisingly reliable across implementations, always returning a language using BCP 47 language tags, with the main language in downcase and the subtag in uppercase (`pt-BR`).
+* `default` is meant to indicate if a voice is the default voice for the current app language. In theory this should be extremely useful, but in practice it's really hard to use due to inconsistencies across implementations, limited context (system default vs user default) and the lack of capability for setting a default voice per language.
+* In addition to the use of `default`, implementers should always consider using the `Accept-Language` HTTP header as well, as it contains an ordered list of preferred language/region for a given user.
+
+### Android
+
+* For now, we've only covered testing and documentation on vanilla versions of Android, as available on Google Pixel devices. The list of voices available may vary greatly based on OEM, device and Android version.
+* Due to the nature of Android, documenting all these variations will be very difficult. Further attempts will be made in future version of this project through the use of device farms.
+* In recent versions of vanilla Android, there's an excellent selection of high quality voices which cover a wide range of languages/regions.
+* To use these voices, the user needs to go fairly deep in system settings either to download them (only your system language and some of the most popular languages are pre-loaded by default) or select their preferred voice per language/region.
+* Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions.
+* Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API.
+* If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead.
+* Even if a voice pack has been installed, the user may need to select a default voice for each region as well. For example, on a device where both `fr-FR` and `fr-CA` have been installed, TTS may default to `fr-FR` when `fr-CA` is selected when there isn't a default voice selected for French Canadian.
+* With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default`.
+
+### Chrome Desktop
+
+* On desktop, Chrome comes pre-loaded with a limited selection of 19 high quality voices.
+* All of these voices rely on Machine Learning (ML) and therefore require online access to use them.
+* Unfortunately, these voices are also plagued by a bug if any utterance (sentence) read by the Web Speech API takes longer than 14 seconds. Playback is stopped after this duration, without any feedback from the Web Speech API to indicate that [the playback has been stopped due to an error](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/error_event).
+* This bug has remained unaddressed for many years now, but there's a workaround available to implementers where the playback is paused/resumed every 14 seconds.
+* Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
+
+### Edge
+
+* On desktop, Edge provides the best selection of high quality voices with over 250 pre-loaded voices for a wide range of languages/regions.
+* All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
+* On mobile, Edge isn't nearly as interesting: 
+  * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
+  * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
+
+### Safari
+
+* All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default.
