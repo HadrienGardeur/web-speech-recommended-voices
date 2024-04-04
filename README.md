@@ -38,13 +38,20 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Notes
 
+Through the work done to document a list of recommended voices, I also ended up testing various browsers/OS to see how they behave. This section is meant to summarize some of this information.
+
+[A dedicated label is also available](https://github.com/HadrienGardeur/TTS-recommended-voices/issues?q=is%3Aissue+is%3Aopen+label%3Aexternal-issue) to track external issues reported to Apple, Google, Microsoft or Mozilla.
+
 ### General
 
 * The Web Speech API returns the following fields through the `getVoices()` method: `name`, `voiceURI`, `lang`, `localService` and `default`.
 * While `voiceURI` should be the most consistent way of identifying a voice in theory, in practice this couldn't be further from the truth. Most browsers use the same value than `name` for `voiceURI` and do not enforce uniqueness, while Firefox goes into a completely different direction.
 * As we'll see in notes for specific browsers/OS, `name` is also inconsistently implemented and can return different values for the same voice on the same device.
 * `localService` indicates if a voice is available for offline use and it seems to be working as expected, which is why the current list of recommended voices doesn't contain that information.
-* `lang` seems to be surprisingly reliable across implementations, always returning a language using BCP 47 language tags, with the main language in downcase and the subtag in uppercase (`pt-BR`).
+* `lang` seems to be mostly reliable across implementations, returning a language using BCP 47 language tags, with the main language in downcase and the subtag in uppercase (`pt-BR`).
+* There are unfortunately a few outliers:
+	* On Android, Samsung and Chrome use an underscore as the separator instead (`en_us`)
+	* While Firefox on Android gets even more creative, using three letter codes for languages and adding an extra string at the end (`eng-US-f000`)
 * `default` is meant to indicate if a voice is the default voice for the current app language. In theory this should be extremely useful, but in practice it's really hard to use due to inconsistencies across implementations, limited context (system default vs user default) and the lack of capability for setting a default voice per language.
 * In addition to the use of `default`, implementers should always consider using the `Accept-Language` HTTP header as well, as it contains an ordered list of preferred language/region for a given user.
 
@@ -57,15 +64,16 @@ With its focus on voice selection, the goal of this project is to document highe
 * Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions.
 * Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API.
 * If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead.
-* Even if a voice pack has been installed, the user may need to select a default voice for each region as well. For example, on a device where both `fr-FR` and `fr-CA` have been installed, TTS may default to `fr-FR` when `fr-CA` is selected when there isn't a default voice selected for French Canadian.
+* Even when a voice pack has been installed, the user may need to select a default voice for each region before a language/region can be used at all. 
+* For example, on a device where both `fr-FR` (French from France) and `fr-CA` (French Canadian) voice packs have been installed, TTS may still default to `fr-FR` if `fr-CA` doesn't have a default voice selected.
 * With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default`.
 
 ### Chrome Desktop
 
 * On desktop, Chrome comes pre-loaded with a limited selection of 19 high quality voices.
 * All of these voices rely on Machine Learning (ML) and therefore require online access to use them.
-* Unfortunately, these voices are also plagued by a bug if any utterance (sentence) read by the Web Speech API takes longer than 14 seconds. Playback is stopped after this duration, without any feedback from the Web Speech API to indicate that [the playback has been stopped due to an error](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/error_event).
-* This bug has remained unaddressed for many years now, but there's a workaround available to implementers where the playback is paused/resumed every 14 seconds.
+* Unfortunately, these voices are also plagued by a [bug](https://github.com/HadrienGardeur/TTS-recommended-voices/issues/3) if any utterance read by the Web Speech API takes longer than 14 seconds. Playback is stopped after this duration, without any feedback from the Web Speech API to indicate that [the playback has been stopped due to an error](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/error_event).
+* This bug has remained unaddressed for many years now, but [there's a workaround available](https://stackoverflow.com/a/48044163) to implementers where the playback is paused/resumed every 14 seconds.
 * Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
 
 ### Edge
@@ -76,6 +84,41 @@ With its focus on voice selection, the goal of this project is to document highe
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
 
+### iOS and iPadOS
+
+* Both OS come with the same set of pre-loaded voices and downloadable voices than macOS.
+* For an unknown reason, some pre-loaded voices are also listed twice but provide the same audio output.
+* Settings seem to hint at the ability to define a default voice per language (which would be excellent) but this is ruined by the fact that Safari marks all voices as being the default one.
+* All browsers need to run on the system webview which means that they're just a shell on top of Safari Mobile rather than truly different browsers.
+* This situation could change due to the Digital Market Act in Europe, forcing Apple to change its policy on third-party browsers and webviews.
+
+### macOS
+
+* macOS provides an extensive list of voices across 45 languages, both pre-loaded or downloadable.
+* The highest quality voices are probably the ones available for Siri, but they're unfortunately unavailable through the Web Speech API.
+* At the other end of the spectrum, Apple had the unfortunate idea of pre-loading a large range of low quality and weird voices such as the Eloquence (8 voices) and Effects (15 voices) voice packs.
+* The existence of these voices alone is a good reason to filter voices available to macOS users and highlight the ones recommended on this repo.
+* Unlike other platforms/OS, macOS decided to localize voice names. This wouldn't be an issue if `voiceURI` could be used as a reliable identifier for voices, but that's not the case.
+* The way voice names are localized is very inconsistent across browsers:
+	* some pre-loaded voices are simply displayed using a first name ("Thomas")
+	* but if you install a higher quality version, you end up with something different:
+		* on Safari, the lower and higher quality versions are simply displayed usting the first name twice
+		* on newer versions of Chrome and Edge, both voice names become "First name (language (country)" where the language and the country are localized based on system settings
+		* while on Firefox (and older versions of Chrome/edge), only the higher quality versions of the voice name changes to "First name (quality)" where quality is also localized based on system settings
+	* downloaded voices also end up with the same inconsistent naming/localization
+* This approach makes it very difficult to identify voices on macOS and adds a lot of complexity to this project. Without this issue on macOS, there wouldn't be a need to document alternate names.
+* Even with alternate names, this can be partially hit and miss due to these inconsistencies:
+	* in French the medium quality voices are labeled as "premium" while this refers to the highest quality voices in English
+	* in its current state, this repo only documents localizations for five languages
+
 ### Safari
 
+* For better or for worse, Safari's behaviour is mostly consistent between its desktop and mobile versions.
 * All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default.
+* Downloadable voices (all platforms) or higher quality variants of pre-loaded voices (mobile) do not show up in the list returned by the Web Speech API, making them unusable outside of native apps.
+
+## Windows
+
+* [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices.
+* Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded.
+* Microsoft has been slow to add these natural voices to Windows 11 overall. Until fairly recently, only US voices (3 voices) were available. The list is now a little longer (23 voices) but remains far behind what they offer through Edge (250+ voices).
