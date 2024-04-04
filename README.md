@@ -1,6 +1,6 @@
-# Recommended voices for Text-to-Speech (TTS) on the Web
+# Recommended voices for the Web Speech API
 
-> [This repository is part of a larger project](https://github.com/HadrienGardeur/TTS-best-practices), meant to identify best practices for implementing TTS support in reading apps on all platforms. 
+> [This repository is part of a larger project](https://github.com/HadrienGardeur/TTS-best-practices), meant to identify best practices for implementing a read aloud feature in reading apps, using Text-to-Speech (TTS) technologies. 
 
 With hundreds of voices available by default across various browsers and OS, it can be tricky for developers to provide sensible defaults and a curated list of voices.
 
