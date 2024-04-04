@@ -45,7 +45,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### General
 
 * The Web Speech API returns the following fields through the `getVoices()` method: `name`, `voiceURI`, `lang`, `localService` and `default`.
-* While `voiceURI` should be the most consistent way of identifying a voice in theory, in practice this couldn't be further from the truth. Most browsers use the same value than `name` for `voiceURI` and do not enforce uniqueness, while Firefox goes into a completely different direction.
+* While `voiceURI` should be the most consistent way of identifying a voice in theory, in practice this couldn't be further from the truth. Most browsers use the same value than `name` for `voiceURI` and do not enforce uniqueness.
 * As we'll see in notes for specific browsers/OS, `name` is also inconsistently implemented and can return different values for the same voice on the same device.
 * `localService` indicates if a voice is available for offline use and it seems to be working as expected, which is why the current list of recommended voices doesn't contain that information.
 * `lang` seems to be mostly reliable across implementations, returning a language using BCP 47 language tags, with the main language in downcase and the subtag in uppercase (`pt-BR`).
@@ -84,9 +84,18 @@ Through the work done to document a list of recommended voices, I also ended up 
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
 
+  
+### Firefox
+
+* On desktop, Firefox seems fairly straightforward when it comes to voice selection.
+* Unlike Chrome and Edge, Firefox doesn't come with any pre-loaded voice of its own.
+* Firefox has a different approach for `voiceURI` where each voice is truly identified by a unique URN.
+* Since this is unique to Firefox, the current JSON files do not document these URI yet, but this could be a future addition.
+* On macOS, Firefox requires a full system reboot for new voices to show up in the list.
+
 ### iOS and iPadOS
 
-* Both OS come with the same set of pre-loaded voices and downloadable voices than macOS.
+* Both OS come with the same set of pre-loaded voices and downloadable voices than macOS. [Read the macOS section](#macOS) below for additional information about the voices available.
 * For an unknown reason, some pre-loaded voices are also listed twice but provide the same audio output.
 * Settings seem to hint at the ability to define a default voice per language (which would be excellent) but this is ruined by the fact that Safari marks all voices as being the default one.
 * All browsers need to run on the system webview which means that they're just a shell on top of Safari Mobile rather than truly different browsers.
@@ -95,21 +104,23 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### macOS
 
 * macOS provides an extensive list of voices across 45 languages, both pre-loaded or downloadable.
+* These voices can have up to three different variants, based on the quality of the output (and download size).
 * The highest quality voices are probably the ones available for Siri, but they're unfortunately unavailable through the Web Speech API.
 * At the other end of the spectrum, Apple had the unfortunate idea of pre-loading a large range of low quality and weird voices such as the Eloquence (8 voices) and Effects (15 voices) voice packs.
 * The existence of these voices alone is a good reason to filter voices available to macOS users and highlight the ones recommended on this repo.
 * Unlike other platforms/OS, macOS decided to localize voice names. This wouldn't be an issue if `voiceURI` could be used as a reliable identifier for voices, but that's not the case.
-* The way voice names are localized is very inconsistent across browsers:
-	* some pre-loaded voices are simply displayed using a first name ("Thomas")
-	* but if you install a higher quality version, you end up with something different:
-		* on Safari, the lower and higher quality versions are simply displayed usting the first name twice
-		* on newer versions of Chrome and Edge, both voice names become "First name (language (country)" where the language and the country are localized based on system settings
-		* while on Firefox (and older versions of Chrome/edge), only the higher quality versions of the voice name changes to "First name (quality)" where quality is also localized based on system settings
-	* downloaded voices also end up with the same inconsistent naming/localization
+* The way voice names are localized is quite inconsistent across browsers:
+	* Some pre-loaded voices are simply displayed using a first name ("Thomas")
+	* But if you install a higher quality version, you end up with something different:
+		* On Safari, the lower and higher quality versions are simply displayed usting the first name twice
+		* On newer versions of Chrome and Edge, both voice names become "First name (language (country)" where the language and the country are localized based on system settings, but all options seem to use the highest quality available
+		* While on Firefox (and older versions of Chrome/edge), only the higher quality versions of the voice name change to "First name (quality)" where quality is also localized based on system settings
+	* Downloaded voices also end up with the same inconsistent naming/localization issues.
 * This approach makes it very difficult to identify voices on macOS and adds a lot of complexity to this project. Without this issue on macOS, there wouldn't be a need to document alternate names.
 * Even with alternate names, this can be partially hit and miss due to these inconsistencies:
-	* in French the medium quality voices are labeled as "premium" while this refers to the highest quality voices in English
-	* in its current state, this repo only documents localizations for five languages
+	* In French the medium quality voices are labeled as "premium" while this refers to the highest quality voices in English.
+	* In its current state, this repo only documents localizations for 4 languages and not all 45 languages supported by the macOS TTS engine.
+* Future revisions might tweak the JSON files for recommended voices to provide a fallback for detecting voices in all languages.
 
 ### Safari
 
