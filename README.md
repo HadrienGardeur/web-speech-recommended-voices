@@ -1,6 +1,6 @@
 # Recommended voices for the Web Speech API
 
-> [This repository is part of a larger project](https://github.com/HadrienGardeur/TTS-best-practices), meant to identify best practices for implementing a read aloud feature in reading apps, using Text-to-Speech (TTS) technologies. 
+> [This repository is part of a larger project](https://github.com/HadrienGardeur/TTS-best-practices), meant to identify best practices for implementing a read aloud feature in reading apps.
 
 With hundreds of voices available by default across various browsers and OS, it can be tricky for developers to provide sensible defaults and a curated list of voices.
 
@@ -26,13 +26,13 @@ With its focus on voice selection, the goal of this project is to document highe
 * But each list also includes default options, to make sure that there's always something reliable to lean on.
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
 * The number of voices can look overwhelming (60+ voices in English) but in practice, just a few of them will be available to users on each of their device.
-* Whenever possible, we'll always try to include a good mix of high quality and default options for both genders.
+* Whenever possible, I will always try to include a good mix of high quality and default options for both genders.
 * Since the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
 * Regional variants are also grouped together in a single list rather than separated in their own files on purpose. On some devices, only two or three voices might be available and separating regional variants wouldn't make much sense.
-* But regional variants have to be prioritized somehow in the list. For now, the regions with the best selections of voices are listed above, but we highly recommend implementers to consider the user's preference when selecting a default voice.
+* But regional variants have to be prioritized somehow in the list. For now, the regions with the best selections of voices are listed above, but it is highly recommended to implementers [to consider the user's regional preferences](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/languages).
 * The voice names returned by the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) are hardly user-friendly, which is the reason why this list provides alternate ones that usually include a first name (or a gender) along with the region associated to the voice.
 
-## Voice list as JSON
+## Syntax
 
 > This README will provide a detailed description of each property in a future revision, but for now it's limited to a [JSON Schema](voices.schema.json) that can be used for validation.
 
@@ -80,6 +80,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * On desktop, Edge provides the best selection of high quality voices with over 250 pre-loaded voices for a wide range of languages/regions.
 * All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
+* On macOS at least, there's a weird bug where Edge only displays 18 natural voices initially, but this extends to 250+ once Web Speech API has been used to output an utterance.
 * On mobile, Edge isn't nearly as interesting: 
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
