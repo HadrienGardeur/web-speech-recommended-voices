@@ -9,7 +9,7 @@ With its focus on voice selection, the goal of this project is to document highe
 ## Initial list of supported languages
 
 * [English](json/en.json) (`en-us` and `en-gb`)
-* French (`fr-fr` and `fr-ca`)
+* [French](json/fr.json) (All available regions)
 * Italian (`it-it`)
 * Spanish (`es-es` and `es-mx`)
 
@@ -80,6 +80,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * On desktop, Edge provides the best selection of high quality voices with over 250 pre-loaded voices for a wide range of languages/regions.
 * All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
+* A small number of those voices are also multi-lingual and seem to be able to detect the language of a sentence and adapt accordingly. Unfortunately, this doesn't work as well when there's a language switch in the middle of a sentence.
 * On macOS at least, there's a weird bug where Edge only displays 18 natural voices initially, but this extends to 250+ once Web Speech API has been used to output an utterance.
 * On mobile, Edge isn't nearly as interesting: 
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 

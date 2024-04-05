@@ -35,6 +35,16 @@
           "language": {
             "type": "string"
           },
+          "otherLanguages": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "multiLingual": {
+            "type": "boolean",
+            "default": false
+          },
           "gender": {
             "type": "string",
             "enum": [
