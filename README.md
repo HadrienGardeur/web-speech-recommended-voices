@@ -130,7 +130,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 * All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default.
 * Downloadable voices (all platforms) or higher quality variants of pre-loaded voices (mobile) do not show up in the list returned by the Web Speech API, making them unusable outside of native apps.
 
-## Windows
+### Windows
 
 * [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices.
 * Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded.

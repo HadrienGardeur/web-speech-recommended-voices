@@ -278,6 +278,7 @@
         "Joelle (inglés (Estados Unidos))",
         "Joelle (inglese (Stati Uniti))"
       ],
+      "overrides": "Joelle",
       "language": "en-US",
       "gender": "female",
       "children": true,
@@ -509,7 +510,8 @@
       "pitch": 1,
       "browser": [
         "ChromeDesktop"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Google female voice (UK)",
@@ -521,7 +523,8 @@
       "pitch": 1,
       "browser": [
         "ChromeDesktop"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Google male voice (UK)",
@@ -533,7 +536,8 @@
       "pitch": 1,
       "browser": [
         "ChromeDesktop"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Zira (US)",
