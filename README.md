@@ -8,7 +8,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Initial list of supported languages
 
-* [English](json/en.json) (`en-us` and `en-gb`)
+* [English](json/en.json) (`en-us`, `en-gb` and `en-ca`)
 * [French](json/fr.json) (All available regions)
 * Italian (`it-it`)
 * Spanish (`es-es` and `es-mx`)

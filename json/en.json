@@ -168,19 +168,6 @@
       "preloaded": true
     },
     {
-      "label": "Liam (US)",
-      "name": "Microsoft Liam Online (Natural) - English (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "en-CA",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Sonia (UK)",
       "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
       "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
@@ -242,6 +229,32 @@
       "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Clara (Canada)",
+      "name": "Microsoft Clara Online (Natural) - English (Canada)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Liam (Canada)",
+      "name": "Microsoft Liam Online (Natural) - English (Canada)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-CA",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
@@ -671,6 +684,32 @@
       "name": "Microsoft George - English (Great Britain)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Linda (Canada)",
+      "name": "Microsoft Linda - English (Canada)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Richard (Canada)",
+      "name": "Microsoft Richard - English (Canada)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-CA",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
