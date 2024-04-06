@@ -252,17 +252,20 @@
     },
     {
       "label": "Ava (US)",
-      "name": "Ava (Premium)",
-      "note": "Ava can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Ava",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Ava (Premium)",
         "Ava (premium)",
         "Ava (de qualité)",
+        "Ava (Enhanced)",
+        "Ava (mejorada)",
+        "Ava (ottimizzata)",
         "Ava (English (United States))",
         "Ava (anglais (États-Unis))",
         "Ava (inglés (Estados Unidos))",
         "Ava (inglese (Stati Uniti))"
       ],
-      "overrides": "Ava",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
@@ -275,17 +278,20 @@
     },
     {
       "label": "Zoe (US)",
-      "name": "Zoe (Premium)",
-      "note": "Zoe can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Zoe",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Zoe (Premium)",
         "Zoe (premium)",
         "Zoe (de qualité)",
+        "Zoe (Enhanced)",
+        "Zoe (mejorada)",
+        "Zoe (ottimizzata)",
         "Zoe (English (United States))",
         "Zoe (anglais (États-Unis))",
         "Zoe (inglés (Estados Unidos))",
         "Zoe (inglese (Stati Uniti))"
       ],
-      "overrides": "Zoe",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
@@ -298,9 +304,10 @@
     },
     {
       "label": "Allison (US)",
-      "name": "Allison (Enhanced)",
-      "note": "Allison can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Allison",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Allison (Enhanced)",
         "Allison (mejorada)",
         "Allison (premium)",
         "Allison (ottimizzata)",
@@ -309,7 +316,6 @@
         "Allison (inglés (Estados Unidos))",
         "Allison (inglese (Stati Uniti))"
       ],
-      "overrides": "Allison",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
@@ -322,9 +328,10 @@
     },
     {
       "label": "Joelle (US)",
-      "name": "Joelle (Enhanced)",
-      "note": "Joelle can be installed on all Apple devices. Unlike most other voices on Apple devices, Joelle has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Joelle",
+      "note": "This voice can be installed on all Apple devices. Unlike most other voices on Apple devices, Joelle has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Joelle (Enhanced)",
         "Joelle (mejorada)",
         "Joelle (premium)",
         "Joelle (ottimizzata)",
@@ -333,7 +340,6 @@
         "Joelle (inglés (Estados Unidos))",
         "Joelle (inglese (Stati Uniti))"
       ],
-      "overrides": "Joelle",
       "language": "en-US",
       "gender": "female",
       "children": true,
@@ -347,9 +353,10 @@
     },
     {
       "label": "Evan (US)",
-      "name": "Evan (Enhanced)",
-      "note": "Evan can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Evan",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Evan (Enhanced)",
         "Evan (mejorada)",
         "Evan (premium)",
         "Evan (ottimizzata)",
@@ -358,7 +365,6 @@
         "Evan (inglés (Estados Unidos))",
         "Evan (inglese (Stati Uniti))"
       ],
-      "overrides": "Evan",
       "language": "en-US",
       "gender": "male",
       "rate": 1,
@@ -371,9 +377,10 @@
     },
     {
       "label": "Nathan (US)",
-      "name": "Nathan (Enhanced)",
-      "note": "Nathan can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Nathan",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Nathan (Enhanced)",
         "Nathan (mejorada)",
         "Nathan (premium)",
         "Nathan (ottimizzata)",
@@ -382,7 +389,6 @@
         "Nathan (inglés (Estados Unidos))",
         "Nathan (inglese (Stati Uniti))"
       ],
-      "overrides": "Nathan",
       "language": "en-US",
       "gender": "male",
       "rate": 1,
@@ -395,9 +401,10 @@
     },
     {
       "label": "Tom (US)",
-      "name": "Tom (Enhanced)",
-      "note": "Tom can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Tom",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Tom (Enhanced)",
         "Tom (mejorada)",
         "Tom (premium)",
         "Tom (ottimizzata)",
@@ -406,7 +413,6 @@
         "Tom (inglés (Estados Unidos))",
         "Tom (inglese (Stati Uniti))"
       ],
-      "overrides": "Tom",
       "language": "en-US",
       "gender": "male",
       "rate": 1,
@@ -420,7 +426,7 @@
     {
       "label": "Alex (US)",
       "name": "Alex",
-      "note": "Alex can be installed on all Apple devices. Unlike most other voices on Apple devices, Alex has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "note": "This voice can be installed on all Apple devices. Unlike most other voices on Apple devices, Alex has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Alex (English (United States))",
         "Alex (anglais (États-Unis))",
@@ -439,9 +445,10 @@
     },
     {
       "label": "Kate (UK)",
-      "name": "Kate (Enhanced)",
-      "note": "Kate can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Kate",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Kate (Enhanced)",
         "Kate (mejorada)",
         "Kate (premium)",
         "Kate (ottimizzata)",
@@ -450,7 +457,6 @@
         "Kate (inglés (Reino Unido))",
         "Kate (inglese (Regno Unito))"
       ],
-      "overrides": "Kate",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -463,9 +469,10 @@
     },
     {
       "label": "Stephanie (UK)",
-      "name": "Stephanie (Enhanced)",
-      "note": "Stephanie can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Stephanie",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Stephanie (Enhanced)",
         "Stephanie (mejorada)",
         "Stephanie (premium)",
         "Stephanie (ottimizzata)",
@@ -474,7 +481,6 @@
         "Stephanie (inglés (Reino Unido))",
         "Stephanie (inglese (Regno Unito))"
       ],
-      "overrides": "Stephanie",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -487,9 +493,10 @@
     },
     {
       "label": "Serena (UK)",
-      "name": "Serena (Premium)",
-      "note": "Serena can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Serena",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Serena (Premium)",
         "Serena (premium)",
         "Serena (de qualité)",
         "Serena (English (United Kingdom))",
@@ -497,7 +504,6 @@
         "Serena (inglés (Reino Unido))",
         "Serena (inglese (Regno Unito))"
       ],
-      "overrides": "Serena",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -510,9 +516,10 @@
     },
     {
       "label": "Jamie (UK)",
-      "name": "Jamie (Premium)",
-      "note": "Jamie can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Jamie",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Jamie (Premium)",
         "Jamie (premium)",
         "Jamie (de qualité)",
         "Jamie (English (United Kingdom))",
@@ -533,9 +540,10 @@
     },
     {
       "label": "Oliver (UK)",
-      "name": "Oliver (Enhanced)",
-      "note": "Oliver can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "name": "Oliver",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Oliver (Enhanced)",
         "Oliver (mejorada)",
         "Oliver (premium)",
         "Oliver (ottimizzata)",
@@ -544,7 +552,6 @@
         "Oliver (inglés (Reino Unido))",
         "Oliver (inglese (Regno Unito))"
       ],
-      "overrides": "Oliver",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
