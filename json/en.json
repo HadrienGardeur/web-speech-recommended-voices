@@ -2,6 +2,20 @@
   "language": "en",
   "voices": [
     {
+      "label": "Emma (US)",
+      "name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "multiLingual": true,
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Jenny (US)",
       "name": "Microsoft Jenny Online (Natural) - English (United States)",
       "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
@@ -51,6 +65,34 @@
       "language": "en-US",
       "gender": "female",
       "children": true,
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Andrew (US)",
+      "name": "Microsoft AndrewMultilingual Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "multiLingual": true,
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Brian (US)",
+      "name": "Microsoft BrianMultilingual Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-US",
+      "multiLingual": true,
+      "gender": "male",
       "rate": 1,
       "pitch": 1,
       "browser": [
@@ -117,6 +159,19 @@
       "name": "Microsoft Roger Online (Natural) - English (United States)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Liam (US)",
+      "name": "Microsoft Liam Online (Natural) - English (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-CA",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
@@ -664,6 +719,21 @@
       "preloaded": true
     },
     {
+      "label": "Samantha (US)",
+      "name": "Samantha",
+      "note": "This entry is meant to identify the pre-loaded variant of the Samantha voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 0.9,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Daniel (UK)",
       "name": "Daniel (Enhanced)",
       "note": "While this is meant to identify the highest quality variant for the Daniel voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Samantha voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
@@ -680,21 +750,6 @@
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Samantha (US)",
-      "name": "Samantha",
-      "note": "This entry is meant to identify the pre-loaded variant of the Samantha voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 0.9,
       "pitch": 1,
       "os": [
         "macOS",
