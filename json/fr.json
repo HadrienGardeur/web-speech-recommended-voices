@@ -2,6 +2,20 @@
   "language": "fr",
   "voices": [
     {
+      "label": "Vivienne (France)",
+      "name": "Microsoft VivienneMultilingual Online (Natural) - French (France)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "fr-FR",
+      "multiLingual": true,
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Denise (France)",
       "name": "Microsoft Denise Online (Natural) - French (France)",
       "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
@@ -15,20 +29,6 @@
       "browser": [
         "Edge"
       ]
-    },
-    {
-      "label": "Vivienne (France)",
-      "name": "Microsoft VivienneMultilingual Online (Natural) - French (France)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "fr-FR",
-      "multiLingual": true,
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "browser": [
-        "Edge"
-      ],
-      "preloaded": true
     },
     {
       "label": "Charline (Belgique)",
@@ -184,6 +184,128 @@
       "preloaded": true
     },
     {
+      "label": "Audrey (France)",
+      "name": "Audrey",
+      "note": "Audrey can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Audrey (de qualité)"
+        "Audrey (Premium)",
+        "Audrey (premium)",
+        "Audrey (Enhanced)",
+        "Audrey (mejorada)",
+        "Audrey (ottimizzata)",
+        "Audrey (French (France))",
+        "Audrey (français (France))",
+        "Audrey (francés (Francia))",
+        "Audrey (francese (Francia))"
+      ],
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Aurélie (France)",
+      "name": "Aurélie",
+      "note": "Aurélie can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Aurélie (premium)",
+        "Aurélie (Enhanced)",
+        "Aurélie (mejorada)",
+        "Aurélie (ottimizzata)",
+        "Aurélie (French (France))",
+        "Aurélie (français (France))",
+        "Aurélie (francés (Francia))",
+        "Aurélie (francese (Francia))"
+      ],
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Aude (Belgique)",
+      "name": "Aude",
+      "note": "Aude can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Aude (premium)",
+        "Aude (Enhanced)",
+        "Aude (mejorada)",
+        "Aude (ottimizzata)",
+        "Aude (French (France))",
+        "Aude (français (France))",
+        "Aude (francés (Francia))",
+        "Aude (francese (Francia))"
+      ],
+      "language": "fr-BE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Chantal (Canada)",
+      "name": "Chantal",
+      "note": "Chantal can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Chantal (premium)",
+        "Chantal (Enhanced)",
+        "Chantal (mejorada)",
+        "Chantal (ottimizzata)",
+        "Chantal (French (France))",
+        "Chantal (français (France))",
+        "Chantal (francés (Francia))",
+        "Chantal (francese (Francia))"
+      ],
+      "language": "fr-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Nicolas (Canada)",
+      "name": "Nicolas",
+      "note": "Nicolas can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Nicolas (premium)",
+        "Nicolas (Enhanced)",
+        "Nicolas (mejorada)",
+        "Nicolas (ottimizzata)",
+        "Nicolas (French (France))",
+        "Nicolas (français (France))",
+        "Nicolas (francés (Francia))",
+        "Nicolas (francese (Francia))"
+      ],
+      "language": "fr-CA",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Voix Google féminine (France)",
       "name": "Google français",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
@@ -236,7 +358,7 @@
       "preloaded": true
     },
     {
-      "label": "Caroline (France)",
+      "label": "Caroline (Canada)",
       "name": "Microsoft Caroline - French (Canada)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-CA",
@@ -249,7 +371,7 @@
       "preloaded": true
     },
     {
-      "label": "Claude (France)",
+      "label": "Claude (Canada)",
       "name": "Microsoft Claude - French (Canada)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-CA",
@@ -263,8 +385,32 @@
     },
     {
       "label": "Thomas (France)",
+      "name": "Thomas (premium)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Thomas (Enhanced)",
+        "Thomas (mejorada)",
+        "Thomas (ottimizzata)",
+        "Thomas (French (France))",
+        "Thomas (français (France))",
+        "Thomas (francés (Francia))",
+        "Thomas (francese (Francia))"
+      ],
+      "overrides": "Thomas",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Thomas (France)",
       "name": "Thomas",
-      "note": "This entry is meant to identify the pre-loaded variant of the Thomas voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,
@@ -278,8 +424,17 @@
     },
     {
       "label": "Amélie (Canada)",
-      "name": "Amélie",
-      "note": "This entry is meant to identify the pre-loaded variant of the Amélie voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "name": "Amélie (de qualité)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Amélie (premium)",
+        "Amélie (Premium)",
+        "Amélie (French (France))",
+        "Amélie (français (France))",
+        "Amélie (francés (Francia))",
+        "Amélie (francese (Francia))"
+      ],
+      "overrides": "Amélie",
       "language": "fr-CA",
       "gender": "female",
       "rate": 1,
@@ -288,6 +443,189 @@
         "macOS",
         "iOS",
         "iPadOS"
+      ]
+    },
+    {
+      "label": "Amélie (Canada)",
+      "name": "Amélie",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "fr-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 1 (France)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 2 (France)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 3 (France)",
+      "name": "Chrome OS français 1",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 4 (France)",
+      "name": "Chrome OS français 2",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 5 (France)",
+      "name": "Chrome OS français 4",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 1 (France)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 2 (France)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 3 (France)",
+      "name": "Chrome OS français 3",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 4 (France)",
+      "name": "Chrome OS français 5",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 1 (Canada)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 2 (Canada)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cac-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 1 (Canada)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cab-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-CA",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix masculine 2 (Canada)",
+      "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cad-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "fr-CA",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
       ],
       "preloaded": true
     },
