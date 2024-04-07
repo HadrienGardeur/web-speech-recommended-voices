@@ -82,7 +82,7 @@ For those voices, at least a portion of the string is often localized, naming is
 
 Because of Apple, the recommended list can also contain the following properties:
 
-	- `altNames` which contains an array of strings for alternate names for a given voice
+- `altNames` which contains an array of strings for alternate names for a given voice
 - and `overrides` which is strictly used with pre-loaded voices, allowing implementers to hide the default version, when a higher quality variant is available
  
 **Example 3: Alternate version of an Apple pre-loaded voice**
