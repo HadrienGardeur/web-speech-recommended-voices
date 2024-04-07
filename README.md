@@ -10,7 +10,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 * [English](json/en.json) (`en-us`, `en-gb` and `en-ca`)
 * [French](json/fr.json) (All available regions)
-* Italian (`it-it`)
+* [Italian](json/it.json)
 * Spanish (`es-es` and `es-mx`)
 
 ## Use cases
@@ -25,7 +25,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * Each voice list is ordered and meant to provide an optimal listening experience on all browsers/OS/languages covered by this project.
 * But each list also includes default options, to make sure that there's always something reliable to lean on.
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
-* The number of voices can look overwhelming (60+ voices in English) but in practice, just a few of them will be available to users on each of their device.
+* The number of voices can look overwhelming (70+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
 * Whenever possible, I will always try to include a good mix of high quality and default options for both genders.
 * Since the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
 * Regional variants are also grouped together in a single list rather than separated in their own files on purpose. On some devices, only two or three voices might be available and separating regional variants wouldn't make much sense.
@@ -34,7 +34,110 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Syntax
 
-> This README will provide a detailed description of each property in a future revision, but for now it's limited to a [JSON Schema](voices.schema.json) that can be used for validation.
+[A JSON Schema](voices.schema.json) is available for validation or potential contributors interested in opening a PR for new languages or voice additions.
+
+### Label
+
+`label` is required for each recommended voice. 
+
+This string is localized for the target language and usually contains the following information:
+
+* Fist name (if available)
+* Gender (when the first name is missing)
+* Country/region
+
+*Example 1: Microsoft Natural voices*
+
+While the names documented by Microsoft for their natural voices are easily understandable, they tend to be very long and they're all localized in English.
+
+```json
+{
+  "label": "Emma (US)",
+  "name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+  "language": "en-US"
+}
+```
+
+*Example 2: Chrome OS voices*
+
+ChromeO S provides a number of high quality voices through its Android subsystems, but they come with some of the worst names possibles for an end-user.
+
+```json
+{
+  "label": "Female voice 1 (US)",
+  "name": "Android Speech Recognition and Synthesis from Google en-us-x-tpc-network",
+  "language": "en-US"
+}
+```
+
+### Names
+
+`name` is required for each recommended voice.
+
+Names are mostly stable across browsers, which means that for most voices, a single string is sufficient.
+
+But there's unfortunately one notable outlier: macOS, iOS and iPadOS voices.
+
+For those voices, at least a portion of the string is often localized, naming is inconsistent across browsers and they can change depending on the number of variants installed.
+
+Because of Apple, the recommended list can also contain the following properties:
+
+- `altNames` which contains an array of strings for alternate names for a given coice
+- and `overrides` which is strictly used with pre-loaded voices, allowing implementers to hide the default version, when a higher quality variant is available
+ 
+*Example 3: Alternate version of an Apple pre-loaded voice*
+
+```json
+{
+  "label": "Samantha (US)",
+  "name": "Samantha (Enhanced)",
+  "altNames": [
+    "Samantha (mejorada)",
+    "Samantha (premium)",
+    "Samantha (ottimizzata)",
+    "Samantha (English (United States))",
+    "Samantha (anglais (États-Unis))",
+    "Samantha (inglés (Estados Unidos))",
+    "Samantha (inglese (Stati Uniti))"
+  ],
+  "overrides": "Samantha",
+  "language": "en-US"
+}
+```
+
+### Languages
+
+`language` is required for each recommended voice.
+
+It contains a BCP 47 where a downcase two-letter language code is followed by an uppercase three-letter country code.
+
+The language and country codes are separated using a hyphen (-).
+
+Some brand new voices from Microsoft are also capable of a multi-lingual output. The language switch isn't supported in the middle of a sentence, but the output seems capable of auto-detecting the language of each sentence and adopt itself accordingly.
+
+In order to support this, the output might automatically switch to a different voice in the process.
+
+These voices are identified using the `multiLingual` boolean.
+
+*Example 4: Multi-lingual output*
+
+```json
+{
+  "label": "Emma (US)",
+  "name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+  "language": "en-US",
+  "multiLingual": true
+}
+```
+
+
+### Gender and children voices
+
+…
+
+### OS and browser
+
+…
 
 ## Notes
 
