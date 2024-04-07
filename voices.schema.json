@@ -15,10 +15,12 @@
         "additionalProperties": false,
         "properties": {
           "label": {
-            "type": "string"
+            "type": "string",
+            "description": "Provides a human-friendly label for each voice."
           },
           "name": {
-            "type": "string"
+            "type": "string",
+            "description": "Identifies voices, as returned by the Web Speech API."
           },
           "note": {
             "type": "string"
@@ -26,14 +28,17 @@
           "altNames": {
             "type": "array",
             "items": {
-              "type": "string"
+              "type": "string",
+              "description": "Alternate names for a given voice. Only useful for Apple voices."
             }
           },
           "overrides": {
-            "type": "string"
+            "type": "string",
+            "description": "Identifies the lower-quality variant of a given voice. Only useful for Apple voices."
           },
           "language": {
-            "type": "string"
+            "type": "string",
+            "description": "BCP-47 language tag that identifies the language of a voice."
           },
           "otherLanguages": {
             "type": "array",
@@ -43,10 +48,12 @@
           },
           "multiLingual": {
             "type": "boolean",
+            "description": "Identifies voices that are capable of handling multiple languages, even if it means that the voice itself will change. Only available on Microsoft Natural voices for now.",
             "default": false
           },
           "gender": {
             "type": "string",
+            "description": "Identifies the gender of a voice.",
             "enum": [
               "nonbinary",
               "female",
@@ -55,6 +62,7 @@
           },
           "children": {
             "type": "boolean",
+            "description": "Indicates if the voice is a children voice.",
             "default": false
           },
           "rate": {
@@ -71,6 +79,7 @@
           },
           "os": {
             "type": "array",
+            "description": "List of operating systems in which a voice is available.",
             "minItems": 1,
             "items": {
               "type": "string",
@@ -86,6 +95,7 @@
           },
           "browser": {
             "type": "array",
+            "description": "List of Web browsers in which a voice is available.",
             "minItems": 1,
             "items": {
               "type": "string",
@@ -99,6 +109,7 @@
           },
           "preloaded": {
             "type": "boolean",
+            "description": "Indicates that a voice is preloaded in all OS and browsers that have been identified.",
             "default": false
           }
         },

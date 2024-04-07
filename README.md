@@ -38,29 +38,29 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ### Label
 
-`label` is required for each recommended voice. 
+`label` is required for each recommended voice and provides a human-friendly label for each voice.
 
 This string is localized for the target language and usually contains the following information:
 
-* Fist name (if available)
+* First name (if available)
 * Gender (when the first name is missing)
 * Country/region
 
-*Example 1: Microsoft Natural voices*
+**Example 1: Microsoft Natural voices**
 
 While the names documented by Microsoft for their natural voices are easily understandable, they tend to be very long and they're all localized in English.
 
 ```json
 {
-  "label": "Emma (US)",
-  "name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
-  "language": "en-US"
+  "label": "Isabella (Italia)",
+  "name": "Microsoft Isabella Online (Natural) - Italian (Italy)",    
+  "language": "it-IT"
 }
 ```
 
-*Example 2: Chrome OS voices*
+**Example 2: Chrome OS voices**
 
-ChromeO S provides a number of high quality voices through its Android subsystems, but they come with some of the worst names possibles for an end-user.
+Chrome OS provides a number of high quality voices through its Android subsystems, but they come with some of the worst names possibles for an end-user.
 
 ```json
 {
@@ -72,7 +72,7 @@ ChromeO S provides a number of high quality voices through its Android subsystem
 
 ### Names
 
-`name` is required for each recommended voice.
+`name` is required for each recommended voice and identifies voices, as returned by the Web Speech API.
 
 Names are mostly stable across browsers, which means that for most voices, a single string is sufficient.
 
@@ -82,10 +82,10 @@ For those voices, at least a portion of the string is often localized, naming is
 
 Because of Apple, the recommended list can also contain the following properties:
 
-- `altNames` which contains an array of strings for alternate names for a given coice
+	- `altNames` which contains an array of strings for alternate names for a given voice
 - and `overrides` which is strictly used with pre-loaded voices, allowing implementers to hide the default version, when a higher quality variant is available
  
-*Example 3: Alternate version of an Apple pre-loaded voice*
+**Example 3: Alternate version of an Apple pre-loaded voice**
 
 ```json
 {
@@ -113,13 +113,13 @@ It contains a BCP 47 where a downcase two-letter language code is followed by an
 
 The language and country codes are separated using a hyphen (-).
 
-Some brand new voices from Microsoft are also capable of a multi-lingual output. The language switch isn't supported in the middle of a sentence, but the output seems capable of auto-detecting the language of each sentence and adopt itself accordingly.
+Some brand new voices from Microsoft are also capable of a multilingual output. The language switch isn't supported in the middle of a sentence, but the output seems capable of auto-detecting the language of each sentence and adopt itself accordingly.
 
 In order to support this, the output might automatically switch to a different voice in the process.
 
 These voices are identified using the `multiLingual` boolean.
 
-*Example 4: Multi-lingual output*
+**Example 4: Voice with a multilingual output**
 
 ```json
 {
@@ -130,14 +130,67 @@ These voices are identified using the `multiLingual` boolean.
 }
 ```
 
-
 ### Gender and children voices
 
-…
+`gender` is an optional property for each voice, that documents the gender associated to each voice.
+
+The following values are supported: `female`, `male` or `nonbinary`.
+
+`children` is also optional and identifies if children voices using a boolean.
+
+**Example 5: Female children voice**
+
+```json
+{
+  "label": "Ana (US)",
+  "name": "Microsoft Ana Online (Natural) - English (United States)",
+  "language": "en-US",
+  "gender": "female",
+  "children": true
+}
+```
 
 ### OS and browser
 
-…
+Both `os` and `browser` are optional properties. It indicates in which operating systems and browsers a voice is available.
+
+These two properties are meant to be interpreted separately and not as a combination.
+
+**Example 6: A Microsoft voice available in both Edge and Windows**
+
+```json
+  "label": "Denise (France)",
+  "name": "Microsoft Denise Online (Natural) - French (France)",
+  "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+  "language": "fr-FR",
+  "gender": "female",
+  "os": [
+    "Windows"
+  ],
+  "browser": [
+    "Edge"
+  ]
+}
+```
+
+In addition, `preloaded` indicates if the voice is preloaded in all the OS and browsers that have been identified. 
+
+With the current approach, it's not possible to indicate that a voice is available on Chrome and Windows, but requires a download on Windows for example.
+
+**Example 7: A Google voice preloaded in Chrome Desktop**
+
+```json
+{
+  "label": "Google female voice (UK)",
+  "name": "Google UK English Female",
+  "language": "en-GB",
+  "gender": "female",
+  "browser": [
+    "ChromeDesktop"
+  ],
+  "preloaded": true
+}
+```
 
 ## Notes
 
@@ -183,12 +236,11 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * On desktop, Edge provides the best selection of high quality voices with over 250 pre-loaded voices for a wide range of languages/regions.
 * All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
-* A small number of those voices are also multi-lingual and seem to be able to detect the language of a sentence and adapt accordingly. Unfortunately, this doesn't work as well when there's a language switch in the middle of a sentence.
+* A small number of those voices are also multilingual and seem to be able to detect the language of a sentence and adapt accordingly. Unfortunately, this doesn't work as well when there's a language switch in the middle of a sentence.
 * On macOS at least, there's a weird bug where Edge only displays 18 natural voices initially, but this extends to 250+ once Web Speech API has been used to output an utterance.
 * On mobile, Edge isn't nearly as interesting: 
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
-
   
 ### Firefox
 
