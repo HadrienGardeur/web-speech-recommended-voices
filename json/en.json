@@ -340,6 +340,30 @@
       ]
     },
     {
+      "label": "Samantha (US)",
+      "name": "Samantha (Enhanced)",
+      "note": "While this is meant to identify the highest quality variant for the Samantha voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Samantha voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Samantha (mejorada)",
+        "Samantha (premium)",
+        "Samantha (ottimizzata)",
+        "Samantha (English (United States))",
+        "Samantha (anglais (États-Unis))",
+        "Samantha (inglés (Estados Unidos))",
+        "Samantha (inglese (Stati Uniti))"
+      ],
+      "overrides": "Samantha",
+      "language": "en-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Joelle (US)",
       "name": "Joelle",
       "note": "This voice can be installed on all Apple devices. Unlike most other voices on Apple devices, Joelle has a single variant. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
@@ -576,6 +600,31 @@
       ]
     },
     {
+      "label": "Daniel (UK)",
+      "name": "Daniel (Enhanced)",
+      "note": "While this is meant to identify the highest quality variant for the Daniel voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Daniel voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Daniel (mejorada)",
+        "Daniel (premium)",
+        "Daniel (ottimizzata)",
+        "Daniel (English (United Kingdom))",
+        "Daniel (anglais (Royaume-Uni))",
+        "Daniel (inglés (Reino Unido))",
+        "Daniel (inglese (Regno Unito))"
+      ],
+      "overrides": "Daniel",
+      "language": "en-GB",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Google female voice (US)",
       "name": "Google US English",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
@@ -719,52 +768,6 @@
       "preloaded": true
     },
     {
-      "label": "Nicky (US)",
-      "name": "Nicky",
-      "note": "Nicky is missing the usual info about voice quality in its name, which means that we can't identify its variants. For this reason, this voice is listed lower than other high quality voices available for Apple devices. That said, Nicky is probably the best pre-loaded voice on Apple devices.",
-      "altNames": [
-        "Nicky (English (United States))",
-        "Nicky (anglais (États-Unis))",
-        "Nicky (inglés (Estados Unidos))",
-        "Nicky (inglese (Stati Uniti))"
-      ],
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Samantha (US)",
-      "name": "Samantha (Enhanced)",
-      "note": "While this is meant to identify the highest quality variant for the Samantha voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Samantha voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Samantha (mejorada)",
-        "Samantha (premium)",
-        "Samantha (ottimizzata)",
-        "Samantha (English (United States))",
-        "Samantha (anglais (États-Unis))",
-        "Samantha (inglés (Estados Unidos))",
-        "Samantha (inglese (Stati Uniti))"
-      ],
-      "overrides": "Samantha",
-      "language": "en-US",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Samantha (US)",
       "name": "Samantha",
       "note": "This entry is meant to identify the pre-loaded variant of the Samantha voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
@@ -780,21 +783,17 @@
       "preloaded": true
     },
     {
-      "label": "Daniel (UK)",
-      "name": "Daniel (Enhanced)",
-      "note": "While this is meant to identify the highest quality variant for the Daniel voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Daniel voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "label": "Nicky (US)",
+      "name": "Nicky",
+      "note": "Nicky is missing the usual info about voice quality in its name, which means that we can't identify its variants. For this reason, this voice is listed lower than other high quality voices available for Apple devices. That said, Nicky is probably the best pre-loaded voice on Apple devices.",
       "altNames": [
-        "Daniel (mejorada)",
-        "Daniel (premium)",
-        "Daniel (ottimizzata)",
-        "Daniel (English (United Kingdom))",
-        "Daniel (anglais (Royaume-Uni))",
-        "Daniel (inglés (Reino Unido))",
-        "Daniel (inglese (Regno Unito))"
+        "Nicky (English (United States))",
+        "Nicky (anglais (États-Unis))",
+        "Nicky (inglés (Estados Unidos))",
+        "Nicky (inglese (Stati Uniti))"
       ],
-      "overrides": "Daniel",
-      "language": "en-GB",
-      "gender": "male",
+      "language": "en-US",
+      "gender": "female",
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -1069,7 +1068,6 @@
     {
       "label": "Female voice 4 (UK)",
       "name": "Chrome OS UK English 1",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -1082,7 +1080,6 @@
     {
       "label": "Female voice 5 (UK)",
       "name": "Chrome OS UK English 3",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -1095,7 +1092,6 @@
     {
       "label": "Female voice 6 (UK)",
       "name": "Chrome OS UK English 5",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -1108,7 +1104,6 @@
     {
       "label": "Female voice 7 (UK)",
       "name": "Chrome OS UK English 7",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
@@ -1160,7 +1155,6 @@
     {
       "label": "Male voice 4 (UK)",
       "name": "Chrome OS UK English 2",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
@@ -1173,7 +1167,6 @@
     {
       "label": "Male voice 5 (UK)",
       "name": "Chrome OS UK English 4",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
@@ -1186,7 +1179,6 @@
     {
       "label": "Male voice 6 (UK)",
       "name": "Chrome OS UK English 6",
-      "note": "This pre-loaded voice on ChromeOS is available locally but isn't as high quality as some of the network-only voices available through the Android compatibility layer.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,

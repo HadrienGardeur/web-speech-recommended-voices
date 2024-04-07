@@ -1,0 +1,495 @@
+{
+  "language": "es",
+  "voices": [
+    {
+      "label": "Elvira (España)",
+      "name": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Alvaro (España)",
+      "name": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Dalia (México)",
+      "name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "es-MX",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Microsoft Jorge (México)",
+      "name": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "es-MX",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Paloma (Estados Unidos)",
+      "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-US",
+      "otherLanguages": [
+        "en"
+      ],
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Marisol (España)",
+      "name": "Marisol",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Marisol (mejorada)",
+        "Marisol (Enhanced)",
+        "Marisol (premium)",
+        "Marisol (ottimizzata)",
+        "Marisol (Spanish (Spain))",
+        "Marisol (espagnol (Espagne))",
+        "Marisol (español (España))",
+        "Marisol (spagnolo (Spagna))"
+      ],
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Mónica (España)",
+      "name": "Mónica (mejorada)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Mónica (Enhanced)",
+        "Mónica (premium)",
+        "Mónica (ottimizzata)",
+        "Mónica (Spanish (Spain))",
+        "Mónica (espagnol (Espagne))",
+        "Mónica (español (España))",
+        "Mónica (spagnolo (Spagna))"
+      ],
+      "overrides": "Mónica",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Apple Jorge (España)",
+      "name": "Jorge",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Jorge (mejorada)",
+        "Jorge (Enhanced)",
+        "Jorge (premium)",
+        "Jorge (ottimizzata)",
+        "Jorge (Spanish (Spain))",
+        "Jorge (espagnol (Espagne))",
+        "Jorge (español (España))",
+        "Jorge (spagnolo (Spagna))"
+      ],
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Angelica (México)",
+      "name": "Angelica",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Angelica (mejorada)",
+        "Angelica (Enhanced)",
+        "Angelica (premium)",
+        "Angelica (ottimizzata)",
+        "Angelica (Spanish (Mexico))",
+        "Angelica (espagnol (Mexique))",
+        "Angelica (español (México))",
+        "Angelica (spagnolo (Messico))"
+      ],
+      "language": "es-MX",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Paulina (México)",
+      "name": "Paulina (mejorada)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Paulina (Enhanced)",
+        "Paulina (premium)",
+        "Paulina (ottimizzata)",
+        "Paulina (Spanish (Mexico))",
+        "Paulina (espagnol (Mexique))",
+        "Paulina (español (México))",
+        "Paulina (spagnolo (Messico))"
+      ],
+      "overrides": "Paulina",
+      "language": "es-MX",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Juan (México)",
+      "name": "Juan",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Juan (mejorada)",
+        "Juan (Enhanced)",
+        "Juan (premium)",
+        "Juan (ottimizzata)",
+        "Juan (Spanish (Mexico))",
+        "Juan (espagnol (Mexique))",
+        "Juan (español (México))",
+        "Juan (spagnolo (Messico))"
+      ],
+      "language": "es-MX",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Voz Google (España)",
+      "name": "Google español",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz Google (Estados Unidos)",
+      "name": "Google español de Estados Unidos",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "es-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Helena (España)",
+      "name": "Microsoft Helena - Spanish (Spain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Laura (España)",
+      "name": "Microsoft Laura - Spanish (Spain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Pablo (España)",
+      "name": "Microsoft Pablo - Spanish (Spain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Sabina (México)",
+      "name": "Microsoft Sabina - Spanish (Mexico)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "es-MX",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Raul (México)",
+      "name": "Microsoft Raul - Spanish (Mexico)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "es-MX",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mónica (España)",
+      "name": "Mónica",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Paulina (México)",
+      "name": "Paulina",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "es-MX",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 1 (España)",
+      "name": "Android Speech Recognition and Synthesis from Google es-es-x-eee-local",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 2 (España)",
+      "name": "Android Speech Recognition and Synthesis from Google es-es-x-eea-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 3 (España)",
+      "name": "Android Speech Recognition and Synthesis from Google es-es-x-eec-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 4 (España)",
+      "name": "Chrome OS español 1",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 5 (España)",
+      "name": "Chrome OS español 2",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 6 (España)",
+      "name": "Chrome OS español 4",
+      "language": "es-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 1 (España)",
+      "name": "Android Speech Recognition and Synthesis from Google es-es-x-eed-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 2 (España)",
+      "name": "Android Speech Recognition and Synthesis from Google es-es-x-eef-local",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 3 (España)",
+      "name": "Chrome OS español 3",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 4 (España)",
+      "name": "Chrome OS español 5",
+      "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz de España",
+      "name": "español España",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "es-ES",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz de Estados Unidos",
+      "name": "español Estados Unidos",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "es-US",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}

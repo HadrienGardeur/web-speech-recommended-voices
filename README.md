@@ -8,10 +8,10 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Initial list of supported languages
 
-* [English](json/en.json) (`en-us`, `en-gb` and `en-ca`)
+* [English](json/en.json) (United States, United Kingdom and Canada)
 * [French](json/fr.json) (All available regions)
 * [Italian](json/it.json)
-* Spanish (`es-es` and `es-mx`)
+* [Spanish](json.es.json) (Spain, Mexico and United States)
 
 ## Use cases
 
@@ -159,6 +159,7 @@ These two properties are meant to be interpreted separately and not as a combina
 **Example 6: A Microsoft voice available in both Edge and Windows**
 
 ```json
+{
   "label": "Denise (France)",
   "name": "Microsoft Denise Online (Natural) - French (France)",
   "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
@@ -192,7 +193,7 @@ With the current approach, it's not possible to indicate that a voice is availab
 }
 ```
 
-## Notes
+## Additional notes
 
 Through the work done to document a list of recommended voices, I also ended up testing various browsers/OS to see how they behave. This section is meant to summarize some of this information.
 

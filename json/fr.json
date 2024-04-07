@@ -234,6 +234,30 @@
       ]
     },
     {
+      "label": "Thomas (France)",
+      "name": "Thomas (premium)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Thomas (Enhanced)",
+        "Thomas (mejorada)",
+        "Thomas (ottimizzata)",
+        "Thomas (French (France))",
+        "Thomas (français (France))",
+        "Thomas (francés (Francia))",
+        "Thomas (francese (Francia))"
+      ],
+      "overrides": "Thomas",
+      "language": "fr-FR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Aude (Belgique)",
       "name": "Aude",
       "note": "Aude can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
@@ -242,10 +266,10 @@
         "Aude (Enhanced)",
         "Aude (mejorada)",
         "Aude (ottimizzata)",
-        "Aude (French (France))",
-        "Aude (français (France))",
-        "Aude (francés (Francia))",
-        "Aude (francese (Francia))"
+        "Aude (French (Belgium))",
+        "Aude (français (Belgique))",
+        "Aude (francés (Bélgica))",
+        "Aude (francese (Belgio))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -266,11 +290,34 @@
         "Chantal (Enhanced)",
         "Chantal (mejorada)",
         "Chantal (ottimizzata)",
-        "Chantal (French (France))",
-        "Chantal (français (France))",
-        "Chantal (francés (Francia))",
-        "Chantal (francese (Francia))"
+        "Chantal (French (Canada))",
+        "Chantal (français (Canada))",
+        "Chantal (francés (Canada))",
+        "Chantal (francese (Canada))"
       ],
+      "language": "fr-CA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Amélie (Canada)",
+      "name": "Amélie (de qualité)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Amélie (premium)",
+        "Amélie (Premium)",
+        "Amélie (French (Canada))",
+        "Amélie (français (Canada))",
+        "Amélie (francés (Canada))",
+        "Amélie (francese (Canada))"
+      ],
+      "overrides": "Amélie",
       "language": "fr-CA",
       "gender": "female",
       "rate": 1,
@@ -290,10 +337,10 @@
         "Nicolas (Enhanced)",
         "Nicolas (mejorada)",
         "Nicolas (ottimizzata)",
-        "Nicolas (French (France))",
-        "Nicolas (français (France))",
-        "Nicolas (francés (Francia))",
-        "Nicolas (francese (Francia))"
+        "Nicolas (French (Canada))",
+        "Nicolas (français (Canada))",
+        "Nicolas (francés (Canada))",
+        "Nicolas (francese (Canada))"
       ],
       "language": "fr-CA",
       "gender": "male",
@@ -385,30 +432,6 @@
     },
     {
       "label": "Thomas (France)",
-      "name": "Thomas (premium)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Thomas (Enhanced)",
-        "Thomas (mejorada)",
-        "Thomas (ottimizzata)",
-        "Thomas (French (France))",
-        "Thomas (français (France))",
-        "Thomas (francés (Francia))",
-        "Thomas (francese (Francia))"
-      ],
-      "overrides": "Thomas",
-      "language": "fr-FR",
-      "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
-      "label": "Thomas (France)",
       "name": "Thomas",
       "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "fr-FR",
@@ -421,29 +444,6 @@
         "iPadOS"
       ],
       "preloaded": true
-    },
-    {
-      "label": "Amélie (Canada)",
-      "name": "Amélie (de qualité)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Amélie (premium)",
-        "Amélie (Premium)",
-        "Amélie (French (France))",
-        "Amélie (français (France))",
-        "Amélie (francés (Francia))",
-        "Amélie (francese (Francia))"
-      ],
-      "overrides": "Amélie",
-      "language": "fr-CA",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
     },
     {
       "label": "Amélie (Canada)",
@@ -489,7 +489,6 @@
     {
       "label": "Voix féminine 3 (France)",
       "name": "Chrome OS français 1",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -502,7 +501,6 @@
     {
       "label": "Voix féminine 4 (France)",
       "name": "Chrome OS français 2",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -515,7 +513,6 @@
     {
       "label": "Voix féminine 5 (France)",
       "name": "Chrome OS français 4",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -554,7 +551,6 @@
     {
       "label": "Voix masculine 3 (France)",
       "name": "Chrome OS français 3",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,
@@ -567,7 +563,6 @@
     {
       "label": "Voix masculine 4 (France)",
       "name": "Chrome OS français 5",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,

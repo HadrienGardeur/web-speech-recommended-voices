@@ -106,6 +106,30 @@
       ]
     },
     {
+      "label": "Alice",
+      "name": "Alice (ottimizzata)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Alice (Enhanced)",
+        "Alice (premium)",
+        "Alice (mejorada)",
+        "Alice (Italian (Italie))",
+        "Alice (italien (Italie))",
+        "Alice (italiano (Italia))",
+        "Alice (italiano (Italia))"
+      ],
+      "overrides": "Alice",
+      "language": "it-IT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Paola",
       "name": "Paola",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
@@ -155,7 +179,7 @@
     },
     {
       "label": "Voce Google femminile",
-      "name": "Google français",
+      "name": "Google italiano",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "it-IT",
       "gender": "female",
@@ -191,30 +215,6 @@
         "Windows"
       ],
       "preloaded": true
-    },
-    {
-      "label": "Alice",
-      "name": "Alice (ottimizzata)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Alice (Enhanced)",
-        "Alice (premium)",
-        "Alice (mejorada)",
-        "Alice (Italian (Italie))",
-        "Alice (italien (Italie))",
-        "Alice (italiano (Italia))",
-        "Alice (italiano (Italia))"
-      ],
-      "overrides": "Alice",
-      "language": "it-IT",
-      "gender": "female",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
     },
     {
       "label": "Alice",
@@ -260,7 +260,6 @@
     {
       "label": "Voce femminile 3",
       "name": "Chrome OS italiano 1",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "it-IT",
       "gender": "female",
       "rate": 1,
@@ -273,7 +272,6 @@
     {
       "label": "Voce femminile 4",
       "name": "Chrome OS italiano 2",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "it-IT",
       "gender": "female",
       "rate": 1,
@@ -312,7 +310,6 @@
     {
       "label": "Voce maschile 3",
       "name": "Chrome OS italiano 3",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "it-IT",
       "gender": "male",
       "rate": 1,
@@ -325,7 +322,6 @@
     {
       "label": "Voce maschile 4",
       "name": "Chrome OS italiano 4",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
       "language": "it-IT",
       "gender": "male",
       "rate": 1,
