@@ -625,7 +625,7 @@
       "preloaded": true
     },
     {
-      "label": "Google female voice (US)",
+      "label": "Female Google voice (US)",
       "name": "Google US English",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "en-US",
@@ -638,7 +638,7 @@
       "preloaded": true
     },
     {
-      "label": "Google female voice (UK)",
+      "label": "Female Google voice (UK)",
       "name": "Google UK English Female",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "en-GB",
@@ -651,7 +651,7 @@
       "preloaded": true
     },
     {
-      "label": "Google male voice (UK)",
+      "label": "Male Google voice (UK)",
       "name": "Google UK English Male",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "en-GB",

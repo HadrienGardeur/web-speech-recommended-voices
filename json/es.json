@@ -222,7 +222,7 @@
       ]
     },
     {
-      "label": "Voz Google (España)",
+      "label": "Voz Google masculina (España)",
       "name": "Google español",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "es-ES",
@@ -235,7 +235,7 @@
       "preloaded": true
     },
     {
-      "label": "Voz Google (Estados Unidos)",
+      "label": "Voz Google femenina (Estados Unidos)",
       "name": "Google español de Estados Unidos",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "es-US",
