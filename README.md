@@ -27,7 +27,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
 * The number of voices can look overwhelming (70+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
 * Whenever possible, I will always try to include a good mix of high quality and default options for both genders.
-* Since the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
+* But the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
 * Regional variants are also grouped together in a single list rather than separated in their own files on purpose. On some devices, only two or three voices might be available and separating regional variants wouldn't make much sense.
 * But regional variants have to be prioritized somehow in the list. For now, the regions with the best selections of voices are listed above, but it is highly recommended to implementers [to consider the user's regional preferences](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/languages).
 * The voice names returned by the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) are hardly user-friendly, which is the reason why this list provides alternate ones that usually include a first name (or a gender) along with the region associated to the voice.
@@ -72,18 +72,18 @@ Chrome OS provides a number of high quality voices through its Android subsystem
 
 ### Names
 
-`name` is required for each recommended voice and identifies voices, as returned by the Web Speech API.
+`name` is required for each recommended voice and it's used as the main identifier for voices in this project.
 
 Names are mostly stable across browsers, which means that for most voices, a single string is sufficient.
 
 But there's unfortunately one notable outlier: macOS, iOS and iPadOS voices.
 
-For those voices, at least a portion of the string is often localized, naming is inconsistent across browsers and they can change depending on the number of variants installed.
+For those voices, at least a portion of the string is often localized, naming can be inconsistent across browsers and they can change depending on the number of variants installed.
 
-Because of Apple, the recommended list can also contain the following properties:
+Because of Apple, each list can also contain the following properties:
 
-- `altNames` which contains an array of strings for alternate names for a given voice
-- and `overrides` which is strictly used with pre-loaded voices, allowing implementers to hide the default version, when a higher quality variant is available
+- `altNames`, an array of strings for alternate names for a given voice
+- and `overrides` which is strictly used with preloaded voices, allowing implementers to hide the default version, when a higher quality variant is available
  
 **Example 3: Alternate version of an Apple pre-loaded voice**
 
@@ -109,9 +109,15 @@ Because of Apple, the recommended list can also contain the following properties
 
 `language` is required for each recommended voice.
 
-It contains a BCP 47 where a downcase two-letter language code is followed by an uppercase three-letter country code.
+It contains a BCP 47 language tag where a downcased two-letter language code is followed by an uppercased two-letter country code.
 
 The language and country codes are separated using a hyphen (-).
+
+Somes voices are also capable of handling another language, for example a Spanish voice for the United States might also be capable of handling English.
+
+For this reason, an `additionalLanguages` property is also available although it is fairly rarely used right now.
+
+It contains a list of languages using only two-letter codes, without a sub-tag.
 
 Some brand new voices from Microsoft are also capable of a multilingual output. The language switch isn't supported in the middle of a sentence, but the output seems capable of auto-detecting the language of each sentence and adopt itself accordingly.
 
@@ -130,15 +136,28 @@ These voices are identified using the `multiLingual` boolean.
 }
 ```
 
+**Example 5: Voice capable of handling a secondary language**
+
+```json
+{
+  "label": "Sylvie (Canada)",
+  "name": "Microsoft Sylvie Online (Natural) - French (Canada)",
+  "language": "fr-CA",
+  "otherLanguages": [
+    "en"
+  ]
+}
+```
+
 ### Gender and children voices
 
 `gender` is an optional property for each voice, that documents the gender associated to each voice.
 
 The following values are supported: `female`, `male` or `nonbinary`.
 
-`children` is also optional and identifies if children voices using a boolean.
+`children` is also optional and identifies children voices using a boolean.
 
-**Example 5: Female children voice**
+**Example 6: Female children voice**
 
 ```json
 {
@@ -152,11 +171,11 @@ The following values are supported: `female`, `male` or `nonbinary`.
 
 ### OS and browser
 
-Both `os` and `browser` are optional properties. It indicates in which operating systems and browsers a voice is available.
+Both `os` and `browser` are optional properties. They're used to indicate in which operating systems and browsers a voice is available.
 
 These two properties are meant to be interpreted separately and not as a combination.
 
-**Example 6: A Microsoft voice available in both Edge and Windows**
+**Example 7: A Microsoft voice available in both Edge and Windows**
 
 ```json
 {
@@ -178,7 +197,7 @@ In addition, `preloaded` indicates if the voice is preloaded in all the OS and b
 
 With the current approach, it's not possible to indicate that a voice is available on Chrome and Windows, but requires a download on Windows for example.
 
-**Example 7: A Google voice preloaded in Chrome Desktop**
+**Example 8: A Google voice preloaded in Chrome Desktop**
 
 ```json
 {
@@ -216,7 +235,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * For now, we've only covered testing and documentation on vanilla versions of Android, as available on Google Pixel devices. The list of voices available may vary greatly based on OEM, device and Android version.
 * Due to the nature of Android, documenting all these variations will be very difficult. Further attempts will be made in future version of this project through the use of device farms.
-* In recent versions of vanilla Android, there's an excellent selection of high quality voices which cover a wide range of languages/regions.
+* In recent versions of vanilla Android, there's an excellent selection of high quality voices which cover a wide range of languages/regions (67 as of April 2024).
 * To use these voices, the user needs to go fairly deep in system settings either to download them (only your system language and some of the most popular languages are pre-loaded by default) or select their preferred voice per language/region.
 * Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions.
 * Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API.
@@ -232,6 +251,14 @@ Through the work done to document a list of recommended voices, I also ended up 
 * Unfortunately, these voices are also plagued by a [bug](https://github.com/HadrienGardeur/TTS-recommended-voices/issues/3) if any utterance read by the Web Speech API takes longer than 14 seconds. Playback is stopped after this duration, without any feedback from the Web Speech API to indicate that [the playback has been stopped due to an error](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/error_event).
 * This bug has remained unaddressed for many years now, but [there's a workaround available](https://stackoverflow.com/a/48044163) to implementers where the playback is paused/resumed every 14 seconds.
 * Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
+
+### Chrome OS
+
+* Chrome OS comes with three sets of voices: Chrome voices (XX languages), Android voices and eSpeak voices
+* Most Android voices offer offline and online variants and they're on par quality-wise with what Apple offers in terms of downloadable voices.
+* These Android voices have some of the worst names on any platform/browser, making them hardly usable without the kind of re-labeling offered by this project.
+* Chrome voices are one step below Android voices, but they offer a decent selection for the most common languages.
+* eSpeak voices should be avoided at all cost but they're unfortunately the only option available for some languages.
 
 ### Edge
 
