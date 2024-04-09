@@ -6,10 +6,13 @@ With hundreds of voices available by default across various browsers and OS, it 
 
 With its focus on voice selection, the goal of this project is to document higher quality voices available on various platforms and provide an easy way to implement these recommendations using JSON configuration files.
 
-## Initial list of supported languages
+## List of supported languages
 
+* [Basque](json/eu.json) 
+* [Catalan](json/ca.json)
 * [English](json/en.json) (United States, United Kingdom and Canada)
 * [French](json/fr.json) (All available regions)
+* [Galician](json/gl.json)
 * [Italian](json/it.json)
 * [Spanish](json/es.json) (Spain, Mexico and United States)
 

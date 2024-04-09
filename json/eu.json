@@ -1,0 +1,26 @@
+{
+  "language": "eu",
+  "voices": [
+    {
+      "label": "Miren",
+      "name": "Miren",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Miren (millorada)",
+        "Miren (mejorada)",
+        "Miren (Enhanced)",
+        "Miren (premium)",
+        "Miren (ottimizzata)"
+      ],
+      "language": "eu-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    }
+  ]
+}

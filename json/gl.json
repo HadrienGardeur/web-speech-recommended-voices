@@ -1,0 +1,56 @@
+{
+  "language": "gl",
+  "voices": [
+    {
+      "label": "Sabela",
+      "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "gl-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Roi",
+      "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "gl-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Carmela",
+      "name": "Carmela",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Carmela (millorada)",
+        "Carmela (mejorada)",
+        "Carmela (Enhanced)",
+        "Carmela (premium)",
+        "Carmela (ottimizzata)"
+      ],
+      "language": "gl-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    }
+  ]
+}

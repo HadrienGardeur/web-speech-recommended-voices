@@ -1,0 +1,157 @@
+{
+  "language": "ca",
+  "voices": [
+    {
+      "label": "Joana (Català)",
+      "name": "Microsoft Joana Online (Natural) - Catalan (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "ca-ES",
+      "otherLanguages": [
+        "es"
+      ],
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Enric (Català)",
+      "name": "Microsoft Enric Online (Natural) - Catalan (Spain)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "ca-ES",
+      "otherLanguages": [
+        "es"
+      ],
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Montse (Català)",
+      "name": "Montse (mejorada)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Montse (Enhanced)",
+        "Montse (premium)",
+        "Montse (Catalan (Spain))",
+        "Montse (català (España))"
+      ],
+      "overrides": "Montse",
+      "language": "ca-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Pau (Valencià)",
+      "name": "Pau",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Pau (mejorada)",
+        "Pau (Enhanced)",
+        "Pau (Catalan (Spain))",
+        "Pau (catalan (España))"
+      ],
+      "language": "ca-ES-u-sd-esvc",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Jordi (Català)",
+      "name": "Jordi",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Jordi (mejorada)",
+        "Jordi (Enhanced)",
+        "Jordi (Catalan (Spain))",
+        "Jordi (catalan (España))"
+      ],
+      "language": "ca-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Herena (Català)",
+      "name": "Microsoft Herena - Catalan (Spain)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "ca-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Montse (Català)",
+      "name": "Montse",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "ca-ES",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Veu femenina catalana",
+      "name": "Android Speech Recognition and Synthesis from Google ca-es-x-caf-network",
+      "language": "ca-ES",
+      "otherLanguages": [
+        "es"
+      ],
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Veu catalana",
+      "name": "catalan España",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "ca-ES",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
