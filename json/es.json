@@ -89,7 +89,9 @@
         "Marisol (Spanish (Spain))",
         "Marisol (espagnol (Espagne))",
         "Marisol (español (España))",
-        "Marisol (spagnolo (Spagna))"
+        "Marisol (spagnolo (Spagna))",
+        "Marisol (gaztenalia (Espainia))",
+        "Marisol (espanyol (Espanya))"
       ],
       "language": "es-ES",
       "gender": "female",
@@ -112,7 +114,9 @@
         "Mónica (Spanish (Spain))",
         "Mónica (espagnol (Espagne))",
         "Mónica (español (España))",
-        "Mónica (spagnolo (Spagna))"
+        "Mónica (spagnolo (Spagna))",
+        "Mónica (gaztenalia (Espainia))",
+        "Mónica (espanyol (Espanya))"
       ],
       "overrides": "Mónica",
       "language": "es-ES",
@@ -137,7 +141,9 @@
         "Jorge (Spanish (Spain))",
         "Jorge (espagnol (Espagne))",
         "Jorge (español (España))",
-        "Jorge (spagnolo (Spagna))"
+        "Jorge (spagnolo (Spagna))",
+        "Jorge (gaztenalia (Espainia))",
+        "Jorge (espanyol (Espanya))"
       ],
       "language": "es-ES",
       "gender": "male",
@@ -161,7 +167,9 @@
         "Angelica (Spanish (Mexico))",
         "Angelica (espagnol (Mexique))",
         "Angelica (español (México))",
-        "Angelica (spagnolo (Messico))"
+        "Angelica (spagnolo (Messico))",
+        "Angelica (gaztenalia (Mexiko))",
+        "Angelica (espanyol (Mèxic))"
       ],
       "language": "es-MX",
       "gender": "female",
@@ -185,6 +193,8 @@
         "Paulina (espagnol (Mexique))",
         "Paulina (español (México))",
         "Paulina (spagnolo (Messico))"
+        "Paulina (gaztenalia (Mexiko))",
+        "Paulina (espanyol (Mèxic))"
       ],
       "overrides": "Paulina",
       "language": "es-MX",
@@ -210,6 +220,8 @@
         "Juan (espagnol (Mexique))",
         "Juan (español (México))",
         "Juan (spagnolo (Messico))"
+        "Juan (gaztenalia (Mexiko))",
+        "Juan (espanyol (Mèxic))"
       ],
       "language": "es-MX",
       "gender": "male",
