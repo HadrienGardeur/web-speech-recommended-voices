@@ -318,5 +318,6 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### Windows
 
 * [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices.
-* Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded.
+* Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded (with the added benefit that they also work offline).
 * Microsoft has been slow to add these natural voices to Windows 11 overall. Until fairly recently, only US voices (3 voices) were available. The list is now a little longer (23 voices) but remains far behind what they offer through Edge (250+ voices).
+* Unfortunately, these higher quality voices are not properly listed in Chrome or Firefox currently. They only show up in Edge, where they're preloaded anyway.
