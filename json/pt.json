@@ -1,0 +1,150 @@
+{
+  "language": "pt",
+  "voices": [
+    {
+      "label": "Raquel (Portugal)",
+      "name": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "pt-PT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Duarte (Portugal)",
+      "name": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "pt-PT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Francisca (Brasil)",
+      "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Thalita (Brasil)",
+      "name": "Microsoft Thalita Online (Natural) - Portuguese (Brazil)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Antonio (Brasil)",
+      "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "pt-BR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Voz Google (Brasil)",
+      "name": "Google português do Brasil",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Helia (Portugal)",
+      "name": "Microsoft Helia - Portuguese (Portugal)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "pt-PT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Maria (Brasil)",
+      "name": "Microsoft Maria - Portuguese (Brazil)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Daniel (Brasil)",
+      "name": "Microsoft Daniel - Portuguese (Brazil)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "pt-BR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz do Portugal",
+      "name": "português Portugal",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "pt-PT",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz do Brasil",
+      "name": "português Brasil",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "pt-BR",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}

@@ -14,6 +14,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [French](json/fr.json) (All available regions)
 * [Galician](json/gl.json)
 * [Italian](json/it.json)
+* [Portuguese](json/pt.json) (Portugal and Spain)
 * [Spanish](json/es.json) (Spain, Mexico and United States)
 
 ## Use cases
@@ -241,6 +242,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 * In recent versions of vanilla Android, there's an excellent selection of high quality voices which cover a wide range of languages/regions (67 as of April 2024).
 * To use these voices, the user needs to go fairly deep in system settings either to download them (only your system language and some of the most popular languages are preloaded by default) or select their preferred voice per language/region.
 * Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions.
+* To make things worse, these voices and regions are all localized with the system locale.
 * Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API.
 * If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead.
 * Even when a voice pack has been installed, the user may need to select a default voice for each region before a language/region can be used at all. 
