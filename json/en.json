@@ -274,10 +274,12 @@
         "Ava (Enhanced)",
         "Ava (mejorada)",
         "Ava (ottimizzata)",
+        "Ava (melhorada)",
         "Ava (English (United States))",
         "Ava (anglais (États-Unis))",
         "Ava (inglés (Estados Unidos))",
-        "Ava (inglese (Stati Uniti))"
+        "Ava (inglese (Stati Uniti))",
+        "Ava (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -300,10 +302,12 @@
         "Zoe (Enhanced)",
         "Zoe (mejorada)",
         "Zoe (ottimizzata)",
+        "Zoe (melhorada)",
         "Zoe (English (United States))",
         "Zoe (anglais (États-Unis))",
         "Zoe (inglés (Estados Unidos))",
-        "Zoe (inglese (Stati Uniti))"
+        "Zoe (inglese (Stati Uniti))",
+        "Zoe (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -324,10 +328,12 @@
         "Allison (mejorada)",
         "Allison (premium)",
         "Allison (ottimizzata)",
+        "Allison (melhorada)",
         "Allison (English (United States))",
         "Allison (anglais (États-Unis))",
         "Allison (inglés (Estados Unidos))",
-        "Allison (inglese (Stati Uniti))"
+        "Allison (inglese (Stati Uniti))",
+        "Allison (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -347,10 +353,12 @@
         "Samantha (mejorada)",
         "Samantha (premium)",
         "Samantha (ottimizzata)",
+        "Samantha (melhorada)",
         "Samantha (English (United States))",
         "Samantha (anglais (États-Unis))",
         "Samantha (inglés (Estados Unidos))",
-        "Samantha (inglese (Stati Uniti))"
+        "Samantha (inglese (Stati Uniti))",
+        "Samantha (inglês (Estados Unidos))"
       ],
       "overrides": "Samantha",
       "language": "en-US",
@@ -372,10 +380,12 @@
         "Joelle (mejorada)",
         "Joelle (premium)",
         "Joelle (ottimizzata)",
+        "Joelle (melhorada)",
         "Joelle (English (United States))",
         "Joelle (anglais (États-Unis))",
         "Joelle (inglés (Estados Unidos))",
-        "Joelle (inglese (Stati Uniti))"
+        "Joelle (inglese (Stati Uniti))",
+        "Joelle (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -397,10 +407,12 @@
         "Evan (mejorada)",
         "Evan (premium)",
         "Evan (ottimizzata)",
+        "Evan (melhorada)",
         "Evan (English (United States))",
         "Evan (anglais (États-Unis))",
         "Evan (inglés (Estados Unidos))",
-        "Evan (inglese (Stati Uniti))"
+        "Evan (inglese (Stati Uniti))",
+        "Evan (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -421,10 +433,12 @@
         "Nathan (mejorada)",
         "Nathan (premium)",
         "Nathan (ottimizzata)",
+        "Nathan (melhorada)",
         "Nathan (English (United States))",
         "Nathan (anglais (États-Unis))",
         "Nathan (inglés (Estados Unidos))",
-        "Nathan (inglese (Stati Uniti))"
+        "Nathan (inglese (Stati Uniti))",
+        "Nathan (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -445,10 +459,12 @@
         "Tom (mejorada)",
         "Tom (premium)",
         "Tom (ottimizzata)",
+        "Tom (melhorada)",
         "Tom (English (United States))",
         "Tom (anglais (États-Unis))",
         "Tom (inglés (Estados Unidos))",
-        "Tom (inglese (Stati Uniti))"
+        "Tom (inglese (Stati Uniti))",
+        "Tom (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -468,7 +484,8 @@
         "Alex (English (United States))",
         "Alex (anglais (États-Unis))",
         "Alex (inglés (Estados Unidos))",
-        "Alex (inglese (Stati Uniti))"
+        "Alex (inglese (Stati Uniti))",
+        "Alex (inglês (Estados Unidos))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -489,10 +506,12 @@
         "Kate (mejorada)",
         "Kate (premium)",
         "Kate (ottimizzata)",
+        "Kate (melhorada)",
         "Kate (English (United Kingdom))",
         "Kate (anglais (Royaume-Uni))",
         "Kate (inglés (Reino Unido))",
-        "Kate (inglese (Regno Unito))"
+        "Kate (inglese (Regno Unito))",
+        "Kate (inglês (Reino Unido))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -513,10 +532,12 @@
         "Stephanie (mejorada)",
         "Stephanie (premium)",
         "Stephanie (ottimizzata)",
+        "Stephanie (melhorada)",
         "Stephanie (English (United Kingdom))",
         "Stephanie (anglais (Royaume-Uni))",
         "Stephanie (inglés (Reino Unido))",
-        "Stephanie (inglese (Regno Unito))"
+        "Stephanie (inglese (Regno Unito))",
+        "Stephanie (inglês (Reino Unido))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -536,10 +557,15 @@
         "Serena (Premium)",
         "Serena (premium)",
         "Serena (de qualité)",
+        "Serena (Enhanced)",
+        "Serena (mejorada)",
+        "Serena (ottimizzata)",
+        "Serena (melhorada)",
         "Serena (English (United Kingdom))",
         "Serena (anglais (Royaume-Uni))",
         "Serena (inglés (Reino Unido))",
-        "Serena (inglese (Regno Unito))"
+        "Serena (inglese (Regno Unito))",
+        "Serena (inglês (Reino Unido))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -559,10 +585,15 @@
         "Jamie (Premium)",
         "Jamie (premium)",
         "Jamie (de qualité)",
+        "Jamie (Enhanced)",
+        "Jamie (mejorada)",
+        "Jamie (ottimizzata)",
+        "Jamie (melhorada)",
         "Jamie (English (United Kingdom))",
         "Jamie (anglais (Royaume-Uni))",
         "Jamie (inglés (Reino Unido))",
-        "Jamie (inglese (Regno Unito))"
+        "Jamie (inglese (Regno Unito))",
+        "Jamie (inglês (Reino Unido))"
       ],
       "overrides": "Jamie",
       "language": "en-GB",
@@ -584,10 +615,12 @@
         "Oliver (mejorada)",
         "Oliver (premium)",
         "Oliver (ottimizzata)",
+        "Oliver (melhorada)",
         "Oliver (English (United Kingdom))",
         "Oliver (anglais (Royaume-Uni))",
         "Oliver (inglés (Reino Unido))",
-        "Oliver (inglese (Regno Unito))"
+        "Oliver (inglese (Regno Unito))",
+        "Oliver (inglês (Reino Unido))"
       ],
       "language": "en-GB",
       "gender": "male",
@@ -607,10 +640,12 @@
         "Daniel (mejorada)",
         "Daniel (premium)",
         "Daniel (ottimizzata)",
+        "Daniel (melhorada)",
         "Daniel (English (United Kingdom))",
         "Daniel (anglais (Royaume-Uni))",
         "Daniel (inglés (Reino Unido))",
-        "Daniel (inglese (Regno Unito))"
+        "Daniel (inglese (Regno Unito))",
+        "Daniel (inglês (Reino Unido))"
       ],
       "overrides": "Daniel",
       "language": "en-GB",

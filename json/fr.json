@@ -197,7 +197,8 @@
         "Audrey (French (France))",
         "Audrey (français (France))",
         "Audrey (francés (Francia))",
-        "Audrey (francese (Francia))"
+        "Audrey (francese (Francia))",
+        "Audrey (francês (França))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -221,7 +222,8 @@
         "Aurélie (French (France))",
         "Aurélie (français (France))",
         "Aurélie (francés (Francia))",
-        "Aurélie (francese (Francia))"
+        "Aurélie (francese (Francia))",
+        "Aurélie (francês (França))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -244,7 +246,8 @@
         "Thomas (French (France))",
         "Thomas (français (France))",
         "Thomas (francés (Francia))",
-        "Thomas (francese (Francia))"
+        "Thomas (francese (Francia))",
+        "Thomas (francês (França))"
       ],
       "overrides": "Thomas",
       "language": "fr-FR",
@@ -269,7 +272,8 @@
         "Aude (French (Belgium))",
         "Aude (français (Belgique))",
         "Aude (francés (Bélgica))",
-        "Aude (francese (Belgio))"
+        "Aude (francese (Belgio))",
+        "Aude (francês (Bélgica))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -293,7 +297,8 @@
         "Chantal (French (Canada))",
         "Chantal (français (Canada))",
         "Chantal (francés (Canada))",
-        "Chantal (francese (Canada))"
+        "Chantal (francese (Canada))",
+        "Chantal (francês (Canadá))"
       ],
       "language": "fr-CA",
       "gender": "female",
@@ -315,7 +320,8 @@
         "Amélie (French (Canada))",
         "Amélie (français (Canada))",
         "Amélie (francés (Canada))",
-        "Amélie (francese (Canada))"
+        "Amélie (francese (Canada))",
+        "Amélie (francês (Canadá))"
       ],
       "overrides": "Amélie",
       "language": "fr-CA",
@@ -340,7 +346,8 @@
         "Nicolas (French (Canada))",
         "Nicolas (français (Canada))",
         "Nicolas (francés (Canada))",
-        "Nicolas (francese (Canada))"
+        "Nicolas (francese (Canada))",
+        "Nicolas (francês (Canadá))"
       ],
       "language": "fr-CA",
       "gender": "male",
