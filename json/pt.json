@@ -83,7 +83,7 @@
         "Catarina (Portuguese (Portual))",
         "Catarina (portugais (Portugal))",
         "Catarina (portugués (Portugal))",
-        "Catarina (portoghese (Portogallo))"
+        "Catarina (portoghese (Portogallo))",
         "Catarina (português (Portugal))"
       ],
       "language": "pt-PT",
@@ -108,9 +108,10 @@
         "Joana (Portuguese (Portual))",
         "Joana (portugais (Portugal))",
         "Joana (portugués (Portugal))",
-        "Joana (portoghese (Portogallo))"
+        "Joana (portoghese (Portogallo))",
         "Joana (português (Portugal))"
       ],
+      "overrides": "Joana",
       "language": "pt-PT",
       "gender": "female",
       "rate": 1,
@@ -134,7 +135,7 @@
         "Joaquim (Portuguese (Portual))",
         "Joaquim (portugais (Portugal))",
         "Joaquim (portugués (Portugal))",
-        "Joaquim (portoghese (Portogallo))"
+        "Joaquim (portoghese (Portogallo))",
         "Joaquim (português (Portugal))"
       ],
       "language": "pt-PT",
@@ -152,7 +153,7 @@
       "name": "Fernanda",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
-        "Fernanda (melhorada)"
+        "Fernanda (melhorada)",
         "Fernanda (mejorada)",
         "Fernanda (Enhanced)",
         "Fernanda (premium)",
@@ -160,7 +161,7 @@
         "Fernanda (Portuguese (Mexico))",
         "Fernanda (portugais (Brésil))",
         "Fernanda (portugués (Brasil))",
-        "Fernanda (portoghese (Brasile))"
+        "Fernanda (portoghese (Brasile))",
         "Fernanda (português (Brasil))"
       ],
       "language": "pt-BR",
@@ -185,7 +186,7 @@
         "Luciana (Portuguese (Mexico))",
         "Luciana (portugais (Brésil))",
         "Luciana (portugués (Brasil))",
-        "Luciana (portoghese (Brasile))"
+        "Luciana (portoghese (Brasile))",
         "Luciana (português (Brasil))"
       ],
       "overrides": "Luciana",
@@ -204,7 +205,7 @@
       "name": "Felipe",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
-        "Felipe (melhorada)"
+        "Felipe (melhorada)",
         "Felipe (mejorada)",
         "Felipe (Enhanced)",
         "Felipe (premium)",
@@ -212,7 +213,7 @@
         "Felipe (Portuguese (Mexico))",
         "Felipe (portugais (Brésil))",
         "Felipe (portugués (Brasil))",
-        "Felipe (portoghese (Brasile))"
+        "Felipe (portoghese (Brasile))",
         "Felipe (português (Brasil))"
       ],
       "language": "pt-BR",
@@ -304,6 +305,97 @@
         "macOS",
         "iOS",
         "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz feminina 1 (Portugal)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-PT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz feminina 2 (Portugal)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-PT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 1 (Portugal)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-PT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 2 (Portugal)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-PT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz feminina 1 (Brasil)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-afs-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz feminina 2 (Brasil)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-pte-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-BR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 1 (Brasil)",
+      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "pt-BR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
       ],
       "preloaded": true
     },
