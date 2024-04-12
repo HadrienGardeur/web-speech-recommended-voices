@@ -39,9 +39,10 @@
     },
     {
       "label": "Montse (Català)",
-      "name": "Montse (mejorada)",
+      "name": "Montse (millorada)",
       "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [
+        "Montse (mejorada)",
         "Montse (Enhanced)",
         "Montse (premium)",
         "Montse (Catalan (Spain))",
@@ -63,6 +64,7 @@
       "name": "Pau",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Pau (millorada)",
         "Pau (mejorada)",
         "Pau (Enhanced)",
         "Pau (Catalan (Spain))",
@@ -83,6 +85,7 @@
       "name": "Jordi",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
+        "Jordi (millorada)",
         "Jordi (mejorada)",
         "Jordi (Enhanced)",
         "Jordi (Catalan (Spain))",

@@ -83,6 +83,7 @@
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Marisol (mejorada)",
+        "Marisol (millorada)",
         "Marisol (Enhanced)",
         "Marisol (premium)",
         "Marisol (ottimizzata)",
@@ -108,6 +109,7 @@
       "name": "Mónica (mejorada)",
       "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [
+        "Mónica (millorada)",
         "Mónica (Enhanced)",
         "Mónica (premium)",
         "Mónica (ottimizzata)",
@@ -135,6 +137,7 @@
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Jorge (mejorada)",
+        "Jorge (millorada)",
         "Jorge (Enhanced)",
         "Jorge (premium)",
         "Jorge (ottimizzata)",
@@ -161,6 +164,7 @@
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Angelica (mejorada)",
+        "Angelica (millorada)",
         "Angelica (Enhanced)",
         "Angelica (premium)",
         "Angelica (ottimizzata)",
@@ -186,6 +190,7 @@
       "name": "Paulina (mejorada)",
       "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [
+        "Paulina (millorada)",
         "Paulina (Enhanced)",
         "Paulina (premium)",
         "Paulina (ottimizzata)",
@@ -213,6 +218,7 @@
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Juan (mejorada)",
+        "Juan (millorada)",
         "Juan (Enhanced)",
         "Juan (premium)",
         "Juan (ottimizzata)",
