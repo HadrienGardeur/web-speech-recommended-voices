@@ -11,10 +11,11 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Basque](json/eu.json) 
 * [Catalan](json/ca.json)
 * [English](json/en.json) (United States, United Kingdom and Canada)
-* [French](json/fr.json) (All available regions)
+* [French](json/fr.json) (France, Canada, Belgium and Switzerland)
 * [Galician](json/gl.json)
+* [German](json/de.json) (Germany, Austria and Switzerland)
 * [Italian](json/it.json)
-* [Portuguese](json/pt.json) (Portugal and Spain)
+* [Portuguese](json/pt.json) (Portugal and Brazil)
 * [Spanish](json/es.json) (Spain, Mexico and United States)
 
 ## Use cases
@@ -98,11 +99,7 @@ Because of Apple, each list can also contain the following properties:
   "altNames": [
     "Samantha (mejorada)",
     "Samantha (premium)",
-    "Samantha (ottimizzata)",
-    "Samantha (English (United States))",
-    "Samantha (anglais (États-Unis))",
-    "Samantha (inglés (Estados Unidos))",
-    "Samantha (inglese (Stati Uniti))"
+    "Samantha (ottimizzata)"
   ],
   "overrides": "Samantha",
   "language": "en-US"

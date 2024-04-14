@@ -1,0 +1,442 @@
+{
+  "language": "de",
+  "voices": [
+    {
+      "label": "Seraphina (Deutschland)",
+      "name": "Microsoft SeraphinaMultilingual Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-DE",
+      "multiLingual": true,
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Amala (Deutschland)",
+      "name": "Microsoft Amala Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Katja (Deutschland)",
+      "name": "Microsoft Katja Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Florian (Deutschland)",
+      "name": "Microsoft FlorianMultilingual Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-DE",
+      "multiLingual": true,
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Conrad (Deutschland)",
+      "name": "Microsoft Conrad Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "browser": [
+        "Edge"
+      ]
+    },
+    {
+      "label": "Killian (Deutschland)",
+      "name": "Microsoft Killian Online (Natural) - German (Germany)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ingrid (Österreich)",
+      "name": "Microsoft Ingrid Online (Natural) - German (Austria)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-AT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Jonas (Österreich)",
+      "name": "Microsoft Jonas Online (Natural) - German (Austria)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-AT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Leni (Schweiz)",
+      "name": "Microsoft Leni Online (Natural) - German (Switzerland)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-CH",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Jan (Schweiz)",
+      "name": "Microsoft Jan Online (Natural) - German (Switzerland)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "de-CH",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Petra (Deutschland)",
+      "name": "Petra",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Petra (premium)",
+        "Petra (Premium)",
+        "Petra (de qualité)",
+        "Petra (Enhanced)",
+        "Petra (mejorada)",
+        "Petra (ottimizzata)",
+        "Petra (melhorada)",
+        "Petra (erweitert)",
+        "Petra (German (Germany))",
+        "Petra (allemand (Allemagne))",
+        "Petra (alemán (Alemania))",
+        "Petra (tedesco (Germania))",
+        "Petra (alemão (Alemanha))",
+        "Petra (Deutsch (Deutschland))"
+      ],
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Anna (Deutschland)",
+      "name": "Anna (premium)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Anna (Premium)",
+        "Anna (de qualité)",
+        "Anna (Enhanced)",
+        "Anna (mejorada)",
+        "Anna (ottimizzata)",
+        "Anna (melhorada)",
+        "Anna (erweitert)",
+        "Anna (German (Germany))",
+        "Anna (allemand (Allemagne))",
+        "Anna (alemán (Alemania))",
+        "Anna (tedesco (Germania))",
+        "Anna (alemão (Alemanha))",
+        "Anna (Deutsch (Deutschland))"
+      ],
+      "overrides": "Anna",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Markus (Deutschland)",
+      "name": "Markus",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Markus (erweitert)",
+        "Markus (premium)",
+        "Markus (Enhanced)",
+        "Markus (mejorada)",
+        "Markus (ottimizzata)",
+        "Markus (melhorada)",
+        "Markus (German (Germany))",
+        "Markus (allemand (Allemagne))",
+        "Markus (alemán (Alemania))",
+        "Markus (tedesco (Germania))",
+        "Markus (alemão (Alemanha))",
+        "Markus (Deutsch (Deutschland))"
+      ],
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Viktor (Deutschland)",
+      "name": "Viktor",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Viktor (erweitert)",
+        "Viktor (premium)",
+        "Viktor (Enhanced)",
+        "Viktor (mejorada)",
+        "Viktor (ottimizzata)",
+        "Viktor (melhorada)",
+        "Viktor (German (Germany))",
+        "Viktor (allemand (Allemagne))",
+        "Viktor (alemán (Alemania))",
+        "Viktor (tedesco (Germania))",
+        "Viktor (alemão (Alemanha))",
+        "Viktor (Deutsch (Deutschland))"
+      ],
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Yannick (Deutschland)",
+      "name": "Yannick",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Yannick (erweitert)",
+        "Yannick (premium)",
+        "Yannick (Enhanced)",
+        "Yannick (mejorada)",
+        "Yannick (ottimizzata)",
+        "Yannick (melhorada)",
+        "Yannick (German (Germany))",
+        "Yannick (allemand (Allemagne))",
+        "Yannick (alemán (Alemania))",
+        "Yannick (tedesco (Germania))",
+        "Yannick (alemão (Alemanha))",
+        "Yannick (Deutsch (Deutschland))"
+      ],
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Weibliche Google-Stimme (Deutschland)",
+      "name": "Google Deutsch",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Hedda (Deutschland)",
+      "name": "Microsoft Hedda - German (Germany)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Katja (Deutschland)",
+      "name": "Microsoft Katja - German (Germany)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Stefan (Deutschland)",
+      "name": "Microsoft Stefan - German (Germany)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Michael (Österreich)",
+      "name": "Microsoft Michael - German (Austria)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "de-AT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Karsten (Schweiz)",
+      "name": "Microsoft Karsten - German (Switzerland)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "de-CH",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Anna (Deutschland)",
+      "name": "Anna",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Weibliche Stimme 1 (Deutschland)",
+      "name": "Android Speech Recognition and Synthesis from Google de-de-x-dea-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Weibliche Stimme 2 (Deutschland)",
+      "name": "Android Speech Recognition and Synthesis from Google de-de-x-nfh-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "de-DE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Männliche Stimme 1 (Deutschland)",
+      "name": "Android Speech Recognition and Synthesis from Google de-de-x-deb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Männliche Stimme 2 (Deutschland)",
+      "name": "Android Speech Recognition and Synthesis from Google de-de-x-deg-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "language": "de-DE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Deutsche Stimme",
+      "name": "deutsch Deutschland",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "de-DE",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
