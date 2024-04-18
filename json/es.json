@@ -62,6 +62,97 @@
       ]
     },
     {
+      "label": "Elena (Argentina)",
+      "name": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-AR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Tomas (Argentina)",
+      "name": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-AR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ximena (Colombia)",
+      "name": "Microsoft Ximena Online (Natural) - Spanish (Colombia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Salome (Colombia)",
+      "name": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Gonzalo (Colombia)",
+      "name": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Catalina (Chile)",
+      "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Lorenzo (Chile)",
+      "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Paloma (Estados Unidos)",
       "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
@@ -255,6 +346,192 @@
       ],
       "language": "es-MX",
       "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Isabela (Argentina)",
+      "name": "Isabela",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Isabela (mejorada)",
+        "Isabela (millorada)",
+        "Isabela (Enhanced)",
+        "Isabela (premium)",
+        "Isabela (ottimizzata)",
+        "Isabela (melhorada)",
+        "Isabela (erweitert)",
+        "Isabela (Spanish (Argentina))",
+        "Isabela (espagnol (Argentine))",
+        "Isabela (español (Argentina))",
+        "Isabela (spagnolo (Argentina))",
+        "Isabela (gaztenalia (Argentina))",
+        "Isabela (espanyol (Argentina))",
+        "Isabela (espanhol (Argentina))",
+        "Isabela (Spanisch (Argentinien))"
+      ],
+      "language": "es-AR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Diego (Argentina)",
+      "name": "Diego",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Diego (mejorada)",
+        "Diego (millorada)",
+        "Diego (Enhanced)",
+        "Diego (premium)",
+        "Diego (ottimizzata)",
+        "Diego (melhorada)",
+        "Diego (erweitert)",
+        "Diego (Spanish (Argentina))",
+        "Diego (espagnol (Argentine))",
+        "Diego (español (Argentina))",
+        "Diego (spagnolo (Argentina))",
+        "Diego (gaztenalia (Argentina))",
+        "Diego (espanyol (Argentina))",
+        "Diego (espanhol (Argentina))",
+        "Diego (Spanisch (Argentinien))"
+      ],
+      "language": "es-AR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Soledad (Colombia)",
+      "name": "Soledad",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Soledad (mejorada)",
+        "Soledad (millorada)",
+        "Soledad (Enhanced)",
+        "Soledad (premium)",
+        "Soledad (ottimizzata)",
+        "Soledad (melhorada)",
+        "Soledad (erweitert)",
+        "Soledad (Spanish (Colombia))",
+        "Soledad (espagnol (Colombie))",
+        "Soledad (español (Colombia))",
+        "Soledad (spagnolo (Colombia))",
+        "Soledad (gaztenalia (Kolonbia))",
+        "Soledad (espanyol (Kolonbia))",
+        "Soledad (espanhol (Colômbia))",
+        "Soledad (Spanisch (Kolumbien))"
+      ],
+      "language": "es-CO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Jimena (Colombia)",
+      "name": "Jimena",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Jimena (mejorada)",
+        "Jimena (millorada)",
+        "Jimena (Enhanced)",
+        "Jimena (premium)",
+        "Jimena (ottimizzata)",
+        "Jimena (melhorada)",
+        "Jimena (erweitert)",
+        "Jimena (Spanish (Colombia))",
+        "Jimena (espagnol (Colombie))",
+        "Jimena (español (Colombia))",
+        "Jimena (spagnolo (Colombia))",
+        "Jimena (gaztenalia (Kolonbia))",
+        "Jimena (espanyol (Kolonbia))",
+        "Jimena (espanhol (Colômbia))",
+        "Jimena (Spanisch (Kolumbien))"
+      ],
+      "language": "es-CO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Carlos (Colombia)",
+      "name": "Carlos",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Carlos (mejorada)",
+        "Carlos (millorada)",
+        "Carlos (Enhanced)",
+        "Carlos (premium)",
+        "Carlos (ottimizzata)",
+        "Carlos (melhorada)",
+        "Carlos (erweitert)",
+        "Carlos (Spanish (Colombia))",
+        "Carlos (espagnol (Colombie))",
+        "Carlos (español (Colombia))",
+        "Carlos (spagnolo (Colombia))",
+        "Carlos (gaztenalia (Kolonbia))",
+        "Carlos (espanyol (Kolonbia))",
+        "Carlos (espanhol (Colômbia))",
+        "Carlos (Spanisch (Kolumbien))"
+      ],
+      "language": "es-CO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Francesca (Chile)",
+      "name": "Francesca",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Francesca (mejorada)",
+        "Francesca (millorada)",
+        "Francesca (Enhanced)",
+        "Francesca (premium)",
+        "Francesca (ottimizzata)",
+        "Francesca (melhorada)",
+        "Francesca (erweitert)",
+        "Francesca (Spanish (Chile))",
+        "Francesca (espagnol (Chili))",
+        "Francesca (español (Chile))",
+        "Francesca (spagnolo (Chile))",
+        "Francesca (gaztenalia (Txile))",
+        "Francesca (espanyol (Xile))",
+        "Francesca (espanhol (Chile))",
+        "Francesca (Spanisch (Chile))"
+      ],
+      "language": "es-CL",
+      "gender": "female",
       "rate": 1,
       "pitch": 1,
       "os": [
