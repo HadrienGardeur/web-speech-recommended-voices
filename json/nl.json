@@ -1,0 +1,240 @@
+{
+  "language": "nl",
+  "voices": [
+    {
+      "label": "Colette (Nederland)",
+      "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Fenna (Nederland)",
+      "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Maarten (Nederland)",
+      "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Dena (België)",
+      "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "nl-BE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Arnaud (België)",
+      "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "nl-BE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Claire (Nederland)",
+      "name": "Claire",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Claire (verbeterd)",
+        "Claire (Enhanced)",
+        "Claire (premium)",
+        "Claire (mejorada)",
+        "Claire (ottimizzata)",
+        "Claire (melhorada)",
+        "Claire (erweitert)",
+        "Claire (Dutch (Netherlands))",
+        "Claire (néerlandais (Pays-Bas))",
+        "Claire (holandés (Países Bajos))",
+        "Claire (olandese (Olanda))",
+        "Claire (holandês (Países Baixos))",
+        "Claire (Niederländisch (Niederlande))",
+        "Claire (Nederlands (Nederland))",
+      ],
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Xander (Nederland)",
+      "name": "Xander (verbeterd)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Xander (Enhanced)",
+        "Xander (premium)",
+        "Xander (mejorada)",
+        "Xander (ottimizzata)",
+        "Xander (melhorada)",
+        "Xander (erweitert)",
+        "Xander (Dutch (Netherlands))",
+        "Xander (néerlandais (Pays-Bas))",
+        "Xander (holandés (Países Bajos))",
+        "Xander (olandese (Olanda))",
+        "Xander (holandês (Países Baixos))",
+        "Xander (Niederländisch (Niederlande))",
+        "Xander (Nederlands (Nederland))",
+      ],
+      "overrides": "Xander",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Ellen (België)",
+      "name": "Ellen (verbeterd)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Ellen (Enhanced)",
+        "Ellen (premium)",
+        "Ellen (mejorada)",
+        "Ellen (ottimizzata)",
+        "Ellen (melhorada)",
+        "Ellen (erweitert)",
+        "Ellen (Dutch (Belgium))",
+        "Ellen (néerlandais (Belgique))",
+        "Ellen (holandés (Bélgica))",
+        "Ellen (olandese (Belgio))",
+        "Ellen (holandês (Bélgica))",
+        "Ellen (Niederländisch (Belgien))",
+        "Ellen (Nederlands (België))",
+      ],
+      "overrides": "Ellen",
+      "language": "nl-BE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Google (Nederland)",
+      "name": "Google Nederlands",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Frank (Nederland)",
+      "name": "Microsoft Frank - Dutch (Netherlands)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Xander (Nederland)",
+      "name": "Xander",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ellen (België)",
+      "name": "Ellen",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "nl-BE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Nederlandse stem (Nederland)",
+      "name": "nederlands Nederland",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "nl-NL",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Nederlandse stem (België)",
+      "name": "nederlands België",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "language": "nl-BE",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
