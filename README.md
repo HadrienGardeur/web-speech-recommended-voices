@@ -1,6 +1,6 @@
 # Recommended voices for the Web Speech API
 
-> [This repository is part of a larger project](https://github.com/HadrienGardeur/TTS-best-practices), meant to identify best practices for implementing a read aloud feature in reading apps.
+> [This repository is part of a larger project](https://github.com/HadrienGardeur/read-aloud-best-practices), meant to identify best practices for implementing a read aloud feature in reading apps.
 
 With hundreds of voices available by default across various browsers and OS, it can be tricky for developers to provide sensible defaults and a curated list of voices.
 
@@ -236,23 +236,22 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### Android
 
 * For now, we've only covered testing and documentation on vanilla versions of Android, as available on Google Pixel devices. The list of voices available may vary greatly based on OEM, device and Android version.
-* Due to the nature of Android, documenting all these variations will be very difficult. Further attempts will be made in future version of this project through the use of device farms.
+* Due to the nature of Android, documenting all these variations will be very difficult. Further attempts will be made in future version of this project through the use of device farms ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/8)).
 * In recent versions of vanilla Android, there's an excellent selection of high quality voices which cover a wide range of languages/regions (67 as of April 2024).
 * To use these voices, the user needs to go fairly deep in system settings either to download them (only your system language and some of the most popular languages are preloaded by default) or select their preferred voice per language/region.
-* Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions.
+* Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/12)).
 * To make things worse, these voices and regions are all localized with the system locale.
-* Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API.
-* If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead.
+* Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/14)).
+* If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/6)).
 * Even when a voice pack has been installed, the user may need to select a default voice for each region before a language/region can be used at all. 
 * For example, on a device where both `fr-FR` (French from France) and `fr-CA` (French Canadian) voice packs have been installed, TTS may still default to `fr-FR` if `fr-CA` doesn't have a default voice selected.
-* With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default`.
+* With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default` ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/16)).
 
 ### Chrome Desktop
 
-* On desktop, Chrome comes preloaded with a limited selection of 19 high quality voices.
-* All of these voices rely on Machine Learning (ML) and therefore require online access to use them.
-* Unfortunately, these voices are also plagued by a [bug](https://github.com/HadrienGardeur/TTS-recommended-voices/issues/3) if any utterance read by the Web Speech API takes longer than 14 seconds. Playback is stopped after this duration, without any feedback from the Web Speech API to indicate that [the playback has been stopped due to an error](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/error_event).
-* This bug has remained unaddressed for many years now, but [there's a workaround available](https://stackoverflow.com/a/48044163) to implementers where the playback is paused/resumed every 14 seconds.
+* On desktop, Chrome comes preloaded with a limited selection of 19 high quality voices across 15 languages.
+* All of these voices require online access to use them.
+* Unfortunately, these voices are also plagued by a bug if any utterance read by the Web Speech API takes longer than 14 seconds ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/3)) and do not return boundary events ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/4)).
 * Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
 
 ### Chrome OS
@@ -260,6 +259,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 * Chrome OS comes with three sets of voices: Chrome voices (7 languages), Android voices (50+ languages) and eSpeak voices
 * Most Android voices offer offline and online variants and they're on par quality-wise with what Apple offers in terms of downloadable voices.
 * These Android voices have some of the worst names on any platform/browser, making them hardly usable without the kind of re-labeling offered by this project.
+* Google is also gradually adding these Android voices to Chrome OS through the ability to install higher quality voice packs that work offline, re-labeling these voices as "natural voices" in the process.
 * Chrome voices are one step below Android voices, but they offer a decent selection for the most common languages.
 * eSpeak voices should be avoided at all cost due to their extremely low quality and have been skipped entirely while documenting recommended voices for this project.
 
@@ -321,4 +321,4 @@ Through the work done to document a list of recommended voices, I also ended up 
 * [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices.
 * Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded (with the added benefit that they also work offline).
 * Microsoft has been slow to add these natural voices to Windows 11 overall. Until fairly recently, only US voices (3 voices) were available. The list is now a little longer (23 voices) but remains far behind what they offer through Edge (250+ voices).
-* Unfortunately, these higher quality voices are not properly listed in Chrome or Firefox currently. They only show up in Edge, where they're preloaded anyway.
+* Unfortunately, these higher quality voices are not properly listed in Chrome or Firefox currently ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/15)). They only show up in Edge, where they're preloaded anyway but strictly for an online use.
