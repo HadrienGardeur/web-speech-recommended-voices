@@ -84,7 +84,7 @@
         "Claire (olandese (Olanda))",
         "Claire (holandês (Países Baixos))",
         "Claire (Niederländisch (Niederlande))",
-        "Claire (Nederlands (Nederland))",
+        "Claire (Nederlands (Nederland))"
       ],
       "language": "nl-NL",
       "gender": "female",
@@ -113,7 +113,7 @@
         "Xander (olandese (Olanda))",
         "Xander (holandês (Países Baixos))",
         "Xander (Niederländisch (Niederlande))",
-        "Xander (Nederlands (Nederland))",
+        "Xander (Nederlands (Nederland))"
       ],
       "overrides": "Xander",
       "language": "nl-NL",
@@ -143,7 +143,7 @@
         "Ellen (olandese (Belgio))",
         "Ellen (holandês (Bélgica))",
         "Ellen (Niederländisch (Belgien))",
-        "Ellen (Nederlands (België))",
+        "Ellen (Nederlands (België))"
       ],
       "overrides": "Ellen",
       "language": "nl-BE",
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "label": "Google (Nederland)",
+      "label": "Google mannelijke stem (Nederland)",
       "name": "Google Nederlands",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "nl-NL",
@@ -209,6 +209,183 @@
         "macOS",
         "iOS",
         "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 1 (Nederland)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google Nederlands 4 (Natural)",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local"
+      ],
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 2 (Nederland)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google Nederlands 1 (Natural)",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-local"
+      ],
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 3 (Nederland)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google Nederlands 5 (Natural)",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-local"
+      ],
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 4 (Nederland)",
+      "name": "Chrome OS Nederlands 1",
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 5 (Nederland)",
+      "name": "Chrome OS Nederlands 4",
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 6 (Nederland)",
+      "name": "Chrome OS Nederlands 5",
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannelijke stem 1 (Nederland)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google Nederlands 2 (Natural)",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
+      ],
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannelijke stem 2 (Nederland)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google Nederlands 3 (Natural)",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-local"
+      ],
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannelijke stem 3 (Nederland)",
+      "name": "Chrome OS Nederlands 2",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannelijke stem 4 (Nederland)",
+      "name": "Chrome OS Nederlands 3",
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Vrouwelijke stem 1 (België)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bec-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local"
+      ],
+      "language": "nl-NL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannelijke stem 1 (België)",
+      "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bed-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google nl-be-x-bed-local"
+      ],
+      "language": "nl-NL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
       ],
       "preloaded": true
     },

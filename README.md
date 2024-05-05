@@ -265,12 +265,12 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 ### Edge
 
-* On desktop, Edge provides the best selection of high quality voices with over 250 preloaded voices for a wide range of languages/regions.
+* On desktop, Edge provides the best selection of high quality voices with over 250 preloaded voices across 75 languages (as of April 2024).
 * All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
 * A small number of those voices are also multilingual and seem to be able to detect the language of a sentence and adapt accordingly. Unfortunately, this doesn't work as well when there's a language switch in the middle of a sentence.
 * On macOS at least, there's a weird bug where Edge only displays 18 natural voices initially, but this extends to 250+ once Web Speech API has been used to output an utterance.
 * On mobile, Edge isn't nearly as interesting: 
-  * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API. 
+  * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/20)). 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
   
 ### Firefox
@@ -313,12 +313,12 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### Safari
 
 * For better or for worse, Safari's behaviour is mostly consistent between its desktop and mobile versions.
-* Downloadable voices or higher quality variants of preloaded voices do not show up in the list returned by the Web Speech API.
-* All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default.
+* Downloadable voices or higher quality variants of preloaded voices do not show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/19)).
+* All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/16)).
 
 ### Windows
 
-* [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices.
+* [Microsoft provides a very helpful page](https://support.microsoft.com/en-us/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01), listing all voices available across Windows 10 and 11 for a total of 98 voices across 36 languages.
 * Natural voices provide a far better experience but they require an up-to-date version of Windows 11 and need to be downloaded (with the added benefit that they also work offline).
-* Microsoft has been slow to add these natural voices to Windows 11 overall. Until fairly recently, only US voices (3 voices) were available. The list is now a little longer (23 voices) but remains far behind what they offer through Edge (250+ voices).
+* Microsoft has been slow to add these natural voices to Windows 11 overall. Until fairly recently, only US voices (3 voices) were available. The list is now a little longer (23 voices across 8 languages) but remains far behind what they offer through Edge (250+ voices across 75 languages).
 * Unfortunately, these higher quality voices are not properly listed in Chrome or Firefox currently ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/15)). They only show up in Edge, where they're preloaded anyway but strictly for an online use.
