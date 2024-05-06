@@ -688,7 +688,10 @@
     {
       "label": "Voz femenina 1 (España)",
       "name": "Android Speech Recognition and Synthesis from Google es-es-x-eee-local",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice as well.",
+      "altNames": [
+        "Google español 4 (Natural)"
+      ],
       "language": "es-ES",
       "gender": "female",
       "rate": 1,
@@ -701,7 +704,11 @@
     {
       "label": "Voz femenina 2 (España)",
       "name": "Android Speech Recognition and Synthesis from Google es-es-x-eea-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google español 1 (Natural)",
+        "Android Speech Recognition and Synthesis from Google es-es-x-eea-local"
+      ],
       "language": "es-ES",
       "gender": "female",
       "rate": 1,
@@ -714,7 +721,11 @@
     {
       "label": "Voz femenina 3 (España)",
       "name": "Android Speech Recognition and Synthesis from Google es-es-x-eec-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google español 2 (Natural)",
+        "Android Speech Recognition and Synthesis from Google es-es-x-eec-local"
+      ],
       "language": "es-ES",
       "gender": "female",
       "rate": 1,
@@ -763,7 +774,11 @@
     {
       "label": "Voz masculina 1 (España)",
       "name": "Android Speech Recognition and Synthesis from Google es-es-x-eed-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google español 3 (Natural)",
+        "Android Speech Recognition and Synthesis from Google es-es-x-eed-local"
+      ],
       "language": "es-ES",
       "gender": "male",
       "rate": 1,
@@ -776,7 +791,10 @@
     {
       "label": "Voz masculina 2 (España)",
       "name": "Android Speech Recognition and Synthesis from Google es-es-x-eef-local",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice as well.",
+      "altNames": [
+        "Google español 5 (Natural)"
+      ],
       "language": "es-ES",
       "gender": "male",
       "rate": 1,
@@ -802,6 +820,70 @@
       "label": "Voz masculina 4 (España)",
       "name": "Chrome OS español 5",
       "language": "es-ES",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 1 (Estados Unidos)",
+      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esc-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-esc-local"
+      ],
+      "language": "es-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz femenina 2 (Estados Unidos)",
+      "name": "Android Speech Recognition and Synthesis from Google es-us-x-sfb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-sfb-local"
+      ],
+      "language": "es-US",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 1 (Estados Unidos)",
+      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esd-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-esd-local"
+      ],
+      "language": "es-US",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voz masculina 2 (Estados Unidos)",
+      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esf-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-esf-local"
+      ],
+      "language": "es-US",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
