@@ -335,7 +335,10 @@
     {
       "label": "Voz feminina 1 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-local"
+      ],
       "language": "pt-PT",
       "gender": "female",
       "rate": 1,
@@ -348,7 +351,10 @@
     {
       "label": "Voz feminina 2 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-local"
+      ],
       "language": "pt-PT",
       "gender": "female",
       "rate": 1,
@@ -361,7 +367,10 @@
     {
       "label": "Voz masculina 1 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-local"
+      ],
       "language": "pt-PT",
       "gender": "male",
       "rate": 1,
@@ -374,7 +383,10 @@
     {
       "label": "Voz masculina 2 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-local"
+      ],
       "language": "pt-PT",
       "gender": "male",
       "rate": 1,
@@ -387,7 +399,10 @@
     {
       "label": "Voz feminina 1 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-afs-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-br-x-afs-local"
+      ],
       "language": "pt-BR",
       "gender": "female",
       "rate": 1,
@@ -400,7 +415,10 @@
     {
       "label": "Voz feminina 2 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-pte-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-br-x-pte-local"
+      ],
       "language": "pt-BR",
       "gender": "female",
       "rate": 1,
@@ -413,7 +431,10 @@
     {
       "label": "Voz masculina 1 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-local"
+      ],
       "language": "pt-BR",
       "gender": "male",
       "rate": 1,

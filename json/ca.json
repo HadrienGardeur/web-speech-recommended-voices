@@ -132,6 +132,10 @@
     {
       "label": "Veu femenina catalana",
       "name": "Android Speech Recognition and Synthesis from Google ca-es-x-caf-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ca-es-x-caf-local"
+      ],
       "language": "ca-ES",
       "otherLanguages": [
         "es"
