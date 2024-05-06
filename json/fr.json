@@ -196,12 +196,14 @@
         "Audrey (ottimizzata)",
         "Audrey (melhorada)",
         "Audrey (erweitert)",
+        "Audrey (verbeterd)",
         "Audrey (French (France))",
         "Audrey (français (France))",
         "Audrey (francés (Francia))",
         "Audrey (francese (Francia))",
         "Audrey (francês (França))",
-        "Audrey (Französisch (Frankreich))"
+        "Audrey (Französisch (Frankreich))",
+        "Audrey (Frans (Frankrijk))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -224,12 +226,14 @@
         "Aurélie (ottimizzata)",
         "Aurélie (melhorada)",
         "Aurélie (erweitert)",
+        "Aurélie (verbeterd)",
         "Aurélie (French (France))",
         "Aurélie (français (France))",
         "Aurélie (francés (Francia))",
         "Aurélie (francese (Francia))",
         "Aurélie (francês (França))",
-        "Aurélie (Französisch (Frankreich))"
+        "Aurélie (Französisch (Frankreich))",
+        "Aurélie (Frans (Frankrijk))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -251,12 +255,14 @@
         "Thomas (ottimizzata)",
         "Thomas (melhorada)",
         "Thomas (erweitert)",
+        "Thomas (verbeterd)",
         "Thomas (French (France))",
         "Thomas (français (France))",
         "Thomas (francés (Francia))",
         "Thomas (francese (Francia))",
         "Thomas (francês (França))",
-        "Thomas (Französisch (Frankreich))"
+        "Thomas (Französisch (Frankreich))",
+        "Thomas (Frans (Frankrijk))"
       ],
       "overrides": "Thomas",
       "language": "fr-FR",
@@ -280,12 +286,14 @@
         "Aude (ottimizzata)",
         "Aude (melhorada)",
         "Aude (erweitert)",
+        "Aude (verbeterd)",
         "Aude (French (Belgium))",
         "Aude (français (Belgique))",
         "Aude (francés (Bélgica))",
         "Aude (francese (Belgio))",
         "Aude (francês (Bélgica))",
-        "Aude (Französisch (Frankreich))"
+        "Aude (Französisch (Belgien))",
+        "Aude (Frans (België))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -308,12 +316,14 @@
         "Chantal (ottimizzata)",
         "Chantal (melhorada)",
         "Chantal (erweitert)",
+        "Chantal (verbeterd)",
         "Chantal (French (Canada))",
         "Chantal (français (Canada))",
         "Chantal (francés (Canada))",
         "Chantal (francese (Canada))",
         "Chantal (francês (Canadá))",
-        "Chantal (Französisch (Kanada))"
+        "Chantal (Französisch (Kanada))",
+        "Chantal (Frans (Canada))"
       ],
       "language": "fr-CA",
       "gender": "female",
@@ -337,7 +347,8 @@
         "Amélie (francés (Canada))",
         "Amélie (francese (Canada))",
         "Amélie (francês (Canadá))",
-        "Amélie (Französisch (Kanada))"
+        "Amélie (Französisch (Kanada))",
+        "Amélie (Frans (Canada))"
       ],
       "overrides": "Amélie",
       "language": "fr-CA",
@@ -361,12 +372,14 @@
         "Nicolas (ottimizzata)",
         "Nicolas (melhorada)",
         "Nicolas (erweitert)",
+        "Nicolas (verbeterd)",
         "Nicolas (French (Canada))",
         "Nicolas (français (Canada))",
         "Nicolas (francés (Canada))",
         "Nicolas (francese (Canada))",
         "Nicolas (francês (Canadá))",
-        "Nicolas (Französisch (Kanada))"
+        "Nicolas (Französisch (Kanada))",
+        "Nicolas (Frans (Canada))"
       ],
       "language": "fr-CA",
       "gender": "male",
