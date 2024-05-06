@@ -293,22 +293,11 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * macOS provides an extensive list of voices across 45 languages, both preloaded or downloadable.
 * These voices can have up to three different variants, based on the quality of the output (and download size).
-* The highest quality voices are probably the ones available for Siri, but they're unfortunately unavailable through the Web Speech API.
+* The highest quality voices are probably the ones available for Siri, but they're unfortunately unavailable through the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/22)).
 * At the other end of the spectrum, Apple had the unfortunate idea of preloading a large range of low quality and weird voices such as the Eloquence (8 voices) and Effects (15 voices) voice packs.
 * The existence of these voices alone is a good reason to filter voices available to macOS users and highlight the ones recommended on this repo.
-* Unlike other platforms/OS, macOS decided to localize voice names. This wouldn't be an issue if `voiceURI` could be used as a reliable identifier for voices, but that's not the case.
-* The way voice names are localized is quite inconsistent across browsers:
-	* Some preloaded voices are simply displayed using a first name ("Thomas")
-	* For a few of these voices, Apple can even localize the first name ("Audrey" becoming "Andrea" for example)
-	* But if you install a higher quality version, you end up with something different:
-		* On Safari, the lower and higher quality versions are simply displayed usting the first name twice
-		* On newer versions of Chrome and Edge, both voice names become "First name (language (country)" where the language and the country are localized based on system settings, but all options seem to use the highest quality available
-		* While on Firefox (and older versions of Chrome/edge), only the higher quality versions of the voice name change to "First name (quality)" where quality is also localized based on system settings
-	* Downloaded voices also end up with the same inconsistent naming/localization issues.
-* This approach makes it very difficult to identify voices on macOS and adds a lot of complexity to this project. Without this specific issue, there wouldn't be a need to document alternate names.
-* Even with alternate names, this can be partially hit and miss due to these inconsistencies:
-	* In French the medium quality voices are labeled as "premium" while this refers to the highest quality variant in English.
-	* In its current state, this repo only documents localizations for 4 languages and not all 45 languages supported by the macOS TTS engine.
+* Unlike other platforms/OS, macOS decided to localize voice names. This wouldn't be an issue if `voiceURI` could be used as a reliable identifier for voices, but that's not the case ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/23)).
+* In its current state, this repo only documents localizations for the languages supported officially and not the 45 languages supported by the macOS TTS engine.
 
 ### Safari
 
