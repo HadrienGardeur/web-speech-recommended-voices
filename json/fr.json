@@ -515,7 +515,11 @@
     {
       "label": "Voix féminine 1 (France)",
       "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google français 2 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -528,7 +532,11 @@
     {
       "label": "Voix féminine 2 (France)",
       "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google français 4 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -540,7 +548,12 @@
     },
     {
       "label": "Voix féminine 3 (France)",
-      "name": "Chrome OS français 1",
+      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google français 1 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -552,7 +565,7 @@
     },
     {
       "label": "Voix féminine 4 (France)",
-      "name": "Chrome OS français 2",
+      "name": "Chrome OS français 1",
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
@@ -564,6 +577,18 @@
     },
     {
       "label": "Voix féminine 5 (France)",
+      "name": "Chrome OS français 2",
+      "language": "fr-FR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Voix féminine 6 (France)",
       "name": "Chrome OS français 4",
       "language": "fr-FR",
       "gender": "female",
@@ -577,7 +602,11 @@
     {
       "label": "Voix masculine 1 (France)",
       "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google français 5 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-local"
+      ],
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,
@@ -590,7 +619,11 @@
     {
       "label": "Voix masculine 2 (France)",
       "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
+      "altNames": [
+        "Google français 3 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-local"
+      ],
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,
