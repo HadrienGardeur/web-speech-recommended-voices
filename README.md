@@ -228,8 +228,8 @@ Through the work done to document a list of recommended voices, I also ended up 
 * `localService` indicates if a voice is available for offline use and it seems to be working as expected, which is why the current list of recommended voices doesn't contain that information.
 * `lang` seems to be mostly reliable across implementations, returning a language using BCP 47 language tags, with the main language in downcase and the subtag in uppercase (`pt-BR`).
 * There are unfortunately a few outliers:
-	* On Android, Samsung and Chrome use an underscore as the separator instead (`en_us`)
-	* While Firefox on Android gets even more creative, using three letter codes for languages and adding an extra string at the end (`eng-US-f000`)
+	* On Android, Samsung and Chrome use an underscore as the separator instead: `en_us` ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/13))
+	* While Firefox on Android gets even more creative, using three letter codes for languages and adding an extra string at the end: `eng-US-f000` ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/17))
 * `default` is meant to indicate if a voice is the default voice for the current app language. In theory this should be extremely useful, but in practice it's really hard to use due to inconsistencies across implementations, limited context (system default vs user default) and the lack of capability for setting a default voice per language.
 * In addition to the use of `default`, implementers should always consider using the `Accept-Language` HTTP header as well, as it contains an ordered list of preferred language/region for a given user.
 
@@ -244,15 +244,16 @@ Through the work done to document a list of recommended voices, I also ended up 
 * Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/14)).
 * If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/6)).
 * Even when a voice pack has been installed, the user may need to select a default voice for each region before a language/region can be used at all. 
-* For example, on a device where both `fr-FR` (French from France) and `fr-CA` (French Canadian) voice packs have been installed, TTS may still default to `fr-FR` if `fr-CA` doesn't have a default voice selected.
 * With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default` ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/16)).
 
 ### Chrome Desktop
 
 * On desktop, Chrome comes preloaded with a limited selection of 19 high quality voices across 15 languages.
-* All of these voices require online access to use them.
+* All of these voices require online access to use them, without any fallback to a lower quality offline variant.
 * Unfortunately, these voices are also plagued by a bug if any utterance read by the Web Speech API takes longer than 14 seconds ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/3)) and do not return boundary events ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/4)).
 * Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
+* Overall, it's unfortunate that Chrome Desktop is lagging far behind Android and Chrome OS when it comes to the range of voices and languages supported by default ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/21)).
+
 
 ### Chrome OS
 
@@ -285,7 +286,6 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 * Both OS come with the same set of preloaded voices and downloadable voices than macOS. [Read the macOS section](#macOS) below for additional information about the voices available.
 * For an unknown reason, some preloaded voices are also listed twice but provide the same audio output.
-* Settings seem to hint at the ability to define a default voice per language (which would be excellent) but this is ruined by the fact that Safari marks all voices as being the default one.
 * All browsers need to run on the system webview which means that they're just a shell on top of Safari Mobile rather than truly different browsers.
 * This situation could change due to the Digital Market Act in Europe, forcing Apple to change its policy on third-party browsers and webviews.
 
