@@ -6,6 +6,11 @@ With hundreds of voices available by default across various browsers and OS, it 
 
 With its focus on voice selection, the goal of this project is to document higher quality voices available on various platforms and provide an easy way to implement these recommendations using JSON configuration files.
 
+## Demo
+
+[A live demo](https://hadriengardeur.github.io/web-speech-recommended-voices/demo/) is available to test which recommended voices are available in your browser.
+
+
 ## List of supported languages
 
 * [Basque](json/eu.json) 
