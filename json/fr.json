@@ -1,5 +1,6 @@
 {
   "language": "fr",
+  "testUtterance": "Ce texte permet de tester si ces voix en français sont à la hauteur de la tâche.",
   "voices": [
     {
       "label": "Vivienne (France)",
@@ -237,7 +238,7 @@
       ],
       "language": "fr-FR",
       "gender": "female",
-      "rate": 1,
+      "rate": 0.9,
       "pitch": 1,
       "os": [
         "macOS",

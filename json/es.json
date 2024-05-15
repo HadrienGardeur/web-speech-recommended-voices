@@ -1,5 +1,6 @@
 {
   "language": "es",
+  "testUtterance": "Este texto está destinado a comprobar si estas voces en español suenan tan bien como deberían.",
   "voices": [
     {
       "label": "Elvira (España)",

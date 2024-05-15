@@ -1,5 +1,6 @@
 {
   "language": "de",
+  "testUtterance": "Dieser Text soll testen, ob diese deutschen Stimmen so gut klingen, wie sie sollten.",
   "voices": [
     {
       "label": "Seraphina (Deutschland)",

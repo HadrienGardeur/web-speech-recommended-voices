@@ -11,6 +11,8 @@ languageSelect.addEventListener('change', async function() {
   const selectedLanguage = languageSelect.value;
   const jsonData = await loadJSONData("../json/"+selectedLanguage+".json");
 
+  const defaultText = document.getElementById('text-to-read');
+  defaultText.value = jsonData.testUtterance
 
   const availableVoices = filterAvailableVoices(jsonData);
   const voiceDropdownHTML = generateVoiceDropdownHTML(availableVoices);

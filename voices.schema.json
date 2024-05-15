@@ -7,6 +7,9 @@
     "language": {
       "type": "string"
     },
+    "testUtterance": {
+      "type": "string"
+    },
     "voices": {
       "type": "array",
       "minItems": 1,
