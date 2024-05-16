@@ -453,6 +453,11 @@
       "label": "Deutsche Stimme",
       "name": "deutsch Deutschland",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "German Germany",
+        "allemand Allemagne",
+        "alemán Alemania"
+      ],
       "language": "de-DE",
       "rate": 1,
       "pitch": 1,

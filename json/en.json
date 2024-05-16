@@ -1333,8 +1333,12 @@
     },
     {
       "label": "US voice",
-      "name": "english United-States",
+      "name": "English United States",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "anglais États-Unis",
+        "inglés Estados Unidos"
+      ],
       "language": "en-US",
       "rate": 1,
       "pitch": 1,
@@ -1345,8 +1349,12 @@
     },
     {
       "label": "UK voice",
-      "name": "english Great Britain",
+      "name": "English United Kingdom",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "anglais Royaume-Uni",
+        "inglés Reino Unido"
+      ],
       "language": "en-GB",
       "rate": 1,
       "pitch": 1,

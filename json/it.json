@@ -373,6 +373,11 @@
       "label": "Voce italiana",
       "name": "italiano Italia",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Italian Italy",
+        "italien Italie",
+        "italiano Italia"
+      ],
       "language": "it-IT",
       "rate": 1,
       "pitch": 1,

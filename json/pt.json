@@ -449,6 +449,11 @@
       "label": "Voz do Portugal",
       "name": "português Portugal",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Portuguese Portugal",
+        "portugais Portugal",
+        "portugués Portugal"
+      ],
       "language": "pt-PT",
       "rate": 1,
       "pitch": 1,
@@ -461,6 +466,11 @@
       "label": "Voz do Brasil",
       "name": "português Brasil",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Portuguese Brazil",
+        "portugais Brésil",
+        "portugués Brasil"
+      ],
       "language": "pt-BR",
       "rate": 1,
       "pitch": 1,

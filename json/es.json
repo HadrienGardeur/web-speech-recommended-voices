@@ -897,6 +897,10 @@
       "label": "Voz de España",
       "name": "español España",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Spanish Spain",
+        "espagnol Espagne"
+      ],
       "language": "es-ES",
       "rate": 1,
       "pitch": 1,
@@ -909,6 +913,10 @@
       "label": "Voz de Estados Unidos",
       "name": "español Estados Unidos",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Spanish United States",
+        "espagnol États-Unis"
+      ],
       "language": "es-US",
       "rate": 1,
       "pitch": 1,
