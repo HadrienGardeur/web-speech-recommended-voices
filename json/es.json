@@ -899,7 +899,12 @@
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "Spanish Spain",
-        "espagnol Espagne"
+        "espagnol Espagne",
+        "spagnolo Spagna",
+        "Spanisch Spanien"
+        "Spaans Spanje",
+        "espanhol Espanha",
+        "espanyol Espanya"
       ],
       "language": "es-ES",
       "rate": 1,
@@ -915,7 +920,12 @@
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "Spanish United States",
-        "espagnol États-Unis"
+        "espagnol États-Unis",
+        "spagnolo Stati Uniti",
+        "Spanisch Vereinigte Staaten"
+        "Spaans Verenigde Staten",
+        "espanhol Estados Unidos",
+        "espanyol Estats Units"
       ],
       "language": "es-US",
       "rate": 1,

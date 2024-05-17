@@ -151,12 +151,16 @@
     },
     {
       "label": "Veu catalana",
-      "name": "catalan España",
+      "name": "català Espanya",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "Catalan Spain",
         "catalan Espagne",
-        "catalán España"
+        "catalán España",
+        "catalano Spagna",
+        "Katalanisch Spanien",
+        "Catalaans Spanje",
+        "catalão Espanha"
       ],
       "language": "ca-ES",
       "rate": 1,

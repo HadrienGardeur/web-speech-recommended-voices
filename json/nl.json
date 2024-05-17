@@ -392,12 +392,15 @@
     },
     {
       "label": "Nederlandse stem (Nederland)",
-      "name": "nederlands Nederland",
+      "name": "Nederlands Nederland",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "Dutch Netherlands",
         "néerlandais Pays-Bas",
-        "neerlandés Países Bajos"
+        "neerlandés Países Bajos",
+        "Niederländisch Niederlande",
+        "neerlandés Países Baixos",
+        "neerlandès Països Baixos"
       ],
       "language": "nl-NL",
       "rate": 1,
@@ -409,12 +412,16 @@
     },
     {
       "label": "Nederlandse stem (België)",
-      "name": "nederlands België",
+      "name": "Nederlands België",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "Dutch Belgium",
         "néerlandais Belgique",
-        "neerlandés Bélgica"
+        "neerlandés Bélgica",
+        "olandese Belgio",
+        "Niederländisch Belgien",
+        "neerlandés Bélgica",
+        "neerlandès Bèlgica"
       ],
       "language": "nl-BE",
       "rate": 1,

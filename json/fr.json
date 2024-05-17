@@ -716,7 +716,12 @@
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "French France",
-        "francés Francia"
+        "francés Francia",
+        "francese Francia",
+        "Französisch Frankreich"
+        "Frans Frankrijk",
+        "francês França",
+        "francès França"
       ],
       "language": "fr-FR",
       "rate": 1,
@@ -732,7 +737,12 @@
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
         "French Canada",
-        "francés Canadá"
+        "francés Canadá",
+        "francese Canada",
+        "Französisch Kanada"
+        "Frans Canada",
+        "francês Canadá",
+        "francès Canadà"
       ],
       "language": "fr-CA",
       "rate": 1,
