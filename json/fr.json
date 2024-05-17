@@ -198,13 +198,15 @@
         "Audrey (melhorada)",
         "Audrey (erweitert)",
         "Audrey (verbeterd)",
+        "Audrey (millorada)",
         "Audrey (French (France))",
         "Audrey (français (France))",
         "Audrey (francés (Francia))",
         "Audrey (francese (Francia))",
         "Audrey (francês (França))",
         "Audrey (Französisch (Frankreich))",
-        "Audrey (Frans (Frankrijk))"
+        "Audrey (Frans (Frankrijk))",
+        "Audrey (francès (França))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -228,13 +230,15 @@
         "Aurélie (melhorada)",
         "Aurélie (erweitert)",
         "Aurélie (verbeterd)",
+        "Aurélie (millorada)",
         "Aurélie (French (France))",
         "Aurélie (français (France))",
         "Aurélie (francés (Francia))",
         "Aurélie (francese (Francia))",
         "Aurélie (francês (França))",
         "Aurélie (Französisch (Frankreich))",
-        "Aurélie (Frans (Frankrijk))"
+        "Aurélie (Frans (Frankrijk))",
+        "Aurélie (francès (França))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -257,13 +261,15 @@
         "Thomas (melhorada)",
         "Thomas (erweitert)",
         "Thomas (verbeterd)",
+        "Thomas (millorada)",
         "Thomas (French (France))",
         "Thomas (français (France))",
         "Thomas (francés (Francia))",
         "Thomas (francese (Francia))",
         "Thomas (francês (França))",
         "Thomas (Französisch (Frankreich))",
-        "Thomas (Frans (Frankrijk))"
+        "Thomas (Frans (Frankrijk))",
+        "Thomas (francès (França))"
       ],
       "overrides": "Thomas",
       "language": "fr-FR",
@@ -288,13 +294,15 @@
         "Aude (melhorada)",
         "Aude (erweitert)",
         "Aude (verbeterd)",
+        "Aude (millorada)",
         "Aude (French (Belgium))",
         "Aude (français (Belgique))",
         "Aude (francés (Bélgica))",
         "Aude (francese (Belgio))",
         "Aude (francês (Bélgica))",
         "Aude (Französisch (Belgien))",
-        "Aude (Frans (België))"
+        "Aude (Frans (België))",
+        "Aude (francès (Bèlgica))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -318,13 +326,15 @@
         "Chantal (melhorada)",
         "Chantal (erweitert)",
         "Chantal (verbeterd)",
+        "Chantal (millorada)",
         "Chantal (French (Canada))",
         "Chantal (français (Canada))",
         "Chantal (francés (Canada))",
         "Chantal (francese (Canada))",
         "Chantal (francês (Canadá))",
         "Chantal (Französisch (Kanada))",
-        "Chantal (Frans (Canada))"
+        "Chantal (Frans (Canada))",
+        "Chantal (francès (Canadà))"
       ],
       "language": "fr-CA",
       "gender": "female",
@@ -349,7 +359,8 @@
         "Amélie (francese (Canada))",
         "Amélie (francês (Canadá))",
         "Amélie (Französisch (Kanada))",
-        "Amélie (Frans (Canada))"
+        "Amélie (Frans (Canada))",
+        "Amélie (francès (Canadà))"
       ],
       "overrides": "Amélie",
       "language": "fr-CA",
@@ -374,13 +385,15 @@
         "Nicolas (melhorada)",
         "Nicolas (erweitert)",
         "Nicolas (verbeterd)",
+        "Nicolas (millorada)",
         "Nicolas (French (Canada))",
         "Nicolas (français (Canada))",
         "Nicolas (francés (Canada))",
         "Nicolas (francese (Canada))",
         "Nicolas (francês (Canadá))",
         "Nicolas (Französisch (Kanada))",
-        "Nicolas (Frans (Canada))"
+        "Nicolas (Frans (Canada))",
+        "Nicolas (francès (Canadà))"
       ],
       "language": "fr-CA",
       "gender": "male",
@@ -718,7 +731,7 @@
         "French France",
         "francés Francia",
         "francese Francia",
-        "Französisch Frankreich"
+        "Französisch Frankreich",
         "Frans Frankrijk",
         "francês França",
         "francès França"
@@ -739,7 +752,7 @@
         "French Canada",
         "francés Canadá",
         "francese Canada",
-        "Französisch Kanada"
+        "Französisch Kanada",
         "Frans Canada",
         "francês Canadá",
         "francès Canadà"
