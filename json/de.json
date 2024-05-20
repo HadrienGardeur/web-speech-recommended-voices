@@ -32,17 +32,15 @@
     {
       "label": "Katja (Deutschland)",
       "name": "Microsoft Katja Online (Natural) - German (Germany)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "de-DE",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Florian (Deutschland)",
@@ -61,17 +59,15 @@
     {
       "label": "Conrad (Deutschland)",
       "name": "Microsoft Conrad Online (Natural) - German (Germany)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "de-DE",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Killian (Deutschland)",

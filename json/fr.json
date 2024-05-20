@@ -19,17 +19,15 @@
     {
       "label": "Denise (France)",
       "name": "Microsoft Denise Online (Natural) - French (France)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "fr-FR",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Charline (Belgique)",
@@ -88,17 +86,15 @@
     {
       "label": "Henri (France)",
       "name": "Microsoft Henri Online (Natural) - French (France)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "fr-FR",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Gerard (Belgique)",

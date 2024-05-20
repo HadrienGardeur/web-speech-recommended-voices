@@ -31,17 +31,15 @@
     {
       "label": "Francisca (Brasil)",
       "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "pt-BR",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Thalita (Brasil)",
@@ -59,17 +57,15 @@
     {
       "label": "Antonio (Brasil)",
       "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "pt-BR",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Catarina (Portugal)",

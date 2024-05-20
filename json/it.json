@@ -1,6 +1,6 @@
 {
   "language": "it",
-  "testUtterance": "Questo testo ha lo scopo di testare se queste voci italiane suonano bene come dovrebbero.",
+  "testUtterance": "Questo testo ha lo scopo di verificare se queste voci italiane suonano bene come dovrebbero.",
   "voices": [
     {
       "label": "Elsa (Alta qualita)",

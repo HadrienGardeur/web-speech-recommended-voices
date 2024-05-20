@@ -4,32 +4,28 @@
     {
       "label": "Sabela",
       "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Roi",
       "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Carmela",

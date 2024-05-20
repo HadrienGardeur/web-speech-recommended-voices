@@ -19,32 +19,28 @@
     {
       "label": "Jenny (US)",
       "name": "Microsoft Jenny Online (Natural) - English (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Aria (US)",
       "name": "Microsoft Aria Online (Natural) - English (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Michelle (US)",
@@ -104,17 +100,15 @@
     {
       "label": "Guy (US)",
       "name": "Microsoft Guy Online (Natural) - English (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Eric (US)",
@@ -171,17 +165,15 @@
     {
       "label": "Sonia (UK)",
       "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-GB",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Libby (UK)",
@@ -213,17 +205,15 @@
     {
       "label": "Ryan (UK)",
       "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
-      "note": "This voice is pre-loaded in Edge on desktop. In other browsers, it requires the user to run Windows 11 and install the voice pack.",
+      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
-      "os": [
-        "Windows"
-      ],
       "browser": [
         "Edge"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Thomas (UK)",
