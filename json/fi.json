@@ -1,0 +1,150 @@
+{
+  "language": "fi",
+  "testUtterance": "Tämä on suomalainen äänitesti äänenlaadun tarkistamiseksi.",
+  "voices": [
+    {
+      "label": "Noora",
+      "name": "Microsoft Noora Online (Natural) - Finnish (Finland)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "fi-FI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Harri",
+      "name": "Microsoft Harri Online (Natural) - Finnish (Finland)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "fi-FI",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Satu",
+      "name": "Satu (parannettu)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Satu (Enhanced)",
+        "Satu (premium)",
+        "Satu (mejorada)",
+        "Satu (ottimizzata)",
+        "Satu (erweitert)",
+        "Satu (melhorada)",
+        "Satu (verbeterd)",
+        "Satu (millorada)",
+        "Satu (Finnish (Finland))",
+        "Satu (finnois (Finlande))",
+        "Satu (finés (Finlandia))",
+        "Satu (finlandese (Finlandia))",
+        "Satu (finlandês (Finlândia))",
+        "Satu (Finnisch (Finnland))",
+        "Satu (Fins (Finland))",
+        "Satu (finès (Finlàndia))",
+        "Satu (suomi (Suomi))"
+      ],
+      "overrides": "Satu",
+      "language": "fi-FI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Onni",
+      "name": "Onni",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Onni (parannettu)",
+        "Onni (Enhanced)",
+        "Onni (premium)",
+        "Onni (mejorada)",
+        "Onni (ottimizzata)",
+        "Onni (erweitert)",
+        "Onni (melhorada)",
+        "Onni (verbeterd)",
+        "Onni (millorada)",
+        "Onni (Finnish (Finland))",
+        "Onni (finnois (Finlande))",
+        "Onni (finés (Finlandia))",
+        "Onni (finlandese (Finlandia))",
+        "Onni (finlandês (Finlândia))",
+        "Onni (Finnisch (Finnland))",
+        "Onni (Fins (Finland))",
+        "Onni (finès (Finlàndia))",
+        "Onni (suomi (Suomi))"
+      ],
+      "language": "fi-FI",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Heidi",
+      "name": "Microsoft Heidi - Finnish (Finland)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "fi-FI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Satu",
+      "name": "Satu",
+      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "fi-FI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suomalainen ääni",
+      "name": "suomi Suomi",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Finnish Finland",
+        "finnois Finlande",
+        "finés Finlandia",
+        "finlandese Finlandia",
+        "finlandês Finlândia",
+        "Finnisch Finnland",
+        "Fins Finland",
+        "finès Finlàndia"
+      ],
+      "language": "fi-FI",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
