@@ -125,6 +125,22 @@
       "preloaded": true
     },
     {
+      "label": "Suomalainen naisääni",
+      "name": "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local"
+      ],
+      "language": "fi-FI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Suomalainen ääni",
       "name": "suomi Suomi",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
