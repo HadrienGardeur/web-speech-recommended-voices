@@ -175,6 +175,7 @@
         "Marisol (erweitert)",
         "Marisol (verbeterd)",
         "Marisol (millorada)",
+        "Marisol (parannettu)",
         "Marisol (Spanish (Spain))",
         "Marisol (espagnol (Espagne))",
         "Marisol (español (España))",
@@ -183,7 +184,8 @@
         "Marisol (espanyol (Espanya))",
         "Marisol (espanhol (Espanha))",
         "Marisol (Spanisch (Spanien))",
-        "Marisol (Spaans (Spanje))"
+        "Marisol (Spaans (Spanje))",
+        "Marisol (espanja (Espanja))"
       ],
       "language": "es-ES",
       "gender": "female",
@@ -208,6 +210,7 @@
         "Mónica (erweitert)",
         "Mónica (verbeterd)",
         "Mónica (millorada)",
+        "Mónica (parannettu)",
         "Mónica (Spanish (Spain))",
         "Mónica (espagnol (Espagne))",
         "Mónica (español (España))",
@@ -216,7 +219,8 @@
         "Mónica (espanyol (Espanya))",
         "Mónica (espanhol (Espanha))",
         "Mónica (Spanisch (Spanien))",
-        "Mónica (Spaans (Spanje))"
+        "Mónica (Spaans (Spanje))",
+        "Mónica (espanja (Espanja))"
       ],
       "overrides": "Mónica",
       "language": "es-ES",
@@ -243,6 +247,7 @@
         "Jorge (erweitert)",
         "Jorge (verbeterd)",
         "Jorge (millorada)",
+        "Jorge (parannettu)",
         "Jorge (Spanish (Spain))",
         "Jorge (espagnol (Espagne))",
         "Jorge (español (España))",
@@ -251,7 +256,8 @@
         "Jorge (espanyol (Espanya))",
         "Jorge (espanhol (Espanha))",
         "Jorge (Spanisch (Spanien))",
-        "Jorge (Spaans (Spanje))"
+        "Jorge (Spaans (Spanje))",
+        "Jorge (espanja (Espanja))"
       ],
       "language": "es-ES",
       "gender": "male",
@@ -277,6 +283,7 @@
         "Angelica (erweitert)",
         "Angelica (verbeterd)",
         "Angelica (millorada)",
+        "Angelica (parannettu)",
         "Angelica (Spanish (Mexico))",
         "Angelica (espagnol (Mexique))",
         "Angelica (español (México))",
@@ -285,7 +292,8 @@
         "Angelica (espanyol (Mèxic))",
         "Angelica (espanhol (México))",
         "Angelica (Spanisch (Mexiko))",
-        "Angelica (Spaans (Mexico))"
+        "Angelica (Spaans (Mexico))",
+        "Angelica (espanja (Meksiko))"
       ],
       "language": "es-MX",
       "gender": "female",
@@ -310,6 +318,7 @@
         "Paulina (erweitert)",
         "Paulina (verbeterd)",
         "Paulina (millorada)",
+        "Paulina (parannettu)",
         "Paulina (Spanish (Mexico))",
         "Paulina (espagnol (Mexique))",
         "Paulina (español (México))",
@@ -318,7 +327,8 @@
         "Paulina (espanyol (Mèxic))",
         "Paulina (espanhol (México))",
         "Paulina (Spanisch (Mexiko))",
-        "Paulina (Spaans (Mexico))"
+        "Paulina (Spaans (Mexico))",
+        "Paulina (espanja (Meksiko))"
       ],
       "overrides": "Paulina",
       "language": "es-MX",
@@ -345,6 +355,7 @@
         "Juan (erweitert)",
         "Juan (verbeterd)",
         "Juan (millorada)",
+        "Juan (parannettu)",
         "Juan (Spanish (Mexico))",
         "Juan (espagnol (Mexique))",
         "Juan (español (México))",
@@ -353,7 +364,8 @@
         "Juan (espanyol (Mèxic))",
         "Juan (espanhol (México))",
         "Juan (Spanisch (Mexiko))",
-        "Juan (Spaans (Mexico))"
+        "Juan (Spaans (Mexico))",
+        "Juan (espanja (Meksiko))"
       ],
       "language": "es-MX",
       "gender": "male",
@@ -379,6 +391,7 @@
         "Isabela (erweitert)",
         "Isabela (verbeterd)",
         "Isabela (millorada)",
+        "Isabela (parannettu)",
         "Isabela (Spanish (Argentina))",
         "Isabela (espagnol (Argentine))",
         "Isabela (español (Argentina))",
@@ -387,7 +400,8 @@
         "Isabela (espanyol (Argentina))",
         "Isabela (espanhol (Argentina))",
         "Isabela (Spanisch (Argentinien))",
-        "Isabela (Spaans (Argentinië))"
+        "Isabela (Spaans (Argentinië))",
+        "Isabela (espanja (Argentiina))"
       ],
       "language": "es-AR",
       "gender": "female",
@@ -413,6 +427,7 @@
         "Diego (erweitert)",
         "Diego (verbeterd)",
         "Diego (millorada)",
+        "Diego (parannettu)",
         "Diego (Spanish (Argentina))",
         "Diego (espagnol (Argentine))",
         "Diego (español (Argentina))",
@@ -421,7 +436,8 @@
         "Diego (espanyol (Argentina))",
         "Diego (espanhol (Argentina))",
         "Diego (Spanisch (Argentinien))",
-        "Diego (Spaans (Argentinië))"
+        "Diego (Spaans (Argentinië))",
+        "Diego (espanja (Argentiina))"
       ],
       "language": "es-AR",
       "gender": "male",
@@ -447,6 +463,7 @@
         "Soledad (erweitert)",
         "Soledad (verbeterd)",
         "Soledad (millorada)",
+        "Soledad (parannettu)",
         "Soledad (Spanish (Colombia))",
         "Soledad (espagnol (Colombie))",
         "Soledad (español (Colombia))",
@@ -455,7 +472,8 @@
         "Soledad (espanyol (Kolonbia))",
         "Soledad (espanhol (Colômbia))",
         "Soledad (Spanisch (Kolumbien))",
-        "Soledad (Spaans (Colombia))"
+        "Soledad (Spaans (Colombia))",
+        "Soledad (espanja (Kolumbia))"
       ],
       "language": "es-CO",
       "gender": "female",
@@ -481,6 +499,7 @@
         "Jimena (erweitert)",
         "Jimena (verbeterd)",
         "Jimena (millorada)",
+        "Jimena (parannettu)",
         "Jimena (Spanish (Colombia))",
         "Jimena (espagnol (Colombie))",
         "Jimena (español (Colombia))",
@@ -489,7 +508,8 @@
         "Jimena (espanyol (Kolonbia))",
         "Jimena (espanhol (Colômbia))",
         "Jimena (Spanisch (Kolumbien))",
-        "Jimena (Spaans (Colombia))"
+        "Jimena (Spaans (Colombia))",
+        "Jimena (espanja (Kolumbia))"
       ],
       "language": "es-CO",
       "gender": "female",
@@ -515,6 +535,7 @@
         "Carlos (erweitert)",
         "Carlos (verbeterd)",
         "Carlos (millorada)",
+        "Carlos (parannettu)",
         "Carlos (Spanish (Colombia))",
         "Carlos (espagnol (Colombie))",
         "Carlos (español (Colombia))",
@@ -523,7 +544,8 @@
         "Carlos (espanyol (Kolonbia))",
         "Carlos (espanhol (Colômbia))",
         "Carlos (Spanisch (Kolumbien))",
-        "Carlos (Spaans (Colombia))"
+        "Carlos (Spaans (Colombia))",
+        "Carlos (espanja (Kolumbia))"
       ],
       "language": "es-CO",
       "gender": "male",
@@ -549,6 +571,7 @@
         "Francesca (erweitert)",
         "Francesca (verbeterd)",
         "Francesca (millorada)",
+        "Francesca (parannettu)",
         "Francesca (Spanish (Chile))",
         "Francesca (espagnol (Chili))",
         "Francesca (español (Chile))",
@@ -557,7 +580,8 @@
         "Francesca (espanyol (Xile))",
         "Francesca (espanhol (Chile))",
         "Francesca (Spanisch (Chile))",
-        "Francesca (Spaans (Chili))"
+        "Francesca (Spaans (Chili))",
+        "Francesca (espanja (Chile))"
       ],
       "language": "es-CL",
       "gender": "female",
@@ -908,7 +932,8 @@
         "Spanisch Spanien",
         "Spaans Spanje",
         "espanhol Espanha",
-        "espanyol Espanya"
+        "espanyol Espanya",
+        "espanja Espanja"
       ],
       "language": "es-ES",
       "rate": 1,
@@ -929,7 +954,8 @@
         "Spanisch Vereinigte Staaten",
         "Spaans Verenigde Staten",
         "espanhol Estados Unidos",
-        "espanyol Estats Units"
+        "espanyol Estats Units",
+        "espanja Yhdysvallat"
       ],
       "language": "es-US",
       "rate": 1,

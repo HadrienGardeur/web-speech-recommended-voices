@@ -80,6 +80,7 @@
         "Claire (melhorada)",
         "Claire (erweitert)",
         "Claire (millorada)",
+        "Claire (parannettu)",
         "Claire (Dutch (Netherlands))",
         "Claire (néerlandais (Pays-Bas))",
         "Claire (holandés (Países Bajos))",
@@ -87,7 +88,8 @@
         "Claire (holandês (Países Baixos))",
         "Claire (Niederländisch (Niederlande))",
         "Claire (Nederlands (Nederland))",
-        "Claire (neerlandès (Països Baixos))"
+        "Claire (neerlandès (Països Baixos))",
+        "Claire (hollanti (Alankomaat))"
       ],
       "language": "nl-NL",
       "gender": "female",
@@ -111,6 +113,7 @@
         "Xander (melhorada)",
         "Xander (erweitert)",
         "Xander (millorada)",
+        "Xander (parannettu)",
         "Xander (Dutch (Netherlands))",
         "Xander (néerlandais (Pays-Bas))",
         "Xander (holandés (Países Bajos))",
@@ -118,7 +121,8 @@
         "Xander (holandês (Países Baixos))",
         "Xander (Niederländisch (Niederlande))",
         "Xander (Nederlands (Nederland))",
-        "Xander (neerlandès (Països Baixos))"
+        "Xander (neerlandès (Països Baixos))",
+        "Xander (hollanti (Alankomaat))"
       ],
       "overrides": "Xander",
       "language": "nl-NL",
@@ -143,6 +147,7 @@
         "Ellen (melhorada)",
         "Ellen (erweitert)",
         "Ellen (millorada)",
+        "Ellen (parannettu)",
         "Ellen (Dutch (Belgium))",
         "Ellen (néerlandais (Belgique))",
         "Ellen (holandés (Bélgica))",
@@ -150,7 +155,8 @@
         "Ellen (holandês (Bélgica))",
         "Ellen (Niederländisch (Belgien))",
         "Ellen (Nederlands (België))",
-        "Ellen (neerlandès (Bèlgica))"
+        "Ellen (neerlandès (Bèlgica))",
+        "Ellen (hollanti (Belgia))"
       ],
       "overrides": "Ellen",
       "language": "nl-BE",
@@ -406,7 +412,8 @@
         "neerlandés Países Bajos",
         "Niederländisch Niederlande",
         "neerlandés Países Baixos",
-        "neerlandès Països Baixos"
+        "neerlandès Països Baixos",
+        "hollanti Alankomaat"
       ],
       "language": "nl-NL",
       "rate": 1,
@@ -427,7 +434,8 @@
         "olandese Belgio",
         "Niederländisch Belgien",
         "neerlandés Bélgica",
-        "neerlandès Bèlgica"
+        "neerlandès Bèlgica",
+        "hollanti Belgia"
       ],
       "language": "nl-BE",
       "rate": 1,

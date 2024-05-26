@@ -262,6 +262,8 @@
         "Ava (Premium)",
         "Ava (premium)",
         "Ava (de qualité)",
+        "Ava (prèmium)",
+        "Ava (korkealaatuinen)"
         "Ava (Enhanced)",
         "Ava (mejorada)",
         "Ava (ottimizzata)",
@@ -269,6 +271,7 @@
         "Ava (erweitert)",
         "Ava (verbeterd)",
         "Ava (millorada)",
+        "Ava (parannettu)",
         "Ava (English (United States))",
         "Ava (anglais (États-Unis))",
         "Ava (inglés (Estados Unidos))",
@@ -276,7 +279,8 @@
         "Ava (inglês (Estados Unidos))",
         "Ava (Englisch (Vereinigte Staaten))",
         "Ava (Engels (Verenigde Staten))",
-        "Ava (anglès (Estats Units))"
+        "Ava (anglès (Estats Units))",
+        "Ava (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -296,6 +300,8 @@
         "Zoe (Premium)",
         "Zoe (premium)",
         "Zoe (de qualité)",
+        "Zoe (prèmium)",
+        "Zoe (korkealaatuinen)"
         "Zoe (Enhanced)",
         "Zoe (mejorada)",
         "Zoe (ottimizzata)",
@@ -303,6 +309,7 @@
         "Zoe (erweitert)",
         "Zoe (verbeterd)",
         "Zoe (millorada)",
+        "Zoe (parannettu)",
         "Zoe (English (United States))",
         "Zoe (anglais (États-Unis))",
         "Zoe (inglés (Estados Unidos))",
@@ -310,7 +317,8 @@
         "Zoe (inglês (Estados Unidos))",
         "Zoe (Englisch (Vereinigte Staaten))",
         "Zoe (Engels (Verenigde Staten))",
-        "Zoe (anglès (Estats Units))"
+        "Zoe (anglès (Estats Units))",
+        "Zoe (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -335,6 +343,7 @@
         "Allison (erweitert)",
         "Allison (verbeterd)",
         "Allison (millorada)",
+        "Allison (parannettu)",
         "Allison (English (United States))",
         "Allison (anglais (États-Unis))",
         "Allison (inglés (Estados Unidos))",
@@ -342,7 +351,8 @@
         "Allison (inglês (Estados Unidos))",
         "Allison (Englisch (Vereinigte Staaten))",
         "Allison (Engels (Verenigde Staten))",
-        "Allison (anglès (Estats Units))"
+        "Allison (anglès (Estats Units))",
+        "Allison (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -366,6 +376,7 @@
         "Samantha (erweitert)",
         "Samantha (verbeterd)",
         "Samantha (millorada)",
+        "Samantha (parannettu)",
         "Samantha (English (United States))",
         "Samantha (anglais (États-Unis))",
         "Samantha (inglés (Estados Unidos))",
@@ -373,7 +384,8 @@
         "Samantha (inglês (Estados Unidos))",
         "Samantha (Englisch (Vereinigte Staaten))",
         "Samantha (Engels (Verenigde Staten))",
-        "Samantha (anglès (Estats Units))"
+        "Samantha (anglès (Estats Units))",
+        "Samantha (englanti (Yhdysvallat))"
       ],
       "overrides": "Samantha",
       "language": "en-US",
@@ -399,6 +411,7 @@
         "Joelle (erweitert)",
         "Joelle (verbeterd)",
         "Joelle (millorada)",
+        "Joelle (parannettu)",
         "Joelle (English (United States))",
         "Joelle (anglais (États-Unis))",
         "Joelle (inglés (Estados Unidos))",
@@ -406,7 +419,8 @@
         "Joelle (inglês (Estados Unidos))",
         "Joelle (Englisch (Vereinigte Staaten))",
         "Joelle (Engels (Verenigde Staten))",
-        "Joelle (anglès (Estats Units))"
+        "Joelle (anglès (Estats Units))",
+        "Joelle (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -432,6 +446,7 @@
         "Evan (erweitert)",
         "Evan (verbeterd)",
         "Evan (millorada)",
+        "Evan (parannettu)",
         "Evan (English (United States))",
         "Evan (anglais (États-Unis))",
         "Evan (inglés (Estados Unidos))",
@@ -439,7 +454,8 @@
         "Evan (inglês (Estados Unidos))",
         "Evan (Englisch (Vereinigte Staaten))",
         "Evan (Engels (Verenigde Staten))",
-        "Evan (anglès (Estats Units))"
+        "Evan (anglès (Estats Units))",
+        "Evan (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -464,6 +480,7 @@
         "Nathan (erweitert)",
         "Nathan (verbeterd)",
         "Nathan (millorada)",
+        "Nathan (parannettu)",
         "Nathan (English (United States))",
         "Nathan (anglais (États-Unis))",
         "Nathan (inglés (Estados Unidos))",
@@ -471,7 +488,8 @@
         "Nathan (inglês (Estados Unidos))",
         "Nathan (Englisch (Vereinigte Staaten))",
         "Nathan (Engels (Verenigde Staten))",
-        "Nathan (anglès (Estats Units))"
+        "Nathan (anglès (Estats Units))",
+        "Nathan (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -496,6 +514,7 @@
         "Tom (erweitert)",
         "Tom (verbeterd)",
         "Tom (millorada)",
+        "Tom (parannettu)",
         "Tom (English (United States))",
         "Tom (anglais (États-Unis))",
         "Tom (inglés (Estados Unidos))",
@@ -503,7 +522,8 @@
         "Tom (inglês (Estados Unidos))",
         "Tom (Englisch (Vereinigte Staaten))",
         "Tom (Engels (Verenigde Staten))",
-        "Tom (anglès (Estats Units))"
+        "Tom (anglès (Estats Units))",
+        "Tom (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -527,7 +547,8 @@
         "Alex (inglês (Estados Unidos))",
         "Alex (Englisch (Vereinigte Staaten))",
         "Alex (Engels (Verenigde Staten))",
-        "Alex (anglès (Estats Units))"
+        "Alex (anglès (Estats Units))",
+        "Alex (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "male",
@@ -552,6 +573,7 @@
         "Kate (erweitert)",
         "Kate (verbeterd)",
         "Kate (millorada)",
+        "Kate (parannettu)",
         "Kate (English (United Kingdom))",
         "Kate (anglais (Royaume-Uni))",
         "Kate (inglés (Reino Unido))",
@@ -559,7 +581,8 @@
         "Kate (inglês (Reino Unido))",
         "Kate (Englisch (Vereinigtes Königreich))",
         "Kate (Engels (Verenigd Koninkrijk))",
-        "Kate (anglès (Regne Unit))"
+        "Kate (anglès (Regne Unit))",
+        "Kate (englanti (Iso-Britannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -584,6 +607,7 @@
         "Stephanie (erweitert)",
         "Stephanie (verbeterd)",
         "Stephanie (millorada)",
+        "Stephanie (parannettu)",
         "Stephanie (English (United Kingdom))",
         "Stephanie (anglais (Royaume-Uni))",
         "Stephanie (inglés (Reino Unido))",
@@ -591,7 +615,8 @@
         "Stephanie (inglês (Reino Unido))",
         "Stephanie (Englisch (Vereinigtes Königreich))",
         "Stephanie (Engels (Verenigd Koninkrijk))",
-        "Stephanie (anglès (Regne Unit))"
+        "Stephanie (anglès (Regne Unit))",
+        "Stephanie (englanti (Iso-Britannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -618,6 +643,7 @@
         "Serena (erweitert)",
         "Serena (verbeterd)",
         "Serena (millorada)",
+        "Serena (parannettu)",
         "Serena (English (United Kingdom))",
         "Serena (anglais (Royaume-Uni))",
         "Serena (inglés (Reino Unido))",
@@ -625,7 +651,8 @@
         "Serena (inglês (Reino Unido))",
         "Serena (Englisch (Vereinigtes Königreich))",
         "Serena (Engels (Verenigd Koninkrijk))",
-        "Serena (anglès (Regne Unit))"
+        "Serena (anglès (Regne Unit))",
+        "Serena (englanti (Iso-Britannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -652,6 +679,7 @@
         "Jamie (erweitert)",
         "Jamie (verbeterd)",
         "Jamie (millorada)",
+        "Jamie (parannettu)",
         "Jamie (English (United Kingdom))",
         "Jamie (anglais (Royaume-Uni))",
         "Jamie (inglés (Reino Unido))",
@@ -659,7 +687,8 @@
         "Jamie (inglês (Reino Unido))",
         "Jamie (Englisch (Vereinigtes Königreich))",
         "Jamie (Engels (Verenigd Koninkrijk))",
-        "Jamie (anglès (Regne Unit))"
+        "Jamie (anglès (Regne Unit))",
+        "Jamie (englanti (Iso-Britannia))"
       ],
       "overrides": "Jamie",
       "language": "en-GB",
@@ -685,6 +714,7 @@
         "Oliver (erweitert)",
         "Oliver (verbeterd)",
         "Oliver (millorada)",
+        "Oliver (parannettu)",
         "Oliver (English (United Kingdom))",
         "Oliver (anglais (Royaume-Uni))",
         "Oliver (inglés (Reino Unido))",
@@ -692,7 +722,8 @@
         "Oliver (inglês (Reino Unido))",
         "Oliver (Englisch (Vereinigtes Königreich))",
         "Oliver (Engels (Verenigd Koninkrijk))",
-        "Oliver (anglès (Regne Unit))"
+        "Oliver (anglès (Regne Unit))",
+        "Oliver (englanti (Iso-Britannia))"
       ],
       "language": "en-GB",
       "gender": "male",
@@ -716,6 +747,7 @@
         "Daniel (erweitert)",
         "Daniel (verbeterd)",
         "Daniel (millorada)",
+        "Daniel (parannettu)",
         "Daniel (English (United Kingdom))",
         "Daniel (anglais (Royaume-Uni))",
         "Daniel (inglés (Reino Unido))",
@@ -723,7 +755,8 @@
         "Daniel (inglês (Reino Unido))",
         "Daniel (Englisch (Vereinigtes Königreich))",
         "Daniel (Engels (Verenigd Koninkrijk))",
-        "Daniel (anglès (Regne Unit))"
+        "Daniel (anglès (Regne Unit))",
+        "Daniel (englanti (Iso-Britannia))"
       ],
       "overrides": "Daniel",
       "language": "en-GB",
@@ -907,7 +940,8 @@
         "Nicky (inglês (Estados Unidos))",
         "Nicky (Englisch (Vereinigte Staaten))",
         "Nicky (Engels (Verenigde Staten))",
-        "Nicky (anglès (Estats Units))"
+        "Nicky (anglès (Estats Units))",
+        "Nicky (englanti (Yhdysvallat))"
       ],
       "language": "en-US",
       "gender": "female",
@@ -1365,7 +1399,8 @@
         "Englisch Vereinigte Staaten",
         "Engels Verenigde Staten",
         "inglês Estados Unidos",
-        "anglès Estats Units"
+        "anglès Estats Units",
+        "englanti Yhdysvallat"
       ],
       "language": "en-US",
       "rate": 1,
@@ -1386,7 +1421,8 @@
         "Englisch Vereinigtes Königreich",
         "Engels Verenigd Koninkrijk",
         "inglês Reino Unido",
-        "anglès Regne Unit"
+        "anglès Regne Unit",
+        "englanti Iso-Britannia"
       ],
       "language": "en-GB",
       "rate": 1,

@@ -62,6 +62,8 @@
         "Federica (Premium)",
         "Federica (premium)",
         "Federica (de qualité)",
+        "Federica (prèmium)",
+        "Federica (korkealaatuinen)"
         "Federica (Enhanced)",
         "Federica (mejorada)",
         "Federica (ottimizzata)",
@@ -69,13 +71,15 @@
         "Federica (erweitert)",
         "Federica (verbeterd)",
         "Federica (millorada)",
+        "Federica (parannettu)",
         "Federica (Italian (Italie))",
         "Federica (italien (Italie))",
         "Federica (italiano (Italia))",
         "Federica (italiano (Itália))",
         "Federica (Italienisch (Italien))",
         "Federica (Italiaans (Italië))",
-        "Federica (italià (Itàlia))"
+        "Federica (italià (Itàlia))",
+        "Federica (italia (Italia))"
       ],
       "language": "it-IT",
       "gender": "female",
@@ -95,6 +99,8 @@
         "Emma (Premium)",
         "Emma (premium)",
         "Emma (de qualité)",
+        "Emma (prèmium)",
+        "Emma (korkealaatuinen)"
         "Emma (Enhanced)",
         "Emma (mejorada)",
         "Emma (ottimizzata)",
@@ -102,13 +108,15 @@
         "Emma (erweitert)",
         "Emma (verbeterd)",
         "Emma (millorada)",
+        "Emma (parannettu)",
         "Emma (Italian (Italie))",
         "Emma (italien (Italie))",
         "Emma (italiano (Italia))",
         "Emma (italiano (Itália))",
         "Emma (Italienisch (Italien))",
         "Emma (Italiaans (Italië))",
-        "Emma (italià (Itàlia))"
+        "Emma (italià (Itàlia))",
+        "Emma (italia (Italia))"
       ],
       "language": "it-IT",
       "gender": "female",
@@ -132,13 +140,15 @@
         "Alice (erweitert)",
         "Alice (verbeterd)",
         "Alice (millorada)",
+        "Alice (parannettu)",
         "Alice (Italian (Italie))",
         "Alice (italien (Italie))",
         "Alice (italiano (Italia))",
         "Alica (italiano (Itália))",
         "Alice (Italienisch (Italien))",
         "Alice (Italiaans (Italië))",
-        "Alice (italià (Itàlia))"
+        "Alice (italià (Itàlia))",
+        "Alice (italia (Italia))"
       ],
       "overrides": "Alice",
       "language": "it-IT",
@@ -164,13 +174,15 @@
         "Paola (erweitert)",
         "Paola (verbeterd)",
         "Paola (millorada)",
+        "Paola (parannettu)",
         "Paola (Italian (Italie))",
         "Paola (italien (Italie))",
         "Paola (italiano (Italia))",
         "Paola (italiano (Itália))",
         "Paola (Italienisch (Italien))",
         "Paola (Italiaans (Italië))",
-        "Paola (italià (Itàlia))"
+        "Paola (italià (Itàlia))",
+        "Paola (italia (Italia))"
       ],
       "language": "it-IT",
       "gender": "female",
@@ -195,13 +207,15 @@
         "Luca (erweitert)",
         "Luca (verbeterd)",
         "Luca (millorada)",
+        "Luca (parannettu)",
         "Luca (Italian (Italie))",
         "Luca (italien (Italie))",
         "Luca (italiano (Italia))",
         "Luca (italiano (Itália))",
         "Luca (Italienisch (Italien))",
         "Luca (Italiaans (Italië))",
-        "Luca (italià (Itàlia))"
+        "Luca (italià (Itàlia))",
+        "Luca (italia (Italia))"
       ],
       "language": "it-IT",
       "gender": "male",
@@ -390,7 +404,8 @@
         "Italienisch Italien",
         "Italiaans Italië",
         "italiano Itália",
-        "italià Itàlia"
+        "italià Itàlia",
+        "italia Italia"
       ],
       "language": "it-IT",
       "rate": 1,

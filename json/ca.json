@@ -46,13 +46,15 @@
         "Montse (melhorada)",
         "Montse (erweitert)",
         "Montse (verbeterd)",
+        "Montse (parannettu)",
         "Montse (Catalan (Spain))",
         "Montse (catalan (Espagne))",
         "Montse (catalán (España))",
         "Montse (catalano (Spagna))",
         "Montse (Katalanisch (Spanien))",
         "Montse (Catalaans (Spanje))",
-        "Montse (catalão (Espanha))"
+        "Montse (catalão (Espanha))",
+        "Montse (katalaani (Espanja))"
       ],
       "overrides": "Montse",
       "language": "ca-ES",
@@ -78,13 +80,15 @@
         "Pau (melhorada)",
         "Pau (erweitert)",
         "Pau (verbeterd)",
+        "Pau (parannettu)",
         "Pau (Catalan (Spain))",
         "Pau (catalan (Espagne))",
         "Pau (catalán (España))",
         "Pau (catalano (Spagna))",
         "Pau (Katalanisch (Spanien))",
         "Pau (Catalaans (Spanje))",
-        "Pau (catalão (Espanha))"
+        "Pau (catalão (Espanha))",
+        "Pau (katalaani (Espanja))"
       ],
       "language": "ca-ES-u-sd-esvc",
       "gender": "female",
@@ -109,13 +113,15 @@
         "Jordi (melhorada)",
         "Jordi (erweitert)",
         "Jordi (verbeterd)",
+        "Jordi (parannettu)",
         "Jordi (Catalan (Spain))",
         "Jordi (catalan (Espagne))",
         "Jordi (catalán (España))",
         "Jordi (catalano (Spagna))",
         "Jordi (Katalanisch (Spanien))",
         "Jordi (Catalaans (Spanje))",
-        "Jordi (catalão (Espanha))"
+        "Jordi (catalão (Espanha))",
+        "Jordi (katalaani (Espanja))"
       ],
       "language": "ca-ES",
       "gender": "male",
@@ -185,7 +191,8 @@
         "catalano Spagna",
         "Katalanisch Spanien",
         "Catalaans Spanje",
-        "catalão Espanha"
+        "catalão Espanha",
+        "katalaani Espanja"
       ],
       "language": "ca-ES",
       "rate": 1,
