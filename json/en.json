@@ -229,6 +229,32 @@
       "preloaded": true
     },
     {
+      "label": "Natasha (Australia)",
+      "name": "Microsoft Natasha Online (Natural) - English (Australia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-AU",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "William (Australia)",
+      "name": "Microsoft William Online (Natural) - English (Australia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "en-AU",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Clara (Canada)",
       "name": "Microsoft Clara Online (Natural) - English (Canada)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
@@ -690,7 +716,6 @@
         "Jamie (anglès (Regne Unit))",
         "Jamie (englanti (Iso-Britannia))"
       ],
-      "overrides": "Jamie",
       "language": "en-GB",
       "gender": "male",
       "rate": 1,
@@ -769,6 +794,120 @@
         "iPadOS"
       ],
       "preloaded": true
+    },
+    {
+      "label": "Matilda (Australia)",
+      "name": "Matilda",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Matilda (Premium)",
+        "Matilda (premium)",
+        "Matilda (de qualité)",
+        "Matilda (prèmium)",
+        "Matilda (korkealaatuinen)",
+        "Matilda (Enhanced)",
+        "Matilda (mejorada)",
+        "Matilda (ottimizzata)",
+        "Matilda (melhorada)",
+        "Matilda (erweitert)",
+        "Matilda (verbeterd)",
+        "Matilda (millorada)",
+        "Matilda (parannettu)",
+        "Matilda (English (Australia))",
+        "Matilda (anglais (Australie))",
+        "Matilda (inglés (Australia))",
+        "Matilda (inglese (Australia))",
+        "Matilda (inglês (Austrália))",
+        "Matilda (Englisch (Australien))",
+        "Matilda (Engels (Australië))",
+        "Matilda (anglès (Austràlia))",
+        "Matilda (englanti (Australia))"
+      ],
+      "language": "en-AU",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Karen (Australia)",
+      "name": "Karen (Enhanced)",
+      "note": "While this is meant to identify the highest quality variant for the Daniel voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the Daniel voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Karen (Premium)",
+        "Karen (premium)",
+        "Karen (de qualité)",
+        "Karen (prèmium)",
+        "Karen (korkealaatuinen)",
+        "Karen (mejorada)",
+        "Karen (ottimizzata)",
+        "Karen (melhorada)",
+        "Karen (erweitert)",
+        "Karen (verbeterd)",
+        "Karen (millorada)",
+        "Karen (parannettu)",
+        "Karen (English (Australia))",
+        "Karen (anglais (Australie))",
+        "Karen (inglés (Australia))",
+        "Karen (inglese (Australia))",
+        "Karen (inglês (Austrália))",
+        "Karen (Englisch (Australien))",
+        "Karen (Engels (Australië))",
+        "Karen (anglès (Austràlia))",
+        "Karen (englanti (Australia))"
+      ],
+      "overrides": "Karen",
+      "language": "en-AU",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Lee (Australia)",
+      "name": "Lee",
+      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Lee (Premium)",
+        "Lee (premium)",
+        "Lee (de qualité)",
+        "Lee (prèmium)",
+        "Lee (korkealaatuinen)",
+        "Lee (Enhanced)",
+        "Lee (mejorada)",
+        "Lee (ottimizzata)",
+        "Lee (melhorada)",
+        "Lee (erweitert)",
+        "Lee (verbeterd)",
+        "Lee (millorada)",
+        "Lee (parannettu)",
+        "Lee (English (Australia))",
+        "Lee (anglais (Australie))",
+        "Lee (inglés (Australia))",
+        "Lee (inglese (Australia))",
+        "Lee (inglês (Austrália))",
+        "Lee (Englisch (Australien))",
+        "Lee (Engels (Australië))",
+        "Lee (anglès (Austràlia))",
+        "Lee (englanti (Australia))"
+      ],
+      "language": "en-AU",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
     },
     {
       "label": "Female Google voice (US)",
@@ -888,6 +1027,32 @@
       "preloaded": true
     },
     {
+      "label": "Catherine (Australia)",
+      "name": "Microsoft Catherine - English (Austalia)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-AU",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "James (Australia)",
+      "name": "Microsoft Richard - English (Australia)",
+      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
+      "language": "en-AU",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Linda (Canada)",
       "name": "Microsoft Linda - English (Canada)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
@@ -961,6 +1126,21 @@
       "language": "en-GB",
       "gender": "male",
       "rate": 0.9,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Karen (Australia)",
+      "name": "Karen",
+      "note": "This entry is meant to identify the pre-loaded variant of this voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
+      "language": "en-AU",
+      "gender": "male",
+      "rate": 1,
       "pitch": 1,
       "os": [
         "macOS",
@@ -1425,6 +1605,28 @@
         "englanti Iso-Britannia"
       ],
       "language": "en-GB",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Australian voice",
+      "name": "English Australia",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "anglais Australie",
+        "inglés Australia",
+        "inglese Australia",
+        "Englisch Australien",
+        "Engels Australië",
+        "inglês Austrália",
+        "anglès Austràlia",
+        "englanti Australia"
+      ],
+      "language": "en-AU",
       "rate": 1,
       "pitch": 1,
       "os": [
