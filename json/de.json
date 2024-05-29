@@ -152,6 +152,7 @@
         "Petra (verbeterd)",
         "Petra (millorada)",
         "Petra (parannettu)",
+        "Petra (förbättrad)",
         "Petra (German (Germany))",
         "Petra (allemand (Allemagne))",
         "Petra (alemán (Alemania))",
@@ -160,7 +161,8 @@
         "Petra (Deutsch (Deutschland))",
         "Petra (Duits (Duitsland))",
         "Petra (alemany (Alemanya))",
-        "Petra (saksa (Saksa))"
+        "Petra (saksa (Saksa))",
+        "Petra (tyska (Tyskland))"
       ],
       "language": "de-DE",
       "gender": "female",
@@ -189,6 +191,7 @@
         "Anna (verbeterd)",
         "Anna (millorada)",
         "Anna (parannettu)",
+        "Anna (förbättrad)",
         "Anna (German (Germany))",
         "Anna (allemand (Allemagne))",
         "Anna (alemán (Alemania))",
@@ -197,7 +200,8 @@
         "Anna (Deutsch (Deutschland))",
         "Anna (Duits (Duitsland))",
         "Anna (alemany (Alemanya))",
-        "Anna (saksa (Saksa))"
+        "Anna (saksa (Saksa))",
+        "Anna (tyska (Tyskland))"
       ],
       "overrides": "Anna",
       "language": "de-DE",
@@ -224,6 +228,7 @@
         "Markus (verbeterd)",
         "Markus (millorada)",
         "Markus (parannettu)",
+        "Markus (förbättrad)",
         "Markus (German (Germany))",
         "Markus (allemand (Allemagne))",
         "Markus (alemán (Alemania))",
@@ -232,7 +237,8 @@
         "Markus (Deutsch (Deutschland))",
         "Markus (Duits (Duitsland))",
         "Markus (alemany (Alemanya))",
-        "Markus (saksa (Saksa))"
+        "Markus (saksa (Saksa))",
+        "Markus (tyska (Tyskland))"
       ],
       "language": "de-DE",
       "gender": "male",
@@ -258,6 +264,7 @@
         "Viktor (verbeterd)",
         "Viktor (millorada)",
         "Viktor (parannettu)",
+        "Viktor (förbättrad)",
         "Viktor (German (Germany))",
         "Viktor (allemand (Allemagne))",
         "Viktor (alemán (Alemania))",
@@ -266,7 +273,8 @@
         "Viktor (Deutsch (Deutschland))",
         "Viktor (Duits (Duitsland))",
         "Viktor (alemany (Alemanya))",
-        "Viktor (saksa (Saksa))"
+        "Viktor (saksa (Saksa))",
+        "Viktor (tyska (Tyskland))"
       ],
       "language": "de-DE",
       "gender": "male",
@@ -292,6 +300,7 @@
         "Yannick (verbeterd)",
         "Yannick (millorada)",
         "Yannick (parannettu)",
+        "Yannick (förbättrad)",
         "Yannick (German (Germany))",
         "Yannick (allemand (Allemagne))",
         "Yannick (alemán (Alemania))",
@@ -300,7 +309,8 @@
         "Yannick (Deutsch (Deutschland))",
         "Yannick (Duits (Duitsland))",
         "Yannick (alemany (Alemanya))",
-        "Yannick (saksa (Saksa))"
+        "Yannick (saksa (Saksa))",
+        "Yannick (tyska (Tyskland))"
       ],
       "language": "de-DE",
       "gender": "male",
@@ -481,7 +491,8 @@
         "Duits Duitsland",
         "alemão Alemanha",
         "alemany Alemanya",
-        "saksa Saksa"
+        "saksa Saksa",
+        "tyska Tyskland"
       ],
       "language": "de-DE",
       "rate": 1,

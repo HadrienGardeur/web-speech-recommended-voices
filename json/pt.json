@@ -81,6 +81,7 @@
         "Catarina (verbeterd)",
         "Catarina (millorada)",
         "Catarina (parannettu)",
+        "Catarina (förbättrad)",
         "Catarina (Portuguese (Portual))",
         "Catarina (portugais (Portugal))",
         "Catarina (portugués (Portugal))",
@@ -89,7 +90,8 @@
         "Catarina (Portugiesisch (Portugal))",
         "Catarina (Portugees (Portugal))",
         "Catarina (portuguès (Portugal))",
-        "Catarina (portugali (Portugali))"
+        "Catarina (portugali (Portugali))",
+        "Catarina (portugisiska (Portugal))"
       ],
       "language": "pt-PT",
       "gender": "female",
@@ -114,6 +116,7 @@
         "Joana (verbeterd)",
         "Joana (millorada)",
         "Joana (parannettu)",
+        "Joana (förbättrad)",
         "Joana (Portuguese (Portual))",
         "Joana (portugais (Portugal))",
         "Joana (portugués (Portugal))",
@@ -122,7 +125,8 @@
         "Joana (Portugiesisch (Portugal))",
         "Joana (Portugees (Portugal))",
         "Joana (portuguès (Portugal))",
-        "Joana (portugali (Portugali))"
+        "Joana (portugali (Portugali))",
+        "Joana (portugisiska (Portugal))"
       ],
       "overrides": "Joana",
       "language": "pt-PT",
@@ -149,6 +153,7 @@
         "Joaquim (verbeterd)",
         "Joaquim (millorada)",
         "Joaquim (parannettu)",
+        "Joaquim (förbättrad)",
         "Joaquim (Portuguese (Portual))",
         "Joaquim (portugais (Portugal))",
         "Joaquim (portugués (Portugal))",
@@ -157,7 +162,8 @@
         "Joaquim (Portugiesisch (Portugal))",
         "Joaquim (Portugees (Portugal))",
         "Joaquim (portuguès (Portugal))",
-        "Joaquim (portugali (Portugali))"
+        "Joaquim (portugali (Portugali))",
+        "Joaquim (portugisiska (Portugal))"
       ],
       "language": "pt-PT",
       "gender": "male",
@@ -183,6 +189,7 @@
         "Fernanda (verbeterd)",
         "Fernanda (millorada)",
         "Fernanda (parannettu)",
+        "Fernanda (förbättrad)",
         "Fernanda (Portuguese (Mexico))",
         "Fernanda (portugais (Brésil))",
         "Fernanda (portugués (Brasil))",
@@ -191,7 +198,8 @@
         "Fernanda (Portugiesisch (Brasilien))",
         "Fernanda (Portugees (Brazilië))",
         "Fernanda (portuguès (Brasil))",
-        "Fernanda (portugali (Brasilia))"
+        "Fernanda (portugali (Brasilia))",
+        "Fernanda (portugisiska (Brasilien))"
       ],
       "language": "pt-BR",
       "gender": "female",
@@ -216,6 +224,7 @@
         "Luciana (verbeterd)",
         "Luciana (millorada)",
         "Luciana (parannettu)",
+        "Luciana (förbättrad)",
         "Luciana (Portuguese (Mexico))",
         "Luciana (portugais (Brésil))",
         "Luciana (portugués (Brasil))",
@@ -224,7 +233,8 @@
         "Luciana (Portugiesisch (Brasilien))",
         "Luciana (Portugees (Brazilië))",
         "Luciana (portuguès (Brasil))",
-        "Luciana (portugali (Brasilia))"
+        "Luciana (portugali (Brasilia))",
+        "Luciana (portugisiska (Brasilien))"
       ],
       "overrides": "Luciana",
       "language": "pt-BR",
@@ -251,6 +261,7 @@
         "Felipe (verbeterd)",
         "Felipe (millorada)",
         "Felipe (parannettu)",
+        "Felipe (förbättrad)",
         "Felipe (Portuguese (Mexico))",
         "Felipe (portugais (Brésil))",
         "Felipe (portugués (Brasil))",
@@ -259,7 +270,8 @@
         "Felipe (Portugiesisch (Brasilien))",
         "Felipe (Portugees (Brazilië))",
         "Felipe (portuguès (Brasil))",
-        "Felipe (portugali (Brasilia))"
+        "Felipe (portugali (Brasilia))",
+        "Felipe (portugisiska (Brasilien))"
       ],
       "language": "pt-BR",
       "gender": "male",
@@ -477,7 +489,8 @@
         "Portugiesisch Portugal",
         "Portugees Portugal",
         "portuguès Portugal",
-        "portugali Portugali"
+        "portugali Portugali",
+        "portugisiska Portugal"
       ],
       "language": "pt-PT",
       "rate": 1,
@@ -498,7 +511,8 @@
         "portoghese Brasile",
         "Portuguees Brazilië",
         "portuguès Brasil",
-        "portugali Brasilia"
+        "portugali Brasilia",
+        "portugisiska Brasilien"
       ],
       "language": "pt-BR",
       "rate": 1,
