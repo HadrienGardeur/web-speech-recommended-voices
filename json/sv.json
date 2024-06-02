@@ -169,6 +169,86 @@
       "preloaded": true
     },
     {
+      "label": "Kvinnlig röst 1",
+      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-local"
+      ],
+      "language": "sv-SE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kvinnlig röst 2",
+      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-afp-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-afp-local"
+      ],
+      "language": "sv-SE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kvinnlig röst 3",
+      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-local"
+      ],
+      "language": "sv-SE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mansröst 1",
+      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-local"
+      ],
+      "language": "sv-SE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mansröst 2",
+      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-local"
+      ],
+      "language": "sv-SE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Svensk röst",
       "name": "svenska Sverige",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
@@ -181,7 +261,7 @@
         "Schwedisch Schweden",
         "Zweeds Zweden",
         "suec Suècia",
-        "Ruotsi Ruotsi",
+        "ruotsi Ruotsi",
         "svenska Sverige"
       ],
       "language": "sv-SE",
