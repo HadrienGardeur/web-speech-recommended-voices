@@ -132,7 +132,71 @@
       "preloaded": true
     },
     {
-      "label": "Dansk röst",
+      "label": "Kvindestemme 1",
+      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-local"
+      ],
+      "language": "da-DK",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kvindestemme 2",
+      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-local"
+      ],
+      "language": "da-DK",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kvindestemme 3",
+      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-local"
+      ],
+      "language": "da-DK",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mandsstemme",
+      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-local"
+      ],
+      "language": "da-DK",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Dansk stemme",
       "name": "dansk Danmark",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "altNames": [
