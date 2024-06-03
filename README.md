@@ -23,6 +23,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
 * [Italian](json/it.json)
+* [Norwegian](json/nb.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
 * [Spanish](json/es.json) (Spain, Argentina, Chile, Colombia, Mexico and United States)
 * [Swedish](json/sv.json)
@@ -33,6 +34,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * Displaying an ordered list of recommended voices
 * Displaying user-friendly voice names
 * Filtering recommended voices per gender and age (adult vs children)
+* Filtering out novelty and low quality voices
 
 ## Guiding principles
 
