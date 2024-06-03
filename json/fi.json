@@ -42,6 +42,7 @@
         "Satu (verbeterd)",
         "Satu (millorada)",
         "Satu (förbättrad)",
+        "Satu (forbedret)",
         "Satu (Finnish (Finland))",
         "Satu (finnois (Finlande))",
         "Satu (finés (Finlandia))",
@@ -51,7 +52,8 @@
         "Satu (Fins (Finland))",
         "Satu (finès (Finlàndia))",
         "Satu (suomi (Suomi))",
-        "Satu (finska (Finland))"
+        "Satu (finska (Finland))",
+        "Satu (finsk (Finland))"
       ],
       "overrides": "Satu",
       "language": "fi-FI",
@@ -79,6 +81,7 @@
         "Onni (verbeterd)",
         "Onni (millorada)",
         "Onni (förbättrad)",
+        "Onni (forbedret)",
         "Onni (Finnish (Finland))",
         "Onni (finnois (Finlande))",
         "Onni (finés (Finlandia))",
@@ -88,7 +91,8 @@
         "Onni (Fins (Finland))",
         "Onni (finès (Finlàndia))",
         "Onni (suomi (Suomi))",
-        "Onni (finska (Finland))"
+        "Onni (finska (Finland))",
+        "Onni (finsk (Finland))"
       ],
       "language": "fi-FI",
       "gender": "male",
@@ -157,7 +161,8 @@
         "Finnisch Finnland",
         "Fins Finland",
         "finès Finlàndia",
-        "finska Finland"
+        "finska Finland",
+        "finsk Finland"
       ],
       "language": "fi-FI",
       "rate": 1,

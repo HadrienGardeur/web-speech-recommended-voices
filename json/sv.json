@@ -43,6 +43,7 @@
         "Klara (millorada)",
         "Klara (parannettu)",
         "Klara (förbättrad)",
+        "Klara (forbedret)",
         "Klara (Swedish (Sweden))",
         "Klara (suédois (Suède))",
         "Klara (sueco (Suecia))",
@@ -52,7 +53,8 @@
         "Klara (Zweeds (Zweden))",
         "Klara (suec (Suècia))",
         "Klara (Ruotsi (Ruotsi))",
-        "Klara (svenska (Sverige))"
+        "Klara (svenska (Sverige))",
+        "Klara (svensk (Sverige))"
       ],
       "language": "sv-SE",
       "gender": "female",
@@ -82,6 +84,7 @@
         "Alva (millorada)",
         "Alva (parannettu)",
         "Alva (förbättrad)",
+        "Alva (forbedret)",
         "Alva (Swedish (Sweden))",
         "Alva (suédois (Suède))",
         "Alva (sueco (Suecia))",
@@ -91,7 +94,8 @@
         "Alva (Zweeds (Zweden))",
         "Alva (suec (Suècia))",
         "Alva (Ruotsi (Ruotsi))",
-        "Alva (svenska (Sverige))"
+        "Alva (svenska (Sverige))",
+        "Alva (svensk (Sverige))"
       ],
       "overrides": "Alva",
       "language": "sv-SE",
@@ -119,6 +123,7 @@
         "Oskar (millorada)",
         "Oskar (parannettu)",
         "Oskar (förbättrad)",
+        "Oskar (forbedret)",
         "Oskar (Swedish (Sweden))",
         "Oskar (suédois (Suède))",
         "Oskar (sueco (Suecia))",
@@ -128,7 +133,8 @@
         "Oskar (Zweeds (Zweden))",
         "Oskar (suec (Suècia))",
         "Oskar (Ruotsi (Ruotsi))",
-        "Oskar (svenska (Sverige))"
+        "Oskar (svenska (Sverige))",
+        "Oskar (svensk (Sverige))"
       ],
       "language": "sv-SE",
       "gender": "male",
@@ -262,7 +268,8 @@
         "Zweeds Zweden",
         "suec Suècia",
         "ruotsi Ruotsi",
-        "svenska Sverige"
+        "svenska Sverige",
+        "svensk Sverige"
       ],
       "language": "sv-SE",
       "rate": 1,

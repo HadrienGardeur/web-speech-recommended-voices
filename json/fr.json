@@ -190,6 +190,7 @@
         "Audrey (premium)",
         "Audrey (prèmium)",
         "Audrey (korkealaatuinen)",
+        "Audrey (høj kvalitet)",
         "Audrey (Enhanced)",
         "Audrey (mejorada)",
         "Audrey (ottimizzata)",
@@ -199,6 +200,7 @@
         "Audrey (millorada)",
         "Audrey (parannettu)",
         "Audrey (förbättrad)",
+        "Audrey (forbedret)",
         "Audrey (French (France))",
         "Audrey (français (France))",
         "Audrey (francés (Francia))",
@@ -208,7 +210,8 @@
         "Audrey (Frans (Frankrijk))",
         "Audrey (francès (França))",
         "Audrey (ranska (Ranska))",
-        "Audrey (franska (Frankrike))"
+        "Audrey (franska (Frankrike))",
+        "Audrey (fransk (Frankrig))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -235,6 +238,7 @@
         "Aurélie (millorada)",
         "Aurélie (parannettu)",
         "Aurélie (förbättrad)",
+        "Aurélie (forbedret)",
         "Aurélie (French (France))",
         "Aurélie (français (France))",
         "Aurélie (francés (Francia))",
@@ -244,7 +248,8 @@
         "Aurélie (Frans (Frankrijk))",
         "Aurélie (francès (França))",
         "Aurélie (ranska (Ranska))",
-        "Aurélie (franska (Frankrike))"
+        "Aurélie (franska (Frankrike))",
+        "Aurélie (fransk (Frankrig))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -270,6 +275,7 @@
         "Thomas (millorada)",
         "Thomas (parannettu)",
         "Thomas (förbättrad)",
+        "Thomas (forbedret)",
         "Thomas (French (France))",
         "Thomas (français (France))",
         "Thomas (francés (Francia))",
@@ -279,7 +285,8 @@
         "Thomas (Frans (Frankrijk))",
         "Thomas (francès (França))",
         "Thomas (ranska (Ranska))",
-        "Thomas (franska (Frankrike))"
+        "Thomas (franska (Frankrike))",
+        "Thomas (fransk (Frankrig))"
       ],
       "overrides": "Thomas",
       "language": "fr-FR",
@@ -307,6 +314,7 @@
         "Aude (millorada)",
         "Aude (parannettu)",
         "Aude (förbättrad)",
+        "Aude (forbedret)",
         "Aude (French (Belgium))",
         "Aude (français (Belgique))",
         "Aude (francés (Bélgica))",
@@ -316,7 +324,8 @@
         "Aude (Frans (België))",
         "Aude (francès (Bèlgica))",
         "Aude (ranska (Belgia))",
-        "Aude (franska (Belgien))"
+        "Aude (franska (Belgien))",
+        "Aude (fransk (Belgien))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -343,6 +352,7 @@
         "Chantal (millorada)",
         "Chantal (parannettu)",
         "Chantal (förbättrad)",
+        "Chantal (forbedret)",
         "Chantal (French (Canada))",
         "Chantal (français (Canada))",
         "Chantal (francés (Canada))",
@@ -352,7 +362,8 @@
         "Chantal (Frans (Canada))",
         "Chantal (francès (Canadà))",
         "Chantal (ranska (Kanada))",
-        "Chantal (franska (Kanada))"
+        "Chantal (franska (Kanada))",
+        "Chantal (fransk (Canada))"
       ],
       "language": "fr-CA",
       "gender": "female",
@@ -373,6 +384,7 @@
         "Amélie (Premium)",
         "Amélie (prèmium)",
         "Amélie (korkealaatuinen)",
+        "Amélie (høj kvalitet)",
         "Amélie (French (Canada))",
         "Amélie (français (Canada))",
         "Amélie (francés (Canada))",
@@ -382,7 +394,8 @@
         "Amélie (Frans (Canada))",
         "Amélie (francès (Canadà))",
         "Amélie (ranska (Kanada))",
-        "Amélie (franska (Kanada))"
+        "Amélie (franska (Kanada))",
+        "Amélie (fransk (Canada))"
       ],
       "overrides": "Amélie",
       "language": "fr-CA",
@@ -410,6 +423,7 @@
         "Nicolas (millorada)",
         "Nicolas (parannettu)",
         "Nicolas (förbättrad)",
+        "Nicolas (forbedret)",
         "Nicolas (French (Canada))",
         "Nicolas (français (Canada))",
         "Nicolas (francés (Canada))",
@@ -419,7 +433,8 @@
         "Nicolas (Frans (Canada))",
         "Nicolas (francès (Canadà))",
         "Nicolas (ranska (Kanada))",
-        "Nicolas (franska (Kanada))"
+        "Nicolas (franska (Kanada))",
+        "Nicolas (fransk (Canada))"
       ],
       "language": "fr-CA",
       "gender": "male",
@@ -762,7 +777,8 @@
         "francês França",
         "francès França",
         "ranska Ranska",
-        "franska Frankrike"
+        "franska Frankrike",
+        "fransk Frankrig"
       ],
       "language": "fr-FR",
       "rate": 1,
@@ -785,7 +801,8 @@
         "francês Canadá",
         "francès Canadà",
         "ranska Kanada",
-        "franska Kanada"
+        "franska Kanada",
+        "fransk Canada"
       ],
       "language": "fr-CA",
       "rate": 1,
