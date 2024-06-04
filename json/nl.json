@@ -93,7 +93,8 @@
         "Claire (neerlandès (Països Baixos))",
         "Claire (hollanti (Alankomaat))",
         "Claire (nederländska (Nederländerna))",
-        "Claire (nederlandsk (Nederlandene))"
+        "Claire (nederlandsk (Nederlandene))",
+        "Claire (nederlandsk (Nederland))"
       ],
       "language": "nl-NL",
       "gender": "female",
@@ -130,7 +131,8 @@
         "Xander (neerlandès (Països Baixos))",
         "Xander (hollanti (Alankomaat))",
         "Xander (nederländska (Nederländerna))",
-        "Xander (nederlandsk (Nederlandene))"
+        "Xander (nederlandsk (Nederlandene))",
+        "Xander (nederlandsk (Nederland))"
       ],
       "overrides": "Xander",
       "language": "nl-NL",
@@ -168,7 +170,8 @@
         "Ellen (neerlandès (Bèlgica))",
         "Ellen (hollanti (Belgia))",
         "Ellen (nederländska (Belgien))",
-        "Ellen (nederlandsk (Belgien))"
+        "Ellen (nederlandsk (Belgien))",
+        "Ellen (nederlandsk (Belgia))"
       ],
       "overrides": "Ellen",
       "language": "nl-BE",
@@ -427,7 +430,8 @@
         "neerlandès Països Baixos",
         "hollanti Alankomaat",
         "nederländska Nederländerna",
-        "nederlandsk Nederlandene"
+        "nederlandsk Nederlandene",
+        "nederlandsk Nederland"
       ],
       "language": "nl-NL",
       "rate": 1,
@@ -451,7 +455,8 @@
         "neerlandès Bèlgica",
         "hollanti Belgia",
         "nederländska Belgien",
-        "nederlandsk Belgien"
+        "nederlandsk Belgien",
+        "nederlandsk Belgia"
       ],
       "language": "nl-BE",
       "rate": 1,

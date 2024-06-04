@@ -211,7 +211,8 @@
         "Audrey (francès (França))",
         "Audrey (ranska (Ranska))",
         "Audrey (franska (Frankrike))",
-        "Audrey (fransk (Frankrig))"
+        "Audrey (fransk (Frankrig))",
+        "Audrey (fransk (Frankrike))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -249,7 +250,8 @@
         "Aurélie (francès (França))",
         "Aurélie (ranska (Ranska))",
         "Aurélie (franska (Frankrike))",
-        "Aurélie (fransk (Frankrig))"
+        "Aurélie (fransk (Frankrig))",
+        "Aurélie (fransk (Frankrike))"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -286,7 +288,8 @@
         "Thomas (francès (França))",
         "Thomas (ranska (Ranska))",
         "Thomas (franska (Frankrike))",
-        "Thomas (fransk (Frankrig))"
+        "Thomas (fransk (Frankrig))",
+        "Thomas (fransk (Frankrike))"
       ],
       "overrides": "Thomas",
       "language": "fr-FR",
@@ -325,7 +328,8 @@
         "Aude (francès (Bèlgica))",
         "Aude (ranska (Belgia))",
         "Aude (franska (Belgien))",
-        "Aude (fransk (Belgien))"
+        "Aude (fransk (Belgien))",
+        "Aude (fransk (Belgia))"
       ],
       "language": "fr-BE",
       "gender": "female",
@@ -778,7 +782,8 @@
         "francès França",
         "ranska Ranska",
         "franska Frankrike",
-        "fransk Frankrig"
+        "fransk Frankrig",
+        "fransk Frankrike"
       ],
       "language": "fr-FR",
       "rate": 1,

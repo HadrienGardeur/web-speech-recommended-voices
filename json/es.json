@@ -189,7 +189,8 @@
         "Marisol (Spaans (Spanje))",
         "Marisol (espanja (Espanja))",
         "Marisol (spanska (Spanien))",
-        "Marisol (spansk (Spanien))"
+        "Marisol (spansk (Spanien))",
+        "Marisol (spansk (Spania))"
       ],
       "language": "es-ES",
       "gender": "female",
@@ -228,7 +229,8 @@
         "Mónica (Spaans (Spanje))",
         "Mónica (espanja (Espanja))",
         "Mónica (spanska (Spanien))",
-        "Mónica (spansk (Spanien))"
+        "Mónica (spansk (Spanien))",
+        "Mónica (spansk (Spania))"
       ],
       "overrides": "Mónica",
       "language": "es-ES",
@@ -269,7 +271,8 @@
         "Jorge (Spaans (Spanje))",
         "Jorge (espanja (Espanja))",
         "Jorge (spanska (Spanien))",
-        "Jorge (spansk (Spanien))"
+        "Jorge (spansk (Spanien))",
+        "Jorge (spansk (Spania))"
       ],
       "language": "es-ES",
       "gender": "male",
@@ -983,7 +986,8 @@
         "espanyol Espanya",
         "espanja Espanja",
         "spanska Spanien",
-        "spansk Spanien"
+        "spansk Spanien",
+        "spansk Spania"
       ],
       "language": "es-ES",
       "rate": 1,

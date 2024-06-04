@@ -207,7 +207,8 @@
         "Fernanda (portuguès (Brasil))",
         "Fernanda (portugali (Brasilia))",
         "Fernanda (portugisiska (Brasilien))",
-        "Fernanda (portugisisk (Brasilien))"
+        "Fernanda (portugisisk (Brasilien))",
+        "Fernanda (portugisisk (Brasil))"
       ],
       "language": "pt-BR",
       "gender": "female",
@@ -244,7 +245,8 @@
         "Luciana (portuguès (Brasil))",
         "Luciana (portugali (Brasilia))",
         "Luciana (portugisiska (Brasilien))",
-        "Luciana (portugisisk (Brasilien))"
+        "Luciana (portugisisk (Brasilien))",
+        "Luciana (portugisisk (Brasil))"
       ],
       "overrides": "Luciana",
       "language": "pt-BR",
@@ -283,7 +285,8 @@
         "Felipe (portuguès (Brasil))",
         "Felipe (portugali (Brasilia))",
         "Felipe (portugisiska (Brasilien))",
-        "Felipe (portugisisk (Brasilien))"
+        "Felipe (portugisisk (Brasilien))",
+        "Felipe (portugisisk (Brasil))"
       ],
       "language": "pt-BR",
       "gender": "male",
@@ -526,7 +529,8 @@
         "portuguès Brasil",
         "portugali Brasilia",
         "portugisiska Brasilien",
-        "portugisisk Brasilien"
+        "portugisisk Brasilien",
+        "portugisisk Brasil"
       ],
       "language": "pt-BR",
       "rate": 1,

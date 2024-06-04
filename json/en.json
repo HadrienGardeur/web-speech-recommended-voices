@@ -648,7 +648,8 @@
         "Kate (anglès (Regne Unit))",
         "Kate (englanti (Iso-Britannia))",
         "Kate (engelska (Storbritannien))",
-        "Kate (engelsk (Storbritannien))"
+        "Kate (engelsk (Storbritannien))",
+        "Kate (engelsk (Storbritannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -686,7 +687,8 @@
         "Stephanie (anglès (Regne Unit))",
         "Stephanie (englanti (Iso-Britannia))",
         "Stephanie (engelska (Storbritannien))",
-        "Stephanie (engelsk (Storbritannien))"
+        "Stephanie (engelsk (Storbritannien))",
+        "Stephanie (engelsk (Storbritannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -729,7 +731,8 @@
         "Serena (anglès (Regne Unit))",
         "Serena (englanti (Iso-Britannia))",
         "Serena (engelska (Storbritannien))",
-        "Serena (engelsk (Storbritannien))"
+        "Serena (engelsk (Storbritannien))",
+        "Serena (engelsk (Storbritannia))"
       ],
       "language": "en-GB",
       "gender": "female",
@@ -772,7 +775,8 @@
         "Jamie (anglès (Regne Unit))",
         "Jamie (englanti (Iso-Britannia))",
         "Jamie (engelska (Storbritannien))",
-        "Jamie (engelsk (Storbritannien))"
+        "Jamie (engelsk (Storbritannien))",
+        "Jamie (engelsk (Storbritannia))"
       ],
       "language": "en-GB",
       "gender": "male",
@@ -810,7 +814,8 @@
         "Oliver (anglès (Regne Unit))",
         "Oliver (englanti (Iso-Britannia))",
         "Oliver (engelska (Storbritannien))",
-        "Oliver (engelsk (Storbritannien))"
+        "Oliver (engelsk (Storbritannien))",
+        "Oliver (engelsk (Storbritannia))"
       ],
       "language": "en-GB",
       "gender": "male",
@@ -847,7 +852,8 @@
         "Daniel (anglès (Regne Unit))",
         "Daniel (englanti (Iso-Britannia))",
         "Daniel (engelska (Storbritannien))",
-        "Daniel (engelsk (Storbritannien))"
+        "Daniel (engelsk (Storbritannien))",
+        "Daniel (engelsk (Storbritannia))"
       ],
       "overrides": "Daniel",
       "language": "en-GB",
@@ -892,7 +898,8 @@
         "Matilda (anglès (Austràlia))",
         "Matilda (englanti (Australia))",
         "Matilda (engelska (Australien))",
-        "Matilda (engelsk (Australien))"
+        "Matilda (engelsk (Australien))",
+        "Matilda (engelsk (Australia))"
       ],
       "language": "en-AU",
       "gender": "female",
@@ -934,7 +941,8 @@
         "Karen (anglès (Austràlia))",
         "Karen (englanti (Australia))",
         "Karen (engelska (Australien))",
-        "Karen (engelsk (Australien))"
+        "Karen (engelsk (Australien))",
+        "Karen (engelsk (Australia))"
       ],
       "overrides": "Karen",
       "language": "en-AU",
@@ -978,7 +986,8 @@
         "Lee (anglès (Austràlia))",
         "Lee (englanti (Australia))",
         "Lee (engelska (Australien))",
-        "Lee (engelsk (Australien))"
+        "Lee (engelsk (Australien))",
+        "Lee (engelsk (Australia))"
       ],
       "language": "en-AU",
       "gender": "male",
@@ -1752,7 +1761,8 @@
         "anglès Regne Unit",
         "englanti Iso-Britannia",
         "engelska Storbritannien",
-        "engelsk Storbritannien"
+        "engelsk Storbritannien",
+        "engelsk Storbritannia"
       ],
       "language": "en-GB",
       "rate": 1,
@@ -1776,7 +1786,8 @@
         "anglès Austràlia",
         "englanti Australia",
         "engelska Australien",
-        "engelsk Australien"
+        "engelsk Australien",
+        "engelsk Australia"
       ],
       "language": "en-AU",
       "rate": 1,
