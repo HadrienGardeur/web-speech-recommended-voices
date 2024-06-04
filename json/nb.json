@@ -29,6 +29,81 @@
       "preloaded": true
     },
     {
+      "label": "Nora",
+      "name": "Nora (forbedret)",
+      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "altNames": [
+        "Nora (Enhanced)",
+        "Nora (mejorada)",
+        "Nora (ottimizzata)",
+        "Nora (erweitert)",
+        "Nora (melhorada)",
+        "Nora (verbeterd)",
+        "Nora (millorada)",
+        "Nora (parannettu)",
+        "Nora (förbättrad)",
+        "Nora (Norwegian Bokmål (Norway))",
+        "Nora (norvégien bokmål (Norvège))",
+        "Nora (noruego bokmal (Noruega))",
+        "Nora (norvegese bokmål (Norvegia))",
+        "Nora (norueguês bokmål (Noruega))",
+        "Nora (Norwegisch (Bokmål) (Norwegen))",
+        "Nora (Noors - Bokmål (Noorwegen))",
+        "Nora (noruec bokmål (Noruega))",
+        "Nora (norjan bokmål (Norja))",
+        "Nora (norskt bokmål (Norge))",
+        "Nora (norsk bokmål (Norge))"
+      ],
+      "overrides": "Nora",
+      "language": "nb-NO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Henrik",
+      "name": "Henrik",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Henrik (forbedret)",
+        "Henrik (Enhanced)",
+        "Henrik (premium)",
+        "Henrik (mejorada)",
+        "Henrik (ottimizzata)",
+        "Henrik (erweitert)",
+        "Henrik (melhorada)",
+        "Henrik (verbeterd)",
+        "Henrik (millorada)",
+        "Henrik (parannettu)",
+        "Henrik (förbättrad)",
+        "Henrik (Norwegian Bokmål (Norway))",
+        "Henrik (norvégien bokmål (Norvège))",
+        "Henrik (noruego bokmal (Noruega))",
+        "Henrik (norvegese bokmål (Norvegia))",
+        "Henrik (norueguês bokmål (Noruega))",
+        "Henrik (Norwegisch (Bokmål) (Norwegen))",
+        "Henrik (Noors - Bokmål (Noorwegen))",
+        "Henrik (noruec bokmål (Noruega))",
+        "Henrik (norjan bokmål (Norja))",
+        "Henrik (norskt bokmål (Norge))",
+        "Henrik (norsk bokmål (Norge))"
+      ],
+      "language": "nb-NO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Jon",
       "name": "Microsoft Jon - Norwegian (Bokmål Norway)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
@@ -105,7 +180,7 @@
       "preloaded": true
     },
     {
-      "label": "Mannsstemme",
+      "label": "Mannsstemme 1",
       "name": "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
@@ -117,6 +192,46 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mannsstemme 2",
+      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-local"
+      ],
+      "language": "nb-NO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Norsk stemme",
+      "name": "norsk bokmål Norge",
+      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
+      "altNames": [
+        "Norwegian Bokmål Norway",
+        "norvégien bokmål Norvège",
+        "noruego bokmal Noruega",
+        "norvegese bokmål Norvegia",
+        "norueguês bokmål Noruega",
+        "Norwegisch Bokmål Norwegen",
+        "Noors - Bokmål Noorwegen",
+        "noruec bokmål Noruega",
+        "norjan bokmål Norja",
+        "norskt bokmål Norge"
+      ],
+      "language": "nb-NO",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
       ],
       "preloaded": true
     }
