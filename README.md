@@ -25,7 +25,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Italian](json/it.json)
 * [Norwegian](json/nb.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
-* [Spanish](json/es.json) (Spain, Argentina, Chile, Colombia, Mexico and United States)
+* [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico,Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
 
 ## Use cases
