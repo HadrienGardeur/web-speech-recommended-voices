@@ -81,6 +81,58 @@
       "preloaded": true
     },
     {
+      "label": "Sofia (Bolivia)",
+      "name": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-BO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Marcelo (Bolivia)",
+      "name": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-BO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Catalina (Chile)",
+      "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Lorenzo (Chile)",
+      "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CL",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Ximena (Colombia)",
       "name": "Microsoft Ximena Online (Natural) - Spanish (Colombia)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
@@ -120,10 +172,10 @@
       "preloaded": true
     },
     {
-      "label": "Catalina (Chile)",
-      "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
+      "label": "Maria (Costa Rica)",
+      "name": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "es-CL",
+      "language": "es-CR",
       "gender": "female",
       "rate": 1,
       "pitch": 1,
@@ -133,10 +185,88 @@
       "preloaded": true
     },
     {
-      "label": "Lorenzo (Chile)",
-      "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
+      "label": "Juan (Costa Rica)",
+      "name": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "es-CL",
+      "language": "es-CR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Belkys (Cuba)",
+      "name": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CU",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Manuel (Cuba)",
+      "name": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-CU",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Andrea (Ecuador)",
+      "name": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-EC",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Luis (Ecuador)",
+      "name": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-EC",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Lorena (El Savlador)",
+      "name": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-SV",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Rodrigo (El Savlador)",
+      "name": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-SV",
       "gender": "male",
       "rate": 1,
       "pitch": 1,
@@ -154,6 +284,308 @@
         "en"
       ],
       "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Alonso (Estados Unidos)",
+      "name": "Microsoft Alonso Online (Natural) - Spanish (United States)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-US",
+      "otherLanguages": [
+        "en"
+      ],
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Marta (Guatemala)",
+      "name": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-GT",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Andres (Guatemala)",
+      "name": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-GT",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Teresa (Guinea Ecuatorial)",
+      "name": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-GQ",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Javier (Guinea Ecuatorial)",
+      "name": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-GQ",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Karla (Honduras)",
+      "name": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-HN",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Carlos (Honduras)",
+      "name": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-HN",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Yolanda (Nicaragua)",
+      "name": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-NI",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Federico (Nicaragua)",
+      "name": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-NI",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Margarita (Panama)",
+      "name": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PA",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Roberto (Panama)",
+      "name": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PA",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Tania (Paraguay)",
+      "name": "Microsoft Tania Online (Natural) - Spanish (Panama)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PY",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mario (Paraguay)",
+      "name": "Microsoft Mario Online (Natural) - Spanish (Panama)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PY",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Camila (Peru)",
+      "name": "Microsoft Camila Online (Natural) - Spanish (Peru)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Alex (Peru)",
+      "name": "Microsoft Alex Online (Natural) - Spanish (Peru)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PE",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Karina (Puerto Rico)",
+      "name": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PR",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Victor (Puerto Rico)",
+      "name": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-PR",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ramona (República Dominicana)",
+      "name": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-DO",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Emilio (República Dominicana)",
+      "name": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-DO",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Valentina (Urugay)",
+      "name": "Microsoft Valentina Online (Natural) - Spanish (Urugay)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-UY",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mateo (Urugay)",
+      "name": "Microsoft Mateo Online (Natural) - Spanish (Urugay)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-UY",
+      "gender": "male",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Paola (Venezuela)",
+      "name": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-VE",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Sebastian (Venezuela)",
+      "name": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
+      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
+      "language": "es-VE",
+      "gender": "male",
       "rate": 1,
       "pitch": 1,
       "browser": [
@@ -485,6 +917,46 @@
       ]
     },
     {
+      "label": "Francesca (Chile)",
+      "name": "Francesca",
+      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "altNames": [
+        "Francesca (mejorada)",
+        "Francesca (millorada)",
+        "Francesca (Enhanced)",
+        "Francesca (premium)",
+        "Francesca (ottimizzata)",
+        "Francesca (melhorada)",
+        "Francesca (erweitert)",
+        "Francesca (verbeterd)",
+        "Francesca (millorada)",
+        "Francesca (parannettu)",
+        "Francesca (förbättrad)",
+        "Francesca (forbedret)",
+        "Francesca (Spanish (Chile))",
+        "Francesca (espagnol (Chili))",
+        "Francesca (español (Chile))",
+        "Francesca (spagnolo (Chile))",
+        "Francesca (gaztenalia (Txile))",
+        "Francesca (espanyol (Xile))",
+        "Francesca (espanhol (Chile))",
+        "Francesca (Spanisch (Chile))",
+        "Francesca (Spaans (Chili))",
+        "Francesca (espanja (Chile))",
+        "Francesca (spanska (Chile))",
+        "Francesca (spansk (Chile))"
+      ],
+      "language": "es-CL",
+      "gender": "female",
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Soledad (Colombia)",
       "name": "Soledad",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
@@ -596,46 +1068,6 @@
       ],
       "language": "es-CO",
       "gender": "male",
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
-      "label": "Francesca (Chile)",
-      "name": "Francesca",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Francesca (mejorada)",
-        "Francesca (millorada)",
-        "Francesca (Enhanced)",
-        "Francesca (premium)",
-        "Francesca (ottimizzata)",
-        "Francesca (melhorada)",
-        "Francesca (erweitert)",
-        "Francesca (verbeterd)",
-        "Francesca (millorada)",
-        "Francesca (parannettu)",
-        "Francesca (förbättrad)",
-        "Francesca (forbedret)",
-        "Francesca (Spanish (Chile))",
-        "Francesca (espagnol (Chili))",
-        "Francesca (español (Chile))",
-        "Francesca (spagnolo (Chile))",
-        "Francesca (gaztenalia (Txile))",
-        "Francesca (espanyol (Xile))",
-        "Francesca (espanhol (Chile))",
-        "Francesca (Spanisch (Chile))",
-        "Francesca (Spaans (Chili))",
-        "Francesca (espanja (Chile))",
-        "Francesca (spanska (Chile))",
-        "Francesca (spansk (Chile))"
-      ],
-      "language": "es-CL",
-      "gender": "female",
       "rate": 1,
       "pitch": 1,
       "os": [
