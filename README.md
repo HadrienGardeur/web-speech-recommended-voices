@@ -34,8 +34,8 @@ At the other end up the spectrum, this project also identifies a number of voice
 
 Some of them are harmful to the overall reading experience, while others have a very low quality on platforms where better preloaded options are available.
 
-* [Novelty voices](json/filters/novelty.json) 
-* Very low quality voices (In a future update)
+* [Novelty voices](json/filters/novelty.json) (Apple devices)
+* [Very low quality voices](json/filters/veryLowQuality.json) (Chrome OS)
 
 ## Use cases
 
