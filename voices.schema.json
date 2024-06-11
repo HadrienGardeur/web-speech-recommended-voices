@@ -117,15 +117,12 @@
           }
         },
         "required": [
-          "label",
-          "name",
-          "language"
+          "name"
         ]
       }
     }
   },
   "required": [
-    "language",
     "voices"
   ]
 }

@@ -1,0 +1,181 @@
+{
+  "voices": [
+    {
+      "name": "Albert",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Bad News",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Mauvaises nouvelles",
+        "Malas noticias",
+        "Brutte notizie"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Bells",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Cloches",
+        "Campanas",
+        "Campane"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Boing",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Bubbles",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Bulles",
+        "Burbujas",
+        "Bollicine"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Cellos",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Violoncelles",
+        "Violonchelos",
+        "Violoncelli"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Good News",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Bonnes nouvelles",
+        "Buenas noticias",
+        "Buone notizie"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Jester",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Bouffon",
+        "Bufón",
+        "Giullare"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Organ",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Orgue",
+        "Órgano",
+        "Organo"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Superstar",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Superestrella"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Trinoids",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Trinoïdes",
+        "Trinoid"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Whisper",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "altNames": [
+        "Murmure",
+        "Susurro",
+        "Sussurro"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Zarvox",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    }
+  ]
+}
