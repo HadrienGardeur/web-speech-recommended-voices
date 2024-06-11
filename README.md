@@ -28,6 +28,15 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
 
+## List of voices to filter out
+
+At the other end up the spectrum, this project also identifies a number of voices that should be filtered out from a voice selector component. 
+
+Some of them are harmful to the overall reading experience, while others have a very low quality on platforms where better preloaded options are available.
+
+* [Novelty voices](json/filters/novelty.json) 
+* Very low quality voices (In a future update)
+
 ## Use cases
 
 * Providing the best possible default voice per language
@@ -41,12 +50,13 @@ With its focus on voice selection, the goal of this project is to document highe
 * Each voice list is ordered and meant to provide an optimal listening experience on all browsers/OS/languages covered by this project.
 * But each list also includes default options, to make sure that there's always something reliable to lean on.
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
-* The number of voices can look overwhelming (70+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
+* The number of voices can look overwhelming (90+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
+* The voice names returned by the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) are hardly user-friendly, which is the reason why this list provides alternate ones that usually include a first name (or a gender) along with the region associated to the voice.
 * Whenever possible, I will always try to include a good mix of high quality and default options for both genders.
 * But the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
 * Regional variants are also grouped together in a single list rather than separated in their own files on purpose. On some devices, only two or three voices might be available and separating regional variants wouldn't make much sense.
 * But regional variants have to be prioritized somehow in the list. For now, the regions with the best selections of voices are listed above, but it is highly recommended to implementers [to consider the user's regional preferences](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/languages).
-* The voice names returned by the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) are hardly user-friendly, which is the reason why this list provides alternate ones that usually include a first name (or a gender) along with the region associated to the voice.
+
 
 ## Syntax
 
