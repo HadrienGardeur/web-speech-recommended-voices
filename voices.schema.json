@@ -70,15 +70,23 @@
           },
           "rate": {
             "type": "number",
+            "description": "Default recommended speed rate for a voice.",
             "minimum": 0.1,
             "maximum": 10,
             "default": 1
           },
           "pitch": {
             "type": "number",
+            "description": "Default recommended pitch rate for a voice.",
             "minimum": 0,
             "maximum": 2,
             "default": 1
+          },
+          },
+          "pitchControl": {
+            "type": "boolean",
+            "description": "Indicates if the pitch of a voice can be controlled.",
+            "default": true
           },
           "os": {
             "type": "array",

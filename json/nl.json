@@ -9,7 +9,7 @@
       "language": "nl-NL",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -22,7 +22,7 @@
       "language": "nl-NL",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -35,7 +35,7 @@
       "language": "nl-NL",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -48,7 +48,7 @@
       "language": "nl-BE",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -61,7 +61,7 @@
       "language": "nl-BE",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],

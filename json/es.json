@@ -9,7 +9,7 @@
       "language": "es-ES",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -22,7 +22,7 @@
       "language": "es-ES",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -35,7 +35,7 @@
       "language": "es-MX",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -48,7 +48,7 @@
       "language": "es-MX",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -61,7 +61,7 @@
       "language": "es-AR",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -74,7 +74,7 @@
       "language": "es-AR",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -87,7 +87,7 @@
       "language": "es-BO",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -100,7 +100,7 @@
       "language": "es-BO",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -113,7 +113,7 @@
       "language": "es-CL",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -126,7 +126,7 @@
       "language": "es-CL",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -152,7 +152,7 @@
       "language": "es-CO",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -165,7 +165,7 @@
       "language": "es-CO",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -178,7 +178,7 @@
       "language": "es-CR",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -191,7 +191,7 @@
       "language": "es-CR",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -204,7 +204,7 @@
       "language": "es-CU",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -217,7 +217,7 @@
       "language": "es-CU",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -230,7 +230,7 @@
       "language": "es-EC",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -243,7 +243,7 @@
       "language": "es-EC",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -256,7 +256,7 @@
       "language": "es-SV",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -269,7 +269,7 @@
       "language": "es-SV",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -285,7 +285,7 @@
       ],
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -301,7 +301,7 @@
       ],
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -314,7 +314,7 @@
       "language": "es-GT",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -327,7 +327,7 @@
       "language": "es-GT",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -340,7 +340,7 @@
       "language": "es-GQ",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -353,7 +353,7 @@
       "language": "es-GQ",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -366,7 +366,7 @@
       "language": "es-HN",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -379,7 +379,7 @@
       "language": "es-HN",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -392,7 +392,7 @@
       "language": "es-NI",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -405,7 +405,7 @@
       "language": "es-NI",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -418,7 +418,7 @@
       "language": "es-PA",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -431,7 +431,7 @@
       "language": "es-PA",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -444,7 +444,7 @@
       "language": "es-PY",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -457,7 +457,7 @@
       "language": "es-PY",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -470,7 +470,7 @@
       "language": "es-PE",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -483,7 +483,7 @@
       "language": "es-PE",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -496,7 +496,7 @@
       "language": "es-PR",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -509,7 +509,7 @@
       "language": "es-PR",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -522,7 +522,7 @@
       "language": "es-DO",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -535,7 +535,7 @@
       "language": "es-DO",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -548,7 +548,7 @@
       "language": "es-UY",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -561,7 +561,7 @@
       "language": "es-UY",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -574,7 +574,7 @@
       "language": "es-VE",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -587,7 +587,7 @@
       "language": "es-VE",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],

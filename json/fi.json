@@ -9,7 +9,7 @@
       "language": "fi-FI",
       "gender": "female",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
@@ -22,7 +22,7 @@
       "language": "fi-FI",
       "gender": "male",
       "rate": 1,
-      "pitch": 1,
+      "pitchControl": false,
       "browser": [
         "Edge"
       ],
