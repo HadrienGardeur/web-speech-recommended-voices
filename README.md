@@ -15,6 +15,8 @@ With its focus on voice selection, the goal of this project is to document highe
 
 * [Basque](json/eu.json) 
 * [Catalan](json/ca.json)
+* Croatian (planned)
+* Czech (planned)
 * [Danish](json/da.json)
 * [Dutch](json/nl.json) (Netherlands and Belgium)
 * [English](json/en.json) (United States, United Kingdom, Australia and Canada)
@@ -22,11 +24,19 @@ With its focus on voice selection, the goal of this project is to document highe
 * [French](json/fr.json) (France, Canada, Belgium and Switzerland)
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
+* Greek (planned)
+* Hungarian (planned)
 * [Italian](json/it.json)
 * [Norwegian](json/nb.json)
+* Polish (planned)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
+* Romanian (planned)
+* Russian (planned)
+* Slovene (planned)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
+* Turkish (planned)
+* Ukrainian (planned)
 
 ## List of voices to filter out
 
@@ -247,7 +257,7 @@ Each voice documented in this repo supports the following optional properties:
 - `rate` is an integer between 0.1 and 10 that defaults to 1 and provides a recommended default speech rate for each voice
 - `pitch` is an integer between 0 and 2 that defaults to 1 and provides a recommended default pitch for each voice
 
-**Example 8: Microsoft voice where the pitch cannot be adjusted**
+**Example 9: Microsoft voice where the pitch cannot be adjusted**
 
 ```json
 {
@@ -259,7 +269,7 @@ Each voice documented in this repo supports the following optional properties:
 }
 ```
 
-**Example 9: Google voice with recommended pitch and speed rates**
+**Example 10: Google voice with recommended pitch and speed rates**
 
 ```json
 {
