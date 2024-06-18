@@ -1124,15 +1124,6 @@
       "preloaded": true
     },
     {
-      "name": "eSpeak Persian",
-      "note": "eSpeak voices are preloaded by default on Chrome OS.",
-      "language": "fa",
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "name": "eSpeak Finnish",
       "note": "eSpeak voices are preloaded by default on Chrome OS.",
       "language": "fi",
@@ -1298,15 +1289,6 @@
       "name": "eSpeak Slovak",
       "note": "eSpeak voices are preloaded by default on Chrome OS.",
       "language": "sk",
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "name": "eSpeak Slovenian",
-      "note": "eSpeak voices are preloaded by default on Chrome OS.",
-      "language": "sl",
       "os": [
         "ChromeOS"
       ],
