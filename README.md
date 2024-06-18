@@ -234,6 +234,44 @@ With the current approach, it's not possible to indicate that a voice is availab
 }
 ```
 
+### Speech rate and pitch
+
+When using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API), `SpeechSynthesisUtterance` supports optional values for:
+
+- [`rate`](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/rate) to control the speech rate
+- and [`pitch`](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/pitch) to control the pitch
+
+Each voice documented in this repo supports the following optional properties:
+
+- `pitchControl` is a boolean that defaults to `true` and indicates if a voice can be pitch controlled
+- `rate` is an integer between 0.1 and 10 that defaults to 1 and provides a recommended default speech rate for each voice
+- `pitch` is an integer between 0 and 2 that defaults to 1 and provides a recommended default pitch for each voice
+
+**Example 8: Microsoft voice where the pitch cannot be adjusted**
+
+```json
+{
+  "label": "Ana (US)",
+  "name": "Microsoft Ana Online (Natural) - English (United States)",
+  "language": "en-US",
+  "gender": "female",
+  "pitchControl": false
+}
+```
+
+**Example 8: Google voice with recommended pitch and speed rates**
+
+```json
+{
+  "label": "Voix Google féminine (France)",
+  "name": "Google français",
+  "language": "fr-FR",
+  "gender": "female",
+  "rate": 1,
+  "pitch": 0.8
+}
+```
+
 ## Additional notes
 
 Through the work done to document a list of recommended voices, I also ended up testing various browsers/OS to see how they behave. This section is meant to summarize some of this information.
