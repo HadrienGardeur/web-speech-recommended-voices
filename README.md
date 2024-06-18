@@ -259,7 +259,7 @@ Each voice documented in this repo supports the following optional properties:
 }
 ```
 
-**Example 8: Google voice with recommended pitch and speed rates**
+**Example 9: Google voice with recommended pitch and speed rates**
 
 ```json
 {
@@ -315,12 +315,12 @@ Through the work done to document a list of recommended voices, I also ended up 
 
 ### Chrome OS
 
-* Chrome OS comes with three sets of voices: Chrome voices (7 languages), Android voices (50+ languages) and eSpeak voices
+* Chrome OS comes with four sets of voices: Chrome voices (7 languages), Android voices (50+ languages), Natural voices (6 languages) and eSpeak voices (38 languages).
 * Most Android voices offer offline and online variants and they're on par quality-wise with what Apple offers in terms of downloadable voices.
 * These Android voices have some of the worst names on any platform/browser, making them hardly usable without the kind of re-labeling offered by this project.
 * Google is also gradually adding these Android voices to Chrome OS through the ability to install higher quality voice packs that work offline, re-labeling these voices as "natural voices" in the process.
 * Chrome voices are one step below Android voices, but they offer a decent selection for the most common languages.
-* eSpeak voices should be avoided at all cost due to their extremely low quality and have been skipped entirely while documenting recommended voices for this project.
+* eSpeak voices should be avoided at all cost due to their extremely low quality and have been documented separately in order to filter them out.
 
 ### Edge
 
@@ -328,6 +328,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 * All of these so-called "natural" voices rely on Machine Learning (ML) and therefore require online access to use them.
 * A small number of those voices are also multilingual and seem to be able to detect the language of a sentence and adapt accordingly. Unfortunately, this doesn't work as well when there's a language switch in the middle of a sentence.
 * On macOS at least, there's a weird bug where Edge only displays 18 natural voices initially, but this extends to 250+ once Web Speech API has been used to output an utterance.
+* There are also additional issues that implementers should be aware of when using these voices: they don't support pitch adjustment ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/35)) and a number of characters need to be escaped to avoid playback issues ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/8)).
 * On mobile, Edge isn't nearly as interesting: 
   * It's completely unusable on Android since it returns an empty list of voices, which makes it impossible to use with Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/20)). 
   * On iOS/iPadOS, all browsers are currently forced to use Safari as their engine, which means that Edge behaves exactly like Safari Mobile.
