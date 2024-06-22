@@ -90,6 +90,7 @@ function readTextWithSelectedVoice() {
   for (const voice of voices) {
     if (voice.name === selectedVoice) {
       utterance.voice = voice;
+      utterance.lang = voice.lang;
       break;
     }
   }
