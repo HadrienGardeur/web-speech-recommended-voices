@@ -9,6 +9,9 @@
       "language": "en-US",
       "multiLingual": true,
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -22,6 +25,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -35,6 +41,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -48,6 +57,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -62,6 +74,9 @@
       "language": "en-US",
       "gender": "female",
       "children": true,
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -76,6 +91,9 @@
       "language": "en-US",
       "multiLingual": true,
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -90,6 +108,9 @@
       "language": "en-US",
       "multiLingual": true,
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -103,6 +124,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -116,6 +140,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -129,6 +156,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -142,6 +172,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -155,6 +188,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -168,6 +204,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-GB",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -181,6 +220,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-GB",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -195,6 +237,9 @@
       "language": "en-GB",
       "gender": "female",
       "children": true,
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -208,6 +253,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "en-GB",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -221,6 +269,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-GB",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -234,6 +285,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-AU",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -247,6 +301,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-AU",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -260,6 +317,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-CA",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -273,6 +333,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "en-CA",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -315,6 +378,11 @@
       ],
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -358,6 +426,11 @@
       ],
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -396,6 +469,10 @@
       ],
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -434,6 +511,9 @@
       "overrides": "Samantha",
       "language": "en-US",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -473,6 +553,9 @@
       "language": "en-US",
       "gender": "female",
       "children": true,
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -511,6 +594,10 @@
       ],
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -549,6 +636,10 @@
       ],
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -587,6 +678,10 @@
       ],
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -614,6 +709,9 @@
       ],
       "language": "en-US",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -653,6 +751,10 @@
       ],
       "language": "en-GB",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -692,6 +794,10 @@
       ],
       "language": "en-GB",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -736,6 +842,11 @@
       ],
       "language": "en-GB",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -780,6 +891,11 @@
       ],
       "language": "en-GB",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -819,6 +935,10 @@
       ],
       "language": "en-GB",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -858,6 +978,9 @@
       "overrides": "Daniel",
       "language": "en-GB",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -903,6 +1026,11 @@
       ],
       "language": "en-AU",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -947,6 +1075,10 @@
       "overrides": "Karen",
       "language": "en-AU",
       "gender": "female",
+      "quality": [
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -991,6 +1123,11 @@
       ],
       "language": "en-AU",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [

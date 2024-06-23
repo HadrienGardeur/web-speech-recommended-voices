@@ -68,6 +68,20 @@
             "description": "Indicates if the voice is a children voice.",
             "default": false
           },
+          "quality": {
+            "type": "array",
+            "description": "Quality available for the variants of a given voice",
+            "items": {
+              "type": "string",
+              "enum": [
+                "veryLow",
+                "low",
+                "normal",
+                "high",
+                "veryHigh"
+              ]
+            }
+          },
           "rate": {
             "type": "number",
             "description": "Default recommended speed rate for a voice.",

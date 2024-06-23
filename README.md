@@ -201,13 +201,61 @@ The following values are supported: `female`, `male` or `nonbinary`.
 }
 ```
 
+### Quality
+
+`quality` is an optional property for each voice, that documents the quality of the various variants of a voice.
+
+The following values are supported:
+<dl>
+<dt>veryHigh</dt>
+<dd>Very high, almost human-indistinguishable quality of speech synthesis</dd>
+<dt>high</dt>
+<dd>High, human-like quality of speech synthesis</dd>
+<dt>normal</dt>
+<dd>Normal quality of speech synthesis</dd>
+<dt>low</dt>
+<dd>Low, not human-like quality of speech synthesis</dd>
+<dt>veryLow</dt>
+<dd>Very low, but still intelligible quality of speech synthesis</dd>
+</dl>
+
+**Example 7: An Apple voice available in three quality variants**
+
+```json
+{
+  "label": "Ava (US)",
+  "name": "Ava",
+  "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+  "altNames": [
+    "Ava (Premium)",
+    "Ava (Enhanced)",
+    "Ava (English (United States))",
+  ],
+  "language": "en-US",
+  "gender": "female",
+  "quality": [
+    "low",
+    "normal",
+    "high"
+  ],
+  "rate": 1,
+  "pitch": 1,
+  "os": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ]
+}
+```
+
+
 ### OS and browser
 
 Both `os` and `browser` are optional properties. They're used to indicate in which operating systems and browsers a voice is available.
 
 These two properties are meant to be interpreted separately and not as a combination.
 
-**Example 7: A Microsoft voice available in both Edge and Windows**
+**Example 8: A Microsoft voice available in both Edge and Windows**
 
 ```json
 {
@@ -229,7 +277,7 @@ In addition, `preloaded` indicates if the voice is preloaded in all the OS and b
 
 With the current approach, it's not possible to indicate that a voice is available on Chrome and Windows, but requires a download on Windows for example.
 
-**Example 8: A Google voice preloaded in Chrome Desktop**
+**Example 9: A Google voice preloaded in Chrome Desktop**
 
 ```json
 {
@@ -257,7 +305,7 @@ Each voice documented in this repo supports the following optional properties:
 - `rate` is an integer between 0.1 and 10 that defaults to 1 and provides a recommended default speech rate for each voice
 - `pitch` is an integer between 0 and 2 that defaults to 1 and provides a recommended default pitch for each voice
 
-**Example 9: Microsoft voice where the pitch cannot be adjusted**
+**Example 10: Microsoft voice where the pitch cannot be adjusted**
 
 ```json
 {
@@ -269,7 +317,7 @@ Each voice documented in this repo supports the following optional properties:
 }
 ```
 
-**Example 10: Google voice with recommended pitch and speed rates**
+**Example 11: Google voice with recommended pitch and speed rates**
 
 ```json
 {
