@@ -358,7 +358,7 @@ Through the work done to document a list of recommended voices, I also ended up 
 * Unfortunately, Chrome on Android doesn't return the list of voices available to the users, instead it returns an unfiltered list of languages/regions ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/12)).
 * To make things worse, these voices and regions are all localized with the system locale.
 * Among other things, this means that even languages and regions which require a voice pack to be installed will show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/14)).
-* If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/6)).
+* If the user selects a language/region for which the voice pack needs to be downloaded, Chrome will default to an English voice instead ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/6)).
 * Even when a voice pack has been installed, the user may need to select a default voice for each region before a language/region can be used at all. 
 * With this poor approach to voice selection, Chrome on Android doesn't indicate the user's preferred language/region either using `default` ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/16)).
 
