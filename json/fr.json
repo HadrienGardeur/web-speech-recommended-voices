@@ -9,6 +9,9 @@
       "language": "fr-FR",
       "multiLingual": true,
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -22,6 +25,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -35,6 +41,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-BE",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -48,6 +57,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-CH",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -62,6 +74,9 @@
       "language": "fr-FR",
       "gender": "female",
       "children": true,
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -76,6 +91,9 @@
       "language": "fr-FR",
       "multiLingual": true,
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -89,6 +107,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -102,6 +123,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-BE",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -115,6 +139,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-CH",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -131,6 +158,9 @@
         "en"
       ],
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -144,6 +174,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -157,6 +190,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -173,6 +209,9 @@
         "en"
       ],
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -216,6 +255,11 @@
       ],
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -255,6 +299,10 @@
       ],
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 0.9,
       "pitch": 1,
       "os": [
@@ -294,6 +342,9 @@
       "overrides": "Thomas",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -333,6 +384,10 @@
       ],
       "language": "fr-BE",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -371,6 +426,10 @@
       ],
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -404,6 +463,9 @@
       "overrides": "Amélie",
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -442,6 +504,10 @@
       ],
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -456,6 +522,9 @@
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "browser": [
@@ -469,6 +538,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -482,6 +554,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -495,6 +570,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -508,6 +586,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -521,6 +602,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -534,6 +618,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "fr-CH",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -547,6 +634,9 @@
       "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -562,6 +652,9 @@
       "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -573,14 +666,17 @@
     },
     {
       "label": "Voix féminine 1 (France)",
-      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-network",
+      "name": "Google français 4 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Google français 2 (Natural)",
-        "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-local"
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-network",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local"
       ],
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -590,14 +686,17 @@
     },
     {
       "label": "Voix féminine 2 (France)",
-      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-network",
+      "name": "Google français 2 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Google français 4 (Natural)",
-        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local"
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-network",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-local"
       ],
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -607,14 +706,17 @@
     },
     {
       "label": "Voix féminine 3 (France)",
-      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-network",
+      "name": "Google français 1 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Google français 1 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-network",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-local"
       ],
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -627,6 +729,9 @@
       "name": "Chrome OS français 1",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -639,6 +744,9 @@
       "name": "Chrome OS français 2",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -651,6 +759,9 @@
       "name": "Chrome OS français 4",
       "language": "fr-FR",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -660,14 +771,17 @@
     },
     {
       "label": "Voix masculine 1 (France)",
-      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-network",
+      "name": "Google français 5 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Google français 5 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-network",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-local"
       ],
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -677,14 +791,17 @@
     },
     {
       "label": "Voix masculine 2 (France)",
-      "name": "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-network",
+      "name": "Google français 3 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Google français 3 (Natural)",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-network",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-local"
       ],
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -697,6 +814,9 @@
       "name": "Chrome OS français 3",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -709,6 +829,9 @@
       "name": "Chrome OS français 5",
       "language": "fr-FR",
       "gender": "male",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -720,8 +843,14 @@
       "label": "Voix féminine 1 (Canada)",
       "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-local"
+      ],
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -733,8 +862,14 @@
       "label": "Voix féminine 2 (Canada)",
       "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cac-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google fr-ca-x-cac-local"
+      ],
       "language": "fr-CA",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -746,8 +881,14 @@
       "label": "Voix masculine 1 (Canada)",
       "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cab-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google fr-ca-x-cab-local"
+      ],
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -759,8 +900,14 @@
       "label": "Voix masculine 2 (Canada)",
       "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-cad-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway.",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google fr-ca-x-cad-local"
+      ],
       "language": "fr-CA",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -786,6 +933,9 @@
         "fransk Frankrike"
       ],
       "language": "fr-FR",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -810,6 +960,9 @@
         "fransk Canada"
       ],
       "language": "fr-CA",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
