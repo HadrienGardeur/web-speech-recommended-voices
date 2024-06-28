@@ -8,6 +8,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -21,6 +24,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -34,6 +40,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -47,6 +56,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -89,6 +101,11 @@
       ],
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -132,6 +149,11 @@
       ],
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -170,6 +192,9 @@
       "overrides": "Alice",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -208,6 +233,10 @@
       ],
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -246,6 +275,10 @@
       ],
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -260,6 +293,9 @@
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "browser": [
@@ -273,6 +309,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -286,6 +325,9 @@
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -299,6 +341,9 @@
       "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -317,6 +362,9 @@
       ],
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -333,6 +381,9 @@
       ],
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -345,6 +396,9 @@
       "name": "Chrome OS italiano 1",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -357,6 +411,9 @@
       "name": "Chrome OS italiano 2",
       "language": "it-IT",
       "gender": "female",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -373,6 +430,9 @@
       ],
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -389,6 +449,9 @@
       ],
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -401,6 +464,9 @@
       "name": "Chrome OS italiano 3",
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -413,6 +479,9 @@
       "name": "Chrome OS italiano 4",
       "language": "it-IT",
       "gender": "male",
+      "quality": [
+        "low"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -438,6 +507,9 @@
         "italiensk Italia"
       ],
       "language": "it-IT",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [

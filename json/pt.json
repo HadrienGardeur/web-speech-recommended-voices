@@ -406,7 +406,7 @@
       "language": "pt-PT",
       "gender": "female",
       "quality": [
-        "normal"
+        "low"
       ],
       "rate": 1,
       "pitch": 1,
@@ -424,7 +424,7 @@
       "language": "pt-BR",
       "gender": "female",
       "quality": [
-        "normal"
+        "low"
       ],
       "rate": 1,
       "pitch": 1,
