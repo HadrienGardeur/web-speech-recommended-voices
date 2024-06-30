@@ -387,7 +387,7 @@
       "name": "Google Nederlands 2 (Natural)",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network"
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
       ],
       "language": "nl-NL",
@@ -507,6 +507,9 @@
         "nederlandsk Nederland"
       ],
       "language": "nl-NL",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
@@ -532,6 +535,9 @@
         "nederlandsk Belgia"
       ],
       "language": "nl-BE",
+      "quality": [
+        "high"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
