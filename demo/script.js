@@ -9,13 +9,15 @@ languageSelect.addEventListener('change', async function() {
   }
 
   const selectedLanguage = languageSelect.value;
-  const jsonData = await loadJSONData("../json/"+selectedLanguage+".json");
+  const jsonData = await loadJSONData("https://hadriengardeur.github.io/web-speech-recommended-voices/json/"+selectedLanguage+".json");
 
   const defaultText = document.getElementById('text-to-read');
   defaultText.value = jsonData.testUtterance
 
   const availableVoices = filterAvailableVoices(jsonData);
-  const voiceDropdownHTML = generateVoiceDropdownHTML(availableVoices);
+  const groupedVoices = groupVoicesByRegion(availableVoices);
+  const sortedVoices = sortVoicesByRegionPreference(groupedVoices);
+  const voiceDropdownHTML = generateVoiceDropdownHTML(sortedVoices);
   document.getElementById('voice-select').outerHTML = voiceDropdownHTML;
 });
 
@@ -59,6 +61,46 @@ function filterAvailableVoices(jsonData) {
     );
 
   return availableVoices;
+}
+
+function groupVoicesByRegion(voices) {
+  const regions = {};
+
+  voices.forEach(voice => {
+    const region = extractRegionFromLang(voice.language) || 'Other';
+    if (!regions[region]) {
+      regions[region] = [];
+    }
+    regions[region].push(voice);
+  });
+
+  return regions;
+}
+
+function extractRegionFromLang(lang) {
+  if (!lang) return null;
+  const parts = lang.split('-');
+  return parts.length > 1 ? parts[1] : null;
+}
+
+function sortVoicesByRegionPreference(groupedVoices) {
+  const acceptLanguages = navigator.languages;
+  const primaryRegion = acceptLanguages.map(lang => extractRegionFromLang(lang) || 'Other');
+
+  const sortedVoices = [];
+  
+  primaryRegion.forEach(region => {
+    if (groupedVoices[region]) {
+      sortedVoices.push(...groupedVoices[region]);
+      delete groupedVoices[region];
+    }
+  });
+
+  for (const region in groupedVoices) {
+    sortedVoices.push(...groupedVoices[region]);
+  }
+
+  return sortedVoices;
 }
 
 function generateVoiceDropdownHTML(jsonData) {
