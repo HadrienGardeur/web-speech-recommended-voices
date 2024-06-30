@@ -68,7 +68,7 @@
     },
     {
       "label": "Antonio (Brasil)",
-      "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
+      "name": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
       "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "pt-BR",
       "gender": "male",
