@@ -25,6 +25,13 @@
             "type": "string",
             "description": "Identifies voices, as returned by the Web Speech API."
           },
+          "localizedName": {
+            "type": "string",
+            "enum": [
+              "android",
+              "apple"
+            ]
+          },
           "note": {
             "type": "string"
           },
@@ -34,10 +41,6 @@
               "type": "string",
               "description": "Alternate names for a given voice. Only useful for Apple voices."
             }
-          },
-          "overrides": {
-            "type": "string",
-            "description": "Identifies the lower-quality variant of a given voice. Only useful for Apple voices."
           },
           "language": {
             "type": "string",
