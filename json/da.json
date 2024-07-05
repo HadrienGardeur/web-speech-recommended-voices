@@ -36,35 +36,16 @@
     },
     {
       "label": "Sara",
-      "name": "Sara (forbedret)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "name": "Sara",
+      "localizedName": "apple",
       "altNames": [
-        "Sara (Enhanced)",
-        "Sara (premium)",
-        "Sara (mejorada)",
-        "Sara (ottimizzata)",
-        "Sara (erweitert)",
-        "Sara (melhorada)",
-        "Sara (verbeterd)",
-        "Sara (millorada)",
-        "Sara (parannettu)",
-        "Sara (förbättrad)",
-        "Sara (Danish (Denmark))",
-        "Sara (danois (Danemark))",
-        "Sara (danés (Dinamarca))",
-        "Sara (danese (Danimarca))",
-        "Sara (dinamarquês (Dinamarca))",
-        "Sara (Dänisch (Dänemark))",
-        "Sara (Deens (Denemarken))",
-        "Sara (danès (Dinamarca))",
-        "Sara (tanskan kieli (Tanska))",
-        "Sara (danska (Danmark))",
-        "Sara (dansk (Danmark))"
+        "Sara (forbedret)",
+        "Sara (danska (Danmark))"
       ],
-      "overrides": "Sara",
       "language": "da-DK",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -73,35 +54,16 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Magnus",
       "name": "Magnus",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
+      "localizedName": "apple",
       "altNames": [
         "Magnus (forbedret)",
-        "Magnus (Enhanced)",
-        "Magnus (premium)",
-        "Magnus (mejorada)",
-        "Magnus (ottimizzata)",
-        "Magnus (erweitert)",
-        "Magnus (melhorada)",
-        "Magnus (verbeterd)",
-        "Magnus (millorada)",
-        "Magnus (parannettu)",
-        "Magnus (förbättrad)",
-        "Magnus (Danish (Denmark))",
-        "Magnus (danois (Danemark))",
-        "Magnus (danés (Dinamarca))",
-        "Magnus (danese (Danimarca))",
-        "Magnus (dinamarquês (Dinamarca))",
-        "Magnus (Dänisch (Dänemark))",
-        "Magnus (Deens (Denemarken))",
-        "Magnus (danès (Dinamarca))",
-        "Magnus (tanskan kieli (Tanska))",
-        "Magnus (danska (Danmark))",
-        "Magnus (dansk (Danmark))"
+        "Magnus (danska (Danmark))"
       ],
       "language": "da-DK",
       "gender": "male",
@@ -130,24 +92,6 @@
       "pitch": 1,
       "os": [
         "Windows"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Sara",
-      "name": "Sara",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "da-DK",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
       ],
       "preloaded": true
     },
@@ -230,19 +174,8 @@
     {
       "label": "Dansk stemme",
       "name": "dansk Danmark",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Danish Denmark",
-        "danois Danemark",
-        "danés Dinamarca",
-        "danese Danimarca",
-        "dinamarquês Dinamarca",
-        "Dänisch Dänemark",
-        "Deens Denemarken",
-        "danès Dinamarca",
-        "tanskan kieli Tanska",
-        "danska Danmark"
-      ],
       "language": "da-DK",
       "quality": [
         "high"

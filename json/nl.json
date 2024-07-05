@@ -85,31 +85,11 @@
     {
       "label": "Claire (Nederland)",
       "name": "Claire",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Claire (verbeterd)",
-        "Claire (Enhanced)",
-        "Claire (premium)",
-        "Claire (mejorada)",
-        "Claire (ottimizzata)",
-        "Claire (melhorada)",
-        "Claire (erweitert)",
-        "Claire (millorada)",
-        "Claire (parannettu)",
-        "Claire (förbättrad)",
-        "Claire (forbedret)",
-        "Claire (Dutch (Netherlands))",
-        "Claire (néerlandais (Pays-Bas))",
-        "Claire (holandés (Países Bajos))",
-        "Claire (olandese (Olanda))",
-        "Claire (holandês (Países Baixos))",
-        "Claire (Niederländisch (Niederlande))",
-        "Claire (Nederlands (Nederland))",
-        "Claire (neerlandès (Països Baixos))",
-        "Claire (hollanti (Alankomaat))",
-        "Claire (nederländska (Nederländerna))",
-        "Claire (nederlandsk (Nederlandene))",
-        "Claire (nederlandsk (Nederland))"
+        "Claire (Nederlands (Nederland))"
       ],
       "language": "nl-NL",
       "gender": "female",
@@ -128,35 +108,16 @@
     {
       "label": "Xander (Nederland)",
       "name": "Xander (verbeterd)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "localizedName": "apple",
       "altNames": [
-        "Xander (Enhanced)",
-        "Xander (premium)",
-        "Xander (mejorada)",
-        "Xander (ottimizzata)",
-        "Xander (melhorada)",
-        "Xander (erweitert)",
-        "Xander (millorada)",
-        "Xander (parannettu)",
-        "Xander (förbättrad)",
-        "Xander (forbedret)",
-        "Xander (Dutch (Netherlands))",
-        "Xander (néerlandais (Pays-Bas))",
-        "Xander (holandés (Países Bajos))",
-        "Xander (olandese (Olanda))",
-        "Xander (holandês (Países Baixos))",
-        "Xander (Niederländisch (Niederlande))",
-        "Xander (Nederlands (Nederland))",
-        "Xander (neerlandès (Països Baixos))",
-        "Xander (hollanti (Alankomaat))",
-        "Xander (nederländska (Nederländerna))",
-        "Xander (nederlandsk (Nederlandene))",
-        "Xander (nederlandsk (Nederland))"
+        "Xander (verbeterd)",
+        "Xander (Nederlands (Nederland))"
       ],
       "overrides": "Xander",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -165,40 +126,22 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Ellen (België)",
       "name": "Ellen (verbeterd)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "localizedName": "apple",
       "altNames": [
-        "Ellen (Enhanced)",
-        "Ellen (premium)",
-        "Ellen (mejorada)",
-        "Ellen (ottimizzata)",
-        "Ellen (melhorada)",
-        "Ellen (erweitert)",
-        "Ellen (millorada)",
-        "Ellen (parannettu)",
-        "Ellen (förbättrad)",
-        "Ellen (forbedret)",
-        "Ellen (Dutch (Belgium))",
-        "Ellen (néerlandais (Belgique))",
-        "Ellen (holandés (Bélgica))",
-        "Ellen (olandese (Belgio))",
-        "Ellen (holandês (Bélgica))",
-        "Ellen (Niederländisch (Belgien))",
-        "Ellen (Nederlands (België))",
-        "Ellen (neerlandès (Bèlgica))",
-        "Ellen (hollanti (Belgia))",
-        "Ellen (nederländska (Belgien))",
-        "Ellen (nederlandsk (Belgien))",
-        "Ellen (nederlandsk (Belgia))"
+        "Ellen (verbeterd)",
+        "Ellen (Nederlands (België))"
       ],
       "overrides": "Ellen",
       "language": "nl-BE",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -207,7 +150,8 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Google mannelijke stem (Nederland)",
@@ -493,19 +437,8 @@
     {
       "label": "Nederlandse stem (Nederland)",
       "name": "Nederlands Nederland",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Dutch Netherlands",
-        "néerlandais Pays-Bas",
-        "neerlandés Países Bajos",
-        "Niederländisch Niederlande",
-        "neerlandés Países Baixos",
-        "neerlandès Països Baixos",
-        "hollanti Alankomaat",
-        "nederländska Nederländerna",
-        "nederlandsk Nederlandene",
-        "nederlandsk Nederland"
-      ],
       "language": "nl-NL",
       "quality": [
         "high"
@@ -520,20 +453,8 @@
     {
       "label": "Nederlandse stem (België)",
       "name": "Nederlands België",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Dutch Belgium",
-        "néerlandais Belgique",
-        "neerlandés Bélgica",
-        "olandese Belgio",
-        "Niederländisch Belgien",
-        "neerlandés Bélgica",
-        "neerlandès Bèlgica",
-        "hollanti Belgia",
-        "nederländska Belgien",
-        "nederlandsk Belgien",
-        "nederlandsk Belgia"
-      ],
       "language": "nl-BE",
       "quality": [
         "high"

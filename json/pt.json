@@ -85,30 +85,11 @@
     {
       "label": "Catarina (Portugal)",
       "name": "Catarina",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Catarina (melhorada)",
-        "Catarina (mejorada)",
-        "Catarina (Enhanced)",
-        "Catarina (premium)",
-        "Catarina (ottimizzata)",
-        "Catarina (erweitert)",
-        "Catarina (verbeterd)",
-        "Catarina (millorada)",
-        "Catarina (parannettu)",
-        "Catarina (förbättrad)",
-        "Catarina (forbedret)",
-        "Catarina (Portuguese (Portual))",
-        "Catarina (portugais (Portugal))",
-        "Catarina (portugués (Portugal))",
-        "Catarina (portoghese (Portogallo))",
-        "Catarina (português (Portugal))",
-        "Catarina (Portugiesisch (Portugal))",
-        "Catarina (Portugees (Portugal))",
-        "Catarina (portuguès (Portugal))",
-        "Catarina (portugali (Portugali))",
-        "Catarina (portugisiska (Portugal))",
-        "Catarina (portugisisk (Portugal))"
+        "Catarina (português (Portugal))"
       ],
       "language": "pt-PT",
       "gender": "female",
@@ -127,34 +108,15 @@
     {
       "label": "Joana (Portugal)",
       "name": "Joana (melhorada)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "localizedName": "apple",
       "altNames": [
-        "Joana (mejorada)",
-        "Joana (Enhanced)",
-        "Joana (premium)",
-        "Joana (ottimizzata)",
-        "Joana (erweitert)",
-        "Joana (verbeterd)",
-        "Joana (millorada)",
-        "Joana (parannettu)",
-        "Joana (förbättrad)",
-        "Joana (forbedret)",
-        "Joana (Portuguese (Portual))",
-        "Joana (portugais (Portugal))",
-        "Joana (portugués (Portugal))",
-        "Joana (portoghese (Portogallo))",
-        "Joana (português (Portugal))",
-        "Joana (Portugiesisch (Portugal))",
-        "Joana (Portugees (Portugal))",
-        "Joana (portuguès (Portugal))",
-        "Joana (portugali (Portugali))",
-        "Joana (portugisiska (Portugal))",
-        "Joana (portugisisk (Portugal))"
+        "Joana (melhorada)",
+        "Joana (português (Portugal))"
       ],
-      "overrides": "Joana",
       "language": "pt-PT",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -163,35 +125,17 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Joaquim (Portugal)",
       "name": "Joaquim",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Joaquim (melhorada)",
-        "Joaquim (mejorada)",
-        "Joaquim (Enhanced)",
-        "Joaquim (premium)",
-        "Joaquim (ottimizzata)",
-        "Joaquim (erweitert)",
-        "Joaquim (verbeterd)",
-        "Joaquim (millorada)",
-        "Joaquim (parannettu)",
-        "Joaquim (förbättrad)",
-        "Joaquim (forbedret)",
-        "Joaquim (Portuguese (Portual))",
-        "Joaquim (portugais (Portugal))",
-        "Joaquim (portugués (Portugal))",
-        "Joaquim (portoghese (Portogallo))",
-        "Joaquim (português (Portugal))",
-        "Joaquim (Portugiesisch (Portugal))",
-        "Joaquim (Portugees (Portugal))",
-        "Joaquim (portuguès (Portugal))",
-        "Joaquim (portugali (Portugali))",
-        "Joaquim (portugisiska (Portugal))",
-        "Joaquim (portugisisk (Portugal))"
+        "Joaquim (português (Portugal))"
       ],
       "language": "pt-PT",
       "gender": "male",
@@ -210,31 +154,11 @@
     {
       "label": "Fernanda (Brasil)",
       "name": "Fernanda",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Fernanda (melhorada)",
-        "Fernanda (mejorada)",
-        "Fernanda (Enhanced)",
-        "Fernanda (premium)",
-        "Fernanda (ottimizzata)",
-        "Fernanda (erweitert)",
-        "Fernanda (verbeterd)",
-        "Fernanda (millorada)",
-        "Fernanda (parannettu)",
-        "Fernanda (förbättrad)",
-        "Fernanda (forbedret)",
-        "Fernanda (Portuguese (Mexico))",
-        "Fernanda (portugais (Brésil))",
-        "Fernanda (portugués (Brasil))",
-        "Fernanda (portoghese (Brasile))",
-        "Fernanda (português (Brasil))",
-        "Fernanda (Portugiesisch (Brasilien))",
-        "Fernanda (Portugees (Brazilië))",
-        "Fernanda (portuguès (Brasil))",
-        "Fernanda (portugali (Brasilia))",
-        "Fernanda (portugisiska (Brasilien))",
-        "Fernanda (portugisisk (Brasilien))",
-        "Fernanda (portugisisk (Brasil))"
+        "Fernanda (português (Brasil))"
       ],
       "language": "pt-BR",
       "gender": "female",
@@ -253,35 +177,16 @@
     {
       "label": "Luciana (Brasil)",
       "name": "Luciana (melhorada)",
+      "localizedName": "apple",
       "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [
-        "Luciana (mejorada)",
-        "Luciana (Enhanced)",
-        "Luciana (premium)",
-        "Luciana (ottimizzata)",
-        "Luciana (erweitert)",
-        "Luciana (verbeterd)",
-        "Luciana (millorada)",
-        "Luciana (parannettu)",
-        "Luciana (förbättrad)",
-        "Luciana (forbedret)",
-        "Luciana (Portuguese (Mexico))",
-        "Luciana (portugais (Brésil))",
-        "Luciana (portugués (Brasil))",
-        "Luciana (portoghese (Brasile))",
-        "Luciana (português (Brasil))",
-        "Luciana (Portugiesisch (Brasilien))",
-        "Luciana (Portugees (Brazilië))",
-        "Luciana (portuguès (Brasil))",
-        "Luciana (portugali (Brasilia))",
-        "Luciana (portugisiska (Brasilien))",
-        "Luciana (portugisisk (Brasilien))",
-        "Luciana (portugisisk (Brasil))"
+        "Luciana (melhorada)",
+        "Luciana (português (Brasil))"
       ],
-      "overrides": "Luciana",
       "language": "pt-BR",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -290,36 +195,17 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Felipe (Brasil)",
       "name": "Felipe",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Felipe (melhorada)",
-        "Felipe (mejorada)",
-        "Felipe (Enhanced)",
-        "Felipe (premium)",
-        "Felipe (ottimizzata)",
-        "Felipe (erweitert)",
-        "Felipe (verbeterd)",
-        "Felipe (millorada)",
-        "Felipe (parannettu)",
-        "Felipe (förbättrad)",
-        "Felipe (forbedret)",
-        "Felipe (Portuguese (Mexico))",
-        "Felipe (portugais (Brésil))",
-        "Felipe (portugués (Brasil))",
-        "Felipe (portoghese (Brasile))",
-        "Felipe (português (Brasil))",
-        "Felipe (Portugiesisch (Brasilien))",
-        "Felipe (Portugees (Brazilië))",
-        "Felipe (portuguès (Brasil))",
-        "Felipe (portugali (Brasilia))",
-        "Felipe (portugisiska (Brasilien))",
-        "Felipe (portugisisk (Brasilien))",
-        "Felipe (portugisisk (Brasil))"
+        "Felipe (português (Brasil))"
       ],
       "language": "pt-BR",
       "gender": "male",
@@ -396,42 +282,6 @@
       "pitch": 1,
       "os": [
         "Windows"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Joana (Portugal)",
-      "name": "Joana",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "pt-PT",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Luciana (Brasil)",
-      "name": "Luciana",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "pt-BR",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
       ],
       "preloaded": true
     },
@@ -571,19 +421,8 @@
     {
       "label": "Voz do Portugal",
       "name": "português Portugal",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Portuguese Portugal",
-        "portugais Portugal",
-        "portugués Portugal",
-        "portoghese Portogallo",
-        "Portugiesisch Portugal",
-        "Portugees Portugal",
-        "portuguès Portugal",
-        "portugali Portugali",
-        "portugisiska Portugal",
-        "portugisisk Portugal"
-      ],
       "language": "pt-PT",
       "quality": [
         "high"
@@ -598,19 +437,8 @@
     {
       "label": "Voz do Brasil",
       "name": "português Brasil",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Portuguese Brazil",
-        "portugais Brésil",
-        "portugués Brasil",
-        "portoghese Brasile",
-        "Portuguees Brazilië",
-        "portuguès Brasil",
-        "portugali Brasilia",
-        "portugisiska Brasilien",
-        "portugisisk Brasilien",
-        "portugisisk Brasil"
-      ],
       "language": "pt-BR",
       "quality": [
         "high"

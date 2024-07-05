@@ -36,35 +36,16 @@
     },
     {
       "label": "Nora",
-      "name": "Nora (forbedret)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
+      "name": "Nora",
+      "localizedName": "apple",
       "altNames": [
-        "Nora (Enhanced)",
-        "Nora (premium)",
-        "Nora (mejorada)",
-        "Nora (ottimizzata)",
-        "Nora (erweitert)",
-        "Nora (melhorada)",
-        "Nora (verbeterd)",
-        "Nora (millorada)",
-        "Nora (parannettu)",
-        "Nora (förbättrad)",
-        "Nora (Norwegian Bokmål (Norway))",
-        "Nora (norvégien bokmål (Norvège))",
-        "Nora (noruego bokmal (Noruega))",
-        "Nora (norvegese bokmål (Norvegia))",
-        "Nora (norueguês bokmål (Noruega))",
-        "Nora (Norwegisch (Bokmål) (Norwegen))",
-        "Nora (Noors - Bokmål (Noorwegen))",
-        "Nora (noruec bokmål (Noruega))",
-        "Nora (norjan bokmål (Norja))",
-        "Nora (norskt bokmål (Norge))",
+        "Nora (forbedret)",
         "Nora (norsk bokmål (Norge))"
       ],
-      "overrides": "Nora",
       "language": "nb-NO",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -73,34 +54,16 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Henrik",
       "name": "Henrik",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Henrik (forbedret)",
-        "Henrik (Enhanced)",
-        "Henrik (premium)",
-        "Henrik (mejorada)",
-        "Henrik (ottimizzata)",
-        "Henrik (erweitert)",
-        "Henrik (melhorada)",
-        "Henrik (verbeterd)",
-        "Henrik (millorada)",
-        "Henrik (parannettu)",
-        "Henrik (förbättrad)",
-        "Henrik (Norwegian Bokmål (Norway))",
-        "Henrik (norvégien bokmål (Norvège))",
-        "Henrik (noruego bokmal (Noruega))",
-        "Henrik (norvegese bokmål (Norvegia))",
-        "Henrik (norueguês bokmål (Noruega))",
-        "Henrik (Norwegisch (Bokmål) (Norwegen))",
-        "Henrik (Noors - Bokmål (Noorwegen))",
-        "Henrik (noruec bokmål (Noruega))",
-        "Henrik (norjan bokmål (Norja))",
-        "Henrik (norskt bokmål (Norge))",
         "Henrik (norsk bokmål (Norge))"
       ],
       "language": "nb-NO",
@@ -130,24 +93,6 @@
       "pitch": 1,
       "os": [
         "Windows"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Nora",
-      "name": "Nora",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "nb-NO",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
       ],
       "preloaded": true
     },
@@ -249,19 +194,8 @@
     {
       "label": "Norsk stemme",
       "name": "norsk bokmål Norge",
+      "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Norwegian Bokmål Norway",
-        "norvégien bokmål Norvège",
-        "noruego bokmal Noruega",
-        "norvegese bokmål Norvegia",
-        "norueguês bokmål Noruega",
-        "Norwegisch Bokmål Norwegen",
-        "Noors - Bokmål Noorwegen",
-        "noruec bokmål Noruega",
-        "norjan bokmål Norja",
-        "norskt bokmål Norge"
-      ],
       "language": "nb-NO",
       "quality": [
         "high"

@@ -30,16 +30,14 @@
     {
       "label": "Carmela",
       "name": "Carmela",
+      "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Carmela (millorada)",
-        "Carmela (mejorada)",
-        "Carmela (Enhanced)",
-        "Carmela (premium)",
-        "Carmela (ottimizzata)"
-      ],
       "language": "gl-ES",
       "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
       "rate": 1,
       "pitch": 1,
       "os": [
