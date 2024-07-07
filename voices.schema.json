@@ -27,6 +27,7 @@
           },
           "localizedName": {
             "type": "string",
+            "description": "Identifies the string pattern used to localized a given voice.",
             "enum": [
               "android",
               "apple"
