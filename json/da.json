@@ -1,5 +1,6 @@
 {
   "language": "da",
+  "defaultRegion": "da-DK",
   "testUtterance": "Detta är ett danskt rösttest för att kontrollera kvaliteten på det som produceras.",
   "voices": [
     {

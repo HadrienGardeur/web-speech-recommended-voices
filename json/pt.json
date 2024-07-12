@@ -1,5 +1,6 @@
 {
   "language": "pt",
+  "defaultRegion": "pt-BR",
   "testUtterance": "Este texto pretende testar se estas vozes portuguesas soam tão bem como deveriam.",
   "voices": [
     {

@@ -1,5 +1,6 @@
 {
   "language": "sv",
+  "defaultRegion": "sv-SE",
   "testUtterance": "Detta är ett test av kvaliteten på svenska röster.",
   "voices": [
     {

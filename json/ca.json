@@ -1,5 +1,6 @@
 {
   "language": "ca",
+  "defaultRegion": "ca-ES",
   "testUtterance": "Aquest text pretén comprovar si aquestes veus catalanes sonen tan bé com haurien de ser.",
   "voices": [
     {

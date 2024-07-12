@@ -1,5 +1,6 @@
 {
   "language": "nb",
+  "defaultRegion": "nb-NO",
   "testUtterance": "Denne teksten lar deg teste kvaliteten på den norske stemmen.",
   "voices": [
     {

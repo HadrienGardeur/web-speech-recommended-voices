@@ -1,5 +1,6 @@
 {
   "language": "gl",
+  "defaultRegion": "gl-ES",
   "voices": [
     {
       "label": "Sabela",

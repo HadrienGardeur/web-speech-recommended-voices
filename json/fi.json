@@ -1,5 +1,6 @@
 {
   "language": "fi",
+  "defaultRegion": "fi-FI",
   "testUtterance": "Tämä on suomalainen äänitesti äänenlaadun tarkistamiseksi.",
   "voices": [
     {

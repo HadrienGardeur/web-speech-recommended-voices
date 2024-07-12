@@ -1,5 +1,6 @@
 {
   "language": "eu",
+  "defaultRegion": "eu-ES",
   "voices": [
     {
       "label": "Miren",

@@ -7,6 +7,9 @@
     "language": {
       "type": "string"
     },
+    "defaultRegion": {
+      "type": "string"
+    },
     "testUtterance": {
       "type": "string"
     },

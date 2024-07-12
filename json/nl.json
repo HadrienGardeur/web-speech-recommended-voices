@@ -1,5 +1,6 @@
 {
   "language": "nl",
+  "defaultRegion": "nl-NL",
   "testUtterance": "Deze tekst is bedoeld om te testen of deze Nederlandse stemmen zo goed klinken als ze zouden moeten.",
   "voices": [
     {
