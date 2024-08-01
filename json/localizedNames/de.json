@@ -1,0 +1,17 @@
+{
+ "quality": {
+    "medium": "erweitert",
+    "high": "premium"
+  },
+  "languages": {
+    "de": "Deutsch",
+    "en": "Englisch"
+  },
+  "regions": {
+    "at": "Österreich",
+    "ch": "Schweiz",
+    "de": "Deutschland",
+    "gb": "Vereinigtes Königreich",
+    "us": "Vereinigte Staaten"
+  }
+}

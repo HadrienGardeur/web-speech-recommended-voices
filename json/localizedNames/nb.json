@@ -1,0 +1,15 @@
+{
+ "quality": {
+    "medium": "forbedret",
+    "high": "premium"
+  },
+  "languages": {
+    "en": "engelsk",
+    "nb": "norsk bokmål"
+  },
+  "regions": {
+    "gb": "Storbritannia",
+    "no": "Norge",
+    "us": "USA"
+  }
+}
