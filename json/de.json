@@ -195,7 +195,7 @@
       "name": "Anna",
       "localizedName": "apple",
       "altNames": [
-        "Anne (premium)"
+        "Anne (premium)",
         "Anna (erweitert)",
         "Anna (Deutsch (Deutschland))"
       ],
@@ -203,7 +203,7 @@
       "language": "de-DE",
       "gender": "female",
       "quality": [
-        "low"
+        "low",
         "normal",
         "high"
       ],
