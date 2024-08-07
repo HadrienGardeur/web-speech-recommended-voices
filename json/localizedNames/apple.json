@@ -1,0 +1,52 @@
+{
+  "quality": {
+    "ca": {
+      "medium": "millorada",
+      "high": "prèmium"
+    },
+    "da": {
+      "medium": "forbedret",
+      "high": "høj kvalitet"
+    },
+    "de": {
+      "medium": "erweitert",
+      "high": "premium"
+    },
+    "en": {
+      "medium": "Enhanced",
+      "high": "Premium"
+    },
+    "es": {
+      "medium": "mejorada",
+      "high": "premium"
+    },
+    "fi": {
+      "medium": "parannettu",
+      "high": "korkealaatuinen"
+    },
+    "fr": {
+      "medium": "premium",
+      "high": "de qualité"
+    },
+    "it": {
+      "medium": "ottimizzata",
+      "high": "premium"
+    },
+    "nb": {
+      "medium": "forbedret",
+      "high": "premium"
+    },
+    "nl": {
+      "medium": "verbeterd",
+      "high": "premium"
+    },
+    "pt": {
+      "medium": "melhorada",
+      "high": "premium"
+    },
+    "sv": {
+      "medium": "förbättrad",
+      "high": "premium"
+    }
+  }
+}
