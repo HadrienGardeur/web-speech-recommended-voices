@@ -168,6 +168,16 @@
       "preloaded": true
     },
     {
+      "name": "Wobble",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "Zarvox",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
       "os": [

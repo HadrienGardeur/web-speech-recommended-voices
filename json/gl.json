@@ -8,6 +8,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [
@@ -21,6 +24,9 @@
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
       "rate": 1,
       "pitchControl": false,
       "browser": [

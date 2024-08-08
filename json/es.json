@@ -823,7 +823,7 @@
     },
     {
       "label": "Paulina (México)",
-      "name": "Paulina (mejorada)",
+      "name": "Paulina",
       "localizedName": "apple",
       "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
       "altNames": [

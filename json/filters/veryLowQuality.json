@@ -217,6 +217,36 @@
       "preloaded": true
     },
     {
+      "name": "Fred",
+      "language": "en-US",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Junior",
+      "language": "en-US",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "name": "Kathy",
+      "language": "en-US",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "eSpeak Arabic",
       "note": "eSpeak voices are preloaded by default on Chrome OS.",
       "language": "ar",
