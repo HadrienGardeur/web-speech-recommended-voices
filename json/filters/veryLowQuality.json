@@ -136,6 +136,33 @@
       "preloaded": true
     },
     {
+      "name": "Reed",
+      "localizedName": "apple",
+      "note": "Eloquence voices are preloaded by default on Apple devices.",
+      "language": "en-US",
+      "otherLanguages": [
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "fr-CA",
+        "es-ES",
+        "es-MX",
+        "fi-FI",
+        "it-IT",
+        "ja-JP",
+        "ko-KR",
+        "pt-BR",
+        "zh-CN",
+        "zh-HK"
+      ],
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "Rocko",
       "localizedName": "apple",
       "note": "Eloquence voices are preloaded by default on Apple devices.",
