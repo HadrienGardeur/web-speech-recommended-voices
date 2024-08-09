@@ -65,7 +65,7 @@
             "type": "string",
             "description": "Identifies the gender of a voice.",
             "enum": [
-              "nonbinary",
+              "neutral",
               "female",
               "male"
             ]

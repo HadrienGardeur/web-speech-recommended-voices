@@ -1,51 +1,51 @@
 {
   "quality": {
     "ca": {
-      "medium": "millorada",
+      "normal": "millorada",
       "high": "prèmium"
     },
     "da": {
-      "medium": "forbedret",
+      "normal": "forbedret",
       "high": "høj kvalitet"
     },
     "de": {
-      "medium": "erweitert",
+      "normal": "erweitert",
       "high": "premium"
     },
     "en": {
-      "medium": "Enhanced",
+      "normal": "Enhanced",
       "high": "Premium"
     },
     "es": {
-      "medium": "mejorada",
+      "normal": "mejorada",
       "high": "premium"
     },
     "fi": {
-      "medium": "parannettu",
+      "normal": "parannettu",
       "high": "korkealaatuinen"
     },
     "fr": {
-      "medium": "premium",
+      "normal": "premium",
       "high": "de qualité"
     },
     "it": {
-      "medium": "ottimizzata",
+      "normal": "ottimizzata",
       "high": "premium"
     },
     "nb": {
-      "medium": "forbedret",
+      "normal": "forbedret",
       "high": "premium"
     },
     "nl": {
-      "medium": "verbeterd",
+      "normal": "verbeterd",
       "high": "premium"
     },
     "pt": {
-      "medium": "melhorada",
+      "normal": "melhorada",
       "high": "premium"
     },
     "sv": {
-      "medium": "förbättrad",
+      "normal": "förbättrad",
       "high": "premium"
     }
   }

@@ -184,7 +184,7 @@ These voices are identified using the `multiLingual` boolean.
 
 `gender` is an optional property for each voice, that documents the gender associated to each voice.
 
-The following values are supported: `female`, `male` or `nonbinary`.
+The following values are supported: `female`, `male` or `neutral`.
 
 `children` is also optional and identifies children voices using a boolean.
 
