@@ -15,7 +15,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 * [Basque](json/eu.json) 
 * [Catalan](json/ca.json)
-* Croatian (planned)
+* [Croatian](json/hr.json)
 * Czech (planned)
 * [Danish](json/da.json)
 * [Dutch](json/nl.json) (Netherlands and Belgium)

@@ -41,7 +41,7 @@
       "localizedName": "apple",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
-        "Klara (Enhanced)",
+        "Klara (förbättrad)",
         "Klara (svenska (Sverige))"
       ],
       "language": "sv-SE",
@@ -89,7 +89,6 @@
       "name": "Oskar",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
-        "Oskar (premium)",
         "Oskar (förbättrad)",
         "Oskar (svenska (Sverige))"
       ],
