@@ -15,7 +15,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 * [Basque](json/eu.json) 
 * [Catalan](json/ca.json)
-* Croatian (planned)
+* [Croatian](json/hr.json)
 * Czech (planned)
 * [Danish](json/da.json)
 * [Dutch](json/nl.json) (Netherlands and Belgium)
@@ -112,27 +112,26 @@ Chrome OS provides a number of high quality voices through its Android subsystem
 
 Names are mostly stable across browsers, which means that for most voices, a single string is sufficient.
 
-But there's unfortunately one notable outlier: macOS, iOS and iPadOS voices.
+But there are unfortunately some outliers: Android, iOS, iPadOS and macOS voices.
 
 For those voices, at least a portion of the string is often localized, naming can be inconsistent across browsers and they can change depending on the number of variants installed.
 
-Because of Apple, each list can also contain the following properties:
+Because of this, each list can also contain the following properties:
 
-- `altNames`, an array of strings for alternate names for a given voice
-- and `overrides` which is strictly used with preloaded voices, allowing implementers to hide the default version, when a higher quality variant is available
+- `altNames` with an array of alternate strings for a given voice
+- and `localizedName` that identifies the string pattern used for localizing these voices
  
 **Example 3: Alternate version of an Apple preloaded voice**
 
 ```json
 {
   "label": "Samantha (US)",
-  "name": "Samantha (Enhanced)",
+  "name": "Samantha",
+  "localizedName": "apple",
   "altNames": [
-    "Samantha (mejorada)",
-    "Samantha (premium)",
-    "Samantha (ottimizzata)"
+    "Samantha (Enhanced)",
+    "Samantha (English (United States))"
   ],
-  "overrides": "Samantha",
   "language": "en-US"
 }
 ```
@@ -185,7 +184,7 @@ These voices are identified using the `multiLingual` boolean.
 
 `gender` is an optional property for each voice, that documents the gender associated to each voice.
 
-The following values are supported: `female`, `male` or `nonbinary`.
+The following values are supported: `female`, `male` or `neutral`.
 
 `children` is also optional and identifies children voices using a boolean.
 

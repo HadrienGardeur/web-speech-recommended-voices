@@ -1,0 +1,15 @@
+{
+ "quality": {
+    "medium": "parannettu",
+    "high": "korkealaatuinen"
+  },
+  "languages": {
+    "fi": "suomi",
+    "en": "englanti"
+  },
+  "regions": {
+    "fi": "Suomi",
+    "gb": "Iso-Britannia",
+    "us": "Yhdysvallat"
+  }
+}

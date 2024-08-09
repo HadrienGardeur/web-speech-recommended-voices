@@ -1,0 +1,15 @@
+{
+ "quality": {
+    "medium": "ottimizzata",
+    "high": "premium"
+  },
+  "languages": {
+    "en": "inglese",
+    "it": "italiano"
+  },
+  "regions": {
+    "gb": "Regno Unito",
+    "it": "Italia",
+    "us": "Estados Unidos"
+  }
+}
