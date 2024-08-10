@@ -6,6 +6,14 @@ With hundreds of voices available by default across various browsers and OS, it 
 
 With its focus on voice selection, the goal of this project is to document higher quality voices available on various platforms and provide an easy way to implement these recommendations using JSON configuration files.
 
+## Use cases
+
+* Providing the best possible default voice per language
+* Displaying an ordered list of recommended voices
+* Displaying user-friendly voice names
+* Filtering recommended voices per gender and age (adult vs children)
+* Filtering out novelty and low quality voices
+
 ## Demo
 
 [A live demo](https://hadriengardeur.github.io/web-speech-recommended-voices/demo/) is available to test which recommended voices are available in your browser.
@@ -47,13 +55,6 @@ Some of them are harmful to the overall reading experience, while others have a 
 * [Novelty voices](json/filters/novelty.json) (Apple devices)
 * [Very low quality voices](json/filters/veryLowQuality.json) (Apple devices and Chrome OS)
 
-## Use cases
-
-* Providing the best possible default voice per language
-* Displaying an ordered list of recommended voices
-* Displaying user-friendly voice names
-* Filtering recommended voices per gender and age (adult vs children)
-* Filtering out novelty and low quality voices
 
 ## Guiding principles
 
