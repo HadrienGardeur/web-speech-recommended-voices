@@ -39,7 +39,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Norwegian](json/nb.json)
 * [Polish](json/pl.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
-* Romanian (planned)
+* [Romanian](json/ro.json)
 * Russian (planned)
 * Slovak (planned)
 * Slovene (planned)
