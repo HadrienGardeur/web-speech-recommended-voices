@@ -1,13 +1,13 @@
 {
-  "language": "cs-CZ",
-  "defaultRegion": "cs-CZ",
-  "testUtterance": "To má otestovat kvalitu tohoto hlasu a porovnat jej s ostatními.",
+  "language": "hu-HU",
+  "defaultRegion": "hu-HU",
+  "testUtterance": "Ennek célja annak tesztelése, hogy ez a hang jobban szól-e, mint a többi.",
   "voices": [
     {
-      "label": "Vlasta",
-      "name": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
+      "label": "Noemi",
+      "name": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "gender": "female",
       "quality": [
         "veryHigh"
@@ -20,10 +20,10 @@
       "preloaded": true
     },
     {
-      "label": "Antonin",
-      "name": "Microsoft Antonin Online (Natural) - Czech (Czech)",
+      "label": "Tamas",
+      "name": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)",
       "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "gender": "male",
       "quality": [
         "veryHigh"
@@ -36,16 +36,16 @@
       "preloaded": true
     },
     {
-      "label": "Zuzana",
-      "name": "Zuzana",
+      "label": "Tünde",
+      "name": "Tünde",
       "localizedName": "apple",
       "note": "This voice is preloaded on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
-        "Zuzana (prémiový)",
-        "Zuzana (vylepšená verze)",
-        "Zuzana (čeština (Česko))"
+        "Tünde (prémium)",
+        "Tünde (továbbfejlesztett)",
+        "Tünde (magyar (Magyarország))"
       ],
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "gender": "female",
       "quality": [
         "low",
@@ -62,33 +62,10 @@
       "preloaded": true
     },
     {
-      "label": "Iveta",
-      "name": "Iveta",
-      "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Iveta (vylepšená verze)",
-        "Iveta (čeština (Česko))"
-      ],
-      "language": "cs-CZ",
-      "gender": "female",
-      "quality": [
-        "low",
-        "normal"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
-      "label": "Jakub",
-      "name": "Microsoft Jakub - Czech (Czech)",
+      "label": "Szabolcs",
+      "name": "Microsoft Szabolcs - Hungarian (Hungary)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "gender": "male",
       "quality": [
         "normal"
@@ -101,13 +78,13 @@
       "preloaded": true
     },
     {
-      "label": "Ženský hlas",
-      "name": "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-network",
+      "label": "Női hang",
+      "name": "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-local"
+        "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local"
       ],
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "gender": "female",
       "quality": [
         "high"
@@ -120,11 +97,11 @@
       "preloaded": true
     },
     {
-      "label": "Český hlas",
-      "name": "čeština Česko",
+      "label": "Magyar hang",
+      "name": "magyar Magyarország",
       "localizedName": "android",
       "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "language": "cs-CZ",
+      "language": "hu-HU",
       "quality": [
         "high"
       ],

@@ -32,6 +32,10 @@
       "normal": "premium",
       "high": "de qualité"
     },
+    "hu": {
+      "normal": "továbbfejlesztett",
+      "high": "prémium"
+    },
     "hr": {
       "normal": "poboljšani",
       "high": "vrhunski"

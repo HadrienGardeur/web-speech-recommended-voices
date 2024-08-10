@@ -25,7 +25,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
 * Greek (planned)
-* Hungarian (planned)
+* [Hungarian](json/hu.json)
 * [Italian](json/it.json)
 * [Norwegian](json/nb.json)
 * Polish (planned)
