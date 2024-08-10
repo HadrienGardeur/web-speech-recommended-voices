@@ -22,6 +22,7 @@ With its focus on voice selection, the goal of this project is to document highe
 ## List of supported languages
 
 * [Basque](json/eu.json) 
+* Bulgarian (planned)
 * [Catalan](json/ca.json)
 * [Croatian](json/hr.json)
 * [Czech](json/cs.json)
@@ -40,6 +41,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Portuguese](json/pt.json) (Portugal and Brazil)
 * Romanian (planned)
 * Russian (planned)
+* Slovak (planned)
 * Slovene (planned)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
