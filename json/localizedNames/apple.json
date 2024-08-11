@@ -75,6 +75,10 @@
     "sv": {
       "normal": "förbättrad",
       "high": "premium"
+    },
+    "tr": {
+      "normal": "Geliştirilmiş",
+      "high": "Yüksek Kaliteli"
     }
   }
 }

@@ -45,7 +45,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Slovenian](json/sl.json)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
-* Turkish (planned)
+* [Turkish](json/tr.json)
 * Ukrainian (planned)
 
 ## List of voices to filter out
