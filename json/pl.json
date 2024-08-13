@@ -108,6 +108,21 @@
       ]
     },
     {
+      "label": "Żeński głos Google’a",
+      "name": "Google polski",
+      "language": "pl-PL",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Paulina",
       "name": "Microsoft Paulina - Polish (Poland)",
       "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",

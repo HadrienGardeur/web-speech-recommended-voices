@@ -121,6 +121,20 @@
         "macOS",
         "iOS",
         "iPadOS"
+      ]
+    },
+    {
+      "label": "Google の女性の声",
+      "name": "Google 日本語",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
       ],
       "preloaded": true
     },
