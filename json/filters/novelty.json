@@ -26,6 +26,16 @@
       "preloaded": true
     },
     {
+      "name": "Bahh",
+      "note": "This novelty voice is part of a pack preloaded by Apple.",
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "Bells",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
       "altNames": [
