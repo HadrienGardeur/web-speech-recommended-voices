@@ -6,7 +6,6 @@
     {
       "label": "Sofie",
       "name": "Microsoft Sofie Online (Natural) - Swedish (Sweden)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Mattias",
       "name": "Microsoft Mattias Online (Natural) - Swedish (Sweden)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sv-SE",
       "gender": "male",
       "quality": [
@@ -39,11 +37,6 @@
       "label": "Klara",
       "name": "Klara",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Klara (förbättrad)",
-        "Klara (svenska (Sverige))"
-      ],
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -63,11 +56,6 @@
       "label": "Alva",
       "name": "Alva",
       "localizedName": "apple",
-      "altNames": [
-        "Alva (premium)",
-        "Alva (förbättrad)",
-        "Alva (svenska (Sverige))"
-      ],
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -88,10 +76,6 @@
       "label": "Oskar",
       "name": "Oskar",
       "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Oskar (förbättrad)",
-        "Oskar (svenska (Sverige))"
-      ],
       "language": "sv-SE",
       "gender": "male",
       "quality": [
@@ -109,7 +93,6 @@
     {
       "label": "Bengt",
       "name": "Microsoft Bengt - Swedish (Sweden)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -125,7 +108,6 @@
     {
       "label": "Kvinnlig röst 1",
       "name": "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-local"
       ],
@@ -144,7 +126,6 @@
     {
       "label": "Kvinnlig röst 2",
       "name": "Android Speech Recognition and Synthesis from Google sv-se-x-afp-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sv-se-x-afp-local"
       ],
@@ -163,7 +144,6 @@
     {
       "label": "Kvinnlig röst 3",
       "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-local"
       ],
@@ -182,7 +162,6 @@
     {
       "label": "Mansröst 1",
       "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-local"
       ],
@@ -201,7 +180,6 @@
     {
       "label": "Mansröst 2",
       "name": "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-local"
       ],
@@ -221,7 +199,6 @@
       "label": "Svensk röst",
       "name": "svenska Sverige",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "sv-SE",
       "quality": [
         "high"

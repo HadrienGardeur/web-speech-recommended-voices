@@ -6,7 +6,6 @@
     {
       "label": "Joana (Català)",
       "name": "Microsoft Joana Online (Natural) - Catalan (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "ca-ES",
       "otherLanguages": [
         "es"
@@ -25,7 +24,6 @@
     {
       "label": "Enric (Català)",
       "name": "Microsoft Enric Online (Natural) - Catalan (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "ca-ES",
       "otherLanguages": [
         "es"
@@ -45,10 +43,6 @@
       "label": "Montse (Català)",
       "name": "Montse",
       "localizedName": "apple",
-      "altNames": [
-        "Montse (millorada)",
-        "Montse (català (Espanya))"
-      ],
       "language": "ca-ES",
       "gender": "female",
       "quality": [
@@ -68,11 +62,6 @@
       "label": "Pau (Valencià)",
       "name": "Pau",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Pau (millorada)",
-        "Montse (català (Espanya))"
-      ],
       "language": "ca-ES-u-sd-esvc",
       "gender": "female",
       "quality": [
@@ -91,11 +80,6 @@
       "label": "Jordi (Català)",
       "name": "Jordi",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Jordi (millorada)",
-        "Montse (català (Espanya))"
-      ],
       "language": "ca-ES",
       "gender": "male",
       "quality": [
@@ -113,7 +97,6 @@
     {
       "label": "Herena (Català)",
       "name": "Microsoft Herena - Catalan (Spain)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "ca-ES",
       "gender": "female",
       "quality": [
@@ -129,7 +112,6 @@
     {
       "label": "Veu femenina catalana",
       "name": "Android Speech Recognition and Synthesis from Google ca-es-x-caf-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ca-es-x-caf-local"
       ],
@@ -152,7 +134,6 @@
       "label": "Veu catalana",
       "name": "català Espanya",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "ca-ES",
       "quality": [
         "high"

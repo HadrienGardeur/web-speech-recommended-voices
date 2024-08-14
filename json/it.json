@@ -6,7 +6,6 @@
     {
       "label": "Elsa (Alta qualita)",
       "name": "Microsoft Elsa Online (Natural) - Italian (Italy)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Isabella",
       "name": "Microsoft Isabella Online (Natural) - Italian (Italy)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -38,7 +36,6 @@
     {
       "label": "Giuseppe",
       "name": "Microsoft Giuseppe Online (Natural) - Italian (Italy)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "male",
       "quality": [
@@ -54,7 +51,6 @@
     {
       "label": "Diego",
       "name": "Microsoft Diego Online (Natural) - Italian (Italy)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "it-IT",
       "gender": "male",
       "quality": [
@@ -71,12 +67,6 @@
       "label": "Federica",
       "name": "Federica",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Federica (premium)",
-        "Federica (ottimizzata)",
-        "Federica (italiano (Italia))"
-      ],
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -96,12 +86,6 @@
       "label": "Emma",
       "name": "Emma",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Emma (premium)",
-        "Emma (ottimizzata)",
-        "Emma (italiano (Italia))"
-      ],
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -121,10 +105,6 @@
       "label": "Alice",
       "name": "Alice",
       "localizedName": "apple",
-      "altNames": [
-        "Alice (ottimizzata)",
-        "Alice (italiano (Italia))"
-      ],
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -144,11 +124,6 @@
       "label": "Paola",
       "name": "Paola",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Paola (ottimizzata)",
-        "Paola (italiano (Italia))"
-      ],
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -167,11 +142,6 @@
       "label": "Luca",
       "name": "Luca",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Luca (ottimizzata)",
-        "Luca (italiano (Italia))"
-      ],
       "language": "it-IT",
       "gender": "male",
       "quality": [
@@ -205,7 +175,6 @@
     {
       "label": "Elsa",
       "name": "Microsoft Elsa - Italian (Italy)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "it-IT",
       "gender": "female",
       "quality": [
@@ -221,7 +190,6 @@
     {
       "label": "Cosimo",
       "name": "Microsoft Cosimo - Italian (Italy)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "it-IT",
       "gender": "male",
       "quality": [
@@ -237,7 +205,6 @@
     {
       "label": "Voce femminile 1",
       "name": "Android Speech Recognition and Synthesis from Google it-it-x-itb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google it-it-x-itb-local"
       ],
@@ -256,7 +223,6 @@
     {
       "label": "Voce femminile 2",
       "name": "Android Speech Recognition and Synthesis from Google it-it-x-kda-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google it-it-x-kda-local"
       ],
@@ -305,7 +271,6 @@
     {
       "label": "Voce maschile 1",
       "name": "Android Speech Recognition and Synthesis from Google it-it-x-itc-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google it-it-x-itc-local"
       ],
@@ -324,7 +289,6 @@
     {
       "label": "Voce maschile 2",
       "name": "Android Speech Recognition and Synthesis from Google it-it-x-itd-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google it-it-x-itd-local"
       ],
@@ -374,7 +338,6 @@
       "label": "Voce italiana",
       "name": "italiano Italia",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "it-IT",
       "quality": [
         "high"

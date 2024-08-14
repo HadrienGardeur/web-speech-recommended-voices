@@ -6,7 +6,6 @@
     {
       "label": "Colette (Nederland)",
       "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Fenna (Nederland)",
       "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -38,7 +36,6 @@
     {
       "label": "Maarten (Nederland)",
       "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -54,7 +51,6 @@
     {
       "label": "Dena (België)",
       "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-BE",
       "gender": "female",
       "quality": [
@@ -70,7 +66,6 @@
     {
       "label": "Arnaud (België)",
       "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-BE",
       "gender": "male",
       "quality": [
@@ -87,11 +82,6 @@
       "label": "Claire (Nederland)",
       "name": "Claire",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Claire (verbeterd)",
-        "Claire (Nederlands (Nederland))"
-      ],
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -110,11 +100,6 @@
       "label": "Xander (Nederland)",
       "name": "Xander",
       "localizedName": "apple",
-      "altNames": [
-        "Xander (verbeterd)",
-        "Xander (Nederlands (Nederland))"
-      ],
-      "overrides": "Xander",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -134,11 +119,6 @@
       "label": "Ellen (België)",
       "name": "Ellen",
       "localizedName": "apple",
-      "altNames": [
-        "Ellen (verbeterd)",
-        "Ellen (Nederlands (België))"
-      ],
-      "overrides": "Ellen",
       "language": "nl-BE",
       "gender": "female",
       "quality": [
@@ -173,7 +153,6 @@
     {
       "label": "Frank (Nederland)",
       "name": "Microsoft Frank - Dutch (Netherlands)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -189,7 +168,6 @@
     {
       "label": "Vrouwelijke stem 1 (Nederland)",
       "name": "Google Nederlands 4 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local"
@@ -209,7 +187,6 @@
     {
       "label": "Vrouwelijke stem 2 (Nederland)",
       "name": "Google Nederlands 1 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-local"
@@ -229,7 +206,6 @@
     {
       "label": "Vrouwelijke stem 3 (Nederland)",
       "name": "Google Nederlands 5 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-local"
@@ -294,7 +270,6 @@
     {
       "label": "Mannelijke stem 1 (Nederland)",
       "name": "Google Nederlands 2 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
@@ -314,7 +289,6 @@
     {
       "label": "Mannelijke stem 2 (Nederland)",
       "name": "Google Nederlands 3 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-local"
@@ -362,9 +336,8 @@
       "preloaded": true
     },
     {
-      "label": "Vrouwelijke stem 1 (België)",
+      "label": "Vrouwelijke stem (België)",
       "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bec-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local"
       ],
@@ -381,9 +354,8 @@
       "preloaded": true
     },
     {
-      "label": "Mannelijke stem 1 (België)",
+      "label": "Mannelijke stem (België)",
       "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bed-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-be-x-bed-local"
       ],
@@ -403,7 +375,6 @@
       "label": "Nederlandse stem (Nederland)",
       "name": "Nederlands Nederland",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "nl-NL",
       "quality": [
         "high"
@@ -419,7 +390,6 @@
       "label": "Nederlandse stem (België)",
       "name": "Nederlands België",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "nl-BE",
       "quality": [
         "high"

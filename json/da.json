@@ -6,7 +6,6 @@
     {
       "label": "Christel",
       "name": "Microsoft Christel Online (Natural) - Danish (Denmark)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Jeppe",
       "name": "Microsoft Jeppe Online (Natural) - Danish (Denmark)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "da-DK",
       "gender": "male",
       "quality": [
@@ -39,10 +37,6 @@
       "label": "Sara",
       "name": "Sara",
       "localizedName": "apple",
-      "altNames": [
-        "Sara (forbedret)",
-        "Sara (dansk (Danmark))"
-      ],
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -62,10 +56,6 @@
       "label": "Magnus",
       "name": "Magnus",
       "localizedName": "apple",
-      "altNames": [
-        "Magnus (forbedret)",
-        "Magnus (dansk (Danmark))"
-      ],
       "language": "da-DK",
       "gender": "male",
       "quality": [
@@ -83,7 +73,6 @@
     {
       "label": "Helle",
       "name": "Microsoft Helle - Danish (Denmark)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -99,7 +88,6 @@
     {
       "label": "Kvindestemme 1",
       "name": "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-local"
       ],
@@ -118,7 +106,6 @@
     {
       "label": "Kvindestemme 2",
       "name": "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-local"
       ],
@@ -137,7 +124,6 @@
     {
       "label": "Kvindestemme 3",
       "name": "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-local"
       ],
@@ -156,7 +142,6 @@
     {
       "label": "Mandsstemme",
       "name": "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-local"
       ],
@@ -176,7 +161,6 @@
       "label": "Dansk stemme",
       "name": "dansk Danmark",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "da-DK",
       "quality": [
         "high"

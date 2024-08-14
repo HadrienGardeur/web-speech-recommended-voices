@@ -6,7 +6,6 @@
     {
       "label": "Viktoria",
       "name": "Microsoft Viktoria Online (Natural) - Slovak (Slovakia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sk-SK",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Lukas",
       "name": "Microsoft Lukas Online (Natural) - Slovak (Slovakia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sk-SK",
       "gender": "male",
       "quality": [
@@ -39,11 +37,6 @@
       "label": "Laura",
       "name": "Laura",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Laura (vylepšený)",
-        "Laura (slovenčina (Slovensko))"
-      ],
       "language": "sk-SK",
       "gender": "female",
       "quality": [
@@ -62,7 +55,6 @@
     {
       "label": "Filip",
       "name": "Microsoft Filip - Slovak (Slovakia)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "sk-SK",
       "gender": "male",
       "quality": [
@@ -78,7 +70,6 @@
     {
       "label": "Ženský hlas",
       "name": "Android Speech Recognition and Synthesis from Google sk-sk-x-sfk-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google sk-sk-x-sfk-local"
       ],
@@ -98,7 +89,6 @@
       "label": "Slovenský hlas",
       "name": "slovenčina Slovensko",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "sk-SK",
       "quality": [
         "high"

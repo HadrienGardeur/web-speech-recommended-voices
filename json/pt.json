@@ -6,7 +6,6 @@
     {
       "label": "Raquel (Portugal)",
       "name": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "pt-PT",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Duarte (Portugal)",
       "name": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "pt-PT",
       "gender": "male",
       "quality": [
@@ -38,7 +36,6 @@
     {
       "label": "Francisca (Brasil)",
       "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "pt-BR",
       "gender": "female",
       "quality": [
@@ -54,7 +51,6 @@
     {
       "label": "Thalita (Brasil)",
       "name": "Microsoft Thalita Online (Natural) - Portuguese (Brazil)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "pt-BR",
       "gender": "female",
       "quality": [
@@ -70,7 +66,6 @@
     {
       "label": "Antonio (Brasil)",
       "name": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "pt-BR",
       "gender": "male",
       "quality": [
@@ -87,11 +82,6 @@
       "label": "Catarina (Portugal)",
       "name": "Catarina",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Catarina (melhorada)",
-        "Catarina (português (Portugal))"
-      ],
       "language": "pt-PT",
       "gender": "female",
       "quality": [
@@ -110,10 +100,6 @@
       "label": "Joana (Portugal)",
       "name": "Joana",
       "localizedName": "apple",
-      "altNames": [
-        "Joana (melhorada)",
-        "Joana (português (Portugal))"
-      ],
       "language": "pt-PT",
       "gender": "female",
       "quality": [
@@ -133,11 +119,6 @@
       "label": "Joaquim (Portugal)",
       "name": "Joaquim",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Joaquim (melhorada)",
-        "Joaquim (português (Portugal))"
-      ],
       "language": "pt-PT",
       "gender": "male",
       "quality": [
@@ -156,11 +137,6 @@
       "label": "Fernanda (Brasil)",
       "name": "Fernanda",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Fernanda (melhorada)",
-        "Fernanda (português (Brasil))"
-      ],
       "language": "pt-BR",
       "gender": "female",
       "quality": [
@@ -179,11 +155,6 @@
       "label": "Luciana (Brasil)",
       "name": "Luciana (melhorada)",
       "localizedName": "apple",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Luciana (melhorada)",
-        "Luciana (português (Brasil))"
-      ],
       "language": "pt-BR",
       "gender": "female",
       "quality": [
@@ -203,11 +174,6 @@
       "label": "Felipe (Brasil)",
       "name": "Felipe",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Felipe (melhorada)",
-        "Felipe (português (Brasil))"
-      ],
       "language": "pt-BR",
       "gender": "male",
       "quality": [
@@ -241,7 +207,6 @@
     {
       "label": "Helia (Portugal)",
       "name": "Microsoft Helia - Portuguese (Portugal)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "pt-PT",
       "gender": "female",
       "quality": [
@@ -257,7 +222,6 @@
     {
       "label": "Maria (Brasil)",
       "name": "Microsoft Maria - Portuguese (Brazil)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "pt-BR",
       "gender": "female",
       "quality": [
@@ -273,7 +237,6 @@
     {
       "label": "Daniel (Brasil)",
       "name": "Microsoft Daniel - Portuguese (Brazil)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "pt-BR",
       "gender": "male",
       "quality": [
@@ -289,7 +252,6 @@
     {
       "label": "Voz feminina 1 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-local"
       ],
@@ -308,7 +270,6 @@
     {
       "label": "Voz feminina 2 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-local"
       ],
@@ -327,7 +288,6 @@
     {
       "label": "Voz masculina 1 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-local"
       ],
@@ -346,7 +306,6 @@
     {
       "label": "Voz masculina 2 (Portugal)",
       "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-local"
       ],
@@ -365,7 +324,6 @@
     {
       "label": "Voz feminina 1 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-afs-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-br-x-afs-local"
       ],
@@ -384,7 +342,6 @@
     {
       "label": "Voz feminina 2 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-pte-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-br-x-pte-local"
       ],
@@ -403,7 +360,6 @@
     {
       "label": "Voz masculina 1 (Brasil)",
       "name": "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-local"
       ],
@@ -423,7 +379,6 @@
       "label": "Voz do Portugal",
       "name": "português Portugal",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "pt-PT",
       "quality": [
         "high"
@@ -439,7 +394,6 @@
       "label": "Voz do Brasil",
       "name": "português Brasil",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "pt-BR",
       "quality": [
         "high"

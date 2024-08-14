@@ -6,7 +6,6 @@
     {
       "label": "Vlasta",
       "name": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "cs-CZ",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Antonin",
       "name": "Microsoft Antonin Online (Natural) - Czech (Czech)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "cs-CZ",
       "gender": "male",
       "quality": [
@@ -39,12 +37,6 @@
       "label": "Zuzana",
       "name": "Zuzana",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Zuzana (prémiový)",
-        "Zuzana (vylepšená verze)",
-        "Zuzana (čeština (Česko))"
-      ],
       "language": "cs-CZ",
       "gender": "female",
       "quality": [
@@ -65,11 +57,6 @@
       "label": "Iveta",
       "name": "Iveta",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Iveta (vylepšená verze)",
-        "Iveta (čeština (Česko))"
-      ],
       "language": "cs-CZ",
       "gender": "female",
       "quality": [
@@ -87,7 +74,6 @@
     {
       "label": "Jakub",
       "name": "Microsoft Jakub - Czech (Czech)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "cs-CZ",
       "gender": "male",
       "quality": [
@@ -102,7 +88,6 @@
     },
     {
       "label": "Ženský hlas",
-      "name": "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-network",
       "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-local"
@@ -123,7 +108,6 @@
       "label": "Český hlas",
       "name": "čeština Česko",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "cs-CZ",
       "quality": [
         "high"

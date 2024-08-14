@@ -5,7 +5,6 @@
     {
       "label": "Sabela",
       "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "female",
       "quality": [
@@ -21,7 +20,6 @@
     {
       "label": "Roi",
       "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "gl-ES",
       "gender": "male",
       "quality": [
@@ -38,7 +36,6 @@
       "label": "Carmela",
       "name": "Carmela",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "language": "gl-ES",
       "gender": "female",
       "quality": [

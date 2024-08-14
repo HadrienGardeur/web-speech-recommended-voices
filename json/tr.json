@@ -6,7 +6,6 @@
     {
       "label": "Emel",
       "name": "Microsoft Emel Online (Natural) - Turkish (Turkey)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "tr-TR",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Ahmet",
       "name": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "tr-TR",
       "gender": "male",
       "quality": [
@@ -39,7 +37,6 @@
       "label": "Yelda",
       "name": "Yelda",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Yelda (Geliştirilmiş)",
         "Yelda (Türkçe (Türkiye))"
@@ -63,11 +60,6 @@
       "label": "Cem",
       "name": "Cem",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Cem (Geliştirilmiş)",
-        "Cem (Türkçe (Türkiye))"
-      ],
       "language": "tr-TR",
       "gender": "male",
       "quality": [
@@ -85,7 +77,6 @@
     {
       "label": "Tolga",
       "name": "Microsoft Tolga - Turkish (Turkey)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "tr-TR",
       "gender": "male",
       "quality": [
@@ -120,7 +111,6 @@
     {
       "label": "Kadın sesi 2",
       "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-local"
       ],
@@ -139,7 +129,6 @@
     {
       "label": "Kadın sesi 3",
       "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-local"
       ],
@@ -158,7 +147,6 @@
     {
       "label": "Erkek sesi 1",
       "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-local"
       ],
@@ -177,7 +165,6 @@
     {
       "label": "Erkek sesi 2",
       "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-local"
       ],
@@ -197,7 +184,6 @@
       "label": "Türkçe ses",
       "name": "Türkçe Türkiye",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "tr-TR",
       "quality": [
         "high"

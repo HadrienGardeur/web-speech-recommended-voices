@@ -37,10 +37,6 @@
       "label": "O-Ren",
       "name": "O-Ren",
       "localizedName": "apple",
-      "altNames": [
-        "O-Ren (拡張)",
-        "O-Ren (日本語（日本))"
-      ],
       "language": "ja-JP",
       "gender": "female",
       "quality": [
@@ -60,10 +56,6 @@
       "label": "Kyoko",
       "name": "Kyoko",
       "localizedName": "apple",
-      "altNames": [
-        "Kyoko (拡張)",
-        "Kyoko (日本語（日本))"
-      ],
       "language": "ja-JP",
       "gender": "female",
       "quality": [
@@ -83,10 +75,6 @@
       "label": "Otoya",
       "name": "Otoya",
       "localizedName": "apple",
-      "altNames": [
-        "Otoya (拡張)",
-        "Otoya (日本語（日本))"
-      ],
       "language": "ja-JP",
       "gender": "male",
       "quality": [
@@ -105,10 +93,6 @@
       "label": "Hattori",
       "name": "Hattori",
       "localizedName": "apple",
-      "altNames": [
-        "Hattori (拡張)",
-        "Hattori (日本語（日本))"
-      ],
       "language": "ja-JP",
       "gender": "male",
       "quality": [
@@ -126,6 +110,7 @@
     {
       "label": "Google の女性の声",
       "name": "Google 日本語",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "ja-JP",
       "gender": "female",
       "quality": [
@@ -186,7 +171,6 @@
     {
       "label": "女性の声1",
       "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-local"
       ],
@@ -205,7 +189,6 @@
     {
       "label": "女性の声2",
       "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-local"
       ],
@@ -224,7 +207,6 @@
     {
       "label": "男性の声1",
       "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-local"
       ],
@@ -243,7 +225,6 @@
     {
       "label": "男性の声2",
       "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-local"
       ],

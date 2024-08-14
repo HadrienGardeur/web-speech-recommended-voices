@@ -6,7 +6,6 @@
     {
       "label": "Petra",
       "name": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sl-SI",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Rok",
       "name": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "sl-SI",
       "gender": "male",
       "quality": [
@@ -39,11 +37,6 @@
       "label": "Tina",
       "name": "Tina",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Tina (izboljšano)",
-        "Tina (slovenščina (Slovenija))"
-      ],
       "language": "sl-SI",
       "gender": "female",
       "quality": [
@@ -62,7 +55,6 @@
     {
       "label": "Lado",
       "name": "Microsoft Lado - Slovenian (Slovenia)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "sl-SI",
       "gender": "male",
       "quality": [

@@ -6,7 +6,6 @@
     {
       "label": "Noemi",
       "name": "Microsoft Noemi Online (Natural) - Hungarian (Hungary)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "hu-HU",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Tamas",
       "name": "Microsoft Tamas Online (Natural) - Hungarian (Hungary)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "hu-HU",
       "gender": "male",
       "quality": [
@@ -39,12 +37,6 @@
       "label": "Tünde",
       "name": "Tünde",
       "localizedName": "apple",
-      "note": "This voice is preloaded on all Apple devices and offers three variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Tünde (prémium)",
-        "Tünde (továbbfejlesztett)",
-        "Tünde (magyar (Magyarország))"
-      ],
       "language": "hu-HU",
       "gender": "female",
       "quality": [
@@ -64,7 +56,6 @@
     {
       "label": "Szabolcs",
       "name": "Microsoft Szabolcs - Hungarian (Hungary)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "hu-HU",
       "gender": "male",
       "quality": [
@@ -80,7 +71,6 @@
     {
       "label": "Női hang",
       "name": "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local"
       ],
@@ -100,7 +90,6 @@
       "label": "Magyar hang",
       "name": "magyar Magyarország",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "hu-HU",
       "quality": [
         "high"
