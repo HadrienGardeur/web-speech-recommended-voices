@@ -16,7 +16,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Demo
 
-[A live demo](https://hadriengardeur.github.io/web-speech-recommended-voices/demo/) is available to test which recommended voices are available in your browser.
+[A live demo](https://panac.github.io/readium-speech/demo/) is available to test which recommended voices are available in your browser.
 
 
 ## List of supported languages
