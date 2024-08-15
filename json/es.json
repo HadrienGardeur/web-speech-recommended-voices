@@ -1,11 +1,11 @@
 {
   "language": "es",
+  "defaultRegion": "es-ES",
   "testUtterance": "Este texto está destinado a comprobar si estas voces en español suenan tan bien como deberían.",
   "voices": [
     {
       "label": "Elvira (España)",
       "name": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -21,7 +21,6 @@
     {
       "label": "Alvaro (España)",
       "name": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "es-ES",
       "gender": "male",
       "quality": [
@@ -37,7 +36,6 @@
     {
       "label": "Dalia (México)",
       "name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "es-MX",
       "gender": "female",
       "quality": [
@@ -53,7 +51,6 @@
     {
       "label": "Microsoft Jorge (México)",
       "name": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
-      "note": "This voice is pre-loaded in Edge on desktop. It can also be installed on Windows 11 but isn't currently accessible through the Web Speech API.",
       "language": "es-MX",
       "gender": "male",
       "quality": [
@@ -69,7 +66,6 @@
     {
       "label": "Elena (Argentina)",
       "name": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-AR",
       "gender": "female",
       "quality": [
@@ -85,7 +81,6 @@
     {
       "label": "Tomas (Argentina)",
       "name": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-AR",
       "gender": "male",
       "quality": [
@@ -101,7 +96,6 @@
     {
       "label": "Sofia (Bolivia)",
       "name": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-BO",
       "gender": "female",
       "quality": [
@@ -117,7 +111,6 @@
     {
       "label": "Marcelo (Bolivia)",
       "name": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-BO",
       "gender": "male",
       "quality": [
@@ -133,7 +126,6 @@
     {
       "label": "Catalina (Chile)",
       "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CL",
       "gender": "female",
       "quality": [
@@ -149,7 +141,6 @@
     {
       "label": "Lorenzo (Chile)",
       "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CL",
       "gender": "male",
       "quality": [
@@ -165,7 +156,6 @@
     {
       "label": "Ximena (Colombia)",
       "name": "Microsoft Ximena Online (Natural) - Spanish (Colombia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CO",
       "gender": "female",
       "quality": [
@@ -181,7 +171,6 @@
     {
       "label": "Salome (Colombia)",
       "name": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CO",
       "gender": "female",
       "quality": [
@@ -197,7 +186,6 @@
     {
       "label": "Gonzalo (Colombia)",
       "name": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CO",
       "gender": "male",
       "quality": [
@@ -213,7 +201,6 @@
     {
       "label": "Maria (Costa Rica)",
       "name": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CR",
       "gender": "female",
       "quality": [
@@ -229,7 +216,6 @@
     {
       "label": "Juan (Costa Rica)",
       "name": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CR",
       "gender": "male",
       "quality": [
@@ -245,7 +231,6 @@
     {
       "label": "Belkys (Cuba)",
       "name": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CU",
       "gender": "female",
       "quality": [
@@ -261,7 +246,6 @@
     {
       "label": "Manuel (Cuba)",
       "name": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-CU",
       "gender": "male",
       "quality": [
@@ -277,7 +261,6 @@
     {
       "label": "Andrea (Ecuador)",
       "name": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-EC",
       "gender": "female",
       "quality": [
@@ -293,7 +276,6 @@
     {
       "label": "Luis (Ecuador)",
       "name": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-EC",
       "gender": "male",
       "quality": [
@@ -309,7 +291,6 @@
     {
       "label": "Lorena (El Salvador)",
       "name": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-SV",
       "gender": "female",
       "quality": [
@@ -325,7 +306,6 @@
     {
       "label": "Rodrigo (El Salvador)",
       "name": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-SV",
       "gender": "male",
       "quality": [
@@ -341,7 +321,6 @@
     {
       "label": "Paloma (Estados Unidos)",
       "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-US",
       "otherLanguages": [
         "en"
@@ -360,7 +339,6 @@
     {
       "label": "Alonso (Estados Unidos)",
       "name": "Microsoft Alonso Online (Natural) - Spanish (United States)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-US",
       "otherLanguages": [
         "en"
@@ -379,7 +357,6 @@
     {
       "label": "Marta (Guatemala)",
       "name": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-GT",
       "gender": "female",
       "quality": [
@@ -395,7 +372,6 @@
     {
       "label": "Andres (Guatemala)",
       "name": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-GT",
       "gender": "male",
       "quality": [
@@ -411,7 +387,6 @@
     {
       "label": "Teresa (Guinea Ecuatorial)",
       "name": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-GQ",
       "gender": "female",
       "quality": [
@@ -427,7 +402,6 @@
     {
       "label": "Javier (Guinea Ecuatorial)",
       "name": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-GQ",
       "gender": "male",
       "quality": [
@@ -443,7 +417,6 @@
     {
       "label": "Karla (Honduras)",
       "name": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-HN",
       "gender": "female",
       "quality": [
@@ -459,7 +432,6 @@
     {
       "label": "Carlos (Honduras)",
       "name": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-HN",
       "gender": "male",
       "quality": [
@@ -475,7 +447,6 @@
     {
       "label": "Yolanda (Nicaragua)",
       "name": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-NI",
       "gender": "female",
       "quality": [
@@ -491,7 +462,6 @@
     {
       "label": "Federico (Nicaragua)",
       "name": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-NI",
       "gender": "male",
       "quality": [
@@ -507,7 +477,6 @@
     {
       "label": "Margarita (Panamá)",
       "name": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PA",
       "gender": "female",
       "quality": [
@@ -523,7 +492,6 @@
     {
       "label": "Roberto (Panamá)",
       "name": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PA",
       "gender": "male",
       "quality": [
@@ -539,7 +507,6 @@
     {
       "label": "Tania (Paraguay)",
       "name": "Microsoft Tania Online (Natural) - Spanish (Paraguay)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PY",
       "gender": "female",
       "quality": [
@@ -555,7 +522,6 @@
     {
       "label": "Mario (Paraguay)",
       "name": "Microsoft Mario Online (Natural) - Spanish (Paraguay)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PY",
       "gender": "male",
       "quality": [
@@ -571,7 +537,6 @@
     {
       "label": "Camila (Perú)",
       "name": "Microsoft Camila Online (Natural) - Spanish (Peru)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PE",
       "gender": "female",
       "quality": [
@@ -587,7 +552,6 @@
     {
       "label": "Alex (Perú)",
       "name": "Microsoft Alex Online (Natural) - Spanish (Peru)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PE",
       "gender": "male",
       "quality": [
@@ -603,7 +567,6 @@
     {
       "label": "Karina (Puerto Rico)",
       "name": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PR",
       "gender": "female",
       "quality": [
@@ -619,7 +582,6 @@
     {
       "label": "Victor (Puerto Rico)",
       "name": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-PR",
       "gender": "male",
       "quality": [
@@ -635,7 +597,6 @@
     {
       "label": "Ramona (República Dominicana)",
       "name": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-DO",
       "gender": "female",
       "quality": [
@@ -651,7 +612,6 @@
     {
       "label": "Emilio (República Dominicana)",
       "name": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-DO",
       "gender": "male",
       "quality": [
@@ -667,7 +627,6 @@
     {
       "label": "Valentina (Uruguay)",
       "name": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-UY",
       "gender": "female",
       "quality": [
@@ -683,7 +642,6 @@
     {
       "label": "Mateo (Uruguay)",
       "name": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-UY",
       "gender": "male",
       "quality": [
@@ -699,7 +657,6 @@
     {
       "label": "Paola (Venezuela)",
       "name": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-VE",
       "gender": "female",
       "quality": [
@@ -715,7 +672,6 @@
     {
       "label": "Sebastian (Venezuela)",
       "name": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "es-VE",
       "gender": "male",
       "quality": [
@@ -731,34 +687,7 @@
     {
       "label": "Marisol (España)",
       "name": "Marisol",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Marisol (mejorada)",
-        "Marisol (millorada)",
-        "Marisol (Enhanced)",
-        "Marisol (premium)",
-        "Marisol (ottimizzata)",
-        "Marisol (melhorada)",
-        "Marisol (erweitert)",
-        "Marisol (verbeterd)",
-        "Marisol (millorada)",
-        "Marisol (parannettu)",
-        "Marisol (förbättrad)",
-        "Marisol (forbedret)",
-        "Marisol (Spanish (Spain))",
-        "Marisol (espagnol (Espagne))",
-        "Marisol (español (España))",
-        "Marisol (spagnolo (Spagna))",
-        "Marisol (gaztenalia (Espainia))",
-        "Marisol (espanyol (Espanya))",
-        "Marisol (espanhol (Espanha))",
-        "Marisol (Spanisch (Spanien))",
-        "Marisol (Spaans (Spanje))",
-        "Marisol (espanja (Espanja))",
-        "Marisol (spanska (Spanien))",
-        "Marisol (spansk (Spanien))",
-        "Marisol (spansk (Spania))"
-      ],
+      "localizedName": "apple",
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -775,38 +704,12 @@
     },
     {
       "label": "Mónica (España)",
-      "name": "Mónica (mejorada)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Mónica (millorada)",
-        "Mónica (Enhanced)",
-        "Mónica (premium)",
-        "Mónica (ottimizzata)",
-        "Mónica (melhorada)",
-        "Mónica (erweitert)",
-        "Mónica (verbeterd)",
-        "Mónica (millorada)",
-        "Mónica (parannettu)",
-        "Mónica (förbättrad)",
-        "Mónica (forbedret)",
-        "Mónica (Spanish (Spain))",
-        "Mónica (espagnol (Espagne))",
-        "Mónica (español (España))",
-        "Mónica (spagnolo (Spagna))",
-        "Mónica (gaztenalia (Espainia))",
-        "Mónica (espanyol (Espanya))",
-        "Mónica (espanhol (Espanha))",
-        "Mónica (Spanisch (Spanien))",
-        "Mónica (Spaans (Spanje))",
-        "Mónica (espanja (Espanja))",
-        "Mónica (spanska (Spanien))",
-        "Mónica (spansk (Spanien))",
-        "Mónica (spansk (Spania))"
-      ],
-      "overrides": "Mónica",
+      "name": "Mónica",
+      "localizedName": "apple",
       "language": "es-ES",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -815,39 +718,13 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Apple Jorge (España)",
       "name": "Jorge",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Jorge (mejorada)",
-        "Jorge (millorada)",
-        "Jorge (Enhanced)",
-        "Jorge (premium)",
-        "Jorge (ottimizzata)",
-        "Jorge (melhorada)",
-        "Jorge (erweitert)",
-        "Jorge (verbeterd)",
-        "Jorge (millorada)",
-        "Jorge (parannettu)",
-        "Jorge (förbättrad)",
-        "Jorge (forbedret)",
-        "Jorge (Spanish (Spain))",
-        "Jorge (espagnol (Espagne))",
-        "Jorge (español (España))",
-        "Jorge (spagnolo (Spagna))",
-        "Jorge (gaztenalia (Espainia))",
-        "Jorge (espanyol (Espanya))",
-        "Jorge (espanhol (Espanha))",
-        "Jorge (Spanisch (Spanien))",
-        "Jorge (Spaans (Spanje))",
-        "Jorge (espanja (Espanja))",
-        "Jorge (spanska (Spanien))",
-        "Jorge (spansk (Spanien))",
-        "Jorge (spansk (Spania))"
-      ],
+      "localizedName": "apple",
       "language": "es-ES",
       "gender": "male",
       "quality": [
@@ -865,33 +742,7 @@
     {
       "label": "Angelica (México)",
       "name": "Angelica",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Angelica (mejorada)",
-        "Angelica (millorada)",
-        "Angelica (Enhanced)",
-        "Angelica (premium)",
-        "Angelica (ottimizzata)",
-        "Angelica (melhorada)",
-        "Angelica (erweitert)",
-        "Angelica (verbeterd)",
-        "Angelica (millorada)",
-        "Angelica (parannettu)",
-        "Angelica (förbättrad)",
-        "Angelica (forbedret)",
-        "Angelica (Spanish (Mexico))",
-        "Angelica (espagnol (Mexique))",
-        "Angelica (español (México))",
-        "Angelica (spagnolo (Messico))",
-        "Angelica (gaztenalia (Mexiko))",
-        "Angelica (espanyol (Mèxic))",
-        "Angelica (espanhol (México))",
-        "Angelica (Spanisch (Mexiko))",
-        "Angelica (Spaans (Mexico))",
-        "Angelica (espanja (Meksiko))",
-        "Angelica (spanska (Mexiko))",
-        "Angelica (spansk (Mexico))"
-      ],
+      "localizedName": "apple",
       "language": "es-MX",
       "gender": "female",
       "quality": [
@@ -908,37 +759,13 @@
     },
     {
       "label": "Paulina (México)",
-      "name": "Paulina (mejorada)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Paulina (millorada)",
-        "Paulina (Enhanced)",
-        "Paulina (premium)",
-        "Paulina (ottimizzata)",
-        "Paulina (melhorada)",
-        "Paulina (erweitert)",
-        "Paulina (verbeterd)",
-        "Paulina (millorada)",
-        "Paulina (parannettu)",
-        "Paulina (förbättrad)",
-        "Paulina (forbedret)",
-        "Paulina (Spanish (Mexico))",
-        "Paulina (espagnol (Mexique))",
-        "Paulina (español (México))",
-        "Paulina (spagnolo (Messico))",
-        "Paulina (gaztenalia (Mexiko))",
-        "Paulina (espanyol (Mèxic))",
-        "Paulina (espanhol (México))",
-        "Paulina (Spanisch (Mexiko))",
-        "Paulina (Spaans (Mexico))",
-        "Paulina (espanja (Meksiko))",
-        "Paulina (spanska (Mexiko))",
-        "Paulina (spansk (Mexico))"
-      ],
+      "name": "Paulina",
+      "localizedName": "apple",
       "overrides": "Paulina",
       "language": "es-MX",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -947,38 +774,13 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Juan (México)",
       "name": "Juan",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Juan (mejorada)",
-        "Juan (millorada)",
-        "Juan (Enhanced)",
-        "Juan (premium)",
-        "Juan (ottimizzata)",
-        "Juan (melhorada)",
-        "Juan (erweitert)",
-        "Juan (verbeterd)",
-        "Juan (millorada)",
-        "Juan (parannettu)",
-        "Juan (förbättrad)",
-        "Juan (forbedret)",
-        "Juan (Spanish (Mexico))",
-        "Juan (espagnol (Mexique))",
-        "Juan (español (México))",
-        "Juan (spagnolo (Messico))",
-        "Juan (gaztenalia (Mexiko))",
-        "Juan (espanyol (Mèxic))",
-        "Juan (espanhol (México))",
-        "Juan (Spanisch (Mexiko))",
-        "Juan (Spaans (Mexico))",
-        "Juan (espanja (Meksiko))",
-        "Juan (spanska (Mexiko))",
-        "Juan (spansk (Mexico))"
-      ],
+      "localizedName": "apple",
       "language": "es-MX",
       "gender": "male",
       "quality": [
@@ -996,33 +798,7 @@
     {
       "label": "Isabela (Argentina)",
       "name": "Isabela",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Isabela (mejorada)",
-        "Isabela (millorada)",
-        "Isabela (Enhanced)",
-        "Isabela (premium)",
-        "Isabela (ottimizzata)",
-        "Isabela (melhorada)",
-        "Isabela (erweitert)",
-        "Isabela (verbeterd)",
-        "Isabela (millorada)",
-        "Isabela (parannettu)",
-        "Isabela (förbättrad)",
-        "Isabela (forbedret)",
-        "Isabela (Spanish (Argentina))",
-        "Isabela (espagnol (Argentine))",
-        "Isabela (español (Argentina))",
-        "Isabela (spagnolo (Argentina))",
-        "Isabela (gaztenalia (Argentina))",
-        "Isabela (espanyol (Argentina))",
-        "Isabela (espanhol (Argentina))",
-        "Isabela (Spanisch (Argentinien))",
-        "Isabela (Spaans (Argentinië))",
-        "Isabela (espanja (Argentiina))",
-        "Isabela (spanska (Argentina))",
-        "Isabela (spansk (Argentina))"
-      ],
+      "localizedName": "apple",
       "language": "es-AR",
       "gender": "female",
       "quality": [
@@ -1040,33 +816,7 @@
     {
       "label": "Diego (Argentina)",
       "name": "Diego",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Diego (mejorada)",
-        "Diego (millorada)",
-        "Diego (Enhanced)",
-        "Diego (premium)",
-        "Diego (ottimizzata)",
-        "Diego (melhorada)",
-        "Diego (erweitert)",
-        "Diego (verbeterd)",
-        "Diego (millorada)",
-        "Diego (parannettu)",
-        "Diego (förbättrad)",
-        "Diego (forbedret)",
-        "Diego (Spanish (Argentina))",
-        "Diego (espagnol (Argentine))",
-        "Diego (español (Argentina))",
-        "Diego (spagnolo (Argentina))",
-        "Diego (gaztenalia (Argentina))",
-        "Diego (espanyol (Argentina))",
-        "Diego (espanhol (Argentina))",
-        "Diego (Spanisch (Argentinien))",
-        "Diego (Spaans (Argentinië))",
-        "Diego (espanja (Argentiina))",
-        "Diego (spanska (Argentina))",
-        "Diego (spansk (Argentina))"
-      ],
+      "localizedName": "apple",
       "language": "es-AR",
       "gender": "male",
       "quality": [
@@ -1084,33 +834,7 @@
     {
       "label": "Francesca (Chile)",
       "name": "Francesca",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Francesca (mejorada)",
-        "Francesca (millorada)",
-        "Francesca (Enhanced)",
-        "Francesca (premium)",
-        "Francesca (ottimizzata)",
-        "Francesca (melhorada)",
-        "Francesca (erweitert)",
-        "Francesca (verbeterd)",
-        "Francesca (millorada)",
-        "Francesca (parannettu)",
-        "Francesca (förbättrad)",
-        "Francesca (forbedret)",
-        "Francesca (Spanish (Chile))",
-        "Francesca (espagnol (Chili))",
-        "Francesca (español (Chile))",
-        "Francesca (spagnolo (Chile))",
-        "Francesca (gaztenalia (Txile))",
-        "Francesca (espanyol (Xile))",
-        "Francesca (espanhol (Chile))",
-        "Francesca (Spanisch (Chile))",
-        "Francesca (Spaans (Chili))",
-        "Francesca (espanja (Chile))",
-        "Francesca (spanska (Chile))",
-        "Francesca (spansk (Chile))"
-      ],
+      "localizedName": "apple",
       "language": "es-CL",
       "gender": "female",
       "quality": [
@@ -1128,33 +852,7 @@
     {
       "label": "Soledad (Colombia)",
       "name": "Soledad",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Soledad (mejorada)",
-        "Soledad (millorada)",
-        "Soledad (Enhanced)",
-        "Soledad (premium)",
-        "Soledad (ottimizzata)",
-        "Soledad (melhorada)",
-        "Soledad (erweitert)",
-        "Soledad (verbeterd)",
-        "Soledad (millorada)",
-        "Soledad (parannettu)",
-        "Soledad (förbättrad)",
-        "Soledad (forbedret)",
-        "Soledad (Spanish (Colombia))",
-        "Soledad (espagnol (Colombie))",
-        "Soledad (español (Colombia))",
-        "Soledad (spagnolo (Colombia))",
-        "Soledad (gaztenalia (Kolonbia))",
-        "Soledad (espanyol (Kolonbia))",
-        "Soledad (espanhol (Colômbia))",
-        "Soledad (Spanisch (Kolumbien))",
-        "Soledad (Spaans (Colombia))",
-        "Soledad (espanja (Kolumbia))",
-        "Soledad (spanska (Colombia))",
-        "Soledad (spansk (Colombia))"
-      ],
+      "localizedName": "apple",
       "language": "es-CO",
       "gender": "female",
       "quality": [
@@ -1172,33 +870,7 @@
     {
       "label": "Jimena (Colombia)",
       "name": "Jimena",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Jimena (mejorada)",
-        "Jimena (millorada)",
-        "Jimena (Enhanced)",
-        "Jimena (premium)",
-        "Jimena (ottimizzata)",
-        "Jimena (melhorada)",
-        "Jimena (erweitert)",
-        "Jimena (verbeterd)",
-        "Jimena (millorada)",
-        "Jimena (parannettu)",
-        "Jimena (förbättrad)",
-        "Jimena (forbedret)",
-        "Jimena (Spanish (Colombia))",
-        "Jimena (espagnol (Colombie))",
-        "Jimena (español (Colombia))",
-        "Jimena (spagnolo (Colombia))",
-        "Jimena (gaztenalia (Kolonbia))",
-        "Jimena (espanyol (Kolonbia))",
-        "Jimena (espanhol (Colômbia))",
-        "Jimena (Spanisch (Kolumbien))",
-        "Jimena (Spaans (Colombia))",
-        "Jimena (espanja (Kolumbia))",
-        "Jimena (spanska (Colombia))",
-        "Jimena (spansk (Colombia))"
-      ],
+      "localizedName": "apple",
       "language": "es-CO",
       "gender": "female",
       "quality": [
@@ -1216,33 +888,7 @@
     {
       "label": "Carlos (Colombia)",
       "name": "Carlos",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Carlos (mejorada)",
-        "Carlos (millorada)",
-        "Carlos (Enhanced)",
-        "Carlos (premium)",
-        "Carlos (ottimizzata)",
-        "Carlos (melhorada)",
-        "Carlos (erweitert)",
-        "Carlos (verbeterd)",
-        "Carlos (millorada)",
-        "Carlos (parannettu)",
-        "Carlos (förbättrad)",
-        "Carlos (forbedret)",
-        "Carlos (Spanish (Colombia))",
-        "Carlos (espagnol (Colombie))",
-        "Carlos (español (Colombia))",
-        "Carlos (spagnolo (Colombia))",
-        "Carlos (gaztenalia (Kolonbia))",
-        "Carlos (espanyol (Kolonbia))",
-        "Carlos (espanhol (Colômbia))",
-        "Carlos (Spanisch (Kolumbien))",
-        "Carlos (Spaans (Colombia))",
-        "Carlos (espanja (Kolumbia))",
-        "Carlos (spanska (Colombia))",
-        "Carlos (spansk (Colombia))"
-      ],
+      "localizedName": "apple",
       "language": "es-CO",
       "gender": "male",
       "quality": [
@@ -1292,7 +938,6 @@
     {
       "label": "Helena (España)",
       "name": "Microsoft Helena - Spanish (Spain)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -1308,7 +953,6 @@
     {
       "label": "Laura (España)",
       "name": "Microsoft Laura - Spanish (Spain)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -1324,7 +968,6 @@
     {
       "label": "Pablo (España)",
       "name": "Microsoft Pablo - Spanish (Spain)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "es-ES",
       "gender": "male",
       "quality": [
@@ -1340,7 +983,6 @@
     {
       "label": "Sabina (México)",
       "name": "Microsoft Sabina - Spanish (Mexico)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "es-MX",
       "gender": "female",
       "quality": [
@@ -1356,7 +998,6 @@
     {
       "label": "Raul (México)",
       "name": "Microsoft Raul - Spanish (Mexico)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "es-MX",
       "gender": "male",
       "quality": [
@@ -1370,45 +1011,8 @@
       "preloaded": true
     },
     {
-      "label": "Mónica (España)",
-      "name": "Mónica",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "es-ES",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Paulina (México)",
-      "name": "Paulina",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "es-MX",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Voz femenina 1 (España)",
       "name": "Google español 4 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eee-local"
       ],
@@ -1427,7 +1031,6 @@
     {
       "label": "Voz femenina 2 (España)",
       "name": "Google español 1 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eea-network",
         "Android Speech Recognition and Synthesis from Google es-es-x-eea-local"
@@ -1447,7 +1050,6 @@
     {
       "label": "Voz femenina 3 (España)",
       "name": "Google español 2 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eec-network",
         "Android Speech Recognition and Synthesis from Google es-es-x-eec-local"
@@ -1512,7 +1114,6 @@
     {
       "label": "Voz masculina 1 (España)",
       "name": "Google español 3 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eed-network",
         "Android Speech Recognition and Synthesis from Google es-es-x-eed-local"
@@ -1532,7 +1133,6 @@
     {
       "label": "Voz masculina 2 (España)",
       "name": "Google español 5 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eef-local"
       ],
@@ -1581,7 +1181,6 @@
     {
       "label": "Voz femenina 1 (Estados Unidos)",
       "name": "Android Speech Recognition and Synthesis from Google es-us-x-esc-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-us-x-esc-local"
       ],
@@ -1600,7 +1199,6 @@
     {
       "label": "Voz femenina 2 (Estados Unidos)",
       "name": "Android Speech Recognition and Synthesis from Google es-us-x-sfb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-us-x-sfb-local"
       ],
@@ -1619,7 +1217,6 @@
     {
       "label": "Voz masculina 1 (Estados Unidos)",
       "name": "Android Speech Recognition and Synthesis from Google es-us-x-esd-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-us-x-esd-local"
       ],
@@ -1638,7 +1235,6 @@
     {
       "label": "Voz masculina 2 (Estados Unidos)",
       "name": "Android Speech Recognition and Synthesis from Google es-us-x-esf-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to local voice as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-us-x-esf-local"
       ],
@@ -1657,20 +1253,7 @@
     {
       "label": "Voz de España",
       "name": "español España",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Spanish Spain",
-        "espagnol Espagne",
-        "spagnolo Spagna",
-        "Spanisch Spanien",
-        "Spaans Spanje",
-        "espanhol Espanha",
-        "espanyol Espanya",
-        "espanja Espanja",
-        "spanska Spanien",
-        "spansk Spanien",
-        "spansk Spania"
-      ],
+      "localizedName": "android",
       "language": "es-ES",
       "quality": [
         "high"
@@ -1685,19 +1268,7 @@
     {
       "label": "Voz de Estados Unidos",
       "name": "español Estados Unidos",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Spanish United States",
-        "espagnol États-Unis",
-        "spagnolo Stati Uniti",
-        "Spanisch Vereinigte Staaten",
-        "Spaans Verenigde Staten",
-        "espanhol Estados Unidos",
-        "espanyol Estats Units",
-        "espanja Yhdysvallat",
-        "spanska USA",
-        "spansk USA"
-      ],
+      "localizedName": "android",
       "language": "es-US",
       "quality": [
         "high"

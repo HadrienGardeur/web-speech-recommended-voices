@@ -1,12 +1,12 @@
 {
-  "language": "fi",
-  "defaultRegion": "fi-FI",
-  "testUtterance": "Tämä on suomalainen äänitesti äänenlaadun tarkistamiseksi.",
+  "language": "cs-CZ",
+  "defaultRegion": "cs-CZ",
+  "testUtterance": "To má otestovat kvalitu tohoto hlasu a porovnat jej s ostatními.",
   "voices": [
     {
-      "label": "Noora",
-      "name": "Microsoft Noora Online (Natural) - Finnish (Finland)",
-      "language": "fi-FI",
+      "label": "Vlasta",
+      "name": "Microsoft Vlasta Online (Natural) - Czech (Czech)",
+      "language": "cs-CZ",
       "gender": "female",
       "quality": [
         "veryHigh"
@@ -19,9 +19,9 @@
       "preloaded": true
     },
     {
-      "label": "Harri",
-      "name": "Microsoft Harri Online (Natural) - Finnish (Finland)",
-      "language": "fi-FI",
+      "label": "Antonin",
+      "name": "Microsoft Antonin Online (Natural) - Czech (Czech)",
+      "language": "cs-CZ",
       "gender": "male",
       "quality": [
         "veryHigh"
@@ -34,14 +34,15 @@
       "preloaded": true
     },
     {
-      "label": "Satu",
-      "name": "Satu",
+      "label": "Zuzana",
+      "name": "Zuzana",
       "localizedName": "apple",
-      "language": "fi-FI",
+      "language": "cs-CZ",
       "gender": "female",
       "quality": [
         "low",
-        "normal"
+        "normal",
+        "high"
       ],
       "rate": 1,
       "pitch": 1,
@@ -53,11 +54,11 @@
       "preloaded": true
     },
     {
-      "label": "Onni",
-      "name": "Onni",
+      "label": "Iveta",
+      "name": "Iveta",
       "localizedName": "apple",
-      "language": "fi-FI",
-      "gender": "male",
+      "language": "cs-CZ",
+      "gender": "female",
       "quality": [
         "low",
         "normal"
@@ -71,10 +72,10 @@
       ]
     },
     {
-      "label": "Heidi",
-      "name": "Microsoft Heidi - Finnish (Finland)",
-      "language": "fi-FI",
-      "gender": "female",
+      "label": "Jakub",
+      "name": "Microsoft Jakub - Czech (Czech)",
+      "language": "cs-CZ",
+      "gender": "male",
       "quality": [
         "normal"
       ],
@@ -86,12 +87,12 @@
       "preloaded": true
     },
     {
-      "label": "Suomalainen naisääni",
-      "name": "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
+      "label": "Ženský hlas",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local"
+        "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-local"
       ],
-      "language": "fi-FI",
+      "language": "cs-CZ",
       "gender": "female",
       "quality": [
         "high"
@@ -104,10 +105,10 @@
       "preloaded": true
     },
     {
-      "label": "Suomalainen ääni",
-      "name": "suomi Suomi",
+      "label": "Český hlas",
+      "name": "čeština Česko",
       "localizedName": "android",
-      "language": "fi-FI",
+      "language": "cs-CZ",
       "quality": [
         "high"
       ],

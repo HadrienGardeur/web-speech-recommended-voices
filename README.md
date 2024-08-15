@@ -6,17 +6,27 @@ With hundreds of voices available by default across various browsers and OS, it 
 
 With its focus on voice selection, the goal of this project is to document higher quality voices available on various platforms and provide an easy way to implement these recommendations using JSON configuration files.
 
+## Use cases
+
+* Providing the best possible default voice per language
+* Displaying an ordered list of recommended voices
+* Displaying user-friendly voice names
+* Filtering recommended voices per gender and age (adult vs children)
+* Filtering out novelty and low quality voices
+
 ## Demo
 
-[A live demo](https://hadriengardeur.github.io/web-speech-recommended-voices/demo/) is available to test which recommended voices are available in your browser.
+[A live demo](https://panac.github.io/readium-speech/demo/) is available to test which recommended voices are available in your browser.
 
 
 ## List of supported languages
 
 * [Basque](json/eu.json) 
+* Bulgarian (planned)
 * [Catalan](json/ca.json)
-* Croatian (planned)
-* Czech (planned)
+* Chinese (planned)
+* [Croatian](json/hr.json)
+* [Czech](json/cs.json)
 * [Danish](json/da.json)
 * [Dutch](json/nl.json) (Netherlands and Belgium)
 * [English](json/en.json) (United States, United Kingdom, Australia and Canada)
@@ -25,17 +35,20 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
 * Greek (planned)
-* Hungarian (planned)
+* [Hungarian](json/hu.json)
 * [Italian](json/it.json)
+* [Japanese](json/ja.json)
+* Korean (planned)
 * [Norwegian](json/nb.json)
-* Polish (planned)
+* [Polish](json/pl.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
-* Romanian (planned)
+* [Romanian](json/ro.json)
 * Russian (planned)
-* Slovene (planned)
+* [Slovak](json/sk.json)
+* [Slovenian](json/sl.json)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
-* Turkish (planned)
+* [Turkish](json/tr.json)
 * Ukrainian (planned)
 
 ## List of voices to filter out
@@ -47,13 +60,6 @@ Some of them are harmful to the overall reading experience, while others have a 
 * [Novelty voices](json/filters/novelty.json) (Apple devices)
 * [Very low quality voices](json/filters/veryLowQuality.json) (Apple devices and Chrome OS)
 
-## Use cases
-
-* Providing the best possible default voice per language
-* Displaying an ordered list of recommended voices
-* Displaying user-friendly voice names
-* Filtering recommended voices per gender and age (adult vs children)
-* Filtering out novelty and low quality voices
 
 ## Guiding principles
 
@@ -112,27 +118,26 @@ Chrome OS provides a number of high quality voices through its Android subsystem
 
 Names are mostly stable across browsers, which means that for most voices, a single string is sufficient.
 
-But there's unfortunately one notable outlier: macOS, iOS and iPadOS voices.
+But there are unfortunately some outliers: Android, iOS, iPadOS and macOS voices.
 
 For those voices, at least a portion of the string is often localized, naming can be inconsistent across browsers and they can change depending on the number of variants installed.
 
-Because of Apple, each list can also contain the following properties:
+Because of this, each list can also contain the following properties:
 
-- `altNames`, an array of strings for alternate names for a given voice
-- and `overrides` which is strictly used with preloaded voices, allowing implementers to hide the default version, when a higher quality variant is available
+- `altNames` with an array of alternate strings for a given voice
+- and `localizedName` that identifies the string pattern used for localizing these voices
  
 **Example 3: Alternate version of an Apple preloaded voice**
 
 ```json
 {
   "label": "Samantha (US)",
-  "name": "Samantha (Enhanced)",
+  "name": "Samantha",
+  "localizedName": "apple",
   "altNames": [
-    "Samantha (mejorada)",
-    "Samantha (premium)",
-    "Samantha (ottimizzata)"
+    "Samantha (Enhanced)",
+    "Samantha (English (United States))"
   ],
-  "overrides": "Samantha",
   "language": "en-US"
 }
 ```
@@ -185,7 +190,7 @@ These voices are identified using the `multiLingual` boolean.
 
 `gender` is an optional property for each voice, that documents the gender associated to each voice.
 
-The following values are supported: `female`, `male` or `nonbinary`.
+The following values are supported: `female`, `male` or `neutral`.
 
 `children` is also optional and identifies children voices using a boolean.
 

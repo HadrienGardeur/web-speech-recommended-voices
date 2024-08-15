@@ -1,12 +1,12 @@
 {
-  "language": "fi",
-  "defaultRegion": "fi-FI",
-  "testUtterance": "Tämä on suomalainen äänitesti äänenlaadun tarkistamiseksi.",
+  "language": "ro-RO",
+  "defaultRegion": "ro-RO",
+  "testUtterance": "Acest test este menit să vedem care voce românească sună mai bine decât celelalte.",
   "voices": [
     {
-      "label": "Noora",
-      "name": "Microsoft Noora Online (Natural) - Finnish (Finland)",
-      "language": "fi-FI",
+      "label": "Alina",
+      "name": "Microsoft Alina Online (Natural) - Romanian (Romania)",
+      "language": "ro-RO",
       "gender": "female",
       "quality": [
         "veryHigh"
@@ -19,9 +19,9 @@
       "preloaded": true
     },
     {
-      "label": "Harri",
-      "name": "Microsoft Harri Online (Natural) - Finnish (Finland)",
-      "language": "fi-FI",
+      "label": "Emil",
+      "name": "Microsoft Emil Online (Natural) - Romanian (Romania)",
+      "language": "ro-RO",
       "gender": "male",
       "quality": [
         "veryHigh"
@@ -34,10 +34,10 @@
       "preloaded": true
     },
     {
-      "label": "Satu",
-      "name": "Satu",
+      "label": "Iona",
+      "name": "Iona",
       "localizedName": "apple",
-      "language": "fi-FI",
+      "language": "ro-RO",
       "gender": "female",
       "quality": [
         "low",
@@ -53,28 +53,10 @@
       "preloaded": true
     },
     {
-      "label": "Onni",
-      "name": "Onni",
-      "localizedName": "apple",
-      "language": "fi-FI",
+      "label": "Andrei",
+      "name": "Microsoft Andrei - Romanian (Romania)",
+      "language": "ro-RO",
       "gender": "male",
-      "quality": [
-        "low",
-        "normal"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ]
-    },
-    {
-      "label": "Heidi",
-      "name": "Microsoft Heidi - Finnish (Finland)",
-      "language": "fi-FI",
-      "gender": "female",
       "quality": [
         "normal"
       ],
@@ -86,12 +68,12 @@
       "preloaded": true
     },
     {
-      "label": "Suomalainen naisääni",
-      "name": "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
+      "label": "Voce feminină",
+      "name": "Android Speech Recognition and Synthesis from Google ro-ro-x-vfv-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local"
+        "Android Speech Recognition and Synthesis from Google ro-ro-x-vfv-local"
       ],
-      "language": "fi-FI",
+      "language": "ro-RO",
       "gender": "female",
       "quality": [
         "high"
@@ -104,10 +86,10 @@
       "preloaded": true
     },
     {
-      "label": "Suomalainen ääni",
-      "name": "suomi Suomi",
+      "label": "Voce românească",
+      "name": "română România",
       "localizedName": "android",
-      "language": "fi-FI",
+      "language": "ro-RO",
       "quality": [
         "high"
       ],

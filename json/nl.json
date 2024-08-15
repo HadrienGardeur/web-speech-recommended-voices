@@ -1,11 +1,11 @@
 {
   "language": "nl",
+  "defaultRegion": "nl-NL",
   "testUtterance": "Deze tekst is bedoeld om te testen of deze Nederlandse stemmen zo goed klinken als ze zouden moeten.",
   "voices": [
     {
       "label": "Colette (Nederland)",
       "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -21,7 +21,6 @@
     {
       "label": "Fenna (Nederland)",
       "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -37,7 +36,6 @@
     {
       "label": "Maarten (Nederland)",
       "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -53,7 +51,6 @@
     {
       "label": "Dena (België)",
       "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-BE",
       "gender": "female",
       "quality": [
@@ -69,7 +66,6 @@
     {
       "label": "Arnaud (België)",
       "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "nl-BE",
       "gender": "male",
       "quality": [
@@ -85,32 +81,7 @@
     {
       "label": "Claire (Nederland)",
       "name": "Claire",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
-      "altNames": [
-        "Claire (verbeterd)",
-        "Claire (Enhanced)",
-        "Claire (premium)",
-        "Claire (mejorada)",
-        "Claire (ottimizzata)",
-        "Claire (melhorada)",
-        "Claire (erweitert)",
-        "Claire (millorada)",
-        "Claire (parannettu)",
-        "Claire (förbättrad)",
-        "Claire (forbedret)",
-        "Claire (Dutch (Netherlands))",
-        "Claire (néerlandais (Pays-Bas))",
-        "Claire (holandés (Países Bajos))",
-        "Claire (olandese (Olanda))",
-        "Claire (holandês (Países Baixos))",
-        "Claire (Niederländisch (Niederlande))",
-        "Claire (Nederlands (Nederland))",
-        "Claire (neerlandès (Països Baixos))",
-        "Claire (hollanti (Alankomaat))",
-        "Claire (nederländska (Nederländerna))",
-        "Claire (nederlandsk (Nederlandene))",
-        "Claire (nederlandsk (Nederland))"
-      ],
+      "localizedName": "apple",
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -127,36 +98,12 @@
     },
     {
       "label": "Xander (Nederland)",
-      "name": "Xander (verbeterd)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Xander (Enhanced)",
-        "Xander (premium)",
-        "Xander (mejorada)",
-        "Xander (ottimizzata)",
-        "Xander (melhorada)",
-        "Xander (erweitert)",
-        "Xander (millorada)",
-        "Xander (parannettu)",
-        "Xander (förbättrad)",
-        "Xander (forbedret)",
-        "Xander (Dutch (Netherlands))",
-        "Xander (néerlandais (Pays-Bas))",
-        "Xander (holandés (Países Bajos))",
-        "Xander (olandese (Olanda))",
-        "Xander (holandês (Países Baixos))",
-        "Xander (Niederländisch (Niederlande))",
-        "Xander (Nederlands (Nederland))",
-        "Xander (neerlandès (Països Baixos))",
-        "Xander (hollanti (Alankomaat))",
-        "Xander (nederländska (Nederländerna))",
-        "Xander (nederlandsk (Nederlandene))",
-        "Xander (nederlandsk (Nederland))"
-      ],
-      "overrides": "Xander",
+      "name": "Xander",
+      "localizedName": "apple",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -165,40 +112,17 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Ellen (België)",
-      "name": "Ellen (verbeterd)",
-      "note": "While this is meant to identify the highest quality variant for the voice, it can be difficult to do so due to inconsistencies in how voices are exposed to browsers through the Web Speech API. Since the lowest quality of the voice is pre-loaded on Apple devices, the situation is worse than with other voices that need to be installed.",
-      "altNames": [
-        "Ellen (Enhanced)",
-        "Ellen (premium)",
-        "Ellen (mejorada)",
-        "Ellen (ottimizzata)",
-        "Ellen (melhorada)",
-        "Ellen (erweitert)",
-        "Ellen (millorada)",
-        "Ellen (parannettu)",
-        "Ellen (förbättrad)",
-        "Ellen (forbedret)",
-        "Ellen (Dutch (Belgium))",
-        "Ellen (néerlandais (Belgique))",
-        "Ellen (holandés (Bélgica))",
-        "Ellen (olandese (Belgio))",
-        "Ellen (holandês (Bélgica))",
-        "Ellen (Niederländisch (Belgien))",
-        "Ellen (Nederlands (België))",
-        "Ellen (neerlandès (Bèlgica))",
-        "Ellen (hollanti (Belgia))",
-        "Ellen (nederländska (Belgien))",
-        "Ellen (nederlandsk (Belgien))",
-        "Ellen (nederlandsk (Belgia))"
-      ],
-      "overrides": "Ellen",
+      "name": "Ellen",
+      "localizedName": "apple",
       "language": "nl-BE",
       "gender": "female",
       "quality": [
+        "low",
         "normal"
       ],
       "rate": 1,
@@ -207,7 +131,8 @@
         "macOS",
         "iOS",
         "iPadOS"
-      ]
+      ],
+      "preloaded": true
     },
     {
       "label": "Google mannelijke stem (Nederland)",
@@ -228,7 +153,6 @@
     {
       "label": "Frank (Nederland)",
       "name": "Microsoft Frank - Dutch (Netherlands)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -242,45 +166,8 @@
       "preloaded": true
     },
     {
-      "label": "Xander (Nederland)",
-      "name": "Xander",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "nl-NL",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Ellen (België)",
-      "name": "Ellen",
-      "note": "This entry is meant to identify the pre-loaded variant of the voice, but it might not work on all browsers. In some cases, the previous entry might be the one detecting the pre-loaded variant unfortunately.",
-      "language": "nl-BE",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "macOS",
-        "iOS",
-        "iPadOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Vrouwelijke stem 1 (Nederland)",
       "name": "Google Nederlands 4 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local"
@@ -300,7 +187,6 @@
     {
       "label": "Vrouwelijke stem 2 (Nederland)",
       "name": "Google Nederlands 1 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-local"
@@ -320,7 +206,6 @@
     {
       "label": "Vrouwelijke stem 3 (Nederland)",
       "name": "Google Nederlands 5 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-local"
@@ -385,7 +270,6 @@
     {
       "label": "Mannelijke stem 1 (Nederland)",
       "name": "Google Nederlands 2 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
@@ -405,7 +289,6 @@
     {
       "label": "Mannelijke stem 2 (Nederland)",
       "name": "Google Nederlands 3 (Natural)",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to natural voice and offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-network",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-local"
@@ -453,9 +336,8 @@
       "preloaded": true
     },
     {
-      "label": "Vrouwelijke stem 1 (België)",
+      "label": "Vrouwelijke stem (België)",
       "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bec-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local"
       ],
@@ -472,9 +354,8 @@
       "preloaded": true
     },
     {
-      "label": "Mannelijke stem 1 (België)",
+      "label": "Mannelijke stem (België)",
       "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bed-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-be-x-bed-local"
       ],
@@ -493,19 +374,7 @@
     {
       "label": "Nederlandse stem (Nederland)",
       "name": "Nederlands Nederland",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Dutch Netherlands",
-        "néerlandais Pays-Bas",
-        "neerlandés Países Bajos",
-        "Niederländisch Niederlande",
-        "neerlandés Países Baixos",
-        "neerlandès Països Baixos",
-        "hollanti Alankomaat",
-        "nederländska Nederländerna",
-        "nederlandsk Nederlandene",
-        "nederlandsk Nederland"
-      ],
+      "localizedName": "android",
       "language": "nl-NL",
       "quality": [
         "high"
@@ -520,20 +389,7 @@
     {
       "label": "Nederlandse stem (België)",
       "name": "Nederlands België",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
-      "altNames": [
-        "Dutch Belgium",
-        "néerlandais Belgique",
-        "neerlandés Bélgica",
-        "olandese Belgio",
-        "Niederländisch Belgien",
-        "neerlandés Bélgica",
-        "neerlandès Bèlgica",
-        "hollanti Belgia",
-        "nederländska Belgien",
-        "nederlandsk Belgien",
-        "nederlandsk Belgia"
-      ],
+      "localizedName": "android",
       "language": "nl-BE",
       "quality": [
         "high"

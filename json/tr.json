@@ -1,12 +1,12 @@
 {
-  "language": "nb",
-  "defaultRegion": "nb-NO",
-  "testUtterance": "Denne teksten lar deg teste kvaliteten på den norske stemmen.",
+  "language": "tr-TR",
+  "defaultRegion": "tr-TR",
+  "testUtterance": "Bu cümle, hangi Türk sesinin diğerlerinden daha iyi duyulduğunu test etmek için tasarlanmıştır.",
   "voices": [
     {
-      "label": "Pernille",
-      "name": "Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)",
-      "language": "nb-NO",
+      "label": "Emel",
+      "name": "Microsoft Emel Online (Natural) - Turkish (Turkey)",
+      "language": "tr-TR",
       "gender": "female",
       "quality": [
         "veryHigh"
@@ -19,9 +19,9 @@
       "preloaded": true
     },
     {
-      "label": "Finn",
-      "name": "Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway)",
-      "language": "nb-NO",
+      "label": "Ahmet",
+      "name": "Microsoft Ahmet Online (Natural) - Turkish (Turkey)",
+      "language": "tr-TR",
       "gender": "male",
       "quality": [
         "veryHigh"
@@ -34,10 +34,14 @@
       "preloaded": true
     },
     {
-      "label": "Nora",
-      "name": "Nora",
+      "label": "Yelda",
+      "name": "Yelda",
       "localizedName": "apple",
-      "language": "nb-NO",
+      "altNames": [
+        "Yelda (Geliştirilmiş)",
+        "Yelda (Türkçe (Türkiye))"
+      ],
+      "language": "tr-TR",
       "gender": "female",
       "quality": [
         "low",
@@ -53,10 +57,10 @@
       "preloaded": true
     },
     {
-      "label": "Henrik",
-      "name": "Henrik",
+      "label": "Cem",
+      "name": "Cem",
       "localizedName": "apple",
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "male",
       "quality": [
         "low",
@@ -71,9 +75,9 @@
       ]
     },
     {
-      "label": "Jon",
-      "name": "Microsoft Jon - Norwegian (Bokmål Norway)",
-      "language": "nb-NO",
+      "label": "Tolga",
+      "name": "Microsoft Tolga - Turkish (Turkey)",
+      "language": "tr-TR",
       "gender": "male",
       "quality": [
         "normal"
@@ -86,12 +90,13 @@
       "preloaded": true
     },
     {
-      "label": "Kvinnestemme 1",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-network",
+      "label": "Kadın sesi 1",
+      "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-cfs-network",
+      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-local"
+        "Android Speech Recognition and Synthesis from Google tr-tr-x-cfs-local"
       ],
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "female",
       "quality": [
         "high"
@@ -104,12 +109,12 @@
       "preloaded": true
     },
     {
-      "label": "Kvinnestemme 2",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-network",
+      "label": "Kadın sesi 2",
+      "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-local"
+        "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-local"
       ],
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "female",
       "quality": [
         "high"
@@ -122,12 +127,12 @@
       "preloaded": true
     },
     {
-      "label": "Kvinnestemme 3",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-network",
+      "label": "Kadın sesi 3",
+      "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-local"
+        "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-local"
       ],
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "female",
       "quality": [
         "high"
@@ -140,12 +145,12 @@
       "preloaded": true
     },
     {
-      "label": "Mannsstemme 1",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-network",
+      "label": "Erkek sesi 1",
+      "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-local"
+        "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-local"
       ],
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "male",
       "quality": [
         "high"
@@ -158,12 +163,12 @@
       "preloaded": true
     },
     {
-      "label": "Mannsstemme 2",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-network",
+      "label": "Erkek sesi 2",
+      "name": "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-local"
+        "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-local"
       ],
-      "language": "nb-NO",
+      "language": "tr-TR",
       "gender": "male",
       "quality": [
         "high"
@@ -176,10 +181,10 @@
       "preloaded": true
     },
     {
-      "label": "Norsk stemme",
-      "name": "norsk bokmål Norge",
+      "label": "Türkçe ses",
+      "name": "Türkçe Türkiye",
       "localizedName": "android",
-      "language": "nb-NO",
+      "language": "tr-TR",
       "quality": [
         "high"
       ],

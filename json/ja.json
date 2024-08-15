@@ -1,0 +1,259 @@
+{
+  "language": "ja-JP",
+  "defaultRegion": "ja-JP",
+  "testUtterance": "これは、どの声が他の声よりも優れているかを判断するための日本語の声のテストです。",
+  "voices": [
+    {
+      "label": "Nanami",
+      "name": "Microsoft Nanami Online (Natural) - Japanese (Japan)",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Keita",
+      "name": "Microsoft Keita Online (Natural) - Japanese (Japan)",
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "O-Ren",
+      "name": "O-Ren",
+      "localizedName": "apple",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kyoko",
+      "name": "Kyoko",
+      "localizedName": "apple",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Otoya",
+      "name": "Otoya",
+      "localizedName": "apple",
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Hattori",
+      "name": "Hattori",
+      "localizedName": "apple",
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Google の女性の声",
+      "name": "Google 日本語",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ayumi",
+      "name": "Microsoft Ayumi - Japanese (Japan)",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Haruka",
+      "name": "Microsoft Haruka - Japanese (Japan)",
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ichiro",
+      "name": "Microsoft Ichiro - Japanese (Japan)",
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "女性の声1",
+      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-local"
+      ],
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "女性の声2",
+      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-local"
+      ],
+      "language": "ja-JP",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "男性の声1",
+      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-local"
+      ],
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "男性の声2",
+      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-local"
+      ],
+      "language": "ja-JP",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "日本の音声",
+      "name": "日本語 日本",
+      "localizedName": "android",
+      "language": "ja-JP",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "language": "sl-SI",
+  "defaultRegion": "sl-SI",
+  "testUtterance": "Ta stavek je namenjen preizkusu, kateri slovenski glas zveni bolje od ostalih.",
+  "voices": [
+    {
+      "label": "Petra",
+      "name": "Microsoft Petra Online (Natural) - Slovenian (Slovenia)",
+      "language": "sl-SI",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Rok",
+      "name": "Microsoft Rok Online (Natural) - Slovenian (Slovenia)",
+      "language": "sl-SI",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Tina",
+      "name": "Tina",
+      "localizedName": "apple",
+      "language": "sl-SI",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Lado",
+      "name": "Microsoft Lado - Slovenian (Slovenia)",
+      "language": "sl-SI",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    }
+  ]
+}

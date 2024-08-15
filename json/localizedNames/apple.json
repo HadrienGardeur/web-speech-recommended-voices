@@ -1,0 +1,88 @@
+{
+  "quality": {
+    "ca": {
+      "normal": "millorada",
+      "high": "prèmium"
+    },
+    "cs": {
+      "normal": "vylepšená verze",
+      "high": "prémiový"
+    },
+    "da": {
+      "normal": "forbedret",
+      "high": "høj kvalitet"
+    },
+    "de": {
+      "normal": "erweitert",
+      "high": "premium"
+    },
+    "en": {
+      "normal": "Enhanced",
+      "high": "Premium"
+    },
+    "es": {
+      "normal": "mejorada",
+      "high": "premium"
+    },
+    "fi": {
+      "normal": "parannettu",
+      "high": "korkealaatuinen"
+    },
+    "fr": {
+      "normal": "premium",
+      "high": "de qualité"
+    },
+    "hu": {
+      "normal": "továbbfejlesztett",
+      "high": "prémium"
+    },
+    "hr": {
+      "normal": "poboljšani",
+      "high": "vrhunski"
+    },
+    "it": {
+      "normal": "ottimizzata",
+      "high": "premium"
+    },
+    "ja": {
+      "normal": "拡張",
+      "high": "プレミアム"
+    },
+    "nb": {
+      "normal": "forbedret",
+      "high": "premium"
+    },
+    "nl": {
+      "normal": "verbeterd",
+      "high": "premium"
+    },
+    "pl": {
+      "normal": "rozszerzony",
+      "high": "premium"
+    },
+    "pt": {
+      "normal": "melhorada",
+      "high": "premium"
+    },
+    "ro": {
+      "normal": "îmbunătățită",
+      "high": "premium"
+    },
+    "sk": {
+      "normal": "vylepšený",
+      "high": "prémiový"
+    },
+    "sl": {
+      "normal": "izboljšano",
+      "high": "prvovrsten"
+    },
+    "sv": {
+      "normal": "förbättrad",
+      "high": "premium"
+    },
+    "tr": {
+      "normal": "Geliştirilmiş",
+      "high": "Yüksek Kaliteli"
+    }
+  }
+}
