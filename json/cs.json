@@ -88,7 +88,7 @@
     },
     {
       "label": "Ženský hlas",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
+      "name": "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-network",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google cs-cz-x-jfs-local"
       ],
