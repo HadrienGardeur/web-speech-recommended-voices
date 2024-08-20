@@ -87,6 +87,10 @@
     "tr": {
       "normal": "Geliştirilmiş",
       "high": "Yüksek Kaliteli"
+    },
+    "uk": {
+      "normal": "вдосконалений",
+      "high": "високої якості"
     }
   }
 }

@@ -1,0 +1,90 @@
+{
+  "language": "uk-UA",
+  "defaultRegion": "uk-UA",
+  "testUtterance": "Здравствуйте, меня зовут {name} и я украинский голос.",
+  "voices": [
+    {
+      "label": "Polina",
+      "name": "Microsoft Polina Online (Natural) - Ukrainian (Ukraine)",
+      "language": "uk-UA",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ostap",
+      "name": "Microsoft Ostap Online (Natural) - Ukrainian (Ukraine)",
+      "language": "uk-UA",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Lesya",
+      "name": "Lesya",
+      "localizedName": "apple",
+      "language": "uk-UA",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Жіночий голос",
+      "name": "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-local",
+        "Android Speech Recognition and Synthesis from Google uk-UA-language"
+      ],
+      "language": "uk-UA",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Український голос",
+      "name": "українська Україна",
+      "localizedName": "android",
+      "language": "uk-UA",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
