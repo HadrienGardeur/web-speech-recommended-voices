@@ -89,7 +89,8 @@
       "label": "Suomalainen naisääni",
       "name": "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local"
+        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local",
+        "Android Speech Recognition and Synthesis from Google fi-FI-language"
       ],
       "language": "fi-FI",
       "gender": "female",

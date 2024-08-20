@@ -72,7 +72,8 @@
       "label": "Női hang",
       "name": "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local"
+        "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local",
+        "Android Speech Recognition and Synthesis from Google hu-HU-language"
       ],
       "language": "hu-HU",
       "gender": "female",

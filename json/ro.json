@@ -71,7 +71,8 @@
       "label": "Voce feminină",
       "name": "Android Speech Recognition and Synthesis from Google ro-ro-x-vfv-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google ro-ro-x-vfv-local"
+        "Android Speech Recognition and Synthesis from Google ro-ro-x-vfv-local",
+        "Android Speech Recognition and Synthesis from Google ro-RO-language"
       ],
       "language": "ro-RO",
       "gender": "female",
