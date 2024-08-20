@@ -1,0 +1,227 @@
+{
+  "language": "ru-RU",
+  "defaultRegion": "ru-RU",
+  "testUtterance": "Здравствуйте, меня зовут {name} и я русский голос.",
+  "voices": [
+    {
+      "label": "Svetlana",
+      "name": "Microsoft Svetlana Online (Natural) - Russian (Russia)",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Dmitry",
+      "name": "Microsoft Dmitry Online (Natural) - Russian (Russia)",
+      "language": "ru-RU",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Katya",
+      "name": "Katya",
+      "localizedName": "apple",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Milena",
+      "name": "Milena",
+      "localizedName": "apple",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Yuri",
+      "name": "Yuri",
+      "localizedName": "apple",
+      "language": "ru-RU",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Irina",
+      "name": "Microsoft Irina - Russian (Russian)",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Pavel",
+      "name": "Microsoft Pavel - Russian (Russian)",
+      "language": "ru-RU",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Женский голос 1",
+      "name": "Android Speech Recognition and Synthesis from Google ru-ru-x-dfc-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ru-ru-x-dfc-local"
+      ],
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Женский голос 2",
+      "name": "Android Speech Recognition and Synthesis from Google ru-ru-x-ruc-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ru-ru-x-ruc-local"
+      ],
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Женский голос 3",
+      "name": "Android Speech Recognition and Synthesis from Google ru-ru-x-rue-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ru-ru-x-rue-local"
+      ],
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Мужской голос 1",
+      "name": "Android Speech Recognition and Synthesis from Google ru-ru-x-rud-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ru-ru-x-rud-local"
+      ],
+      "language": "ru-RU",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Мужской голос 2",
+      "name": "Android Speech Recognition and Synthesis from Google ru-ru-x-ruf-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ru-ru-x-ruf-local"
+      ],
+      "language": "ru-RU",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Русский голос",
+      "name": "русский Россия",
+      "localizedName": "android",
+      "language": "ru-RU",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}

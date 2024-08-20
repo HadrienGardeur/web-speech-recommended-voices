@@ -43,7 +43,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Polish](json/pl.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
 * [Romanian](json/ro.json)
-* Russian (planned)
+* [Russian](json/ru.json)
 * [Slovak](json/sk.json)
 * [Slovenian](json/sl.json)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
