@@ -1,0 +1,105 @@
+{
+  "language": "bg-BG",
+  "defaultRegion": "bg-BG",
+  "testUtterance": "Здравейте, казвам се {name} и съм български глас.",
+  "voices": [
+    {
+      "label": "Kalina",
+      "name": "Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria)",
+      "language": "bg-BG",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Borislav",
+      "name": "Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria)",
+      "language": "bg-BG",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Daria",
+      "name": "Daria",
+      "localizedName": "apple",
+      "language": "bg-BG",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ivan",
+      "name": "Microsoft Ivan - Bulgarian (Bulgaria)",
+      "language": "bg-BG",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Женски глас",
+      "name": "Android Speech Recognition and Synthesis from Google bg-bg-x-ifk-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google bg-bg-x-ifk-local",
+        "Android Speech Recognition and Synthesis from Google bg-bg-language"
+      ],
+      "language": "bg-BG",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "български глас",
+      "name": "български България",
+      "localizedName": "android",
+      "language": "bg-BG",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
