@@ -21,6 +21,8 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## List of supported languages
 
+
+* Arabic (planned)
 * [Basque](json/eu.json) 
 * [Bulgarian](json/bg.json)
 * [Catalan](json/ca.json)

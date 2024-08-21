@@ -89,6 +89,23 @@
       ]
     },
     {
+      "label": "Google женский голос",
+      "name": "Google русский",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+
+    {
       "label": "Irina",
       "name": "Microsoft Irina - Russian (Russian)",
       "language": "ru-RU",
