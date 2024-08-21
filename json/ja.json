@@ -170,8 +170,10 @@
     },
     {
       "label": "女性の声1",
-      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-network",
+      "name": "Google 日本語 1 (Natural)",
       "altNames": [
+        "Chrome OS 日本語 1",
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-network",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-local"
       ],
       "language": "ja-JP",
@@ -188,8 +190,9 @@
     },
     {
       "label": "女性の声2",
-      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-network",
+      "name": "Chrome OS 日本語 2",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-network",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-local"
       ],
       "language": "ja-JP",
@@ -206,8 +209,10 @@
     },
     {
       "label": "男性の声1",
-      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-network",
+      "name": "Google 日本語 2 (Natural)",
       "altNames": [
+        "Chrome OS 日本語 3",
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-network",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-local"
       ],
       "language": "ja-JP",
@@ -224,8 +229,10 @@
     },
     {
       "label": "男性の声2",
-      "name": "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-network",
+      "name": "Google 日本語 3 (Natural)",
       "altNames": [
+        "Chrome OS 日本語 4",
+        "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-network"
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-local"
       ],
       "language": "ja-JP",
