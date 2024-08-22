@@ -21,9 +21,10 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## List of supported languages
 
-
 * Arabic (planned)
-* [Basque](json/eu.json) 
+* [Basque](json/eu.json)
+* Bengali (planned)
+* Bhojpuri (planned)
 * [Bulgarian](json/bg.json)
 * [Catalan](json/ca.json)
 * Chinese (planned)
@@ -37,11 +38,18 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
 * [Greek](json/el.json)
+* Hebrew (planned)
+* Hindi (planned)
 * [Hungarian](json/hu.json)
+* Indonesian (planned)
 * [Italian](json/it.json)
 * [Japanese](json/ja.json)
+* Kannada (planned)
 * Korean (planned)
+* Malay (planned)
+* Marathi (planned)
 * [Norwegian](json/nb.json)
+* Persan/Farsi (planned)
 * [Polish](json/pl.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
 * [Romanian](json/ro.json)
@@ -50,8 +58,12 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Slovenian](json/sl.json)
 * [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
 * [Swedish](json/sv.json)
+* Tamil (planned)
+* Telugu (planned)
+* Thai (planned)
 * [Turkish](json/tr.json)
 * [Ukrainian](json/uk.json)
+* Vietnamese (planned)
 
 ## List of voices to filter out
 
