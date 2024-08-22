@@ -16,6 +16,10 @@
       "normal": "erweitert",
       "high": "premium"
     },
+    "el": {
+      "normal": "βελτιωμένη",
+      "high": "υψηλής ποιότητας"
+    },
     "en": {
       "normal": "Enhanced",
       "high": "Premium"

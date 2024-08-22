@@ -1,0 +1,123 @@
+{
+  "language": "el-GR",
+  "defaultRegion": "el-GR",
+  "testUtterance": "Γεια σας, με λένε {name} και είμαι ελληνική φωνή.",
+  "voices": [
+    {
+      "label": "Athina",
+      "name": "Microsoft Athina Online (Natural) - Greek (Greece)",
+      "language": "el-GR",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Nestoras",
+      "name": "Microsoft Nestoras Online (Natural) - Greek (Greece)",
+      "language": "el-GR",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Melina",
+      "name": "Melina",
+      "localizedName": "apple",
+      "language": "el-GR",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Nikos",
+      "name": "Nikos",
+      "localizedName": "apple",
+      "language": "el-GR",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Stefanos",
+      "name": "Microsoft Stefanos - Greek (Greece)",
+      "language": "el-GR",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Γυναικεία φωνή",
+      "name": "Android Speech Recognition and Synthesis from Google el-gr-x-vfz-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google el-gr-x-vfz-local",
+        "Android Speech Recognition and Synthesis from Google el-GR-language"
+      ],
+      "language": "el-GR",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ελληνική φωνή",
+      "name": "Ελληνικά Ελλάδα",
+      "localizedName": "android",
+      "language": "el-GR",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
