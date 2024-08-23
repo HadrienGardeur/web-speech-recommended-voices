@@ -378,7 +378,7 @@
     },
     {
       "label": "Weibliche Stimme 1 (Deutschland)",
-      "name": "Google Deutsch 2",
+      "name": "Google Deutsch 2 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google de-de-x-dea-network",
         "Chrome OS Deutsch 2",
@@ -399,7 +399,7 @@
     },
     {
       "label": "Weibliche Stimme 2 (Deutschland)",
-      "name": "Google Deutsch 1",
+      "name": "Google Deutsch 1 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google de-de-x-nfh-network",
         "Chrome OS Deutsch 1",
@@ -419,7 +419,7 @@
     },
     {
       "label": "Männliche Stimme 1 (Deutschland)",
-      "name": "Google Deutsch 3",
+      "name": "Google Deutsch 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google de-de-x-deb-network",
         "Chrome OS Deutsch 3",
@@ -439,7 +439,7 @@
     },
     {
       "label": "Männliche Stimme 2 (Deutschland)",
-      "name": "Google Deutsch 4",
+      "name": "Google Deutsch 4 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google de-de-x-deg-network",
         "Chrome OS Deutsch 4",
