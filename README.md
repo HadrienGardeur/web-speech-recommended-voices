@@ -45,7 +45,7 @@ With its focus on voice selection, the goal of this project is to document highe
 * [Italian](json/it.json)
 * [Japanese](json/ja.json)
 * Kannada (planned)
-* Korean (planned)
+* [Korean](json/ko.json)
 * Malay (planned)
 * Marathi (planned)
 * [Norwegian](json/nb.json)

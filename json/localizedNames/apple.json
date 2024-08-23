@@ -52,6 +52,10 @@
       "normal": "拡張",
       "high": "プレミアム"
     },
+    "ko": {
+      "normal": "고품질",
+      "high": "프리미엄"
+    },
     "nb": {
       "normal": "forbedret",
       "high": "premium"
