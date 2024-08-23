@@ -70,8 +70,10 @@
     },
     {
       "label": "Női hang",
-      "name": "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-network",
+      "name": "Google Magyar (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-network",
+        "Chrome OS Magyar",
         "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local",
         "Android Speech Recognition and Synthesis from Google hu-HU-language"
       ],

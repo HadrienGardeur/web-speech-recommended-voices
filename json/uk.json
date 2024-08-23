@@ -54,8 +54,10 @@
     },
     {
       "label": "Жіночий голос",
-      "name": "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-network",
+      "name": "Google українська (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-network",
+        "Chrome OS українська",
         "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-local",
         "Android Speech Recognition and Synthesis from Google uk-UA-language"
       ],

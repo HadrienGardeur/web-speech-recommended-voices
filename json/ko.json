@@ -176,9 +176,10 @@
       "label": "여성 목소리 1",
       "name": "Google 한국어 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-kob-network",
         "Chrome OS 한국어 2",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-koc-network",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-koc-local"
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-kob-local",
+        "Android Speech Recognition and Synthesis from Google ko-KR-language"
       ],
       "language": "ko-KR",
       "gender": "female",
@@ -196,9 +197,9 @@
       "label": "여성 목소리 2",
       "name": "Google 한국어 1 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-ism-network",
         "Chrome OS 한국어 1",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-kob-network",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-kob-local"
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-ism-local"
       ],
       "language": "ko-KR",
       "gender": "female",
@@ -216,9 +217,9 @@
       "label": "남성 1",
       "name": "Google 한국어 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-koc-network",
         "Chrome OS 한국어 3",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-kod-network",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-kod-local"
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-koc-local"
       ],
       "language": "ko-KR",
       "gender": "male",
@@ -236,9 +237,9 @@
       "label": "남성 2",
       "name": "Google 한국어 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-kod-network",
         "Chrome OS 한국어 4",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-ism-network",
-        "Android Speech Recognition and Synthesis from Google ko-kr-x-ism-local"
+        "Android Speech Recognition and Synthesis from Google ko-kr-x-kod-local"
       ],
       "language": "ko-KR",
       "gender": "male",

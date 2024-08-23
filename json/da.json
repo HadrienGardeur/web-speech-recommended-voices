@@ -87,9 +87,12 @@
     },
     {
       "label": "Kvindestemme 1",
-      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-network",
+      "name": "Google Dansk 1 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-local"
+        "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-network",
+        "Chrome OS Dansk 1",
+        "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-local",
+        "Android Speech Recognition and Synthesis from Google da-DK-language"
       ],
       "language": "da-DK",
       "gender": "female",
@@ -105,8 +108,10 @@
     },
     {
       "label": "Kvindestemme 2",
-      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-network",
+      "name": "Google Dansk 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-network",
+        "Chrome OS Dansk 3",
         "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-local"
       ],
       "language": "da-DK",
@@ -123,8 +128,10 @@
     },
     {
       "label": "Kvindestemme 3",
-      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-network",
+      "name": "Google Dansk 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-network",
+        "Chrome OS Dansk 4",
         "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-local"
       ],
       "language": "da-DK",
@@ -141,8 +148,10 @@
     },
     {
       "label": "Mandsstemme",
-      "name": "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-network",
+      "name": "Google Dansk 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-network",
+        "Chrome OS Dansk 2",
         "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-local"
       ],
       "language": "da-DK",

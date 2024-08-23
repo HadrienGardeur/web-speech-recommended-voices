@@ -87,8 +87,10 @@
     },
     {
       "label": "Suomalainen naisääni",
-      "name": "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
+      "name": "Google Suomi (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-network",
+        "Chrome OS Suomi",
         "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local",
         "Android Speech Recognition and Synthesis from Google fi-FI-language"
       ],

@@ -204,9 +204,12 @@
     },
     {
       "label": "Voce femminile 1",
-      "name": "Android Speech Recognition and Synthesis from Google it-it-x-itb-network",
+      "name": "Google italiano 2 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google it-it-x-itb-local"
+        "Android Speech Recognition and Synthesis from Google it-it-x-itb-network",
+        "Chrome OS italiano 2",
+        "Android Speech Recognition and Synthesis from Google it-it-x-itb-local",
+        "Android Speech Recognition and Synthesis from Google it-IT-language"
       ],
       "language": "it-IT",
       "gender": "female",
@@ -222,8 +225,10 @@
     },
     {
       "label": "Voce femminile 2",
-      "name": "Android Speech Recognition and Synthesis from Google it-it-x-kda-network",
+      "name": "Google italiano 1 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google it-it-x-kda-network",
+        "Chrome OS italiano 1",
         "Android Speech Recognition and Synthesis from Google it-it-x-kda-local"
       ],
       "language": "it-IT",
@@ -239,39 +244,11 @@
       "preloaded": true
     },
     {
-      "label": "Voce femminile 3",
-      "name": "Chrome OS italiano 1",
-      "language": "it-IT",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voce femminile 4",
-      "name": "Chrome OS italiano 2",
-      "language": "it-IT",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Voce maschile 1",
-      "name": "Android Speech Recognition and Synthesis from Google it-it-x-itc-network",
+      "name": "Google italiano 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google it-it-x-itc-network",
+        "Chrome OS italiano 3",
         "Android Speech Recognition and Synthesis from Google it-it-x-itc-local"
       ],
       "language": "it-IT",
@@ -288,44 +265,16 @@
     },
     {
       "label": "Voce maschile 2",
-      "name": "Android Speech Recognition and Synthesis from Google it-it-x-itd-network",
+      "name": "Google italiano 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google it-it-x-itd-network",
+        "Chrome OS italiano 4",
         "Android Speech Recognition and Synthesis from Google it-it-x-itd-local"
       ],
       "language": "it-IT",
       "gender": "male",
       "quality": [
         "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voce maschile 3",
-      "name": "Chrome OS italiano 3",
-      "language": "it-IT",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voce maschile 4",
-      "name": "Chrome OS italiano 4",
-      "language": "it-IT",
-      "gender": "male",
-      "quality": [
-        "low"
       ],
       "rate": 1,
       "pitch": 1,

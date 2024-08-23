@@ -87,9 +87,12 @@
     },
     {
       "label": "Kvinnestemme 1",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-network",
+      "name": "Google Norsk Bokmål 2 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-local"
+        "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-network",
+        "Chrome OS Norsk Bokmål 2",
+        "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-local",
+        "Android Speech Recognition and Synthesis from Google nb-NO-language"
       ],
       "language": "nb-NO",
       "gender": "female",
@@ -105,8 +108,10 @@
     },
     {
       "label": "Kvinnestemme 2",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-network",
+      "name": "Google Norsk Bokmål 1 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-network",
+        "Chrome OS Norsk Bokmål 1",
         "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-local"
       ],
       "language": "nb-NO",
@@ -123,8 +128,10 @@
     },
     {
       "label": "Kvinnestemme 3",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-network",
+      "name": "Google Norsk Bokmål 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-network",
+        "Chrome OS Norsk Bokmål 4",
         "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-local"
       ],
       "language": "nb-NO",
@@ -141,8 +148,10 @@
     },
     {
       "label": "Mannsstemme 1",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-network",
+      "name": "Google Norsk Bokmål 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-network",
+        "Chrome OS Norsk Bokmål 3",
         "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-local"
       ],
       "language": "nb-NO",
@@ -159,8 +168,10 @@
     },
     {
       "label": "Mannsstemme 2",
-      "name": "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-network",
+      "name": "Google Norsk Bokmål 5 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-network",
+        "Chrome OS Norsk Bokmål 5",
         "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-local"
       ],
       "language": "nb-NO",

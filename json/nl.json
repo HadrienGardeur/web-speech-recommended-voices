@@ -170,7 +170,9 @@
       "name": "Google Nederlands 4 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-network",
-        "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local"
+        "Chrome OS Nederlands 4",
+        "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local",
+        "Android Speech Recognition and Synthesis from Google nl-NL-language"
       ],
       "language": "nl-NL",
       "gender": "female",
@@ -189,6 +191,7 @@
       "name": "Google Nederlands 1 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-network",
+        "Chrome OS Nederlands 1",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-local"
       ],
       "language": "nl-NL",
@@ -208,6 +211,7 @@
       "name": "Google Nederlands 5 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-network",
+        "Chrome OS Nederlands 5",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-local"
       ],
       "language": "nl-NL",
@@ -223,55 +227,11 @@
       "preloaded": true
     },
     {
-      "label": "Vrouwelijke stem 4 (Nederland)",
-      "name": "Chrome OS Nederlands 1",
-      "language": "nl-NL",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Vrouwelijke stem 5 (Nederland)",
-      "name": "Chrome OS Nederlands 4",
-      "language": "nl-NL",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Vrouwelijke stem 6 (Nederland)",
-      "name": "Chrome OS Nederlands 5",
-      "language": "nl-NL",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Mannelijke stem 1 (Nederland)",
       "name": "Google Nederlands 2 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-network",
+        "Chrome OS Nederlands 2",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
       ],
       "language": "nl-NL",
@@ -291,6 +251,7 @@
       "name": "Google Nederlands 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-network",
+        "Chrome OS Nederlands 3",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-local"
       ],
       "language": "nl-NL",
@@ -306,40 +267,11 @@
       "preloaded": true
     },
     {
-      "label": "Mannelijke stem 3 (Nederland)",
-      "name": "Chrome OS Nederlands 2",
-      "language": "nl-NL",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Mannelijke stem 4 (Nederland)",
-      "name": "Chrome OS Nederlands 3",
-      "language": "nl-NL",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Vrouwelijke stem (België)",
       "name": "Android Speech Recognition and Synthesis from Google nl-be-x-bec-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local"
+        "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local",
+        "Android Speech Recognition and Synthesis from Google nl-BE-language"
       ],
       "language": "nl-NL",
       "gender": "female",

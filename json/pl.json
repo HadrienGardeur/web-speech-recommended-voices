@@ -137,9 +137,12 @@
     },
     {
       "label": "Głos żeński 1",
-      "name": "Android Speech Recognition and Synthesis from Google pl-pl-x-afb-network",
+      "name": "Google Polski 2 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google pl-pl-x-afb-local"
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-afb-network",
+        "Chrome OS Polski 2",
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-afb-local",
+        "Android Speech Recognition and Synthesis from Google pl-PL-language"
       ],
       "language": "pl-PL",
       "gender": "female",
@@ -155,8 +158,10 @@
     },
     {
       "label": "Głos żeński 2",
-      "name": "Android Speech Recognition and Synthesis from Google pl-pl-x-oda-network",
+      "name": "Google Polski 1 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-oda-network",
+        "Chrome OS Polski 1",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-oda-local"
       ],
       "language": "pl-PL",
@@ -173,8 +178,10 @@
     },
     {
       "label": "Głos żeński 3",
-      "name": "Android Speech Recognition and Synthesis from Google pl-pl-x-zfg-network",
+      "name": "Google Polski 5 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-zfg-network",
+        "Chrome OS Polski 5",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-zfg-local"
       ],
       "language": "pl-PL",
@@ -191,8 +198,10 @@
     },
     {
       "label": "Głos męski 1",
-      "name": "Android Speech Recognition and Synthesis from Google pl-pl-x-bmg-network",
+      "name": "Google Polski 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-bmg-network",
+        "Chrome OS Polski 3",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-bmg-local"
       ],
       "language": "pl-PL",
@@ -209,8 +218,10 @@
     },
     {
       "label": "Głos męski 2",
-      "name": "Android Speech Recognition and Synthesis from Google pl-pl-x-jmk-network",
+      "name": "Google Polski 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pl-pl-x-jmk-network",
+        "Chrome OS Polski 4",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-jmk-local"
       ],
       "language": "pl-PL",

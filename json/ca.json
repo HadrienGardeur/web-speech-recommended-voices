@@ -113,7 +113,8 @@
       "label": "Veu femenina catalana",
       "name": "Android Speech Recognition and Synthesis from Google ca-es-x-caf-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google ca-es-x-caf-local"
+        "Android Speech Recognition and Synthesis from Google ca-es-x-caf-local",
+        "Android Speech Recognition and Synthesis from Google ca-ES-language"
       ],
       "language": "ca-ES",
       "otherLanguages": [

@@ -466,7 +466,9 @@
       "name": "Google français 4 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-network",
-        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local"
+        "Chrome OS français 4",
+        "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local",
+        "Android Speech Recognition and Synthesis from Google fr-FR-language"
       ],
       "language": "fr-FR",
       "gender": "female",
@@ -485,6 +487,7 @@
       "name": "Google français 2 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-network",
+        "Chrome OS français 2",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-local"
       ],
       "language": "fr-FR",
@@ -504,6 +507,7 @@
       "name": "Google français 1 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-network",
+        "Chrome OS français 1",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-local"
       ],
       "language": "fr-FR",
@@ -519,55 +523,11 @@
       "preloaded": true
     },
     {
-      "label": "Voix féminine 4 (France)",
-      "name": "Chrome OS français 1",
-      "language": "fr-FR",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix féminine 5 (France)",
-      "name": "Chrome OS français 2",
-      "language": "fr-FR",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix féminine 6 (France)",
-      "name": "Chrome OS français 4",
-      "language": "fr-FR",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Voix masculine 1 (France)",
       "name": "Google français 5 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-network",
+        "Chrome OS français 5",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-local"
       ],
       "language": "fr-FR",
@@ -587,42 +547,13 @@
       "name": "Google français 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-network",
+        "Chrome OS français 3",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-local"
       ],
       "language": "fr-FR",
       "gender": "male",
       "quality": [
         "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix masculine 3 (France)",
-      "name": "Chrome OS français 3",
-      "language": "fr-FR",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix masculine 4 (France)",
-      "name": "Chrome OS français 5",
-      "language": "fr-FR",
-      "gender": "male",
-      "quality": [
-        "low"
       ],
       "rate": 1,
       "pitch": 1,

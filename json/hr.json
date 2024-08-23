@@ -6,7 +6,6 @@
     {
       "label": "Gabrijela",
       "name": "Microsoft Gabrijela Online (Natural) - Croatian (Croatia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "hr-HR",
       "gender": "female",
       "quality": [
@@ -22,7 +21,6 @@
     {
       "label": "Srecko",
       "name": "Microsoft Srecko Online (Natural) - Croatian (Croatia)",
-      "note": "This voice is pre-loaded in Edge on desktop. Unlike some of the other voices ranked at the top of that list, it's not available to be installed on Windows yet.",
       "language": "hr-HR",
       "gender": "male",
       "quality": [
@@ -39,7 +37,6 @@
       "label": "Lana",
       "name": "Lana",
       "localizedName": "apple",
-      "note": "This voice can be installed on all Apple devices and offers two variants. Like all voices that can be installed on Apple devices, it suffers from inconsistent naming due to localization.",
       "altNames": [
         "Lana (poboljšani)",
         "Lana (hrvatski (Hrvatska))"
@@ -62,7 +59,6 @@
     {
       "label": "Matej",
       "name": "Microsoft Matej - Croatian (Croatia)",
-      "note": "This voices is pre-loaded in Windows 10 and 11. While it's nowhere nearly as good as Microsoft's Natural Voices, it's good to have this voice listed as a fallback",
       "language": "hr-HR",
       "gender": "male",
       "quality": [
@@ -78,7 +74,6 @@
     {
       "label": "Ženski glas",
       "name": "Android Speech Recognition and Synthesis from Google hr-hr-x-hra-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google hr-hr-x-hra-local"
       ],
@@ -97,9 +92,9 @@
     {
       "label": "Muški glas",
       "name": "Android Speech Recognition and Synthesis from Google hr-hr-x-hrb-network",
-      "note": "This pre-loaded voice on ChromeOS is tied to the Android compatibility layer and requires network access for this version, which is very much a requirement for using Chrome OS anyway. Fallbacks to offline variant as well.",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google hr-hr-x-hrb-local"
+        "Android Speech Recognition and Synthesis from Google hr-hr-x-hrb-local",
+        "Android Speech Recognition and Synthesis from Google hr-HR-language"
       ],
       "language": "hr-HR",
       "gender": "male",
@@ -117,7 +112,6 @@
       "label": "Hrvatski glas",
       "name": "hrvatski Hrvatska",
       "localizedName": "android",
-      "note": "On Android, voice selection is only supported at a system level and Web Speech API doesn't return a true list of voices available, just a list of languages and regions",
       "language": "hr-HR",
       "quality": [
         "high"

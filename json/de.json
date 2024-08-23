@@ -378,9 +378,12 @@
     },
     {
       "label": "Weibliche Stimme 1 (Deutschland)",
-      "name": "Android Speech Recognition and Synthesis from Google de-de-x-dea-network",
+      "name": "Google Deutsch 2",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google de-de-x-dea-local"
+        "Android Speech Recognition and Synthesis from Google de-de-x-dea-network",
+        "Chrome OS Deutsch 2",
+        "Android Speech Recognition and Synthesis from Google de-de-x-dea-local",
+        "Android Speech Recognition and Synthesis from Google de-DE-language"
       ],
       "language": "de-DE",
       "gender": "female",
@@ -396,8 +399,10 @@
     },
     {
       "label": "Weibliche Stimme 2 (Deutschland)",
-      "name": "Android Speech Recognition and Synthesis from Google de-de-x-nfh-network",
+      "name": "Google Deutsch 1",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google de-de-x-nfh-network",
+        "Chrome OS Deutsch 1",
         "Android Speech Recognition and Synthesis from Google de-de-x-nfh-local"
       ],
       "language": "de-DE",
@@ -414,8 +419,10 @@
     },
     {
       "label": "Männliche Stimme 1 (Deutschland)",
-      "name": "Android Speech Recognition and Synthesis from Google de-de-x-deb-network",
+      "name": "Google Deutsch 3",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google de-de-x-deb-network",
+        "Chrome OS Deutsch 3",
         "Android Speech Recognition and Synthesis from Google de-de-x-deb-local"
       ],
       "language": "de-DE",
@@ -432,8 +439,10 @@
     },
     {
       "label": "Männliche Stimme 2 (Deutschland)",
-      "name": "Android Speech Recognition and Synthesis from Google de-de-x-deg-network",
+      "name": "Google Deutsch 4",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google de-de-x-deg-network",
+        "Chrome OS Deutsch 4",
         "Android Speech Recognition and Synthesis from Google de-de-x-deg-local"
       ],
       "language": "de-DE",
