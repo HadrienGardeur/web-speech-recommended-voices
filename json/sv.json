@@ -107,9 +107,12 @@
     },
     {
       "label": "Kvinnlig röst 1",
-      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-network",
+      "name": "Google Svenska 1 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-local"
+        "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-network",
+        "Chrome OS Svenska"
+        "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-local",
+        "Android Speech Recognition and Synthesis from Google sv-SE-language"
       ],
       "language": "sv-SE",
       "gender": "female",
@@ -125,8 +128,9 @@
     },
     {
       "label": "Kvinnlig röst 2",
-      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-afp-network",
+      "name": "Google Svenska 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-afp-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-afp-local"
       ],
       "language": "sv-SE",
@@ -143,8 +147,9 @@
     },
     {
       "label": "Kvinnlig röst 3",
-      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-network",
+      "name": "Google Svenska 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-local"
       ],
       "language": "sv-SE",
@@ -161,8 +166,9 @@
     },
     {
       "label": "Mansröst 1",
-      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-network",
+      "name": "Google Svenska 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-local"
       ],
       "language": "sv-SE",
@@ -179,8 +185,9 @@
     },
     {
       "label": "Mansröst 2",
-      "name": "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-network",
+      "name": "Google Svenska 5 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-local"
       ],
       "language": "sv-SE",

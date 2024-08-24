@@ -566,7 +566,8 @@
       "label": "Voix féminine 1 (Canada)",
       "name": "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-network",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-local"
+        "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-local",
+        "Android Speech Recognition and Synthesis from Google fr-CA-language"
       ],
       "language": "fr-CA",
       "gender": "female",

@@ -563,6 +563,15 @@
       "preloaded": true
     },
     {
+      "name": "eSpeak Swedish",
+      "note": "eSpeak voices are preloaded by default on Chrome OS.",
+      "language": "sv",
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "eSpeak Swahili",
       "note": "eSpeak voices are preloaded by default on Chrome OS.",
       "language": "sw",

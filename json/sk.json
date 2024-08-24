@@ -69,9 +69,11 @@
     },
     {
       "label": "Ženský hlas",
-      "name": "Android Speech Recognition and Synthesis from Google sk-sk-x-sfk-network",
+      "name": "Google Slovenčina (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google sk-sk-x-sfk-network",
         "Android Speech Recognition and Synthesis from Google sk-sk-x-sfk-local",
+        "Chrome OS Slovenčina",
         "Android Speech Recognition and Synthesis from Google sk-SK-language"
       ],
       "language": "sk-SK",

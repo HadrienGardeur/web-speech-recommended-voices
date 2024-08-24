@@ -251,9 +251,11 @@
     },
     {
       "label": "Voz feminina 1 (Portugal)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-network",
+      "name": "Google português de Portugal 1 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-local"
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-network",
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-jfb-local",
+        "Android Speech Recognition and Synthesis from Google pt-PT-language"
       ],
       "language": "pt-PT",
       "gender": "female",
@@ -269,8 +271,10 @@
     },
     {
       "label": "Voz feminina 2 (Portugal)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-network",
+      "name": "Google português de Portugal 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-network",
+        "Chrome OS português de Portugal"
         "Android Speech Recognition and Synthesis from Google pt-pt-x-sfs-local"
       ],
       "language": "pt-PT",
@@ -287,8 +291,9 @@
     },
     {
       "label": "Voz masculina 1 (Portugal)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-network",
+      "name": "Google português de Portugal 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-network",
         "Android Speech Recognition and Synthesis from Google pt-pt-x-jmn-local"
       ],
       "language": "pt-PT",
@@ -305,8 +310,9 @@
     },
     {
       "label": "Voz masculina 2 (Portugal)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-network",
+      "name": "Google português de Portugal 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-network",
         "Android Speech Recognition and Synthesis from Google pt-pt-x-pmj-local"
       ],
       "language": "pt-PT",
@@ -323,9 +329,12 @@
     },
     {
       "label": "Voz feminina 1 (Brasil)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-afs-network",
+      "name": "Google português do Brasil 1 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google pt-br-x-afs-local"
+        "Android Speech Recognition and Synthesis from Google pt-br-x-afs-network",
+        "Chrome OS português do Brasil",
+        "Android Speech Recognition and Synthesis from Google pt-br-x-afs-local",
+        "Android Speech Recognition and Synthesis from Google pt-BR-language"
       ],
       "language": "pt-BR",
       "gender": "female",
@@ -341,8 +350,9 @@
     },
     {
       "label": "Voz feminina 2 (Brasil)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-pte-network",
+      "name": "Google português do Brasil 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-br-x-pte-network",
         "Android Speech Recognition and Synthesis from Google pt-br-x-pte-local"
       ],
       "language": "pt-BR",
@@ -358,9 +368,10 @@
       "preloaded": true
     },
     {
-      "label": "Voz masculina 1 (Brasil)",
-      "name": "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-network",
+      "label": "Voz masculina  (Brasil)",
+      "name": "Google português do Brasil 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-network",
         "Android Speech Recognition and Synthesis from Google pt-br-x-ptd-local"
       ],
       "language": "pt-BR",

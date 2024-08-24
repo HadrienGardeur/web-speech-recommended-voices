@@ -1014,7 +1014,9 @@
       "label": "Voz femenina 1 (España)",
       "name": "Google español 4 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google es-es-x-eee-local"
+        "Chrome OS español 4",
+        "Android Speech Recognition and Synthesis from Google es-es-x-eee-local",
+        "Android Speech Recognition and Synthesis from Google es-ES-language"
       ],
       "language": "es-ES",
       "gender": "female",
@@ -1033,6 +1035,7 @@
       "name": "Google español 1 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eea-network",
+        "Chrome OS español 1",
         "Android Speech Recognition and Synthesis from Google es-es-x-eea-local"
       ],
       "language": "es-ES",
@@ -1052,6 +1055,7 @@
       "name": "Google español 2 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eec-network",
+        "Chrome OS español 2",
         "Android Speech Recognition and Synthesis from Google es-es-x-eec-local"
       ],
       "language": "es-ES",
@@ -1067,55 +1071,11 @@
       "preloaded": true
     },
     {
-      "label": "Voz femenina 4 (España)",
-      "name": "Chrome OS español 1",
-      "language": "es-ES",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voz femenina 5 (España)",
-      "name": "Chrome OS español 2",
-      "language": "es-ES",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voz femenina 6 (España)",
-      "name": "Chrome OS español 4",
-      "language": "es-ES",
-      "gender": "female",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Voz masculina 1 (España)",
       "name": "Google español 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google es-es-x-eed-network",
+        "Chrome OS español 3",
         "Android Speech Recognition and Synthesis from Google es-es-x-eed-local"
       ],
       "language": "es-ES",
@@ -1134,6 +1094,7 @@
       "label": "Voz masculina 2 (España)",
       "name": "Google español 5 (Natural)",
       "altNames": [
+        "Chrome OS español 5",
         "Android Speech Recognition and Synthesis from Google es-es-x-eef-local"
       ],
       "language": "es-ES",
@@ -1149,40 +1110,13 @@
       "preloaded": true
     },
     {
-      "label": "Voz masculina 3 (España)",
-      "name": "Chrome OS español 3",
-      "language": "es-ES",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voz masculina 4 (España)",
-      "name": "Chrome OS español 5",
-      "language": "es-ES",
-      "gender": "male",
-      "quality": [
-        "low"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Voz femenina 1 (Estados Unidos)",
-      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esc-network",
+      "name": "Google español de Estados Unidos 1 (Natural)",
       "altNames": [
-        "Android Speech Recognition and Synthesis from Google es-us-x-esc-local"
+        "Android Speech Recognition and Synthesis from Google es-us-x-esc-network",
+        "Chrome OS español de Estados Unidos",
+        "Android Speech Recognition and Synthesis from Google es-us-x-esc-local",
+        "Android Speech Recognition and Synthesis from Google es-US-language"
       ],
       "language": "es-US",
       "gender": "female",
@@ -1198,8 +1132,9 @@
     },
     {
       "label": "Voz femenina 2 (Estados Unidos)",
-      "name": "Android Speech Recognition and Synthesis from Google es-us-x-sfb-network",
+      "name": "Google español de Estados Unidos 2 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-sfb-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-sfb-local"
       ],
       "language": "es-US",
@@ -1216,8 +1151,9 @@
     },
     {
       "label": "Voz masculina 1 (Estados Unidos)",
-      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esd-network",
+      "name": "Google español de Estados Unidos 3 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-esd-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-esd-local"
       ],
       "language": "es-US",
@@ -1234,8 +1170,9 @@
     },
     {
       "label": "Voz masculina 2 (Estados Unidos)",
-      "name": "Android Speech Recognition and Synthesis from Google es-us-x-esf-network",
+      "name": "Google español de Estados Unidos 4 (Natural)",
       "altNames": [
+        "Android Speech Recognition and Synthesis from Google es-us-x-esf-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-esf-local"
       ],
       "language": "es-US",
