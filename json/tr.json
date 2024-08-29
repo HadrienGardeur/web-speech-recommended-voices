@@ -94,7 +94,7 @@
       "name": "Google Türkçe 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-cfs-network",
-        "Chrome OS Türkçe 3 (Natural)",
+        "Chrome OS Türkçe 3",
         "Android Speech Recognition and Synthesis from Google tr-tr-x-cfs-local",
         "Android Speech Recognition and Synthesis from Google tr-TR-language"
       ],
@@ -115,7 +115,7 @@
       "name": "Google Türkçe 4 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-network",
-        "Chrome OS Türkçe 4 (Natural)",
+        "Chrome OS Türkçe 4",
         "Android Speech Recognition and Synthesis from Google tr-tr-x-efu-local"
       ],
       "language": "tr-TR",
@@ -135,7 +135,7 @@
       "name": "Google Türkçe 1 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-network",
-        "Chrome OS Türkçe 1 (Natural)",
+        "Chrome OS Türkçe 1",
         "Android Speech Recognition and Synthesis from Google tr-tr-x-mfm-local"
       ],
       "language": "tr-TR",
@@ -155,7 +155,7 @@
       "name": "Google Türkçe 2 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-network",
-        "Chrome OS Türkçe 2 (Natural)",
+        "Chrome OS Türkçe 2",
         "Android Speech Recognition and Synthesis from Google tr-tr-x-ama-local"
       ],
       "language": "tr-TR",
@@ -175,7 +175,7 @@
       "name": "Google Türkçe 5 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-network",
-        "Chrome OS Türkçe 5 (Natural)",
+        "Chrome OS Türkçe 5",
         "Android Speech Recognition and Synthesis from Google tr-tr-x-tmc-local"
       ],
       "language": "tr-TR",

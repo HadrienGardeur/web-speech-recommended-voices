@@ -1097,6 +1097,21 @@
       "preloaded": true
     },
     {
+      "label": "Female voice 6 (US)",
+      "name": "Chrome OS US English 8",
+      "language": "en-US",
+      "gender": "female",
+      "quality": [
+        "low"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Male voice 1 (US)",
       "name": "Google US English 4 (Natural)",
       "altNames": [
@@ -1121,7 +1136,7 @@
       "name": "Google US English 3 (Natural)",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google en-us-x-iol-network",
-        "Chrome OS US English 2",
+        "Chrome OS US English 3",
         "Android Speech Recognition and Synthesis from Google en-us-x-iol-local"
       ],
       "language": "en-US",
@@ -1209,6 +1224,21 @@
       "gender": "female",
       "quality": [
         "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Female voice 4 (UK)",
+      "name": "Chrome OS UK English 7",
+      "language": "en-GB",
+      "gender": "female",
+      "quality": [
+        "low"
       ],
       "rate": 1,
       "pitch": 1,
@@ -1306,6 +1336,21 @@
         "Chrome OS Australian English 3",
         "Android Speech Recognition and Synthesis from Google en-au-x-auc-local"
       ],
+      "language": "en-AU",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Female voice 3 (Australia)",
+      "name": "Chrome OS Australian English 5",
       "language": "en-AU",
       "gender": "female",
       "quality": [

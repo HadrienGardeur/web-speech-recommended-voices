@@ -554,6 +554,15 @@
       "preloaded": true
     },
     {
+      "name": "eSpeak Slovenian",
+      "note": "eSpeak voices are preloaded by default on Chrome OS.",
+      "language": "sl",
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "name": "eSpeak Serbian",
       "note": "eSpeak voices are preloaded by default on Chrome OS.",
       "language": "sv",
