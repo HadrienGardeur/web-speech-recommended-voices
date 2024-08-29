@@ -1,5 +1,5 @@
 {
-  "language": "ko-KR",
+  "language": "ko",
   "defaultRegion": "ko-KR",
   "testUtterance": "안녕하세요, 저는 {name}이고 한국어 음성입니다.",
   "voices": [

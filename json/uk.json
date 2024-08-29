@@ -1,5 +1,5 @@
 {
-  "language": "uk-UA",
+  "language": "uk",
   "defaultRegion": "uk-UA",
   "testUtterance": "Здравствуйте, меня зовут {name} и я украинский голос.",
   "voices": [

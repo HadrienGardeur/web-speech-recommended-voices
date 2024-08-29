@@ -1,5 +1,5 @@
 {
-  "language": "bg-BG",
+  "language": "bg",
   "defaultRegion": "bg-BG",
   "testUtterance": "Здравейте, казвам се {name} и съм български глас.",
   "voices": [

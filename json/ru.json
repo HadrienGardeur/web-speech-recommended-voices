@@ -1,5 +1,5 @@
 {
-  "language": "ru-RU",
+  "language": "ru",
   "defaultRegion": "ru-RU",
   "testUtterance": "Здравствуйте, меня зовут {name} и я русский голос.",
   "voices": [

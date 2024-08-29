@@ -1,5 +1,5 @@
 {
-  "language": "el-GR",
+  "language": "el",
   "defaultRegion": "el-GR",
   "testUtterance": "Γεια σας, με λένε {name} και είμαι ελληνική φωνή.",
   "voices": [
