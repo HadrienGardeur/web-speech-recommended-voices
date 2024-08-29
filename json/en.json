@@ -1349,21 +1349,6 @@
       "preloaded": true
     },
     {
-      "label": "Female voice 3 (Australia)",
-      "name": "Chrome OS Australian English 5",
-      "language": "en-AU",
-      "gender": "female",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
       "label": "Male voice 1 (Australia)",
       "name": "Google Australian English 2 (Natural)",
       "altNames": [
@@ -1393,6 +1378,21 @@
       ],
       "language": "en-AU",
       "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Male voice 3 (Australia)",
+      "name": "Chrome OS Australian English 5",
+      "language": "en-AU",
+      "gender": "male",
       "quality": [
         "high"
       ],
