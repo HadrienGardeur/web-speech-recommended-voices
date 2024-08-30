@@ -1,7 +1,7 @@
 {
   "language": "ja",
   "defaultRegion": "ja-JP",
-  "testUtterance": "これは、どの声が他の声よりも優れているかを判断するための日本語の声のテストです。",
+  "testUtterance": "こんにちは。私の名前は{name}で、日本語の声を担当しています。",
   "voices": [
     {
       "label": "Nanami",

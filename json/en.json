@@ -1,7 +1,7 @@
 {
   "language": "en",
   "defaultRegion": "en-US",
-  "testUtterance": "This text is meant to test if these English voices sound as good as they should.",
+  "testUtterance": "Hello, my name is {name} and I am an English voice.",
   "voices": [
     {
       "label": "Emma (US)",

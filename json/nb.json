@@ -1,7 +1,7 @@
 {
   "language": "nb",
   "defaultRegion": "nb-NO",
-  "testUtterance": "Denne teksten lar deg teste kvaliteten på den norske stemmen.",
+  "testUtterance": "Hei, jeg heter {name} og er en norsk stemme.",
   "voices": [
     {
       "label": "Pernille",

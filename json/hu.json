@@ -1,7 +1,7 @@
 {
   "language": "hu",
   "defaultRegion": "hu-HU",
-  "testUtterance": "Ennek célja annak tesztelése, hogy ez a hang jobban szól-e, mint a többi.",
+  "testUtterance": "Helló, a nevem {name} és magyar hangú vagyok.",
   "voices": [
     {
       "label": "Noemi",

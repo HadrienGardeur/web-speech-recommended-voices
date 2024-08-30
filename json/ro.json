@@ -1,7 +1,7 @@
 {
   "language": "ro",
   "defaultRegion": "ro-RO",
-  "testUtterance": "Acest test este menit să vedem care voce românească sună mai bine decât celelalte.",
+  "testUtterance": "Buna ziua, ma numesc {name} si sunt o voce romaneasca.",
   "voices": [
     {
       "label": "Alina",

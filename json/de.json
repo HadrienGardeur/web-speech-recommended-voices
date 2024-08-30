@@ -1,7 +1,7 @@
 {
   "language": "de",
   "defaultRegion": "de-DE",
-  "testUtterance": "Dieser Text soll testen, ob diese deutschen Stimmen so gut klingen, wie sie sollten.",
+  "testUtterance": "Hallo, mein Name ist {name} und ich bin eine deutsche Stimme.",
   "voices": [
     {
       "label": "Seraphina (Deutschland)",

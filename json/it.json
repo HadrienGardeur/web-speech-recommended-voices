@@ -1,7 +1,7 @@
 {
   "language": "it",
   "defaultRegion": "it-IT",
-  "testUtterance": "Questo testo ha lo scopo di verificare se queste voci italiane suonano bene come dovrebbero.",
+  "testUtterance": "Ciao, mi chiamo {name} e sono una voce italiana.",
   "voices": [
     {
       "label": "Elsa (Alta qualita)",

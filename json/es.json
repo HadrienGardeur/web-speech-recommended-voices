@@ -1,7 +1,7 @@
 {
   "language": "es",
   "defaultRegion": "es-ES",
-  "testUtterance": "Este texto está destinado a comprobar si estas voces en español suenan tan bien como deberían.",
+  "testUtterance": "Hola, mi nombre es {name} y soy una voz española.",
   "voices": [
     {
       "label": "Elvira (España)",

@@ -1,7 +1,7 @@
 {
   "language": "pt",
   "defaultRegion": "pt-BR",
-  "testUtterance": "Este texto pretende testar se estas vozes portuguesas soam tão bem como deveriam.",
+  "testUtterance": "Olá, o meu nome é {name} e sou uma voz portuguesa.",
   "voices": [
     {
       "label": "Raquel (Portugal)",

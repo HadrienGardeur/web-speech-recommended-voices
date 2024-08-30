@@ -1,7 +1,7 @@
 {
   "language": "fr",
   "defaultRegion": "fr-FR",
-  "testUtterance": "Ce texte permet de tester si ces voix en français sont à la hauteur de la tâche.",
+  "testUtterance": "Bonjour, mon nom est {name} et je suis une voix française.",
   "voices": [
     {
       "label": "Vivienne (France)",

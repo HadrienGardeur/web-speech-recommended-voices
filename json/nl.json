@@ -1,7 +1,7 @@
 {
   "language": "nl",
   "defaultRegion": "nl-NL",
-  "testUtterance": "Deze tekst is bedoeld om te testen of deze Nederlandse stemmen zo goed klinken als ze zouden moeten.",
+  "testUtterance": "Hallo, mijn naam is {name} en ik ben een Nederlandse stem.",
   "voices": [
     {
       "label": "Colette (Nederland)",

@@ -1,6 +1,7 @@
 {
   "language": "eu",
   "defaultRegion": "eu-ES",
+  "testUtterance": "Kaixo, nire izena {name} da eta euskal ahotsa naiz.",
   "voices": [
     {
       "label": "Miren",

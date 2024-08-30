@@ -1,7 +1,7 @@
 {
   "language": "da",
   "defaultRegion": "da-DK",
-  "testUtterance": "Detta är ett danskt rösttest för att kontrollera kvaliteten på det som produceras.",
+  "testUtterance": "Hej, mit navn er {name} og jeg er en dansk stemme.",
   "voices": [
     {
       "label": "Christel",

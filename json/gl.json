@@ -1,6 +1,7 @@
 {
   "language": "gl",
   "defaultRegion": "gl-ES",
+  "testUtterance": "Ola, chámome {name} e son unha voz galega.",
   "voices": [
     {
       "label": "Sabela",

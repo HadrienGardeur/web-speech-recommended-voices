@@ -1,7 +1,7 @@
 {
   "language": "sk",
   "defaultRegion": "sk-SK",
-  "testUtterance": "Toto je test, ktorý má zistiť, ktorý slovenský hlas je najlepší.",
+  "testUtterance": "Dobrý deň, volám sa {name} a som slovenský hlas.",
   "voices": [
     {
       "label": "Viktoria",

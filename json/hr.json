@@ -1,7 +1,7 @@
 {
   "language": "hr",
   "defaultRegion": "hr-HR",
-  "testUtterance": "Ovo je testna rečenica da čujete kako zapravo zvuče hrvatski glasovi.",
+  "testUtterance": "Pozdrav, ja sam {name} i hrvatski sam glas.",
   "voices": [
     {
       "label": "Gabrijela",

@@ -1,7 +1,7 @@
 {
   "language": "fi",
   "defaultRegion": "fi-FI",
-  "testUtterance": "Tämä on suomalainen äänitesti äänenlaadun tarkistamiseksi.",
+  "testUtterance": "Hei, nimeni on {name} ja olen suomalainen ääni.",
   "voices": [
     {
       "label": "Noora",

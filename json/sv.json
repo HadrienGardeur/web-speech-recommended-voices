@@ -1,7 +1,7 @@
 {
   "language": "sv",
   "defaultRegion": "sv-SE",
-  "testUtterance": "Detta är ett test av kvaliteten på svenska röster.",
+  "testUtterance": "Hej, jag heter {name} och jag är en svensk röst.",
   "voices": [
     {
       "label": "Sofie",

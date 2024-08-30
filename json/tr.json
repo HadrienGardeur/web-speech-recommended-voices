@@ -1,7 +1,7 @@
 {
   "language": "tr",
   "defaultRegion": "tr-TR",
-  "testUtterance": "Bu cümle, hangi Türk sesinin diğerlerinden daha iyi duyulduğunu test etmek için tasarlanmıştır.",
+  "testUtterance": "Merhaba, adım {name} ve Türk sesiyim.",
   "voices": [
     {
       "label": "Emel",

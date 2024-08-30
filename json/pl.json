@@ -1,7 +1,7 @@
 {
   "language": "pl",
   "defaultRegion": "pl-PL",
-  "testUtterance": "To test dla głosów polskich, mający na celu określenie, który głos brzmi lepiej od pozostałych.",
+  "testUtterance": "Cześć, nazywam się {name} i mam polski głos.",
   "voices": [
     {
       "label": "Zofia",

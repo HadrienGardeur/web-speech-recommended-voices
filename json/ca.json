@@ -1,7 +1,7 @@
 {
   "language": "ca",
   "defaultRegion": "ca-ES",
-  "testUtterance": "Aquest text pretén comprovar si aquestes veus catalanes sonen tan bé com haurien de ser.",
+  "testUtterance": "Hola, em dic {name} i sóc una veu catalana",
   "voices": [
     {
       "label": "Joana (Català)",

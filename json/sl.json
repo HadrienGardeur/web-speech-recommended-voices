@@ -1,7 +1,7 @@
 {
   "language": "sl",
   "defaultRegion": "sl-SI",
-  "testUtterance": "Ta stavek je namenjen preizkusu, kateri slovenski glas zveni bolje od ostalih.",
+  "testUtterance": "Pozdravljeni, moje ime je {name} in sem slovenski glas.",
   "voices": [
     {
       "label": "Petra",
