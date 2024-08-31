@@ -9,17 +9,23 @@ With its focus on voice selection, the goal of this project is to document highe
 ## Use cases
 
 * Providing the best possible default voice per language
-* Displaying an ordered list of recommended voices
+* Displaying an ordered list of voices, based on quality
 * Displaying user-friendly voice names
 * Filtering recommended voices per gender and age (adult vs children)
 * Filtering out novelty and low quality voices
+* Previewing a voice with a test utterance
 
 ## Demo
 
-[A live demo](https://panac.github.io/readium-speech/demo/) is available to test which recommended voices are available in your browser.
+[A live demo](https://panac.github.io/readium-speech/demo/) based on the [Readium Speech project](https://github.com/readium/speech) is available.
 
+This demo implements both [best practices for voice selection](https://github.com/HadrienGardeur/read-aloud-best-practices/blob/main/voice-selection.md) along with [data from this repository](json/).
 
 ## List of supported languages
+
+The goal of this project is to support all 43 languages available on Windows and macOS.
+
+In its current state, this project covers 28 languages:
 
 * Arabic (planned)
 * [Basque](json/eu.json)
@@ -389,13 +395,15 @@ Through the work done to document a list of recommended voices, I also ended up 
 * Under the current circumstances, these Google voices have been prioritized lower than their Microsoft/Apple counterparts in the list of recommended voices.
 * Overall, it's unfortunate that Chrome Desktop is lagging far behind Android and Chrome OS when it comes to the range of voices and languages supported by default ([related issue](https://github.com/HadrienGardeur/read-aloud-best-practices/issues/21)).
 
-
 ### Chrome OS
 
-* Chrome OS comes with four sets of voices: Chrome voices (7 languages), Android voices (50+ languages), Natural voices (6 languages) and eSpeak voices (38 languages).
+* Chrome OS comes with four sets of voices: Chrome OS voices, Android voices (50+ languages), Natural voices and eSpeak voices (38 languages).
+* By default, Chrome OS downloads Chrome OS voices for your system language, while Android and eSpeak voices are available for all languages.
+* Google is also gradually adding support for Natural voices, which are basically the higher quality variants of their Android voices with the added benefit of working offline. Natural voices require the user to go to their system settings to install them.
+* Chrome OS has an unfortunate tendency of uninstalling voice packs whenever a new Chrome OS update is installed, which happens very often.
 * Most Android voices offer offline and online variants and they're on par quality-wise with what Apple offers in terms of downloadable voices.
 * These Android voices have some of the worst names on any platform/browser, making them hardly usable without the kind of re-labeling offered by this project.
-* Google is also gradually adding these Android voices to Chrome OS through the ability to install higher quality voice packs that work offline, re-labeling these voices as "natural voices" in the process.
+* Android voices also suffer from issues with latency and/or availability. In some cases, it might take up to a minute for the first utterance to be read aloud.
 * Chrome voices are one step below Android voices, but they offer a decent selection for the most common languages.
 * eSpeak voices should be avoided at all cost due to their extremely low quality and have been documented separately in order to filter them out.
 
@@ -438,7 +446,8 @@ Through the work done to document a list of recommended voices, I also ended up 
 ### Safari
 
 * For better or for worse, Safari's behaviour is mostly consistent between its desktop and mobile versions.
-* Downloadable voices or higher quality variants of preloaded voices do not show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/19)).
+* Downloadable voices do not show up in the list returned by the Web Speech API ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/19)).
+* Even worse than that, when installing higher quality variants of preloaded voices, these voices disappear in Safari, which means that entire languages could disappear completely.
 * All voices return `true` for `default` in Safari, which makes it impossible to detect and select the system/user default ([related issue](https://github.com/HadrienGardeur/web-speech-recommended-voices/issues/16)).
 
 ### Windows
