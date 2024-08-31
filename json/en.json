@@ -307,6 +307,21 @@
       "preloaded": true
     },
     {
+      "label": "Hayley (Australia)",
+      "name": "Microsoft Hayley Online (Natural) - English (Australia)",
+      "language": "en-AU",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "William (Australia)",
       "name": "Microsoft William Online (Natural) - English (Australia)",
       "language": "en-AU",
@@ -324,6 +339,21 @@
     {
       "label": "Clara (Canada)",
       "name": "Microsoft Clara Online (Natural) - English (Canada)",
+      "language": "en-CA",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Heather (Canada)",
+      "name": "Microsoft Heather Online (Natural) - English (Canada)",
       "language": "en-CA",
       "gender": "female",
       "quality": [

@@ -19,6 +19,21 @@
       "preloaded": true
     },
     {
+      "label": "Ekaterina",
+      "name": "Microsoft Ekaterina Online (Natural) - Russian (Russia)",
+      "language": "ru-RU",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Dmitry",
       "name": "Microsoft Dmitry Online (Natural) - Russian (Russia)",
       "language": "ru-RU",

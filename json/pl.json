@@ -19,6 +19,21 @@
       "preloaded": true
     },
     {
+      "label": "Paulina",
+      "name": "Microsoft Paulina Online (Natural) - Polish (Poland)",
+      "language": "pl-PL",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Marek",
       "name": "Microsoft Marek Online (Natural) - Polish (Poland)",
       "language": "pl-PL",

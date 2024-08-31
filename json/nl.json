@@ -34,6 +34,21 @@
       "preloaded": true
     },
     {
+      "label": "Hanna (Nederland)",
+      "name": "Microsoft Hanna Online (Natural) - Dutch (Netherlands)",
+      "language": "nl-NL",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Maarten (Nederland)",
       "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
       "language": "nl-NL",
