@@ -1,5 +1,9 @@
 {
   "quality": {
+    "ar": {
+      "normal": "محسن",
+      "high": "استثنائي"
+    },
     "ca": {
       "normal": "millorada",
       "high": "prèmium"

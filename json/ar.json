@@ -586,6 +586,94 @@
         "Windows"
       ],
       "preloaded": true
+    },
+    {
+      "label": "صوت انثوي 1",
+      "name": "Android Speech Recognition and Synthesis from Google ar-xa-x-arc-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ar-xa-x-arc-network",
+        "Android Speech Recognition and Synthesis from Google ar-language"
+      ],
+      "language": "ar",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "صوت انثوي 2",
+      "name": "Android Speech Recognition and Synthesis from Google ar-xa-x-arz-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ar-xa-x-arz-network"
+      ],
+      "language": "ar",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "صوت ذكر 1",
+      "name": "Android Speech Recognition and Synthesis from Google ar-xa-x-ard-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ar-xa-x-ard-network"
+      ],
+      "language": "ar",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "صوت ذكر 2",
+      "name": "Android Speech Recognition and Synthesis from Google ar-xa-x-are-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google ar-xa-x-are-network"
+      ],
+      "language": "ar",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "صوت عربي",
+      "name": "العربية العالم",
+      "localizedName": "android",
+      "language": "ar",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
     }
   ]
 }
