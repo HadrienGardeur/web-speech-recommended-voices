@@ -25,9 +25,9 @@ This demo implements both [best practices for voice selection](https://github.co
 
 The goal of this project is to support all 43 languages available on Windows and macOS.
 
-In its current state, this project covers 28 languages:
+In its current state, it covers 28 languages:
 
-* Arabic (planned)
+* [Arabic](json/ar.json)
 * [Basque](json/eu.json)
 * Bengali (planned)
 * Bhojpuri (planned)
