@@ -34,8 +34,8 @@
       "preloaded": true
     },
     {
-      "label": "Laila (Bahrein)",
-      "name": "Microsoft Laila Online (Natural) - Arabic (Bahrein)",
+      "label": "Laila (Bahrain)",
+      "name": "Microsoft Laila Online (Natural) - Arabic (Bahrain)",
       "language": "ar-BH",
       "gender": "female",
       "quality": [
@@ -49,8 +49,8 @@
       "preloaded": true
     },
     {
-      "label": "Ali (Bahrein)",
-      "name": "Microsoft Ali Online (Natural) - Arabic (Bahrein)",
+      "label": "Ali (Bahrain)",
+      "name": "Microsoft Ali Online (Natural) - Arabic (Bahrain)",
       "language": "ar-BH",
       "gender": "male",
       "quality": [
@@ -79,7 +79,7 @@
       "preloaded": true
     },
     {
-      "label": "Shakir (Ehypt)",
+      "label": "Shakir (Egypt)",
       "name": "Microsoft Shakir Online (Natural) - Arabic (Egypt)",
       "language": "ar-EG",
       "gender": "male",
@@ -471,7 +471,7 @@
     {
       "label": "Saleh (Yemen)",
       "name": "Microsoft Saleh Online (Natural) - Arabic (Yemen)",
-      "language": "ar-OM",
+      "language": "ar-YE",
       "gender": "male",
       "quality": [
         "veryHigh"
