@@ -1,0 +1,183 @@
+{
+  "language": "id",
+  "defaultRegion": "id-ID",
+  "testUtterance": "Halo, nama saya {name} dan saya suara Indonesia.",
+  "voices": [
+    {
+      "label": "Gadis",
+      "name": "Microsoft Gadis Online (Natural) - Indonesian (Indonesia)",
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ardi",
+      "name": "Microsoft Ardi Online (Natural) - Indonesian (Indonesia)",
+      "language": "id-ID",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Damayanti",
+      "name": "Damayanti",
+      "localizedName": "apple",
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara Google wanita",
+      "name": "Google Bahasa Indonesia",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Andika",
+      "name": "Microsoft Andika - Indonesian (Indonesia)",
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara wanita 1",
+      "name": "Google Bahasa Indonesia 1 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google id-id-x-idc-network",
+        "Chrome OS Bahasa Indonesia 1",
+        "Android Speech Recognition and Synthesis from Google id-id-x-idc-local",
+        "Android Speech Recognition and Synthesis from Google id-ID-language"
+      ],
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara wanita 2",
+      "name": "Google Bahasa Indonesia 2 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google id-id-x-idd-network",
+        "Chrome OS Bahasa Indonesia 2",
+        "Android Speech Recognition and Synthesis from Google id-id-x-idd-local"
+      ],
+      "language": "id-ID",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara laki-laki 1",
+      "name": "Google Bahasa Indonesia 3 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google id-id-x-ide-network",
+        "Chrome OS Bahasa Indonesia 3",
+        "Android Speech Recognition and Synthesis from Google id-id-x-ide-local"
+      ],
+      "language": "id-ID",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara laki-laki 2",
+      "name": "Google Bahasa Indonesia 4 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google id-id-x-dfz-network",
+        "Chrome OS Bahasa Indonesia 4",
+        "Android Speech Recognition and Synthesis from Google id-id-x-dfz-local"
+      ],
+      "language": "id-ID",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Suara bahasa Indonesia",
+      "name": "Indonesia Indonesia",
+      "localizedName": "android",
+      "language": "id-ID",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
