@@ -382,6 +382,99 @@
       "preloaded": true
     },
     {
+      "label": "Neerja (India)",
+      "name": "Microsoft Neerja Online (Natural) - English (India)",
+      "altNames": [
+        "Microsoft Neerja Online (Natural) - English (India) (Preview)"
+      ],
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Prabhat (India)",
+      "name": "Microsoft Prabhat Online (Natural) - English (India)",
+      "language": "en-IN",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Emily (Ireland)",
+      "name": "Microsoft Emily Online (Natural) - English (Ireland)",
+      "language": "en-IE",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Connor (Ireland)",
+      "name": "Microsoft Connor Online (Natural) - English (Ireland)",
+      "language": "en-IE",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Leah (South Africa)",
+      "name": "Microsoft Leah Online (Natural) - English (South Africa)",
+      "language": "en-ZA",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Luke (South Africa)",
+      "name": "Microsoft Luke Online (Natural) - English (South Africa)",
+      "language": "en-ZA",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Apple Ava (US)",
       "name": "Ava",
       "localizedName": "apple",
@@ -830,6 +923,98 @@
       "preloaded": true
     },
     {
+      "label": "Isha (India)",
+      "name": "Isha",
+      "localizedName": "apple",
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Sangeeta (India)",
+      "name": "Sangeeta",
+      "localizedName": "apple",
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Rishi (India)",
+      "name": "Rishi",
+      "localizedName": "apple",
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Moira (Ireland)",
+      "name": "Moira",
+      "localizedName": "apple",
+      "language": "en-IE",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Tessa (South Africa)",
+      "name": "Tessa",
+      "localizedName": "apple",
+      "language": "en-ZA",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
       "label": "Female Google voice (US)",
       "name": "Google US English",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
@@ -1016,6 +1201,51 @@
       "label": "Richard (Canada)",
       "name": "Microsoft Richard - English (Canada)",
       "language": "en-CA",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Heera (India)",
+      "name": "Microsoft Heera - English (India)",
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ravi (India)",
+      "name": "Microsoft Ravi - English (India)",
+      "language": "en-IN",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Sean (Ireland)",
+      "name": "Microsoft Sean - English (Ireland)",
+      "language": "en-IE",
       "gender": "male",
       "quality": [
         "normal"
@@ -1434,6 +1664,79 @@
       "preloaded": true
     },
     {
+      "label": "Female voice 1 (India)",
+      "name": "Android Speech Recognition and Synthesis from Google en-in-x-ena-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google en-in-x-ena-local",
+        "Android Speech Recognition and Synthesis from Google en-IN-language"
+      ],
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Female voice 2 (India)",
+      "name": "Android Speech Recognition and Synthesis from Google en-in-x-enc-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google en-in-x-enc-local"
+      ],
+      "language": "en-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Male voice 1 (India)",
+      "name": "Android Speech Recognition and Synthesis from Google en-in-x-end-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google en-in-x-end-local"
+      ],
+      "language": "en-IN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Male voice 2 (India)",
+      "name": "Android Speech Recognition and Synthesis from Google en-in-x-ene-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google en-in-x-ene-local"
+      ],
+      "language": "en-IN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "US voice",
       "name": "English United States",
       "localizedName": "android",
@@ -1468,6 +1771,21 @@
       "name": "English Australia",
       "localizedName": "android",
       "language": "en-AU",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Indian voice",
+      "name": "English India",
+      "localizedName": "android",
+      "language": "en-IN",
       "quality": [
         "high"
       ],
