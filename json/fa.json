@@ -1,0 +1,56 @@
+{
+  "language": "fa",
+  "defaultRegion": "fa-IR",
+  "testUtterance": "سلام اسم من {name} و صدای فارسی هستم",
+  "voices": [
+    {
+      "label": "Dilara",
+      "name": "Microsoft Dilara Online (Natural) - Persian (Iran)",
+      "language": "fa-IR",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Farid",
+      "name": "Microsoft Farid Online (Natural) - Persian (Iran)",
+      "language": "fa-IR",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Dariush",
+      "name": "Dariush",
+      "localizedName": "apple",
+      "language": "fa-IR",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    }
+  ]
+}

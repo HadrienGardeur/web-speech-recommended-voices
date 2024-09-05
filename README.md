@@ -25,7 +25,7 @@ This demo implements both [best practices for voice selection](https://github.co
 
 The goal of this project is to support all 43 languages available on Windows and macOS.
 
-In its current state, it covers 30 languages:
+In its current state, it covers 31 languages:
 
 * [Arabic](json/ar.json) (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Yemen)
 * [Basque](json/eu.json)
@@ -55,7 +55,7 @@ In its current state, it covers 30 languages:
 * Malay (planned)
 * Marathi (planned)
 * [Norwegian](json/nb.json)
-* Persan/Farsi (planned)
+* [Persian](json/fa.json)
 * [Polish](json/pl.json)
 * [Portuguese](json/pt.json) (Portugal and Brazil)
 * [Romanian](json/ro.json)
@@ -86,7 +86,7 @@ Some of them are harmful to the overall reading experience, while others have a 
 * Each voice list is ordered and meant to provide an optimal listening experience on all browsers/OS/languages covered by this project.
 * But each list also includes default options, to make sure that there's always something reliable to lean on.
 * With these two goals in mind, higher quality voices are listed on top of the list, while lower quality voices or specialized ones are listed at the bottom.
-* The number of voices can look overwhelming (90+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
+* The number of voices can look overwhelming (100+ voices in English alone) but in practice, just a few of them will be available to users on each of their device.
 * The voice names returned by the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) are hardly user-friendly, which is the reason why this list provides alternate ones that usually include a first name (or a gender) along with the region associated to the voice.
 * Whenever possible, I will always try to include a good mix of high quality and default options for both genders.
 * But the list has to be prioritized somehow, female voices are currently listed above their male counterparts. Since the gender associated to each voice is documented, this allows implementers to re-prioritize/filter the list based on this criteria.
