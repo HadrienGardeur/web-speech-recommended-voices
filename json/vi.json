@@ -1,0 +1,187 @@
+{
+  "language": "vi",
+  "defaultRegion": "vi-VN",
+  "testUtterance": "Xin chào, tôi tên là {name} và tôi là giọng nói tiếng Việt.",
+  "voices": [
+    {
+      "label": "HoaiMy",
+      "name": "Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam)",
+      "language": "vi-VN",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "NamMinh",
+      "name": "Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam)",
+      "language": "vi-VN",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Linh",
+      "name": "Linh",
+      "localizedName": "apple",
+      "language": "vi-VN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "An",
+      "name": "Microsoft An - Vietnamese (Vietnam)",
+      "language": "vi-VN",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nữ 1",
+      "name": "Google Tiếng Việt 1 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vic-network",
+        "Chrome OS Tiếng Việt 1",
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vic-local",
+        "Android Speech Recognition and Synthesis from Google vi-VN-language"
+      ],
+      "language": "vi-VN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nữ 2",
+      "name": "Google Tiếng Việt 2 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vid-network",
+        "Chrome OS Tiếng Việt 2",
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vid-local"
+      ],
+      "language": "vi-VN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nữ 3",
+      "name": "Google Tiếng Việt 4 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vif-network",
+        "Chrome OS Tiếng Việt 4",
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vif-local"
+      ],
+      "language": "vi-VN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nam 1",
+      "name": "Google Tiếng Việt 3 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vie-network",
+        "Chrome OS Tiếng Việt 3",
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-vie-local"
+      ],
+      "language": "vi-VN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nam 2",
+      "name": "Google Tiếng Việt 5 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-gft-network",
+        "Chrome OS Tiếng Việt 5",
+        "Android Speech Recognition and Synthesis from Google vi-vn-x-gft-local"
+      ],
+      "language": "vi-VN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Giọng nói tiếng Việt",
+      "name": "Việt Nam Việt Nam",
+      "localizedName": "android",
+      "language": "vi-VN",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
