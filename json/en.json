@@ -475,6 +475,186 @@
       "preloaded": true
     },
     {
+      "label": "Yan (Hongkong)",
+      "name": "Microsoft Yan Online (Natural) - English (Hongkong)",
+      "language": "en-HK",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Sam (Hongkong)",
+      "name": "Microsoft Sam Online (Natural) - English (Hongkong)",
+      "language": "en-HK",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Asilia (Kenya)",
+      "name": "Microsoft Asilia Online (Natural) - English (Kenya)",
+      "language": "en-KE",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Chilemba (Kenya)",
+      "name": "Microsoft Chilemba Online (Natural) - English (Kenya)",
+      "language": "en-KE",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Molly (New Zealand)",
+      "name": "Microsoft Molly Online (Natural) - English (New Zealand)",
+      "language": "en-NZ",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Mitchell (New Zealand)",
+      "name": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
+      "language": "en-NZ",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ezinne (Nigeria)",
+      "name": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
+      "language": "en-NG",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Abeo (Nigeria)",
+      "name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
+      "language": "en-NG",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Luna (Singapore)",
+      "name": "Microsoft Luna Online (Natural) - English (Singapore)",
+      "language": "en-SG",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Wayne (Singapore)",
+      "name": "Microsoft Wayne Online (Natural) - English (Singapore)",
+      "language": "en-SG",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Imani (Tanzania)",
+      "name": "Microsoft Imani Online (Natural) - English (Tanzania)",
+      "language": "en-TZ",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Elimu (Tanzania)",
+      "name": "Microsoft Elimu Online (Natural) - English (Tanzania)",
+      "language": "en-TZ",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "Apple Ava (US)",
       "name": "Ava",
       "localizedName": "apple",
@@ -1001,6 +1181,24 @@
       "name": "Tessa",
       "localizedName": "apple",
       "language": "en-ZA",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Fiona (Scotland)",
+      "name": "Fiona",
+      "localizedName": "apple",
+      "language": "en-GB-u-sd-gbsct",
       "gender": "female",
       "quality": [
         "low",
