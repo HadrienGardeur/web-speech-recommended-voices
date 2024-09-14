@@ -40,13 +40,17 @@
       "normal": "premium",
       "high": "de qualité"
     },
-    "hu": {
-      "normal": "továbbfejlesztett",
-      "high": "prémium"
+    "hi": {
+      "normal": "बेहतर  ",
+      "high": "प्रीमियम"
     },
     "hr": {
       "normal": "poboljšani",
       "high": "vrhunski"
+    },
+    "hu": {
+      "normal": "továbbfejlesztett",
+      "high": "prémium"
     },
     "id": {
       "normal": "Ditingkatkan",

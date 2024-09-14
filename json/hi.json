@@ -1,0 +1,250 @@
+{
+  "language": "hi",
+  "defaultRegion": "hi-IN",
+  "testUtterance": "नमस्कार, मेरा नाम {name} है और मैं एक हिंदी आवाज़ हूँ।",
+  "voices": [
+    {
+      "label": "Swara",
+      "name": "Microsoft Swara Online (Natural) - Hindi (India)",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Madhur",
+      "name": "Microsoft Madhur Online (Natural) - Hindi (India)",
+      "language": "hi-IN",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kiyara",
+      "name": "Kiyara",
+      "localizedName": "apple",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal",
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "Lekha",
+      "name": "Lekha",
+      "localizedName": "apple",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Neel",
+      "name": "Neel",
+      "localizedName": "apple",
+      "language": "hi-IN",
+      "gender": "male",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "label": "महिला Google आवाज़",
+      "name": "Google हिन्दी",
+      "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "browser": [
+        "ChromeDesktop"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kalpana",
+      "name": "Microsoft Kalpana - Hindi (India)",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Hemant",
+      "name": "Microsoft Hemant - Hindi (India)",
+      "language": "hi-IN",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "महिला आवाज़ 1",
+      "name": "Google हिन्दी 1 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hia-network",
+        "Chrome OS हिन्दी 2",
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hia-local",
+        "Android Speech Recognition and Synthesis from Google hi-IN-language"
+      ],
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "महिला आवाज़ 2",
+      "name": "Google हिन्दी 2 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hic-network",
+        "Chrome OS हिन्दी 3",
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hic-local"
+      ],
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "महिला आवाज़ 3",
+      "name": "Chrome OS हिन्दी 1",
+      "language": "hi-IN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "पुरुष आवाज 1",
+      "name": "Google हिन्दी 3 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hid-network",
+        "Chrome OS हिन्दी 4",
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hid-local"
+      ],
+      "language": "hi-IN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "पुरुष आवाज 2",
+      "name": "Google हिन्दी 4 (Natural)",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hie-network",
+        "Chrome OS हिन्दी 5",
+        "Android Speech Recognition and Synthesis from Google hi-in-x-hie-local"
+      ],
+      "language": "hi-IN",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "हिंदी आवाज़",
+      "name": "हिन्दी भारत",
+      "localizedName": "android",
+      "language": "hi-IN",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
