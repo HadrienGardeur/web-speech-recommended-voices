@@ -1,0 +1,159 @@
+{
+  "language": "he",
+  "defaultRegion": "he-IL",
+  "testUtterance": "שלום, שמי {name} ואני קול עברי.",
+  "voices": [
+    {
+      "label": "Hila",
+      "name": "Microsoft Hila Online (Natural) - Hebrew (Israel)",
+      "language": "he-IL",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Avri",
+      "name": "Microsoft Avri Online (Natural) - Hebrew (Israel)",
+      "language": "he-IL",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Carmit",
+      "name": "Carmit",
+      "localizedName": "apple",
+      "language": "he-IL",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Asaf",
+      "name": "Microsoft Asaf - Hebrew (Israel)",
+      "language": "he-IL",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "קול גברי 1",
+      "name": "Android Speech Recognition and Synthesis from Google he-il-x-heb-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google he-il-x-heb-local",
+        "Android Speech Recognition and Synthesis from Google he-IL-language"
+      ],
+      "language": "iw-IL",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "קול גברי 2",
+      "name": "Android Speech Recognition and Synthesis from Google he-il-x-hec-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google he-il-x-hec-local"
+      ],
+      "language": "iw-IL",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "קול נשי 1",
+      "name": "Android Speech Recognition and Synthesis from Google he-il-x-hed-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google he-il-x-hed-local"
+      ],
+      "language": "iw-IL",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "קול נשי 2",
+      "name": "Android Speech Recognition and Synthesis from Google he-il-x-hee-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google he-il-x-hee-local"
+      ],
+      "language": "iw-IL",
+      "gender": "male",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "קול עברי",
+      "name": "ישראל העברית",
+      "localizedName": "android",
+      "language": "he-IL",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}

@@ -25,7 +25,7 @@ This demo implements both [best practices for voice selection](https://github.co
 
 The goal of this project is to support all 43 languages available on Windows and macOS.
 
-In its current state, it covers 34 languages:
+In its current state, it covers 35 languages:
 
 * [Arabic](json/ar.json) (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Yemen)
 * [Basque](json/eu.json)
@@ -44,7 +44,7 @@ In its current state, it covers 34 languages:
 * [Galician](json/gl.json)
 * [German](json/de.json) (Germany, Austria and Switzerland)
 * [Greek](json/el.json)
-* Hebrew (planned)
+* [Hebrew](json/he.json)
 * [Hindi](json/hi.json)
 * [Hungarian](json/hu.json)
 * [Indonesian](json/id.json)

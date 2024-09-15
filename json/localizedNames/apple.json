@@ -40,8 +40,12 @@
       "normal": "premium",
       "high": "de qualité"
     },
+    "he": {
+      "normal": "משופר",
+      "high": "פרימיום"
+    },
     "hi": {
-      "normal": "बेहतर  ",
+      "normal": "बेहतर",
       "high": "प्रीमियम"
     },
     "hr": {
