@@ -1,0 +1,90 @@
+{
+  "language": "mr",
+  "defaultRegion": "mr-IN",
+  "testUtterance": "नमस्कार, माझे नाव {name} आहे आणि मी एक मराठी आवाज आहे.",
+  "voices": [ 
+    {
+      "label": "Aarohi",
+      "name": "Microsoft Aarohi Online (Natural) - Marathi (India)",
+      "language": "mr-IN",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Manohar",
+      "name": "Microsoft Manohar Online (Natural) - Marathi (India)",
+      "language": "mr-IN",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Ananya",
+      "name": "Ananya",
+      "localizedName": "apple",
+      "language": "mr-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "स्त्री आवाज",
+      "name": "Android Speech Recognition and Synthesis from Google mr-in-x-mrf-network",
+      "altNames": [
+        "Android Speech Recognition and Synthesis from Google mr-in-x-mrf-local",
+        "Android Speech Recognition and Synthesis from Google mr-IN-language"
+      ],
+      "language": "mr-IN",
+      "gender": "female",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "ChromeOS"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "मराठी आवाज",
+      "name": "मराठी भारत",
+      "localizedName": "android",
+      "language": "mr-IN",
+      "quality": [
+        "high"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Android"
+      ],
+      "preloaded": true
+    }
+  ]
+}
