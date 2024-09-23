@@ -1,0 +1,26 @@
+{
+  "language": "bho",
+  "defaultRegion": "bho-IN",
+  "testUtterance": "नमस्कार, हमार नाम {name} ह आ हम भोजपुरी आवाज हईं",
+  "voices": [ 
+    {
+      "label": "Jaya",
+      "name": "Jaya",
+      "localizedName": "apple",
+      "language": "bho-IN",
+      "gender": "female",
+      "quality": [
+        "low",
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    }
+  ]
+}
