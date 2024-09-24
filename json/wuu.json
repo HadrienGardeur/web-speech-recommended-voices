@@ -1,0 +1,25 @@
+{
+  "language": "wuu",
+  "defaultRegion": "wuu-CN",
+  "testUtterance": "你好，我的名字是 {name}，我是吴语配音。",
+  "voices": [ 
+    {
+      "label": "Nannan",
+      "name": "Nannan",
+      "localizedName": "apple",
+      "language": "wuu-CN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "preloaded": true
+    }
+  ]
+}
