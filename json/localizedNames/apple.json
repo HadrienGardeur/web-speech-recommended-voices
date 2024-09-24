@@ -72,6 +72,10 @@
       "normal": "고품질",
       "high": "프리미엄"
     },
+    "ms": {
+      "normal": "Dipertingkat",
+      "high": "Premium"
+    },
     "nb": {
       "normal": "forbedret",
       "high": "premium"
