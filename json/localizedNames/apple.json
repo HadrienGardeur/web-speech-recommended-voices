@@ -8,6 +8,14 @@
       "normal": "millorada",
       "high": "prèmium"
     },
+    "cmn-CN": {
+      "normal": "优化音质",
+      "high": "高音质"
+    },
+    "cmn-TW": {
+      "normal": "增強音質",
+      "high": "高音質"
+    },
     "cs": {
       "normal": "vylepšená verze",
       "high": "prémiový"
