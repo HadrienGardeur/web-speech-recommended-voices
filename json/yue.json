@@ -1,6 +1,6 @@
 {
   "language": "yue",
-  "defaultRegion": "yue-CN",
+  "defaultRegion": "yue-HK",
   "testUtterance": "你好，我叫 {name}，係越中文聲。",
   "voices": [ 
     {
