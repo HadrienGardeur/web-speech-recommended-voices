@@ -34,7 +34,7 @@ In its current state, it covers 43 languages:
 * [Bulgarian](json/bg.json)
 * [Catalan](json/ca.json)
 * Chinese:
-  * [Mandarin Chinese](json/wuu.json) (Mainland China, Taiwain)
+  * [Mandarin Chinese](json/cmn.json) (Mainland China, Taiwain)
   * [Wu Chinese](json/wuu.json) (aka "Shanghainese")
   * [Yue Chinese](json/yue.json) (aka "Cantonese")
 * [Croatian](json/hr.json)
