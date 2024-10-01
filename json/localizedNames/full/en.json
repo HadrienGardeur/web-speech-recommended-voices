@@ -12,6 +12,7 @@
     "brx": "Bodo",
     "bs": "Bosnian",
     "ca": "Catalan",
+    "cmn": "Chinese",
     "cs": "Czech",
     "cy": "Welsh",
     "da": "Danish",
@@ -75,8 +76,7 @@
     "uk": "Ukrainian",
     "ur": "Urdu",
     "vi": "Vietnamese",
-    "wuu": "Shanghainese",
-    "zh": "Chinese"
+    "wuu": "Shanghainese"
   },
   "regions": {
     "0001": "World",
