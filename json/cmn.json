@@ -573,6 +573,102 @@
       "preloaded": true
     },
     {
+      "label": "Huihui",
+      "name": "Microsoft Huihui - Chinese (Simplified, PRC)",
+      "language": "cmn-CN",
+      "altLanguage": "zh-CN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Yaoyao",
+      "name": "Microsoft Yaoyao - Chinese (Simplified, PRC)",
+      "language": "cmn-CN",
+      "altLanguage": "zh-CN",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Kangkang",
+      "name": "Microsoft Kangkang - Chinese (Simplified, PRC)",
+      "language": "cmn-CN",
+      "altLanguage": "zh-CN",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Yating",
+      "name": "Microsoft Yating - Chinese (Traditional, Taiwan)",
+      "language": "cmn-TW",
+      "altLanguage": "zh-TW",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Hanhan",
+      "name": "Microsoft Hanhan - Chinese (Traditional, Taiwan)",
+      "language": "cmn-TW",
+      "altLanguage": "zh-TW",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Zhiwei",
+      "name": "Microsoft Zhiwei - Chinese (Traditional, Taiwan)",
+      "language": "cmn-TW",
+      "altLanguage": "zh-TW",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "女声1",
       "name": "Android Speech Recognition and Synthesis from Google cmn-CN-x-ccc-network",
       "altNames": [

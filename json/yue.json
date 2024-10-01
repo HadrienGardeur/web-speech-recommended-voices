@@ -92,6 +92,38 @@
       "preloaded": true
     },
     {
+      "label": "Tracy",
+      "name": "Microsoft Tracy - Chinese (Traditional, Hong Kong S.A.R.)",
+      "language": "cmn-HK",
+      "altLanguage": "zh-HK",
+      "gender": "female",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Danny",
+      "name": "Microsoft Danny - Chinese (Traditional, Hong Kong S.A.R.)",
+      "language": "cmn-HK",
+      "altLanguage": "zh-HK",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+    {
       "label": "女聲1",
       "name": "Android Speech Recognition and Synthesis from Google yue-hk-x-jar-network",
       "altNames": [
