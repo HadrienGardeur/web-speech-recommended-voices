@@ -1,7 +1,7 @@
 {
   "language": "cmn",
   "defaultRegion": "cmn-CN",
-  "testUtterance": "你好，我的名字是 {name}，我是吴语配音。",
+  "testUtterance": "你好，我的名字是 {name}，我是普通话配音。",
   "voices": [ 
     {
       "label": "Xiaoxiao",
