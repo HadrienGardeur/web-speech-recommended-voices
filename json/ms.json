@@ -53,6 +53,22 @@
       "preloaded": true
     },
     {
+      "label": "Rizwan",
+      "name": "Microsoft Rizwan - Malay (Malaysia)",
+      "language": "ms-MY",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+
+    {
       "label": "Suara perempuan 1",
       "name": "Android Speech Recognition and Synthesis from Google ms-my-x-msc-network",
       "altNames": [

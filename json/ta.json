@@ -143,6 +143,22 @@
       "preloaded": true
     },
     {
+      "label": "Valluvar",
+      "name": "Microsoft Valluvar - Tamil (India)",
+      "language": "ta-IN",
+      "gender": "male",
+      "quality": [
+        "normal"
+      ],
+      "rate": 1,
+      "pitch": 1,
+      "os": [
+        "Windows"
+      ],
+      "preloaded": true
+    },
+
+    {
       "label": "பெண் குரல்",
       "name": "Android Speech Recognition and Synthesis from Google ta-in-x-tac-network",
       "altNames": [
