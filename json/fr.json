@@ -4,7 +4,7 @@
   "testUtterance": "Bonjour, mon nom est {name} et je suis une voix française.",
   "voices": [
     {
-      "label": "Vivienne (France)",
+      "label": "Vivienne",
       "name": "Microsoft VivienneMultilingual Online (Natural) - French (France)",
       "language": "fr-FR",
       "multiLingual": true,
@@ -20,7 +20,7 @@
       "preloaded": true
     },
     {
-      "label": "Denise (France)",
+      "label": "Denise",
       "name": "Microsoft Denise Online (Natural) - French (France)",
       "language": "fr-FR",
       "gender": "female",
@@ -35,7 +35,7 @@
       "preloaded": true
     },
     {
-      "label": "Charline (Belgique)",
+      "label": "Charline",
       "name": "Microsoft Charline Online (Natural) - French (Belgium)",
       "language": "fr-BE",
       "gender": "female",
@@ -50,7 +50,7 @@
       "preloaded": true
     },
     {
-      "label": "Ariane (Suisse)",
+      "label": "Ariane",
       "name": "Microsoft Ariane Online (Natural) - French (Switzerland)",
       "language": "fr-CH",
       "gender": "female",
@@ -65,7 +65,7 @@
       "preloaded": true
     },
     {
-      "label": "Eloise (France)",
+      "label": "Eloise",
       "name": "Microsoft Eloise Online (Natural) - French (France)",
       "language": "fr-FR",
       "gender": "female",
@@ -81,7 +81,7 @@
       "preloaded": true
     },
     {
-      "label": "Remy (France)",
+      "label": "Remy",
       "name": "Microsoft RemyMultilingual Online (Natural) - French (France)",
       "language": "fr-FR",
       "multiLingual": true,
@@ -97,7 +97,7 @@
       "preloaded": true
     },
     {
-      "label": "Henri (France)",
+      "label": "Henri",
       "name": "Microsoft Henri Online (Natural) - French (France)",
       "language": "fr-FR",
       "gender": "male",
@@ -112,7 +112,7 @@
       "preloaded": true
     },
     {
-      "label": "Gerard (Belgique)",
+      "label": "Gerard",
       "name": "Microsoft Gerard Online (Natural) - French (Belgium)",
       "language": "fr-BE",
       "gender": "male",
@@ -127,7 +127,7 @@
       "preloaded": true
     },
     {
-      "label": "Fabrice (Suisse)",
+      "label": "Fabrice",
       "name": "Microsoft Fabrice Online (Natural) - French (Switzerland)",
       "language": "fr-CH",
       "gender": "male",
@@ -142,7 +142,7 @@
       "preloaded": true
     },
     {
-      "label": "Sylvie (Canada)",
+      "label": "Sylvie",
       "name": "Microsoft Sylvie Online (Natural) - French (Canada)",
       "language": "fr-CA",
       "otherLanguages": [
@@ -160,7 +160,7 @@
       "preloaded": true
     },
     {
-      "label": "Antoine (Canada)",
+      "label": "Antoine",
       "name": "Microsoft Antoine Online (Natural) - French (Canada)",
       "language": "fr-CA",
       "gender": "male",
@@ -175,7 +175,7 @@
       "preloaded": true
     },
     {
-      "label": "Jean (Canada)",
+      "label": "Jean",
       "name": "Microsoft Jean Online (Natural) - French (Canada)",
       "language": "fr-CA",
       "gender": "male",
@@ -190,7 +190,7 @@
       "preloaded": true
     },
     {
-      "label": "Thierry (Canada)",
+      "label": "Thierry",
       "name": "Microsoft Thierry Online (Natural) - French (Canada)",
       "language": "fr-CA",
       "otherLanguages": [
@@ -208,7 +208,7 @@
       "preloaded": true
     },
     {
-      "label": "Audrey (France)",
+      "label": "Audrey",
       "name": "Audrey",
       "localizedName": "apple",
       "language": "fr-FR",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "label": "Aurélie (France)",
+      "label": "Aurélie",
       "name": "Aurélie",
       "localizedName": "apple",
       "language": "fr-FR",
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "label": "Marie (France)",
+      "label": "Marie",
       "name": "Marie",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -264,7 +264,7 @@
       "preloaded": true
     },
     {
-      "label": "Thomas (France)",
+      "label": "Thomas",
       "name": "Thomas",
       "localizedName": "apple",
       "language": "fr-FR",
@@ -283,7 +283,7 @@
       "preloaded": true
     },
     {
-      "label": "Aude (Belgique)",
+      "label": "Aude",
       "name": "Aude",
       "localizedName": "apple",
       "language": "fr-BE",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "label": "Chantal (Canada)",
+      "label": "Chantal",
       "name": "Chantal",
       "localizedName": "apple",
       "language": "fr-CA",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "label": "Amélie (Canada)",
+      "label": "Amélie",
       "name": "Amélie",
       "localizedName": "apple",
       "language": "fr-CA",
@@ -338,7 +338,7 @@
       "preloaded": true
     },
     {
-      "label": "Nicolas (Canada)",
+      "label": "Nicolas",
       "name": "Nicolas",
       "localizedName": "apple",
       "language": "fr-CA",
@@ -372,7 +372,7 @@
       "preloaded": true
     },
     {
-      "label": "Julie (France)",
+      "label": "Julie",
       "name": "Microsoft Julie - French (France)",
       "language": "fr-FR",
       "gender": "female",
@@ -387,7 +387,7 @@
       "preloaded": true
     },
     {
-      "label": "Hortence (France)",
+      "label": "Hortence",
       "name": "Microsoft Hortence - French (France)",
       "language": "fr-FR",
       "gender": "female",
@@ -402,7 +402,7 @@
       "preloaded": true
     },
     {
-      "label": "Paul (France)",
+      "label": "Paul",
       "name": "Microsoft Paul - French (France)",
       "language": "fr-FR",
       "gender": "male",
@@ -417,7 +417,7 @@
       "preloaded": true
     },
     {
-      "label": "Caroline (Canada)",
+      "label": "Caroline",
       "name": "Microsoft Caroline - French (Canada)",
       "language": "fr-CA",
       "gender": "female",
@@ -432,7 +432,7 @@
       "preloaded": true
     },
     {
-      "label": "Claude (Canada)",
+      "label": "Claude",
       "name": "Microsoft Claude - French (Canada)",
       "language": "fr-CA",
       "gender": "male",
@@ -447,7 +447,7 @@
       "preloaded": true
     },
     {
-      "label": "Guillaume (Suisse)",
+      "label": "Guillaume",
       "name": "Microsoft Claude - French (Switzerland)",
       "language": "fr-CH",
       "gender": "male",

@@ -4,7 +4,7 @@
   "testUtterance": "Hello, my name is {name} and I am an English voice.",
   "voices": [
     {
-      "label": "Emma (US)",
+      "label": "Emma",
       "name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
       "altNames": [
         "Microsoft Emma Online (Natural) - English (United States)"
@@ -23,7 +23,7 @@
       "preloaded": true
     },
     {
-      "label": "Microsoft Ava (US)",
+      "label": "Microsoft Ava",
       "name": "Microsoft AvaMultilingual Online (Natural) - English (United States)",
       "altNames": [
         "Microsoft Ava Online (Natural) - English (United States)"
@@ -42,7 +42,7 @@
       "preloaded": true
     },
     {
-      "label": "Jenny (US)",
+      "label": "Jenny",
       "name": "Microsoft Jenny Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "female",
@@ -57,7 +57,7 @@
       "preloaded": true
     },
     {
-      "label": "Aria (US)",
+      "label": "Aria",
       "name": "Microsoft Aria Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "female",
@@ -72,7 +72,7 @@
       "preloaded": true
     },
     {
-      "label": "Michelle (US)",
+      "label": "Michelle",
       "name": "Microsoft Michelle Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "female",
@@ -87,7 +87,7 @@
       "preloaded": true
     },
     {
-      "label": "Ana (US)",
+      "label": "Ana",
       "name": "Microsoft Ana Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "female",
@@ -103,7 +103,7 @@
       "preloaded": true
     },
     {
-      "label": "Andrew (US)",
+      "label": "Andrew",
       "name": "Microsoft AndrewMultilingual Online (Natural) - English (United States)",
       "altNames": [
         "Microsoft Andrew Online (Natural) - English (United States)"
@@ -122,7 +122,7 @@
       "preloaded": true
     },
     {
-      "label": "Brian (US)",
+      "label": "Brian",
       "name": "Microsoft BrianMultilingual Online (Natural) - English (United States)",
       "altNames": [
         "Microsoft Brian Online (Natural) - English (United States)"
@@ -141,7 +141,7 @@
       "preloaded": true
     },
     {
-      "label": "Guy (US)",
+      "label": "Guy",
       "name": "Microsoft Guy Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -156,7 +156,7 @@
       "preloaded": true
     },
     {
-      "label": "Eric (US)",
+      "label": "Eric",
       "name": "Microsoft Eric Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -171,7 +171,7 @@
       "preloaded": true
     },
     {
-      "label": "Steffan (US)",
+      "label": "Steffan",
       "name": "Microsoft Steffan Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -186,7 +186,7 @@
       "preloaded": true
     },
     {
-      "label": "Christopher (US)",
+      "label": "Christopher",
       "name": "Microsoft Christopher Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -201,7 +201,7 @@
       "preloaded": true
     },
     {
-      "label": "Roger (US)",
+      "label": "Roger",
       "name": "Microsoft Roger Online (Natural) - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -216,7 +216,7 @@
       "preloaded": true
     },
     {
-      "label": "Sonia (UK)",
+      "label": "Sonia",
       "name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
       "language": "en-GB",
       "gender": "female",
@@ -231,7 +231,7 @@
       "preloaded": true
     },
     {
-      "label": "Libby (UK)",
+      "label": "Libby",
       "name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
       "language": "en-GB",
       "gender": "female",
@@ -246,7 +246,7 @@
       "preloaded": true
     },
     {
-      "label": "Maisie (UK)",
+      "label": "Maisie",
       "name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
       "language": "en-GB",
       "gender": "female",
@@ -262,7 +262,7 @@
       "preloaded": true
     },
     {
-      "label": "Ryan (UK)",
+      "label": "Ryan",
       "name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
       "language": "en-GB",
       "gender": "male",
@@ -277,7 +277,7 @@
       "preloaded": true
     },
     {
-      "label": "Thomas (UK)",
+      "label": "Thomas",
       "name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
       "language": "en-GB",
       "gender": "male",
@@ -292,7 +292,7 @@
       "preloaded": true
     },
     {
-      "label": "Natasha (Australia)",
+      "label": "Natasha",
       "name": "Microsoft Natasha Online (Natural) - English (Australia)",
       "language": "en-AU",
       "gender": "female",
@@ -307,7 +307,7 @@
       "preloaded": true
     },
     {
-      "label": "Hayley (Australia)",
+      "label": "Hayley",
       "name": "Microsoft Hayley Online - English (Australia)",
       "language": "en-AU",
       "gender": "female",
@@ -322,7 +322,7 @@
       "preloaded": true
     },
     {
-      "label": "William (Australia)",
+      "label": "William",
       "name": "Microsoft William Online (Natural) - English (Australia)",
       "language": "en-AU",
       "gender": "male",
@@ -337,7 +337,7 @@
       "preloaded": true
     },
     {
-      "label": "Clara (Canada)",
+      "label": "Clara",
       "name": "Microsoft Clara Online (Natural) - English (Canada)",
       "language": "en-CA",
       "gender": "female",
@@ -352,7 +352,7 @@
       "preloaded": true
     },
     {
-      "label": "Heather (Canada)",
+      "label": "Heather",
       "name": "Microsoft Heather Online - English (Canada)",
       "language": "en-CA",
       "gender": "female",
@@ -367,7 +367,7 @@
       "preloaded": true
     },
     {
-      "label": "Liam (Canada)",
+      "label": "Liam",
       "name": "Microsoft Liam Online (Natural) - English (Canada)",
       "language": "en-CA",
       "gender": "male",
@@ -382,7 +382,7 @@
       "preloaded": true
     },
     {
-      "label": "Neerja (India)",
+      "label": "Neerja",
       "name": "Microsoft Neerja Online (Natural) - English (India)",
       "altNames": [
         "Microsoft Neerja Online (Natural) - English (India) (Preview)"
@@ -400,7 +400,7 @@
       "preloaded": true
     },
     {
-      "label": "Prabhat (India)",
+      "label": "Prabhat",
       "name": "Microsoft Prabhat Online (Natural) - English (India)",
       "language": "en-IN",
       "gender": "male",
@@ -415,7 +415,7 @@
       "preloaded": true
     },
     {
-      "label": "Emily (Ireland)",
+      "label": "Emily",
       "name": "Microsoft Emily Online (Natural) - English (Ireland)",
       "language": "en-IE",
       "gender": "female",
@@ -430,7 +430,7 @@
       "preloaded": true
     },
     {
-      "label": "Connor (Ireland)",
+      "label": "Connor",
       "name": "Microsoft Connor Online (Natural) - English (Ireland)",
       "language": "en-IE",
       "gender": "male",
@@ -445,7 +445,7 @@
       "preloaded": true
     },
     {
-      "label": "Leah (South Africa)",
+      "label": "Leah",
       "name": "Microsoft Leah Online (Natural) - English (South Africa)",
       "language": "en-ZA",
       "gender": "female",
@@ -460,7 +460,7 @@
       "preloaded": true
     },
     {
-      "label": "Luke (South Africa)",
+      "label": "Luke",
       "name": "Microsoft Luke Online (Natural) - English (South Africa)",
       "language": "en-ZA",
       "gender": "male",
@@ -475,7 +475,7 @@
       "preloaded": true
     },
     {
-      "label": "Yan (Hongkong)",
+      "label": "Yan",
       "name": "Microsoft Yan Online (Natural) - English (Hongkong)",
       "language": "en-HK",
       "gender": "female",
@@ -490,7 +490,7 @@
       "preloaded": true
     },
     {
-      "label": "Sam (Hongkong)",
+      "label": "Sam",
       "name": "Microsoft Sam Online (Natural) - English (Hongkong)",
       "language": "en-HK",
       "gender": "male",
@@ -505,7 +505,7 @@
       "preloaded": true
     },
     {
-      "label": "Asilia (Kenya)",
+      "label": "Asilia",
       "name": "Microsoft Asilia Online (Natural) - English (Kenya)",
       "language": "en-KE",
       "gender": "female",
@@ -520,7 +520,7 @@
       "preloaded": true
     },
     {
-      "label": "Chilemba (Kenya)",
+      "label": "Chilemba",
       "name": "Microsoft Chilemba Online (Natural) - English (Kenya)",
       "language": "en-KE",
       "gender": "male",
@@ -535,7 +535,7 @@
       "preloaded": true
     },
     {
-      "label": "Molly (New Zealand)",
+      "label": "Molly",
       "name": "Microsoft Molly Online (Natural) - English (New Zealand)",
       "language": "en-NZ",
       "gender": "female",
@@ -550,7 +550,7 @@
       "preloaded": true
     },
     {
-      "label": "Mitchell (New Zealand)",
+      "label": "Mitchell",
       "name": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
       "language": "en-NZ",
       "gender": "male",
@@ -565,7 +565,7 @@
       "preloaded": true
     },
     {
-      "label": "Ezinne (Nigeria)",
+      "label": "Ezinne",
       "name": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
       "language": "en-NG",
       "gender": "female",
@@ -580,7 +580,7 @@
       "preloaded": true
     },
     {
-      "label": "Abeo (Nigeria)",
+      "label": "Abeo",
       "name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
       "language": "en-NG",
       "gender": "male",
@@ -595,7 +595,7 @@
       "preloaded": true
     },
     {
-      "label": "Luna (Singapore)",
+      "label": "Luna",
       "name": "Microsoft Luna Online (Natural) - English (Singapore)",
       "language": "en-SG",
       "gender": "female",
@@ -610,7 +610,7 @@
       "preloaded": true
     },
     {
-      "label": "Wayne (Singapore)",
+      "label": "Wayne",
       "name": "Microsoft Wayne Online (Natural) - English (Singapore)",
       "language": "en-SG",
       "gender": "male",
@@ -625,7 +625,7 @@
       "preloaded": true
     },
     {
-      "label": "Imani (Tanzania)",
+      "label": "Imani",
       "name": "Microsoft Imani Online (Natural) - English (Tanzania)",
       "language": "en-TZ",
       "gender": "female",
@@ -640,7 +640,7 @@
       "preloaded": true
     },
     {
-      "label": "Elimu (Tanzania)",
+      "label": "Elimu",
       "name": "Microsoft Elimu Online (Natural) - English (Tanzania)",
       "language": "en-TZ",
       "gender": "male",
@@ -655,7 +655,7 @@
       "preloaded": true
     },
     {
-      "label": "Apple Ava (US)",
+      "label": "Apple Ava",
       "name": "Ava",
       "localizedName": "apple",
       "language": "en-US",
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "label": "Zoe (US)",
+      "label": "Zoe",
       "name": "Zoe",
       "localizedName": "apple",
       "language": "en-US",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "label": "Allison (US)",
+      "label": "Allison",
       "name": "Allison",
       "localizedName": "apple",
       "language": "en-US",
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "label": "Nicky (US)",
+      "label": "Nicky",
       "name": "Nicky",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS. Unlike other Siri voices, a higher quality version can be installed and used.",
@@ -731,7 +731,7 @@
       "preloaded": true
     },
     {
-      "label": "Samantha (US)",
+      "label": "Samantha",
       "name": "Samantha",
       "localizedName": "apple",
       "language": "en-US",
@@ -750,7 +750,7 @@
       "preloaded": true
     },
     {
-      "label": "Joelle (US)",
+      "label": "Joelle",
       "name": "Joelle",
       "localizedName": "apple",
       "language": "en-US",
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "label": "Evan (US)",
+      "label": "Evan",
       "name": "Evan",
       "localizedName": "apple",
       "language": "en-US",
@@ -786,7 +786,7 @@
       ]
     },
     {
-      "label": "Nathan (US)",
+      "label": "Nathan",
       "name": "Nathan",
       "localizedName": "apple",
       "language": "en-US",
@@ -804,7 +804,7 @@
       ]
     },
     {
-      "label": "Tom (US)",
+      "label": "Tom",
       "name": "Tom",
       "localizedName": "apple",
       "language": "en-US",
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "label": "Alex (US)",
+      "label": "Alex",
       "name": "Alex",
       "localizedName": "apple",
       "language": "en-US",
@@ -839,7 +839,7 @@
       ]
     },
     {
-      "label": "Aaron (US)",
+      "label": "Aaron",
       "name": "Aaron",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -858,7 +858,7 @@
       "preloaded": true
     },
     {
-      "label": "Kate (UK)",
+      "label": "Kate",
       "name": "Kate",
       "localizedName": "apple",
       "language": "en-GB",
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "label": "Stephanie (UK)",
+      "label": "Stephanie",
       "name": "Stephanie",
       "localizedName": "apple",
       "language": "en-GB",
@@ -894,7 +894,7 @@
       ]
     },
     {
-      "label": "Serena (UK)",
+      "label": "Serena",
       "name": "Serena",
       "localizedName": "apple",
       "language": "en-GB",
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "label": "Martha (UK)",
+      "label": "Martha",
       "name": "Martha",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -932,7 +932,7 @@
       "preloaded": true
     },
     {
-      "label": "Jamie (UK)",
+      "label": "Jamie",
       "name": "Jamie",
       "localizedName": "apple",
       "language": "en-GB",
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "label": "Oliver (UK)",
+      "label": "Oliver",
       "name": "Oliver",
       "localizedName": "apple",
       "language": "en-GB",
@@ -969,7 +969,7 @@
       ]
     },
     {
-      "label": "Daniel (UK)",
+      "label": "Daniel",
       "name": "Daniel",
       "localizedName": "apple",
       "language": "en-GB",
@@ -988,7 +988,7 @@
       "preloaded": true
     },
     {
-      "label": "Arthur (UK)",
+      "label": "Arthur",
       "name": "Arthur",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -1007,7 +1007,7 @@
       "preloaded": true
     },
     {
-      "label": "Matilda (Australia)",
+      "label": "Matilda",
       "name": "Matilda",
       "localizedName": "apple",
       "language": "en-AU",
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "label": "Karen (Australia)",
+      "label": "Karen",
       "name": "Karen",
       "localizedName": "apple",
       "language": "en-AU",
@@ -1046,7 +1046,7 @@
       "preloaded": true
     },
     {
-      "label": "Catherine (Australia)",
+      "label": "Catherine",
       "name": "Catherine",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -1065,7 +1065,7 @@
       "preloaded": true
     },
     {
-      "label": "Lee (Australia)",
+      "label": "Lee",
       "name": "Lee",
       "localizedName": "apple",
       "language": "en-AU",
@@ -1084,7 +1084,7 @@
       ]
     },
     {
-      "label": "Gordon (Australia)",
+      "label": "Gordon",
       "name": "Gordon",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -1103,7 +1103,7 @@
       "preloaded": true
     },
     {
-      "label": "Isha (India)",
+      "label": "Isha",
       "name": "Isha",
       "localizedName": "apple",
       "language": "en-IN",
@@ -1122,7 +1122,7 @@
       ]
     },
     {
-      "label": "Sangeeta (India)",
+      "label": "Sangeeta",
       "name": "Sangeeta",
       "localizedName": "apple",
       "language": "en-IN",
@@ -1140,7 +1140,7 @@
       ]
     },
     {
-      "label": "Rishi (India)",
+      "label": "Rishi",
       "name": "Rishi",
       "localizedName": "apple",
       "language": "en-IN",
@@ -1159,7 +1159,7 @@
       "preloaded": true
     },
     {
-      "label": "Moira (Ireland)",
+      "label": "Moira",
       "name": "Moira",
       "localizedName": "apple",
       "language": "en-IE",
@@ -1177,7 +1177,7 @@
       ]
     },
     {
-      "label": "Tessa (South Africa)",
+      "label": "Tessa",
       "name": "Tessa",
       "localizedName": "apple",
       "language": "en-ZA",
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "label": "Fiona (Scotland)",
+      "label": "Fiona",
       "name": "Fiona",
       "localizedName": "apple",
       "language": "en-GB-u-sd-gbsct",
@@ -1261,7 +1261,7 @@
       "preloaded": true
     },
     {
-      "label": "Zira (US)",
+      "label": "Zira",
       "name": "Microsoft Zira - English (United States)",
       "language": "en-US",
       "gender": "female",
@@ -1276,7 +1276,7 @@
       "preloaded": true
     },
     {
-      "label": "David (US)",
+      "label": "David",
       "name": "Microsoft David - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -1291,7 +1291,7 @@
       "preloaded": true
     },
     {
-      "label": "Mark (US)",
+      "label": "Mark",
       "name": "Microsoft Mark - English (United States)",
       "language": "en-US",
       "gender": "male",
@@ -1306,7 +1306,7 @@
       "preloaded": true
     },
     {
-      "label": "Hazel (UK)",
+      "label": "Hazel",
       "name": "Microsoft Hazel - English (Great Britain)",
       "language": "en-GB",
       "gender": "female",
@@ -1321,7 +1321,7 @@
       "preloaded": true
     },
     {
-      "label": "Susan (UK)",
+      "label": "Susan",
       "name": "Microsoft Susan - English (Great Britain)",
       "language": "en-GB",
       "gender": "female",
@@ -1336,7 +1336,7 @@
       "preloaded": true
     },
     {
-      "label": "George (UK)",
+      "label": "George",
       "name": "Microsoft George - English (Great Britain)",
       "language": "en-GB",
       "gender": "male",
@@ -1351,7 +1351,7 @@
       "preloaded": true
     },
     {
-      "label": "Catherine (Australia)",
+      "label": "Catherine",
       "name": "Microsoft Catherine - English (Austalia)",
       "language": "en-AU",
       "gender": "female",
@@ -1366,7 +1366,7 @@
       "preloaded": true
     },
     {
-      "label": "James (Australia)",
+      "label": "James",
       "name": "Microsoft Richard - English (Australia)",
       "language": "en-AU",
       "gender": "male",
@@ -1381,7 +1381,7 @@
       "preloaded": true
     },
     {
-      "label": "Linda (Canada)",
+      "label": "Linda",
       "name": "Microsoft Linda - English (Canada)",
       "language": "en-CA",
       "gender": "female",
@@ -1396,7 +1396,7 @@
       "preloaded": true
     },
     {
-      "label": "Richard (Canada)",
+      "label": "Richard",
       "name": "Microsoft Richard - English (Canada)",
       "language": "en-CA",
       "gender": "male",
@@ -1411,7 +1411,7 @@
       "preloaded": true
     },
     {
-      "label": "Heera (India)",
+      "label": "Heera",
       "name": "Microsoft Heera - English (India)",
       "language": "en-IN",
       "gender": "female",
@@ -1426,7 +1426,7 @@
       "preloaded": true
     },
     {
-      "label": "Ravi (India)",
+      "label": "Ravi",
       "name": "Microsoft Ravi - English (India)",
       "language": "en-IN",
       "gender": "male",
@@ -1441,7 +1441,7 @@
       "preloaded": true
     },
     {
-      "label": "Sean (Ireland)",
+      "label": "Sean",
       "name": "Microsoft Sean - English (Ireland)",
       "language": "en-IE",
       "gender": "male",

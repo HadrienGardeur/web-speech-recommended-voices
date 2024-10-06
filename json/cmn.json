@@ -68,7 +68,7 @@
       "preloaded": true
     },
     {
-      "label": "Xiaobei (Northeastern Mandarin)",
+      "label": "Xiaobei",
       "name": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)",
       "language": "cmn-CN-liaoning",
       "altLanguage": "zh-CN-liaoning",
@@ -84,7 +84,7 @@
       "preloaded": true
     },
     {
-      "label": "Xiaoni (Zhongyuan Mandarin Shaanxi)",
+      "label": "Xiaoni",
       "name": "Microsoft Xiaobei Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
       "language": "cmn-CN-shaanxi",
       "altLanguage": "zh-CN-shaanxi",
@@ -148,7 +148,7 @@
       "preloaded": true
     },
     {
-      "label": "HsiaoYu (Taiwanese Mandarin)",
+      "label": "HsiaoYu",
       "name": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)",
       "language": "cmn-TW",
       "altLanguage": "zh-TW",
@@ -368,7 +368,7 @@
       "preloaded": true
     },
     {
-      "label": "Dongmei (Northeastern Mandarin)",
+      "label": "Dongmei",
       "name": "Dongmei",
       "localizedName": "apple",
       "language": "cmn-CN-liaoning",
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "label": "Panpan (Southwestern Mandarin)",
+      "label": "Panpan",
       "name": "Panpan",
       "localizedName": "apple",
       "language": "cmn-CN-sichuan",
@@ -519,7 +519,7 @@
       "preloaded": true
     },
     {
-      "label": "Haohao (Zhongyuan Mandarin Shaanxi)",
+      "label": "Haohao",
       "name": "Haohao",
       "localizedName": "apple",
       "language": "cmn-CN-shaanxi",

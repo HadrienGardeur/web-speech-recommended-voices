@@ -4,7 +4,7 @@
   "testUtterance": "Hola, mi nombre es {name} y soy una voz española.",
   "voices": [
     {
-      "label": "Elvira (España)",
+      "label": "Elvira",
       "name": "Microsoft Elvira Online (Natural) - Spanish (Spain)",
       "language": "es-ES",
       "gender": "female",
@@ -19,7 +19,7 @@
       "preloaded": true
     },
     {
-      "label": "Alvaro (España)",
+      "label": "Alvaro",
       "name": "Microsoft Alvaro Online (Natural) - Spanish (Spain)",
       "language": "es-ES",
       "gender": "male",
@@ -34,7 +34,7 @@
       "preloaded": true
     },
     {
-      "label": "Dalia (México)",
+      "label": "Dalia",
       "name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)",
       "language": "es-MX",
       "gender": "female",
@@ -49,7 +49,7 @@
       "preloaded": true
     },
     {
-      "label": "Microsoft Jorge (México)",
+      "label": "Microsoft Jorge",
       "name": "Microsoft Jorge Online (Natural) - Spanish (Mexico)",
       "language": "es-MX",
       "gender": "male",
@@ -64,7 +64,7 @@
       "preloaded": true
     },
     {
-      "label": "Elena (Argentina)",
+      "label": "Elena",
       "name": "Microsoft Elena Online (Natural) - Spanish (Argentina)",
       "language": "es-AR",
       "gender": "female",
@@ -79,7 +79,7 @@
       "preloaded": true
     },
     {
-      "label": "Tomas (Argentina)",
+      "label": "Tomas",
       "name": "Microsoft Tomas Online (Natural) - Spanish (Argentina)",
       "language": "es-AR",
       "gender": "male",
@@ -94,7 +94,7 @@
       "preloaded": true
     },
     {
-      "label": "Sofia (Bolivia)",
+      "label": "Sofia",
       "name": "Microsoft Sofia Online (Natural) - Spanish (Bolivia)",
       "language": "es-BO",
       "gender": "female",
@@ -109,7 +109,7 @@
       "preloaded": true
     },
     {
-      "label": "Marcelo (Bolivia)",
+      "label": "Marcelo",
       "name": "Microsoft Marcelo Online (Natural) - Spanish (Bolivia)",
       "language": "es-BO",
       "gender": "male",
@@ -124,7 +124,7 @@
       "preloaded": true
     },
     {
-      "label": "Catalina (Chile)",
+      "label": "Catalina",
       "name": "Microsoft Catalina Online (Natural) - Spanish (Chile)",
       "language": "es-CL",
       "gender": "female",
@@ -139,7 +139,7 @@
       "preloaded": true
     },
     {
-      "label": "Lorenzo (Chile)",
+      "label": "Lorenzo",
       "name": "Microsoft Lorenzo Online (Natural) - Spanish (Chile)",
       "language": "es-CL",
       "gender": "male",
@@ -154,7 +154,7 @@
       "preloaded": true
     },
     {
-      "label": "Ximena (Colombia)",
+      "label": "Ximena",
       "name": "Microsoft Ximena Online (Natural) - Spanish (Colombia)",
       "language": "es-CO",
       "gender": "female",
@@ -169,7 +169,7 @@
       "preloaded": true
     },
     {
-      "label": "Salome (Colombia)",
+      "label": "Salome",
       "name": "Microsoft Salome Online (Natural) - Spanish (Colombia)",
       "language": "es-CO",
       "gender": "female",
@@ -184,7 +184,7 @@
       "preloaded": true
     },
     {
-      "label": "Gonzalo (Colombia)",
+      "label": "Gonzalo",
       "name": "Microsoft Gonzalo Online (Natural) - Spanish (Colombia)",
       "language": "es-CO",
       "gender": "male",
@@ -199,7 +199,7 @@
       "preloaded": true
     },
     {
-      "label": "Maria (Costa Rica)",
+      "label": "Maria",
       "name": "Microsoft Maria Online (Natural) - Spanish (Costa Rica)",
       "language": "es-CR",
       "gender": "female",
@@ -214,7 +214,7 @@
       "preloaded": true
     },
     {
-      "label": "Juan (Costa Rica)",
+      "label": "Juan",
       "name": "Microsoft Juan Online (Natural) - Spanish (Costa Rica)",
       "language": "es-CR",
       "gender": "male",
@@ -229,7 +229,7 @@
       "preloaded": true
     },
     {
-      "label": "Belkys (Cuba)",
+      "label": "Belkys",
       "name": "Microsoft Belkys Online (Natural) - Spanish (Cuba)",
       "language": "es-CU",
       "gender": "female",
@@ -244,7 +244,7 @@
       "preloaded": true
     },
     {
-      "label": "Manuel (Cuba)",
+      "label": "Manuel",
       "name": "Microsoft Manuel Online (Natural) - Spanish (Cuba)",
       "language": "es-CU",
       "gender": "male",
@@ -259,7 +259,7 @@
       "preloaded": true
     },
     {
-      "label": "Andrea (Ecuador)",
+      "label": "Andrea",
       "name": "Microsoft Andrea Online (Natural) - Spanish (Ecuador)",
       "language": "es-EC",
       "gender": "female",
@@ -274,7 +274,7 @@
       "preloaded": true
     },
     {
-      "label": "Luis (Ecuador)",
+      "label": "Luis",
       "name": "Microsoft Luis Online (Natural) - Spanish (Ecuador)",
       "language": "es-EC",
       "gender": "male",
@@ -289,7 +289,7 @@
       "preloaded": true
     },
     {
-      "label": "Lorena (El Salvador)",
+      "label": "Lorena",
       "name": "Microsoft Lorena Online (Natural) - Spanish (El Salvador)",
       "language": "es-SV",
       "gender": "female",
@@ -304,7 +304,7 @@
       "preloaded": true
     },
     {
-      "label": "Rodrigo (El Salvador)",
+      "label": "Rodrigo",
       "name": "Microsoft Rodrigo Online (Natural) - Spanish (El Salvador)",
       "language": "es-SV",
       "gender": "male",
@@ -319,7 +319,7 @@
       "preloaded": true
     },
     {
-      "label": "Paloma (Estados Unidos)",
+      "label": "Paloma",
       "name": "Microsoft Paloma Online (Natural) - Spanish (United States)",
       "language": "es-US",
       "otherLanguages": [
@@ -337,7 +337,7 @@
       "preloaded": true
     },
     {
-      "label": "Alonso (Estados Unidos)",
+      "label": "Alonso",
       "name": "Microsoft Alonso Online (Natural) - Spanish (United States)",
       "language": "es-US",
       "otherLanguages": [
@@ -355,7 +355,7 @@
       "preloaded": true
     },
     {
-      "label": "Marta (Guatemala)",
+      "label": "Marta",
       "name": "Microsoft Marta Online (Natural) - Spanish (Guatemala)",
       "language": "es-GT",
       "gender": "female",
@@ -370,7 +370,7 @@
       "preloaded": true
     },
     {
-      "label": "Andres (Guatemala)",
+      "label": "Andres",
       "name": "Microsoft Andres Online (Natural) - Spanish (Guatemala)",
       "language": "es-GT",
       "gender": "male",
@@ -385,7 +385,7 @@
       "preloaded": true
     },
     {
-      "label": "Teresa (Guinea Ecuatorial)",
+      "label": "Teresa",
       "name": "Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea)",
       "language": "es-GQ",
       "gender": "female",
@@ -400,7 +400,7 @@
       "preloaded": true
     },
     {
-      "label": "Javier (Guinea Ecuatorial)",
+      "label": "Javier",
       "name": "Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea)",
       "language": "es-GQ",
       "gender": "male",
@@ -415,7 +415,7 @@
       "preloaded": true
     },
     {
-      "label": "Karla (Honduras)",
+      "label": "Karla",
       "name": "Microsoft Karla Online (Natural) - Spanish (Honduras)",
       "language": "es-HN",
       "gender": "female",
@@ -430,7 +430,7 @@
       "preloaded": true
     },
     {
-      "label": "Carlos (Honduras)",
+      "label": "Carlos",
       "name": "Microsoft Carlos Online (Natural) - Spanish (Honduras)",
       "language": "es-HN",
       "gender": "male",
@@ -445,7 +445,7 @@
       "preloaded": true
     },
     {
-      "label": "Yolanda (Nicaragua)",
+      "label": "Yolanda",
       "name": "Microsoft Yolanda Online (Natural) - Spanish (Nicaragua)",
       "language": "es-NI",
       "gender": "female",
@@ -460,7 +460,7 @@
       "preloaded": true
     },
     {
-      "label": "Federico (Nicaragua)",
+      "label": "Federico",
       "name": "Microsoft Federico Online (Natural) - Spanish (Nicaragua)",
       "language": "es-NI",
       "gender": "male",
@@ -475,7 +475,7 @@
       "preloaded": true
     },
     {
-      "label": "Margarita (Panamá)",
+      "label": "Margarita",
       "name": "Microsoft Margarita Online (Natural) - Spanish (Panama)",
       "language": "es-PA",
       "gender": "female",
@@ -490,7 +490,7 @@
       "preloaded": true
     },
     {
-      "label": "Roberto (Panamá)",
+      "label": "Roberto",
       "name": "Microsoft Roberto Online (Natural) - Spanish (Panama)",
       "language": "es-PA",
       "gender": "male",
@@ -505,7 +505,7 @@
       "preloaded": true
     },
     {
-      "label": "Tania (Paraguay)",
+      "label": "Tania",
       "name": "Microsoft Tania Online (Natural) - Spanish (Paraguay)",
       "language": "es-PY",
       "gender": "female",
@@ -520,7 +520,7 @@
       "preloaded": true
     },
     {
-      "label": "Mario (Paraguay)",
+      "label": "Mario",
       "name": "Microsoft Mario Online (Natural) - Spanish (Paraguay)",
       "language": "es-PY",
       "gender": "male",
@@ -535,7 +535,7 @@
       "preloaded": true
     },
     {
-      "label": "Camila (Perú)",
+      "label": "Camila",
       "name": "Microsoft Camila Online (Natural) - Spanish (Peru)",
       "language": "es-PE",
       "gender": "female",
@@ -550,7 +550,7 @@
       "preloaded": true
     },
     {
-      "label": "Alex (Perú)",
+      "label": "Alex",
       "name": "Microsoft Alex Online (Natural) - Spanish (Peru)",
       "language": "es-PE",
       "gender": "male",
@@ -565,7 +565,7 @@
       "preloaded": true
     },
     {
-      "label": "Karina (Puerto Rico)",
+      "label": "Karina",
       "name": "Microsoft Karina Online (Natural) - Spanish (Puerto Rico)",
       "language": "es-PR",
       "gender": "female",
@@ -580,7 +580,7 @@
       "preloaded": true
     },
     {
-      "label": "Victor (Puerto Rico)",
+      "label": "Victor",
       "name": "Microsoft Victor Online (Natural) - Spanish (Puerto Rico)",
       "language": "es-PR",
       "gender": "male",
@@ -595,7 +595,7 @@
       "preloaded": true
     },
     {
-      "label": "Ramona (República Dominicana)",
+      "label": "Ramona",
       "name": "Microsoft Ramona Online (Natural) - Spanish (Dominican Republic)",
       "language": "es-DO",
       "gender": "female",
@@ -610,7 +610,7 @@
       "preloaded": true
     },
     {
-      "label": "Emilio (República Dominicana)",
+      "label": "Emilio",
       "name": "Microsoft Emilio Online (Natural) - Spanish (Dominican Republic)",
       "language": "es-DO",
       "gender": "male",
@@ -625,7 +625,7 @@
       "preloaded": true
     },
     {
-      "label": "Valentina (Uruguay)",
+      "label": "Valentina",
       "name": "Microsoft Valentina Online (Natural) - Spanish (Uruguay)",
       "language": "es-UY",
       "gender": "female",
@@ -640,7 +640,7 @@
       "preloaded": true
     },
     {
-      "label": "Mateo (Uruguay)",
+      "label": "Mateo",
       "name": "Microsoft Mateo Online (Natural) - Spanish (Uruguay)",
       "language": "es-UY",
       "gender": "male",
@@ -655,7 +655,7 @@
       "preloaded": true
     },
     {
-      "label": "Paola (Venezuela)",
+      "label": "Paola",
       "name": "Microsoft Paola Online (Natural) - Spanish (Venezuela)",
       "language": "es-VE",
       "gender": "female",
@@ -670,7 +670,7 @@
       "preloaded": true
     },
     {
-      "label": "Sebastian (Venezuela)",
+      "label": "Sebastian",
       "name": "Microsoft Sebastian Online (Natural) - Spanish (Venezuela)",
       "language": "es-VE",
       "gender": "male",
@@ -685,7 +685,7 @@
       "preloaded": true
     },
     {
-      "label": "Marisol (España)",
+      "label": "Marisol",
       "name": "Marisol",
       "localizedName": "apple",
       "language": "es-ES",
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "label": "Mónica (España)",
+      "label": "Mónica",
       "name": "Mónica",
       "localizedName": "apple",
       "language": "es-ES",
@@ -722,7 +722,7 @@
       "preloaded": true
     },
     {
-      "label": "Apple Jorge (España)",
+      "label": "Apple Jorge",
       "name": "Jorge",
       "localizedName": "apple",
       "language": "es-ES",
@@ -740,7 +740,7 @@
       ]
     },
     {
-      "label": "Angelica (México)",
+      "label": "Angelica",
       "name": "Angelica",
       "localizedName": "apple",
       "language": "es-MX",
@@ -758,7 +758,7 @@
       ]
     },
     {
-      "label": "Paulina (México)",
+      "label": "Paulina",
       "name": "Paulina",
       "localizedName": "apple",
       "language": "es-MX",
@@ -777,7 +777,7 @@
       "preloaded": true
     },
     {
-      "label": "Juan (México)",
+      "label": "Juan",
       "name": "Juan",
       "localizedName": "apple",
       "language": "es-MX",
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "label": "Isabela (Argentina)",
+      "label": "Isabela",
       "name": "Isabela",
       "localizedName": "apple",
       "language": "es-AR",
@@ -813,7 +813,7 @@
       ]
     },
     {
-      "label": "Diego (Argentina)",
+      "label": "Diego",
       "name": "Diego",
       "localizedName": "apple",
       "language": "es-AR",
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "label": "Francesca (Chile)",
+      "label": "Francesca",
       "name": "Francesca",
       "localizedName": "apple",
       "language": "es-CL",
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "label": "Soledad (Colombia)",
+      "label": "Soledad",
       "name": "Soledad",
       "localizedName": "apple",
       "language": "es-CO",
@@ -867,7 +867,7 @@
       ]
     },
     {
-      "label": "Jimena (Colombia)",
+      "label": "Jimena",
       "name": "Jimena",
       "localizedName": "apple",
       "language": "es-CO",
@@ -885,7 +885,7 @@
       ]
     },
     {
-      "label": "Carlos (Colombia)",
+      "label": "Carlos",
       "name": "Carlos",
       "localizedName": "apple",
       "language": "es-CO",
@@ -935,7 +935,7 @@
       "preloaded": true
     },
     {
-      "label": "Helena (España)",
+      "label": "Helena",
       "name": "Microsoft Helena - Spanish (Spain)",
       "language": "es-ES",
       "gender": "female",
@@ -950,7 +950,7 @@
       "preloaded": true
     },
     {
-      "label": "Laura (España)",
+      "label": "Laura",
       "name": "Microsoft Laura - Spanish (Spain)",
       "language": "es-ES",
       "gender": "female",
@@ -965,7 +965,7 @@
       "preloaded": true
     },
     {
-      "label": "Pablo (España)",
+      "label": "Pablo",
       "name": "Microsoft Pablo - Spanish (Spain)",
       "language": "es-ES",
       "gender": "male",
@@ -980,7 +980,7 @@
       "preloaded": true
     },
     {
-      "label": "Sabina (México)",
+      "label": "Sabina",
       "name": "Microsoft Sabina - Spanish (Mexico)",
       "language": "es-MX",
       "gender": "female",
@@ -995,7 +995,7 @@
       "preloaded": true
     },
     {
-      "label": "Raul (México)",
+      "label": "Raul",
       "name": "Microsoft Raul - Spanish (Mexico)",
       "language": "es-MX",
       "gender": "male",

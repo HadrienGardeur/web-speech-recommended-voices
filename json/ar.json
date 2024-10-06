@@ -4,7 +4,7 @@
   "testUtterance": "مرحبًا، اسمي {name} وأنا صوت عربي.",
   "voices": [
     {
-      "label": "Amina (Algeria)",
+      "label": "Amina",
       "name": "Microsoft Amina Online (Natural) - Arabic (Algeria)",
       "language": "ar-DZ",
       "gender": "female",
@@ -19,7 +19,7 @@
       "preloaded": true
     },
     {
-      "label": "Ismael (Algeria)",
+      "label": "Ismael",
       "name": "Microsoft Ismael Online (Natural) - Arabic (Algeria)",
       "language": "ar-DZ",
       "gender": "male",
@@ -34,7 +34,7 @@
       "preloaded": true
     },
     {
-      "label": "Laila (Bahrain)",
+      "label": "Laila",
       "name": "Microsoft Laila Online (Natural) - Arabic (Bahrain)",
       "language": "ar-BH",
       "gender": "female",
@@ -49,7 +49,7 @@
       "preloaded": true
     },
     {
-      "label": "Ali (Bahrain)",
+      "label": "Ali",
       "name": "Microsoft Ali Online (Natural) - Arabic (Bahrain)",
       "language": "ar-BH",
       "gender": "male",
@@ -64,7 +64,7 @@
       "preloaded": true
     },
     {
-      "label": "Salma (Egypt)",
+      "label": "Salma",
       "name": "Microsoft Salma Online (Natural) - Arabic (Egypt)",
       "language": "ar-EG",
       "gender": "female",
@@ -79,7 +79,7 @@
       "preloaded": true
     },
     {
-      "label": "Shakir (Egypt)",
+      "label": "Shakir",
       "name": "Microsoft Shakir Online (Natural) - Arabic (Egypt)",
       "language": "ar-EG",
       "gender": "male",
@@ -94,7 +94,7 @@
       "preloaded": true
     },
     {
-      "label": "Rana (Iraq)",
+      "label": "Rana",
       "name": "Microsoft Rana Online (Natural) - Arabic (Iraq)",
       "language": "ar-IQ",
       "gender": "female",
@@ -109,7 +109,7 @@
       "preloaded": true
     },
     {
-      "label": "Bassel (Iraq)",
+      "label": "Bassel",
       "name": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
       "language": "ar-IQ",
       "gender": "male",
@@ -124,7 +124,7 @@
       "preloaded": true
     },
     {
-      "label": "Sana (Jordan)",
+      "label": "Sana",
       "name": "Microsoft Sana Online (Natural) - Arabic (Jordan)",
       "language": "ar-JO",
       "gender": "female",
@@ -139,7 +139,7 @@
       "preloaded": true
     },
     {
-      "label": "Taim (Jordan)",
+      "label": "Taim",
       "name": "Microsoft Taim Online (Natural) - Arabic (Jordan)",
       "language": "ar-JO",
       "gender": "male",
@@ -154,7 +154,7 @@
       "preloaded": true
     },
     {
-      "label": "Noura (Kuwait)",
+      "label": "Noura",
       "name": "Microsoft Noura Online (Natural) - Arabic (Kuwait)",
       "language": "ar-KW",
       "gender": "female",
@@ -169,7 +169,7 @@
       "preloaded": true
     },
     {
-      "label": "Fahed (Kuwait)",
+      "label": "Fahed",
       "name": "Microsoft Fahed Online (Natural) - Arabic (Kuwait)",
       "language": "ar-KW",
       "gender": "male",
@@ -184,7 +184,7 @@
       "preloaded": true
     },
     {
-      "label": "Layla (Lebanon)",
+      "label": "Layla",
       "name": "Microsoft Layla Online (Natural) - Arabic (Lebanon)",
       "language": "ar-LB",
       "gender": "female",
@@ -199,7 +199,7 @@
       "preloaded": true
     },
     {
-      "label": "Rami (Lebanon)",
+      "label": "Rami",
       "name": "Microsoft Rami Online (Natural) - Arabic (Lebanon)",
       "language": "ar-LB",
       "gender": "male",
@@ -214,7 +214,7 @@
       "preloaded": true
     },
     {
-      "label": "Iman (Libya)",
+      "label": "Iman",
       "name": "Microsoft Iman Online (Natural) - Arabic (Libya)",
       "language": "ar-LY",
       "gender": "female",
@@ -229,7 +229,7 @@
       "preloaded": true
     },
     {
-      "label": "Omar (Libya)",
+      "label": "Omar",
       "name": "Microsoft Omar Online (Natural) - Arabic (Libya)",
       "language": "ar-LY",
       "gender": "male",
@@ -244,7 +244,7 @@
       "preloaded": true
     },
     {
-      "label": "Mouna (Morocco)",
+      "label": "Mouna",
       "name": "Microsoft Mouna Online (Natural) - Arabic (Morocco)",
       "language": "ar-MA",
       "gender": "female",
@@ -259,7 +259,7 @@
       "preloaded": true
     },
     {
-      "label": "Jamal (Morocco)",
+      "label": "Jamal",
       "name": "Microsoft Jamal Online (Natural) - Arabic (Morocco)",
       "language": "ar-MA",
       "gender": "male",
@@ -274,7 +274,7 @@
       "preloaded": true
     },
     {
-      "label": "Aysha (Oman)",
+      "label": "Aysha",
       "name": "Microsoft Aysha Online (Natural) - Arabic (Oman)",
       "language": "ar-OM",
       "gender": "female",
@@ -289,7 +289,7 @@
       "preloaded": true
     },
     {
-      "label": "Abdullah (Oman)",
+      "label": "Abdullah",
       "name": "Microsoft Abdullah Online (Natural) - Arabic (Oman)",
       "language": "ar-OM",
       "gender": "male",
@@ -304,7 +304,7 @@
       "preloaded": true
     },
     {
-      "label": "Amal (Qatar)",
+      "label": "Amal",
       "name": "Microsoft Amal Online (Natural) - Arabic (Qatar)",
       "language": "ar-QA",
       "gender": "female",
@@ -319,7 +319,7 @@
       "preloaded": true
     },
     {
-      "label": "Moaz (Qatar)",
+      "label": "Moaz",
       "name": "Microsoft Moaz Online (Natural) - Arabic (Qatar)",
       "language": "ar-QA",
       "gender": "male",
@@ -334,7 +334,7 @@
       "preloaded": true
     },
     {
-      "label": "Zariyah (Saudi Arabia)",
+      "label": "Zariyah",
       "name": "Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia)",
       "language": "ar-SA",
       "gender": "female",
@@ -349,7 +349,7 @@
       "preloaded": true
     },
     {
-      "label": "Hamed (Saudi Arabia)",
+      "label": "Hamed",
       "name": "Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia)",
       "language": "ar-SA",
       "gender": "male",
@@ -364,7 +364,7 @@
       "preloaded": true
     },
     {
-      "label": "Amany (Syria)",
+      "label": "Amany",
       "name": "Microsoft Amany Online (Natural) - Arabic (Syria)",
       "language": "ar-SY",
       "gender": "female",
@@ -379,7 +379,7 @@
       "preloaded": true
     },
     {
-      "label": "Laith (Syria)",
+      "label": "Laith",
       "name": "Microsoft Laith Online (Natural) - Arabic (Syria)",
       "language": "ar-SY",
       "gender": "male",
@@ -394,7 +394,7 @@
       "preloaded": true
     },
     {
-      "label": "Reem (Tunisia)",
+      "label": "Reem",
       "name": "Microsoft Reem Online (Natural) - Arabic (Tunisia)",
       "language": "ar-TN",
       "gender": "female",
@@ -409,7 +409,7 @@
       "preloaded": true
     },
     {
-      "label": "Hedi (Tunisia)",
+      "label": "Hedi",
       "name": "Microsoft Hedi Online (Natural) - Arabic (Tunisia)",
       "language": "ar-TN",
       "gender": "male",
@@ -424,7 +424,7 @@
       "preloaded": true
     },
     {
-      "label": "Fatima (United Arab Emirates)",
+      "label": "Fatima",
       "name": "Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates)",
       "language": "ar-AE",
       "gender": "female",
@@ -439,7 +439,7 @@
       "preloaded": true
     },
     {
-      "label": "Hamdan (United Arab Emirates)",
+      "label": "Hamdan",
       "name": "Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates)",
       "language": "ar-AE",
       "gender": "male",
@@ -454,7 +454,7 @@
       "preloaded": true
     },
     {
-      "label": "Maryam (Yemen)",
+      "label": "Maryam",
       "name": "Microsoft Maryam Online (Natural) - Arabic (Yemen)",
       "language": "ar-YE",
       "gender": "female",
@@ -469,7 +469,7 @@
       "preloaded": true
     },
     {
-      "label": "Saleh (Yemen)",
+      "label": "Saleh",
       "name": "Microsoft Saleh Online (Natural) - Arabic (Yemen)",
       "language": "ar-YE",
       "gender": "male",

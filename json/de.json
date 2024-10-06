@@ -4,7 +4,7 @@
   "testUtterance": "Hallo, mein Name ist {name} und ich bin eine deutsche Stimme.",
   "voices": [
     {
-      "label": "Seraphina (Deutschland)",
+      "label": "Seraphina",
       "name": "Microsoft SeraphinaMultilingual Online (Natural) - German (Germany)",
       "language": "de-DE",
       "multiLingual": true,
@@ -20,7 +20,7 @@
       "preloaded": true
     },
     {
-      "label": "Amala (Deutschland)",
+      "label": "Amala",
       "name": "Microsoft Amala Online (Natural) - German (Germany)",
       "language": "de-DE",
       "gender": "female",
@@ -35,7 +35,7 @@
       "preloaded": true
     },
     {
-      "label": "Katja (Deutschland)",
+      "label": "Katja",
       "name": "Microsoft Katja Online (Natural) - German (Germany)",
       "language": "de-DE",
       "gender": "female",
@@ -50,7 +50,7 @@
       "preloaded": true
     },
     {
-      "label": "Florian (Deutschland)",
+      "label": "Florian",
       "name": "Microsoft FlorianMultilingual Online (Natural) - German (Germany)",
       "language": "de-DE",
       "multiLingual": true,
@@ -66,7 +66,7 @@
       "preloaded": true
     },
     {
-      "label": "Conrad (Deutschland)",
+      "label": "Conrad",
       "name": "Microsoft Conrad Online (Natural) - German (Germany)",
       "language": "de-DE",
       "gender": "male",
@@ -81,7 +81,7 @@
       "preloaded": true
     },
     {
-      "label": "Killian (Deutschland)",
+      "label": "Killian",
       "name": "Microsoft Killian Online (Natural) - German (Germany)",
       "language": "de-DE",
       "gender": "male",
@@ -96,7 +96,7 @@
       "preloaded": true
     },
     {
-      "label": "Ingrid (Österreich)",
+      "label": "Ingrid",
       "name": "Microsoft Ingrid Online (Natural) - German (Austria)",
       "language": "de-AT",
       "gender": "female",
@@ -111,7 +111,7 @@
       "preloaded": true
     },
     {
-      "label": "Jonas (Österreich)",
+      "label": "Jonas",
       "name": "Microsoft Jonas Online (Natural) - German (Austria)",
       "language": "de-AT",
       "gender": "male",
@@ -126,7 +126,7 @@
       "preloaded": true
     },
     {
-      "label": "Leni (Schweiz)",
+      "label": "Leni",
       "name": "Microsoft Leni Online (Natural) - German (Switzerland)",
       "language": "de-CH",
       "gender": "female",
@@ -141,7 +141,7 @@
       "preloaded": true
     },
     {
-      "label": "Jan (Schweiz)",
+      "label": "Jan",
       "name": "Microsoft Jan Online (Natural) - German (Switzerland)",
       "language": "de-CH",
       "gender": "male",
@@ -156,7 +156,7 @@
       "preloaded": true
     },
     {
-      "label": "Petra (Deutschland)",
+      "label": "Petra",
       "name": "Petra",
       "localizedName": "apple",
       "language": "de-DE",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "label": "Anna (Deutschland)",
+      "label": "Anna",
       "name": "Anna",
       "localizedName": "apple",
       "language": "de-DE",
@@ -195,7 +195,7 @@
       "preloaded": true
     },
     {
-      "label": "Helena (Deutschland)",
+      "label": "Helena",
       "name": "Helena",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -214,7 +214,7 @@
       "preloaded": true
     },
     {
-      "label": "Markus (Deutschland)",
+      "label": "Markus",
       "name": "Markus",
       "localizedName": "apple",
       "language": "de-DE",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "label": "Viktor (Deutschland)",
+      "label": "Viktor",
       "name": "Viktor",
       "localizedName": "apple",
       "language": "de-DE",
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "label": "Yannick (Deutschland)",
+      "label": "Yannick",
       "name": "Yannick",
       "localizedName": "apple",
       "language": "de-DE",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "label": "Martin (Deutschland)",
+      "label": "Martin",
       "name": "Martin",
       "localizedName": "apple",
       "note": "This is a compact version of a preloaded Siri voice on macOS.",
@@ -302,7 +302,7 @@
       "preloaded": true
     },
     {
-      "label": "Hedda (Deutschland)",
+      "label": "Hedda",
       "name": "Microsoft Hedda - German (Germany)",
       "language": "de-DE",
       "gender": "female",
@@ -317,7 +317,7 @@
       "preloaded": true
     },
     {
-      "label": "Katja (Deutschland)",
+      "label": "Katja",
       "name": "Microsoft Katja - German (Germany)",
       "language": "de-DE",
       "gender": "female",
@@ -332,7 +332,7 @@
       "preloaded": true
     },
     {
-      "label": "Stefan (Deutschland)",
+      "label": "Stefan",
       "name": "Microsoft Stefan - German (Germany)",
       "language": "de-DE",
       "gender": "male",
@@ -347,7 +347,7 @@
       "preloaded": true
     },
     {
-      "label": "Michael (Österreich)",
+      "label": "Michael",
       "name": "Microsoft Michael - German (Austria)",
       "language": "de-AT",
       "gender": "male",
@@ -362,7 +362,7 @@
       "preloaded": true
     },
     {
-      "label": "Karsten (Schweiz)",
+      "label": "Karsten",
       "name": "Microsoft Karsten - German (Switzerland)",
       "language": "de-CH",
       "gender": "male",

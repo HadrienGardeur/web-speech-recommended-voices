@@ -4,7 +4,7 @@
   "testUtterance": "Hallo, mijn naam is {name} en ik ben een Nederlandse stem.",
   "voices": [
     {
-      "label": "Colette (Nederland)",
+      "label": "Colette",
       "name": "Microsoft Colette Online (Natural) - Dutch (Netherlands)",
       "language": "nl-NL",
       "gender": "female",
@@ -19,7 +19,7 @@
       "preloaded": true
     },
     {
-      "label": "Fenna (Nederland)",
+      "label": "Fenna",
       "name": "Microsoft Fenna Online (Natural) - Dutch (Netherlands)",
       "language": "nl-NL",
       "gender": "female",
@@ -34,7 +34,7 @@
       "preloaded": true
     },
     {
-      "label": "Hanna (Nederland)",
+      "label": "Hanna",
       "name": "Microsoft Hanna Online - Dutch (Netherlands)",
       "language": "nl-NL",
       "gender": "female",
@@ -49,7 +49,7 @@
       "preloaded": true
     },
     {
-      "label": "Maarten (Nederland)",
+      "label": "Maarten",
       "name": "Microsoft Maarten Online (Natural) - Dutch (Netherlands)",
       "language": "nl-NL",
       "gender": "male",
@@ -64,7 +64,7 @@
       "preloaded": true
     },
     {
-      "label": "Dena (België)",
+      "label": "Dena",
       "name": "Microsoft Dena Online (Natural) - Dutch (Belgium)",
       "language": "nl-BE",
       "gender": "female",
@@ -79,7 +79,7 @@
       "preloaded": true
     },
     {
-      "label": "Arnaud (België)",
+      "label": "Arnaud",
       "name": "Microsoft Arnaud Online (Natural) - Dutch (Belgium)",
       "language": "nl-BE",
       "gender": "male",
@@ -94,7 +94,7 @@
       "preloaded": true
     },
     {
-      "label": "Claire (Nederland)",
+      "label": "Claire",
       "name": "Claire",
       "localizedName": "apple",
       "language": "nl-NL",
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "label": "Xander (Nederland)",
+      "label": "Xander",
       "name": "Xander",
       "localizedName": "apple",
       "language": "nl-NL",
@@ -131,7 +131,7 @@
       "preloaded": true
     },
     {
-      "label": "Ellen (België)",
+      "label": "Ellen",
       "name": "Ellen",
       "localizedName": "apple",
       "language": "nl-BE",
@@ -150,7 +150,7 @@
       "preloaded": true
     },
     {
-      "label": "Google mannelijke stem (Nederland)",
+      "label": "Google mannelijke stem",
       "name": "Google Nederlands",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "nl-NL",
@@ -166,7 +166,7 @@
       "preloaded": true
     },
     {
-      "label": "Frank (Nederland)",
+      "label": "Frank",
       "name": "Microsoft Frank - Dutch (Netherlands)",
       "language": "nl-NL",
       "gender": "male",

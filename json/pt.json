@@ -4,7 +4,7 @@
   "testUtterance": "Olá, o meu nome é {name} e sou uma voz portuguesa.",
   "voices": [
     {
-      "label": "Raquel (Portugal)",
+      "label": "Raquel",
       "name": "Microsoft Raquel Online (Natural) - Portuguese (Portugal)",
       "language": "pt-PT",
       "gender": "female",
@@ -19,7 +19,7 @@
       "preloaded": true
     },
     {
-      "label": "Duarte (Portugal)",
+      "label": "Duarte",
       "name": "Microsoft Duarte Online (Natural) - Portuguese (Portugal)",
       "language": "pt-PT",
       "gender": "male",
@@ -34,7 +34,7 @@
       "preloaded": true
     },
     {
-      "label": "Francisca (Brasil)",
+      "label": "Francisca",
       "name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)",
       "language": "pt-BR",
       "gender": "female",
@@ -49,7 +49,7 @@
       "preloaded": true
     },
     {
-      "label": "Thalita (Brasil)",
+      "label": "Thalita",
       "name": "Microsoft Thalita Online (Natural) - Portuguese (Brazil)",
       "language": "pt-BR",
       "gender": "female",
@@ -64,7 +64,7 @@
       "preloaded": true
     },
     {
-      "label": "Antonio (Brasil)",
+      "label": "Antonio",
       "name": "Microsoft Antonio Online (Natural) - Portuguese (Brazil)",
       "language": "pt-BR",
       "gender": "male",
@@ -79,7 +79,7 @@
       "preloaded": true
     },
     {
-      "label": "Catarina (Portugal)",
+      "label": "Catarina",
       "name": "Catarina",
       "localizedName": "apple",
       "language": "pt-PT",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "label": "Joana (Portugal)",
+      "label": "Joana",
       "name": "Joana",
       "localizedName": "apple",
       "language": "pt-PT",
@@ -116,7 +116,7 @@
       "preloaded": true
     },
     {
-      "label": "Joaquim (Portugal)",
+      "label": "Joaquim",
       "name": "Joaquim",
       "localizedName": "apple",
       "language": "pt-PT",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "label": "Fernanda (Brasil)",
+      "label": "Fernanda",
       "name": "Fernanda",
       "localizedName": "apple",
       "language": "pt-BR",
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "label": "Luciana (Brasil)",
+      "label": "Luciana",
       "name": "Luciana",
       "localizedName": "apple",
       "language": "pt-BR",
@@ -171,7 +171,7 @@
       "preloaded": true
     },
     {
-      "label": "Felipe (Brasil)",
+      "label": "Felipe",
       "name": "Felipe",
       "localizedName": "apple",
       "language": "pt-BR",
@@ -205,7 +205,7 @@
       "preloaded": true
     },
     {
-      "label": "Helia (Portugal)",
+      "label": "Helia",
       "name": "Microsoft Helia - Portuguese (Portugal)",
       "language": "pt-PT",
       "gender": "female",
@@ -220,7 +220,7 @@
       "preloaded": true
     },
     {
-      "label": "Maria (Brasil)",
+      "label": "Maria",
       "name": "Microsoft Maria - Portuguese (Brazil)",
       "language": "pt-BR",
       "gender": "female",
@@ -235,7 +235,7 @@
       "preloaded": true
     },
     {
-      "label": "Daniel (Brasil)",
+      "label": "Daniel",
       "name": "Microsoft Daniel - Portuguese (Brazil)",
       "language": "pt-BR",
       "gender": "male",
