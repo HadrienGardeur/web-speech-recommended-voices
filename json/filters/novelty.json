@@ -13,11 +13,6 @@
     {
       "name": "Bad News",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Mauvaises nouvelles",
-        "Malas noticias",
-        "Brutte notizie"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -38,11 +33,6 @@
     {
       "name": "Bells",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Cloches",
-        "Campanas",
-        "Campane"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -63,11 +53,6 @@
     {
       "name": "Bubbles",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Bulles",
-        "Burbujas",
-        "Bollicine"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -78,11 +63,6 @@
     {
       "name": "Cellos",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Violoncelles",
-        "Violonchelos",
-        "Violoncelli"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -93,11 +73,6 @@
     {
       "name": "Good News",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Bonnes nouvelles",
-        "Buenas noticias",
-        "Buone notizie"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -108,11 +83,6 @@
     {
       "name": "Jester",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Bouffon",
-        "Bufón",
-        "Giullare"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -123,11 +93,6 @@
     {
       "name": "Organ",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Orgue",
-        "Órgano",
-        "Organo"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -138,9 +103,6 @@
     {
       "name": "Superstar",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Superestrella"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -151,10 +113,6 @@
     {
       "name": "Trinoids",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Trinoïdes",
-        "Trinoid"
-      ],
       "os": [
         "macOS",
         "iOS",
@@ -165,11 +123,6 @@
     {
       "name": "Whisper",
       "note": "This novelty voice is part of a pack preloaded by Apple.",
-      "altNames": [
-        "Murmure",
-        "Susurro",
-        "Sussurro"
-      ],
       "os": [
         "macOS",
         "iOS",
