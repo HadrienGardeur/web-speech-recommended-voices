@@ -46,9 +46,20 @@
               "description": "Alternate names for a given voice. Only useful for Apple voices."
             }
           },
+          "nativeID": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "description": "Identifiers used by the native API of the platform for a specific voice."
+            }
+          },
           "language": {
             "type": "string",
             "description": "BCP-47 language tag that identifies the language of a voice."
+          },
+          "altLanguage": {
+            "type": "string",
+            "description": "Alternative BCP-47 language tag, mostly used for deprecated values."
           },
           "otherLanguages": {
             "type": "array",
@@ -103,7 +114,6 @@
             "maximum": 2,
             "default": 1
           },
-          },
           "pitchControl": {
             "type": "boolean",
             "description": "Indicates if the pitch of a voice can be controlled.",
@@ -149,7 +159,7 @@
           "name"
         ]
       }
-    }
+    },
   },
   "required": [
     "voices"
