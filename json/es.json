@@ -1017,6 +1017,9 @@
         "Android Speech Recognition and Synthesis from Google es-es-x-eee-local",
         "Android Speech Recognition and Synthesis from Google es-ES-language"
       ],
+      "nativeID": [
+        "es-es-x-eee-local"
+      ],
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -1025,6 +1028,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1037,6 +1041,10 @@
         "Chrome OS español 1",
         "Android Speech Recognition and Synthesis from Google es-es-x-eea-local"
       ],
+      "nativeID": [
+        "es-es-x-eea-network",
+        "es-es-x-eea-local"
+      ],
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -1045,6 +1053,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1057,6 +1066,10 @@
         "Chrome OS español 2",
         "Android Speech Recognition and Synthesis from Google es-es-x-eec-local"
       ],
+      "nativeID": [
+        "es-es-x-eec-network",
+        "es-es-x-eec-local"
+      ],
       "language": "es-ES",
       "gender": "female",
       "quality": [
@@ -1065,6 +1078,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1077,6 +1091,10 @@
         "Chrome OS español 3",
         "Android Speech Recognition and Synthesis from Google es-es-x-eed-local"
       ],
+      "nativeID": [
+        "es-es-x-eed-network",
+        "es-es-x-eed-local"
+      ],
       "language": "es-ES",
       "gender": "male",
       "quality": [
@@ -1085,6 +1103,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1096,6 +1115,9 @@
         "Chrome OS español 5",
         "Android Speech Recognition and Synthesis from Google es-es-x-eef-local"
       ],
+      "nativeID": [
+        "es-es-x-eef-local"
+      ],
       "language": "es-ES",
       "gender": "male",
       "quality": [
@@ -1104,6 +1126,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1117,6 +1140,10 @@
         "Android Speech Recognition and Synthesis from Google es-us-x-esc-local",
         "Android Speech Recognition and Synthesis from Google es-US-language"
       ],
+      "nativeID": [
+        "es-us-x-esc-network",
+        "es-us-x-esc-local"
+      ],
       "language": "es-US",
       "gender": "female",
       "quality": [
@@ -1125,6 +1152,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1136,6 +1164,10 @@
         "Android Speech Recognition and Synthesis from Google es-us-x-sfb-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-sfb-local"
       ],
+      "nativeID": [
+        "es-us-x-sfb-network",
+        "es-us-x-sfb-local"
+      ],
       "language": "es-US",
       "gender": "female",
       "quality": [
@@ -1144,6 +1176,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1155,6 +1188,10 @@
         "Android Speech Recognition and Synthesis from Google es-us-x-esd-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-esd-local"
       ],
+      "nativeID": [
+        "es-us-x-esd-network",
+        "es-us-x-esd-local"
+      ],
       "language": "es-US",
       "gender": "male",
       "quality": [
@@ -1163,6 +1200,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1174,6 +1212,10 @@
         "Android Speech Recognition and Synthesis from Google es-us-x-esf-network",
         "Android Speech Recognition and Synthesis from Google es-us-x-esf-local"
       ],
+      "nativeID": [
+        "es-us-x-esf-network",
+        "es-us-x-esf-local"
+      ],
       "language": "es-US",
       "gender": "male",
       "quality": [
@@ -1182,37 +1224,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voz de España",
-      "name": "español España",
-      "localizedName": "android",
-      "language": "es-ES",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voz de Estados Unidos",
-      "name": "español Estados Unidos",
-      "localizedName": "android",
-      "language": "es-US",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

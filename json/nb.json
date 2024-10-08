@@ -94,6 +94,10 @@
         "Android Speech Recognition and Synthesis from Google nb-no-x-cfl-local",
         "Android Speech Recognition and Synthesis from Google nb-NO-language"
       ],
+      "nativeID": [
+        "nb-no-x-cfl-network",
+        "nb-no-x-cfl-local"
+      ],
       "language": "nb-NO",
       "gender": "female",
       "quality": [
@@ -102,6 +106,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -114,6 +119,10 @@
         "Chrome OS Norsk Bokmål 1",
         "Android Speech Recognition and Synthesis from Google nb-no-x-rfj-local"
       ],
+      "nativeID": [
+        "nb-no-x-rfj-network",
+        "nb-no-x-rfj-local"
+      ],
       "language": "nb-NO",
       "gender": "female",
       "quality": [
@@ -122,6 +131,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -134,6 +144,10 @@
         "Chrome OS Norsk Bokmål 4",
         "Android Speech Recognition and Synthesis from Google nb-no-x-tfs-local"
       ],
+      "nativeID": [
+        "nb-no-x-tfs-network",
+        "nb-no-x-tfs-local"
+      ],
       "language": "nb-NO",
       "gender": "female",
       "quality": [
@@ -142,6 +156,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -154,6 +169,10 @@
         "Chrome OS Norsk Bokmål 3",
         "Android Speech Recognition and Synthesis from Google nb-no-x-cmj-local"
       ],
+      "nativeID": [
+        "nb-no-x-cmj-network",
+        "nb-no-x-cmj-local"
+      ],
       "language": "nb-NO",
       "gender": "male",
       "quality": [
@@ -162,6 +181,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -174,6 +194,10 @@
         "Chrome OS Norsk Bokmål 5",
         "Android Speech Recognition and Synthesis from Google nb-no-x-tmg-local"
       ],
+      "nativeID": [
+        "nb-no-x-tmg-network",
+        "nb-no-x-tmg-local"
+      ],
       "language": "nb-NO",
       "gender": "male",
       "quality": [
@@ -182,22 +206,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Norsk stemme",
-      "name": "norsk bokmål Norge",
-      "localizedName": "android",
-      "language": "nb-NO",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

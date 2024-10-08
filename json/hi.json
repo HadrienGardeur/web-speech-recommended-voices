@@ -144,6 +144,10 @@
         "Android Speech Recognition and Synthesis from Google hi-in-x-hia-local",
         "Android Speech Recognition and Synthesis from Google hi-IN-language"
       ],
+      "nativeID": [
+        "hi-in-x-hia-network",
+        "hi-in-x-hia-local"
+      ],
       "language": "hi-IN",
       "gender": "female",
       "quality": [
@@ -152,6 +156,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -164,6 +169,10 @@
         "Chrome OS हिन्दी 3",
         "Android Speech Recognition and Synthesis from Google hi-in-x-hic-local"
       ],
+      "nativeID": [
+        "hi-in-x-hic-network",
+        "hi-in-x-hic-local"
+      ],
       "language": "hi-IN",
       "gender": "female",
       "quality": [
@@ -172,6 +181,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -199,6 +209,10 @@
         "Chrome OS हिन्दी 4",
         "Android Speech Recognition and Synthesis from Google hi-in-x-hid-local"
       ],
+      "nativeID": [
+        "hi-in-x-hid-network",
+        "hi-in-x-hid-local"
+      ],
       "language": "hi-IN",
       "gender": "male",
       "quality": [
@@ -207,6 +221,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -219,6 +234,10 @@
         "Chrome OS हिन्दी 5",
         "Android Speech Recognition and Synthesis from Google hi-in-x-hie-local"
       ],
+      "nativeID": [
+        "hi-in-x-hie-network",
+        "hi-in-x-hie-local"
+      ],
       "language": "hi-IN",
       "gender": "male",
       "quality": [
@@ -227,22 +246,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "हिंदी आवाज़",
-      "name": "हिन्दी भारत",
-      "localizedName": "android",
-      "language": "hi-IN",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

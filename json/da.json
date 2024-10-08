@@ -94,6 +94,10 @@
         "Android Speech Recognition and Synthesis from Google da-dk-x-kfm-local",
         "Android Speech Recognition and Synthesis from Google da-DK-language"
       ],
+      "nativeID": [
+        "da-dk-x-kfm-network",
+        "da-dk-x-kfm-local"
+      ],
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -102,6 +106,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -114,6 +119,10 @@
         "Chrome OS Dansk 3",
         "Android Speech Recognition and Synthesis from Google da-dk-x-sfp-local"
       ],
+      "nativeID": [
+        "da-dk-x-sfp-network",
+        "da-dk-x-sfp-local"
+      ],
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -122,6 +131,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -134,6 +144,10 @@
         "Chrome OS Dansk 4",
         "Android Speech Recognition and Synthesis from Google da-dk-x-vfb-local"
       ],
+      "nativeID": [
+        "da-dk-x-vfb-network",
+        "da-dk-x-vfb-local"
+      ],
       "language": "da-DK",
       "gender": "female",
       "quality": [
@@ -142,6 +156,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -154,6 +169,10 @@
         "Chrome OS Dansk 2",
         "Android Speech Recognition and Synthesis from Google da-dk-x-nmm-local"
       ],
+      "nativeID": [
+        "da-dk-x-nmm-network",
+        "da-dk-x-nmm-local"
+      ],
       "language": "da-DK",
       "gender": "male",
       "quality": [
@@ -162,22 +181,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Dansk stemme",
-      "name": "dansk Danmark",
-      "localizedName": "android",
-      "language": "da-DK",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

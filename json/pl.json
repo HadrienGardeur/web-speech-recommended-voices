@@ -159,6 +159,10 @@
         "Android Speech Recognition and Synthesis from Google pl-pl-x-afb-local",
         "Android Speech Recognition and Synthesis from Google pl-PL-language"
       ],
+      "nativeID": [
+        "pl-pl-x-afb-network",
+        "pl-pl-x-afb-local"
+      ],
       "language": "pl-PL",
       "gender": "female",
       "quality": [
@@ -167,6 +171,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -179,6 +184,10 @@
         "Chrome OS Polski 1",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-oda-local"
       ],
+      "nativeID": [
+        "pl-pl-x-oda-network",
+        "pl-pl-x-oda-local"
+      ],
       "language": "pl-PL",
       "gender": "female",
       "quality": [
@@ -187,6 +196,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -199,6 +209,10 @@
         "Chrome OS Polski 5",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-zfg-local"
       ],
+      "nativeID": [
+        "pl-pl-x-zfg-network",
+        "pl-pl-x-zfg-local"
+      ],
       "language": "pl-PL",
       "gender": "female",
       "quality": [
@@ -207,6 +221,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -219,6 +234,10 @@
         "Chrome OS Polski 3",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-bmg-local"
       ],
+      "nativeID": [
+        "pl-pl-x-bmg-network",
+        "pl-pl-x-bmg-local"
+      ],
       "language": "pl-PL",
       "gender": "male",
       "quality": [
@@ -227,6 +246,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -239,6 +259,10 @@
         "Chrome OS Polski 4",
         "Android Speech Recognition and Synthesis from Google pl-pl-x-jmk-local"
       ],
+      "nativeID": [
+        "pl-pl-x-jmk-network",
+        "pl-pl-x-jmk-local"
+      ],
       "language": "pl-PL",
       "gender": "male",
       "quality": [
@@ -247,22 +271,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Głos polski",
-      "name": "polski Polska",
-      "localizedName": "android",
-      "language": "pl-PL",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

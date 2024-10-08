@@ -189,6 +189,10 @@
         "Android Speech Recognition and Synthesis from Google nl-nl-x-lfc-local",
         "Android Speech Recognition and Synthesis from Google nl-NL-language"
       ],
+      "nativeID": [
+        "nl-nl-x-lfc-network",
+        "nl-nl-x-lfc-local"
+      ],
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -197,6 +201,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -209,6 +214,10 @@
         "Chrome OS Nederlands 1",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-tfb-local"
       ],
+      "nativeID": [
+        "nl-nl-x-tfb-network",
+        "nl-nl-x-tfb-local"
+      ],
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -217,6 +226,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -229,6 +239,10 @@
         "Chrome OS Nederlands 5",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-yfr-local"
       ],
+      "nativeID": [
+        "nl-nl-x-yfr-network",
+        "nl-nl-x-yfr-local"
+      ],
       "language": "nl-NL",
       "gender": "female",
       "quality": [
@@ -237,6 +251,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -249,6 +264,10 @@
         "Chrome OS Nederlands 2",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-bmh-local"
       ],
+      "nativeID": [
+        "nl-nl-x-bmh-network",
+        "nl-nl-x-bmh-local"
+      ],
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -257,6 +276,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -269,6 +289,10 @@
         "Chrome OS Nederlands 3",
         "Android Speech Recognition and Synthesis from Google nl-nl-x-dma-local"
       ],
+      "nativeID": [
+        "nl-nl-x-dma-network",
+        "nl-nl-x-dma-local"
+      ],
       "language": "nl-NL",
       "gender": "male",
       "quality": [
@@ -277,6 +301,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -288,7 +313,11 @@
         "Android Speech Recognition and Synthesis from Google nl-be-x-bec-local",
         "Android Speech Recognition and Synthesis from Google nl-BE-language"
       ],
-      "language": "nl-NL",
+      "nativeID": [
+        "nl-be-x-bec-network",
+        "nl-be-x-bec-local"
+      ],
+      "language": "nl-BE",
       "gender": "female",
       "quality": [
         "high"
@@ -296,6 +325,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -306,7 +336,11 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google nl-be-x-bed-local"
       ],
-      "language": "nl-NL",
+      "nativeID": [
+        "nl-be-x-bed-network",
+        "nl-be-x-bed-local"
+      ],
+      "language": "nl-BE",
       "gender": "male",
       "quality": [
         "high"
@@ -314,37 +348,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Nederlandse stem (Nederland)",
-      "name": "Nederlands Nederland",
-      "localizedName": "android",
-      "language": "nl-NL",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Nederlandse stem (België)",
-      "name": "Nederlands België",
-      "localizedName": "android",
-      "language": "nl-BE",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

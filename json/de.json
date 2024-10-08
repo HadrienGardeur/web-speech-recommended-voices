@@ -385,6 +385,10 @@
         "Android Speech Recognition and Synthesis from Google de-de-x-dea-local",
         "Android Speech Recognition and Synthesis from Google de-DE-language"
       ],
+      "nativeID": [
+        "de-de-x-dea-network",
+        "de-de-x-dea-local"
+      ],
       "language": "de-DE",
       "gender": "female",
       "quality": [
@@ -393,6 +397,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -405,6 +410,10 @@
         "Chrome OS Deutsch 1",
         "Android Speech Recognition and Synthesis from Google de-de-x-nfh-local"
       ],
+      "nativeID": [
+        "de-de-x-nfh-network",
+        "de-de-x-nfh-local"
+      ],
       "language": "de-DE",
       "gender": "female",
       "quality": [
@@ -413,6 +422,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -425,6 +435,10 @@
         "Chrome OS Deutsch 3",
         "Android Speech Recognition and Synthesis from Google de-de-x-deb-local"
       ],
+      "nativeID": [
+        "de-de-x-deb-network",
+        "de-de-x-deb-local"
+      ],
       "language": "de-DE",
       "gender": "male",
       "quality": [
@@ -433,6 +447,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -445,6 +460,10 @@
         "Chrome OS Deutsch 4",
         "Android Speech Recognition and Synthesis from Google de-de-x-deg-local"
       ],
+      "nativeID": [
+        "de-de-x-deg-network",
+        "de-de-x-deg-local"
+      ],
       "language": "de-DE",
       "gender": "male",
       "quality": [
@@ -453,22 +472,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Deutsche Stimme",
-      "name": "Deutsch Deutschland",
-      "localizedName": "android",
-      "language": "de-DE",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

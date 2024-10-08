@@ -156,6 +156,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ru-ru-x-dfc-local"
       ],
+      "nativeID": [
+        "ru-ru-x-dfc-network",
+        "ru-ru-x-dfc-local"
+      ],
       "language": "ru-RU",
       "gender": "female",
       "quality": [
@@ -164,6 +168,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -174,6 +179,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ru-ru-x-ruc-local"
       ],
+      "nativeID": [
+        "ru-ru-x-ruc-network",
+        "ru-ru-x-ruc-local"
+      ],
       "language": "ru-RU",
       "gender": "female",
       "quality": [
@@ -182,6 +191,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -192,6 +202,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ru-ru-x-rue-local"
       ],
+      "nativeID": [
+        "ru-ru-x-rue-network",
+        "ru-ru-x-rue-local"
+      ],
       "language": "ru-RU",
       "gender": "female",
       "quality": [
@@ -200,6 +214,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -210,6 +225,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ru-ru-x-rud-local"
       ],
+      "nativeID": [
+        "ru-ru-x-rud-network",
+        "ru-ru-x-rud-local"
+      ],
       "language": "ru-RU",
       "gender": "male",
       "quality": [
@@ -218,6 +237,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -228,6 +248,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ru-ru-x-ruf-local"
       ],
+      "nativeID": [
+        "ru-ru-x-ruf-network",
+        "ru-ru-x-ruf-local"
+      ],
       "language": "ru-RU",
       "gender": "male",
       "quality": [
@@ -236,22 +260,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Русский голос",
-      "name": "русский Россия",
-      "localizedName": "android",
-      "language": "ru-RU",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

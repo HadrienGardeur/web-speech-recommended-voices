@@ -74,6 +74,10 @@
         "Android Speech Recognition and Synthesis from Google bg-bg-x-ifk-local",
         "Android Speech Recognition and Synthesis from Google bg-bg-language"
       ],
+      "nativeID": [
+        "bg-bg-x-ifk-network",
+        "bg-bg-x-ifk-local"
+      ],
       "language": "bg-BG",
       "gender": "female",
       "quality": [
@@ -82,22 +86,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "български глас",
-      "name": "български България",
-      "localizedName": "android",
-      "language": "bg-BG",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

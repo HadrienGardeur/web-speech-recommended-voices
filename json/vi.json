@@ -76,6 +76,10 @@
         "Android Speech Recognition and Synthesis from Google vi-vn-x-vic-local",
         "Android Speech Recognition and Synthesis from Google vi-VN-language"
       ],
+      "nativeID": [
+        "vi-vn-x-vic-network",
+        "vi-vn-x-vic-local"
+      ],
       "language": "vi-VN",
       "gender": "female",
       "quality": [
@@ -84,6 +88,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -96,6 +101,10 @@
         "Chrome OS Tiếng Việt 2",
         "Android Speech Recognition and Synthesis from Google vi-vn-x-vid-local"
       ],
+      "nativeID": [
+        "vi-vn-x-vid-network",
+        "vi-vn-x-vid-local"
+      ],
       "language": "vi-VN",
       "gender": "female",
       "quality": [
@@ -104,6 +113,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -116,6 +126,10 @@
         "Chrome OS Tiếng Việt 4",
         "Android Speech Recognition and Synthesis from Google vi-vn-x-vif-local"
       ],
+      "nativeID": [
+        "vi-vn-x-vif-network",
+        "vi-vn-x-vif-local"
+      ],
       "language": "vi-VN",
       "gender": "female",
       "quality": [
@@ -124,6 +138,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -136,6 +151,10 @@
         "Chrome OS Tiếng Việt 3",
         "Android Speech Recognition and Synthesis from Google vi-vn-x-vie-local"
       ],
+      "nativeID": [
+        "vi-vn-x-vie-network",
+        "vi-vn-x-vie-local"
+      ],
       "language": "vi-VN",
       "gender": "male",
       "quality": [
@@ -144,6 +163,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -156,6 +176,10 @@
         "Chrome OS Tiếng Việt 5",
         "Android Speech Recognition and Synthesis from Google vi-vn-x-gft-local"
       ],
+      "nativeID": [
+        "vi-vn-x-gft-network",
+        "vi-vn-x-gft-local"
+      ],
       "language": "vi-VN",
       "gender": "male",
       "quality": [
@@ -164,22 +188,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Giọng nói tiếng Việt",
-      "name": "Việt Nam Việt Nam",
-      "localizedName": "android",
-      "language": "vi-VN",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

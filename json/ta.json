@@ -165,6 +165,10 @@
         "Android Speech Recognition and Synthesis from Google ta-in-x-tac-local",
         "Android Speech Recognition and Synthesis from Google ta-IN-language"
       ],
+      "nativeID": [
+        "ta-in-x-tac-network",
+        "ta-in-x-tac-local"
+      ],
       "language": "ta-IN",
       "gender": "female",
       "quality": [
@@ -173,6 +177,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -183,6 +188,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ta-in-x-tad-local"
       ],
+      "nativeID": [
+        "ta-in-x-tad-network",
+        "ta-in-x-tad-local"
+      ],
       "language": "ta-IN",
       "gender": "male",
       "quality": [
@@ -191,22 +200,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "தமிழ் குரல்",
-      "name": "தமிழ் இந்தியா",
-      "localizedName": "android",
-      "language": "ta-IN",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

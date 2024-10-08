@@ -114,6 +114,10 @@
         "Android Speech Recognition and Synthesis from Google sv-se-x-lfs-local",
         "Android Speech Recognition and Synthesis from Google sv-SE-language"
       ],
+      "nativeID": [
+        "sv-se-x-lfs-network",
+        "sv-se-x-lfs-local"
+      ],
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -122,6 +126,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -133,6 +138,10 @@
         "Android Speech Recognition and Synthesis from Google sv-se-x-afp-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-afp-local"
       ],
+      "nativeID": [
+        "sv-se-x-afp-network",
+        "sv-se-x-afp-local"
+      ],
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -141,6 +150,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -152,6 +162,10 @@
         "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-cfg-local"
       ],
+      "nativeID": [
+        "sv-se-x-cfg-network",
+        "sv-se-x-cfg-local"
+      ],
       "language": "sv-SE",
       "gender": "female",
       "quality": [
@@ -160,6 +174,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -171,6 +186,10 @@
         "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-cmh-local"
       ],
+      "nativeID": [
+        "sv-se-x-cmh-network",
+        "sv-se-x-cmh-local"
+      ],
       "language": "sv-SE",
       "gender": "male",
       "quality": [
@@ -179,6 +198,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -190,6 +210,10 @@
         "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-network",
         "Android Speech Recognition and Synthesis from Google sv-se-x-dmc-local"
       ],
+      "nativeID": [
+        "sv-se-x-dmc-network",
+        "sv-se-x-dmc-local"
+      ],
       "language": "sv-SE",
       "gender": "male",
       "quality": [
@@ -198,22 +222,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Svensk röst",
-      "name": "svenska Sverige",
-      "localizedName": "android",
-      "language": "sv-SE",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

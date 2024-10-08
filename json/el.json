@@ -94,6 +94,10 @@
         "Android Speech Recognition and Synthesis from Google el-gr-x-vfz-local",
         "Android Speech Recognition and Synthesis from Google el-GR-language"
       ],
+      "nativeID": [
+        "el-gr-x-vfz-network",
+        "el-gr-x-vfz-local"
+      ],
       "language": "el-GR",
       "gender": "female",
       "quality": [
@@ -102,22 +106,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Ελληνική φωνή",
-      "name": "Ελληνικά Ελλάδα",
-      "localizedName": "android",
-      "language": "el-GR",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

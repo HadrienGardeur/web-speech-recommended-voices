@@ -470,6 +470,10 @@
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frc-local",
         "Android Speech Recognition and Synthesis from Google fr-FR-language"
       ],
+      "nativeID": [
+        "fr-fr-x-frc-network",
+        "fr-fr-x-frc-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "quality": [
@@ -478,6 +482,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -490,6 +495,10 @@
         "Chrome OS français 2",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-fra-local"
       ],
+      "nativeID": [
+        "fr-fr-x-fra-network",
+        "fr-fr-x-fra-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "quality": [
@@ -498,6 +507,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -510,6 +520,10 @@
         "Chrome OS français 1",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-vlf-local"
       ],
+      "nativeID": [
+        "fr-fr-x-vlf-network",
+        "fr-fr-x-vlf-local"
+      ],
       "language": "fr-FR",
       "gender": "female",
       "quality": [
@@ -518,6 +532,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -530,6 +545,10 @@
         "Chrome OS français 5",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frd-local"
       ],
+      "nativeID": [
+        "fr-fr-x-frd-network",
+        "fr-fr-x-frd-local"
+      ],
       "language": "fr-FR",
       "gender": "male",
       "quality": [
@@ -538,6 +557,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -550,6 +570,10 @@
         "Chrome OS français 3",
         "Android Speech Recognition and Synthesis from Google fr-fr-x-frb-local"
       ],
+      "nativeID": [
+        "fr-fr-x-frb-network",
+        "fr-fr-x-frb-local"
+      ],
       "language": "fr-FR",
       "gender": "male",
       "quality": [
@@ -558,6 +582,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -569,6 +594,10 @@
         "Android Speech Recognition and Synthesis from Google fr-ca-x-caa-local",
         "Android Speech Recognition and Synthesis from Google fr-CA-language"
       ],
+      "nativeID": [
+        "fr-ca-x-caa-network",
+        "fr-ca-x-caa-local"
+      ],
       "language": "fr-CA",
       "gender": "female",
       "quality": [
@@ -577,6 +606,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -587,6 +617,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-ca-x-cac-local"
       ],
+      "nativeID": [
+        "fr-ca-x-cac-network",
+        "fr-ca-x-cac-local"
+      ],
       "language": "fr-CA",
       "gender": "female",
       "quality": [
@@ -595,6 +629,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -605,6 +640,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-ca-x-cab-local"
       ],
+      "nativeID": [
+        "fr-ca-x-cab-network",
+        "fr-ca-x-cab-local"
+      ],
       "language": "fr-CA",
       "gender": "male",
       "quality": [
@@ -613,6 +652,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -623,6 +663,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google fr-ca-x-cad-local"
       ],
+      "nativeID": [
+        "fr-ca-x-cad-network",
+        "fr-ca-x-cad-local"
+      ],
       "language": "fr-CA",
       "gender": "male",
       "quality": [
@@ -631,37 +675,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix française",
-      "name": "français France",
-      "localizedName": "android",
-      "language": "fr-FR",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Voix canadienne",
-      "name": "français Canada",
-      "localizedName": "android",
-      "language": "fr-CA",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

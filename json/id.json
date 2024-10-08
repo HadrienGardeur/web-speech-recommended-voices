@@ -92,6 +92,10 @@
         "Android Speech Recognition and Synthesis from Google id-id-x-idc-local",
         "Android Speech Recognition and Synthesis from Google id-ID-language"
       ],
+      "nativeID": [
+        "id-id-x-idc-network",
+        "id-id-x-idc-local"
+      ],
       "language": "id-ID",
       "gender": "female",
       "quality": [
@@ -100,6 +104,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -112,6 +117,10 @@
         "Chrome OS Bahasa Indonesia 2",
         "Android Speech Recognition and Synthesis from Google id-id-x-idd-local"
       ],
+      "nativeID": [
+        "id-id-x-idd-network",
+        "id-id-x-idd-local"
+      ],
       "language": "id-ID",
       "gender": "female",
       "quality": [
@@ -120,6 +129,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -132,6 +142,10 @@
         "Chrome OS Bahasa Indonesia 3",
         "Android Speech Recognition and Synthesis from Google id-id-x-ide-local"
       ],
+      "nativeID": [
+        "id-id-x-ide-network",
+        "id-id-x-ide-local"
+      ],
       "language": "id-ID",
       "gender": "male",
       "quality": [
@@ -140,6 +154,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -152,6 +167,10 @@
         "Chrome OS Bahasa Indonesia 4",
         "Android Speech Recognition and Synthesis from Google id-id-x-dfz-local"
       ],
+      "nativeID": [
+        "id-id-x-dfz-network",
+        "id-id-x-dfz-local"
+      ],
       "language": "id-ID",
       "gender": "male",
       "quality": [
@@ -160,22 +179,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Suara bahasa Indonesia",
-      "name": "Indonesia Indonesia",
-      "localizedName": "android",
-      "language": "id-ID",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

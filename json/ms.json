@@ -75,6 +75,10 @@
         "Android Speech Recognition and Synthesis from Google ms-my-x-msc-local",
         "Android Speech Recognition and Synthesis from Google ms-MY-language"
       ],
+      "nativeID": [
+        "ms-my-x-msc-network",
+        "ms-my-x-msc-local"
+      ],
       "language": "ms-MY",
       "gender": "female",
       "quality": [
@@ -83,6 +87,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -93,6 +98,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ms-my-x-mse-local"
       ],
+      "nativeID": [
+        "ms-my-x-mse-network",
+        "ms-my-x-mse-local"
+      ],
       "language": "ms-MY",
       "gender": "female",
       "quality": [
@@ -101,6 +110,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -111,6 +121,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ms-my-x-msd-local"
       ],
+      "nativeID": [
+        "ms-my-x-msd-network",
+        "ms-my-x-msd-local"
+      ],
       "language": "ms-MY",
       "gender": "male",
       "quality": [
@@ -119,6 +133,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -129,6 +144,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ms-my-x-msg-local"
       ],
+      "nativeID": [
+        "ms-my-x-msg-network",
+        "ms-my-x-msg-local"
+      ],
       "language": "ms-MY",
       "gender": "male",
       "quality": [
@@ -137,22 +156,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Suara melayu",
-      "name": "Bahasa Melayu Malaysia",
-      "localizedName": "android",
-      "language": "ms-MY",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

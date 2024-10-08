@@ -177,6 +177,10 @@
         "Android Speech Recognition and Synthesis from Google ja-jp-x-htm-local",
         "Android Speech Recognition and Synthesis from Google ja-JP-language"
       ],
+      "nativeID": [
+        "ja-jp-x-htm-network",
+        "ja-jp-x-htm-local"
+      ],
       "language": "ja-JP",
       "gender": "female",
       "quality": [
@@ -196,6 +200,10 @@
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-network",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jab-local"
       ],
+      "nativeID": [
+        "ja-jp-x-jab-network",
+        "ja-jp-x-jab-local"
+      ],
       "language": "ja-JP",
       "gender": "female",
       "quality": [
@@ -204,6 +212,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -216,6 +225,10 @@
         "Chrome OS 日本語 3",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jac-local"
       ],
+      "nativeID": [
+        "ja-jp-x-jac-network",
+        "ja-jp-x-jac-local"
+      ],
       "language": "ja-JP",
       "gender": "male",
       "quality": [
@@ -224,6 +237,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -236,6 +250,10 @@
         "Chrome OS 日本語 4",
         "Android Speech Recognition and Synthesis from Google ja-jp-x-jad-local"
       ],
+      "nativeID": [
+        "ja-jp-x-jad-network",
+        "ja-jp-x-jad-local"
+      ],
       "language": "ja-JP",
       "gender": "male",
       "quality": [
@@ -244,22 +262,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "日本の音声",
-      "name": "日本語 日本",
-      "localizedName": "android",
-      "language": "ja-JP",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

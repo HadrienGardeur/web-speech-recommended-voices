@@ -131,6 +131,10 @@
         "Android Speech Recognition and Synthesis from Google yue-HK-x-jar-local",
         "Android Speech Recognition and Synthesis from Google yue-HK-language"
       ],
+      "nativeID": [
+        "yue-hk-x-jar-network",
+        "yue-hk-x-jar-local"
+      ],
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "female",
@@ -140,6 +144,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -151,6 +156,10 @@
         "Chrome OS 粵語 2",
         "Android Speech Recognition and Synthesis from Google yue-HK-x-yuc-local"
       ],
+      "nativeID": [
+        "yue-hk-x-yuc-network",
+        "yue-hk-x-yuc-local"
+      ],
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "female",
@@ -160,16 +169,21 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
     },
     {
       "label": "女聲3",
-      "name": "Android Speech Recognition and Synthesis from Google yue-hk-x-yue-network",
+      "name": "Android Speech Recognition and Synthesis from Google yue-hk-x-yub-network",
       "altNames": [
         "Chrome OS 粵語 4",
-        "Android Speech Recognition and Synthesis from Google yue-HK-x-yue-local"
+        "Android Speech Recognition and Synthesis from Google yue-HK-x-yub-local"
+      ],
+      "nativeID": [
+        "yue-hk-x-yub-network",
+        "yue-hk-x-yub-local"
       ],
       "language": "yue-HK",
       "altLanguage": "zh-HK",
@@ -180,6 +194,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -191,6 +206,10 @@
         "Chrome OS 粵語 3",
         "Android Speech Recognition and Synthesis from Google yue-HK-x-yud-local"
       ],
+      "nativeID": [
+        "yue-hk-x-yud-network",
+        "yue-hk-x-yud-local"
+      ],
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "male",
@@ -200,6 +219,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -211,6 +231,10 @@
         "Chrome OS 粵語 5",
         "Android Speech Recognition and Synthesis from Google yue-HK-x-yue-local"
       ],
+      "nativeID": [
+        "yue-hk-x-yue-network",
+        "yue-hk-x-yue-local"
+      ],
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "male",
@@ -220,23 +244,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "廣東話聲",
-      "name": "廣東話香港",
-      "localizedName": "android",
-      "language": "yue-HK",
-      "altLanguage": "zh-HK",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

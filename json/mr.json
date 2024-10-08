@@ -59,6 +59,10 @@
         "Android Speech Recognition and Synthesis from Google mr-in-x-mrf-local",
         "Android Speech Recognition and Synthesis from Google mr-IN-language"
       ],
+      "nativeID": [
+        "mr-in-x-mrf-network",
+        "mr-in-x-mrf-local"
+      ],
       "language": "mr-IN",
       "gender": "female",
       "quality": [
@@ -68,21 +72,6 @@
       "pitch": 1,
       "os": [
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "मराठी आवाज",
-      "name": "मराठी भारत",
-      "localizedName": "android",
-      "language": "mr-IN",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

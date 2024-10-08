@@ -7,6 +7,7 @@
       "label": "Hila",
       "name": "Microsoft Hila Online (Natural) - Hebrew (Israel)",
       "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "female",
       "quality": [
         "veryHigh"
@@ -22,6 +23,7 @@
       "label": "Avri",
       "name": "Microsoft Avri Online (Natural) - Hebrew (Israel)",
       "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "male",
       "quality": [
         "veryHigh"
@@ -38,6 +40,7 @@
       "name": "Carmit",
       "localizedName": "apple",
       "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "female",
       "quality": [
         "low",
@@ -56,6 +59,7 @@
       "label": "Asaf",
       "name": "Microsoft Asaf - Hebrew (Israel)",
       "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "male",
       "quality": [
         "normal"
@@ -74,7 +78,12 @@
         "Android Speech Recognition and Synthesis from Google he-il-x-heb-local",
         "Android Speech Recognition and Synthesis from Google he-IL-language"
       ],
-      "language": "iw-IL",
+      "nativeID": [
+        "he-il-x-heb-network",
+        "he-il-x-heb-local"
+      ],
+      "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "female",
       "quality": [
         "high"
@@ -82,6 +91,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -92,7 +102,12 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google he-il-x-hec-local"
       ],
-      "language": "iw-IL",
+      "nativeID": [
+        "he-il-x-hec-network",
+        "he-il-x-hec-local"
+      ],
+      "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "female",
       "quality": [
         "high"
@@ -100,6 +115,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -110,7 +126,12 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google he-il-x-hed-local"
       ],
-      "language": "iw-IL",
+      "nativeID": [
+        "he-il-x-hed-network",
+        "he-il-x-hed-local"
+      ],
+      "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "male",
       "quality": [
         "high"
@@ -118,6 +139,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -128,7 +150,12 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google he-il-x-hee-local"
       ],
-      "language": "iw-IL",
+      "nativeID": [
+        "he-il-x-hee-network",
+        "he-il-x-hee-local"
+      ],
+      "language": "he-IL",
+      "altLanguage": "iw-IL",
       "gender": "male",
       "quality": [
         "high"
@@ -136,22 +163,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "קול עברי",
-      "name": "ישראל העברית",
-      "localizedName": "android",
-      "language": "he-IL",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

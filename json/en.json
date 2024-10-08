@@ -1464,6 +1464,10 @@
         "Android Speech Recognition and Synthesis from Google en-us-x-tpc-local",
         "Android Speech Recognition and Synthesis from Google en-US-language"
       ],
+      "nativeID": [
+        "en-us-x-tpc-network",
+        "en-us-x-tpc-local"
+      ],
       "language": "en-US",
       "gender": "female",
       "quality": [
@@ -1472,6 +1476,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1484,6 +1489,10 @@
         "Chrome OS US English 1",
         "Android Speech Recognition and Synthesis from Google en-us-x-iob-local"
       ],
+      "nativeID": [
+        "en-us-x-iob-network",
+        "en-us-x-iob-local"
+      ],
       "language": "en-US",
       "gender": "female",
       "quality": [
@@ -1492,6 +1501,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1504,6 +1514,10 @@
         "Chrome OS US English 2",
         "Android Speech Recognition and Synthesis from Google en-us-x-iog-local"
       ],
+      "nativeID": [
+        "en-us-x-iog-network",
+        "en-us-x-iog-local"
+      ],
       "language": "en-US",
       "gender": "female",
       "quality": [
@@ -1512,6 +1526,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1524,6 +1539,10 @@
         "Chrome OS US English 7",
         "Android Speech Recognition and Synthesis from Google en-us-x-tpf-local"
       ],
+      "nativeID": [
+        "en-us-x-tpf-network",
+        "en-us-x-tpf-local"
+      ],
       "language": "en-US",
       "gender": "female",
       "quality": [
@@ -1532,6 +1551,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1542,6 +1562,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google en-us-x-sfg-local"
       ],
+      "nativeID": [
+        "en-us-x-sfg-network",
+        "en-us-x-sfg-local"
+      ],
       "language": "en-US",
       "gender": "female",
       "quality": [
@@ -1550,6 +1574,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1577,6 +1602,10 @@
         "Chrome OS US English 4",
         "Android Speech Recognition and Synthesis from Google en-us-x-iom-local"
       ],
+      "nativeID": [
+        "en-us-x-iom-network",
+        "en-us-x-iom-local"
+      ],
       "language": "en-US",
       "gender": "male",
       "quality": [
@@ -1585,6 +1614,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1597,6 +1627,10 @@
         "Chrome OS US English 3",
         "Android Speech Recognition and Synthesis from Google en-us-x-iol-local"
       ],
+      "nativeID": [
+        "en-us-x-iol-network",
+        "en-us-x-iol-local"
+      ],
       "language": "en-US",
       "gender": "male",
       "quality": [
@@ -1605,6 +1639,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1617,6 +1652,10 @@
         "Chrome OS US English 6",
         "Android Speech Recognition and Synthesis from Google en-us-x-tpd-local"
       ],
+      "nativeID": [
+        "en-us-x-tpd-network",
+        "en-us-x-tpd-local"
+      ],
       "language": "en-US",
       "gender": "male",
       "quality": [
@@ -1625,6 +1664,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1638,6 +1678,10 @@
         "Android Speech Recognition and Synthesis from Google en-gb-x-gba-local",
         "Android Speech Recognition and Synthesis from Google en-GB-language"
       ],
+      "nativeID": [
+        "en-gb-x-gba-network",
+        "en-gb-x-gba-local"
+      ],
       "language": "en-GB",
       "gender": "female",
       "quality": [
@@ -1646,6 +1690,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1658,6 +1703,10 @@
         "Chrome OS UK English 4",
         "Android Speech Recognition and Synthesis from Google en-gb-x-gbc-local"
       ],
+      "nativeID": [
+        "en-gb-x-gbc-network",
+        "en-gb-x-gbc-local"
+      ],
       "language": "en-GB",
       "gender": "female",
       "quality": [
@@ -1666,6 +1715,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1678,6 +1728,10 @@
         "Chrome OS UK English 6",
         "Android Speech Recognition and Synthesis from Google en-gb-x-gbg-local"
       ],
+      "nativeID": [
+        "en-gb-x-gbg-network",
+        "en-gb-x-gbg-local"
+      ],
       "language": "en-GB",
       "gender": "female",
       "quality": [
@@ -1686,6 +1740,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1713,6 +1768,10 @@
         "Chrome OS UK English 1",
         "Android Speech Recognition and Synthesis from Google en-gb-x-rjs-local"
       ],
+      "nativeID": [
+        "en-gb-x-rjs-network",
+        "en-gb-x-rjs-local"
+      ],
       "language": "en-GB",
       "gender": "male",
       "quality": [
@@ -1721,6 +1780,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1733,6 +1793,10 @@
         "Chrome OS UK English 3",
         "Android Speech Recognition and Synthesis from Google en-gb-x-gbb-local"
       ],
+      "nativeID": [
+        "en-gb-x-gbb-network",
+        "en-gb-x-gbb-local"
+      ],
       "language": "en-GB",
       "gender": "male",
       "quality": [
@@ -1741,6 +1805,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1753,6 +1818,10 @@
         "Chrome OS UK English 5",
         "Android Speech Recognition and Synthesis from Google en-gb-x-gbd-local"
       ],
+      "nativeID": [
+        "en-gb-x-gbd-network",
+        "en-gb-x-gbd-local"
+      ],
       "language": "en-GB",
       "gender": "male",
       "quality": [
@@ -1761,6 +1830,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1774,6 +1844,10 @@
         "Android Speech Recognition and Synthesis from Google en-au-x-aua-local",
         "Android Speech Recognition and Synthesis from Google en-AU-language"
       ],
+      "nativeID": [
+        "en-au-x-aua-network",
+        "en-au-x-aua-local"
+      ],
       "language": "en-AU",
       "gender": "female",
       "quality": [
@@ -1782,6 +1856,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1794,6 +1869,10 @@
         "Chrome OS Australian English 3",
         "Android Speech Recognition and Synthesis from Google en-au-x-auc-local"
       ],
+      "nativeID": [
+        "en-au-x-auc-network",
+        "en-au-x-auc-local"
+      ],
       "language": "en-AU",
       "gender": "female",
       "quality": [
@@ -1802,6 +1881,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1814,6 +1894,10 @@
         "Chrome OS Australian English 2",
         "Android Speech Recognition and Synthesis from Google en-au-x-aub-local"
       ],
+      "nativeID": [
+        "en-au-x-aub-network",
+        "en-au-x-aub-local"
+      ],
       "language": "en-AU",
       "gender": "female",
       "quality": [
@@ -1822,6 +1906,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1834,6 +1919,10 @@
         "Chrome OS Australian English 4",
         "Android Speech Recognition and Synthesis from Google en-au-x-aud-local"
       ],
+      "nativeID": [
+        "en-au-x-aud-network",
+        "en-au-x-aud-local"
+      ],
       "language": "en-AU",
       "gender": "female",
       "quality": [
@@ -1842,6 +1931,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1868,6 +1958,10 @@
         "Android Speech Recognition and Synthesis from Google en-in-x-ena-local",
         "Android Speech Recognition and Synthesis from Google en-IN-language"
       ],
+      "nativeID": [
+        "en-in-x-ena-network",
+        "en-in-x-ena-local"
+      ],
       "language": "en-IN",
       "gender": "female",
       "quality": [
@@ -1876,6 +1970,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1886,6 +1981,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google en-in-x-enc-local"
       ],
+      "nativeID": [
+        "en-in-x-enc-network",
+        "en-in-x-enc-local"
+      ],
       "language": "en-IN",
       "gender": "female",
       "quality": [
@@ -1894,6 +1993,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1904,6 +2004,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google en-in-x-end-local"
       ],
+      "nativeID": [
+        "en-in-x-end-network",
+        "en-in-x-end-local"
+      ],
       "language": "en-IN",
       "gender": "male",
       "quality": [
@@ -1912,6 +2016,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -1922,6 +2027,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google en-in-x-ene-local"
       ],
+      "nativeID": [
+        "en-in-x-ene-network",
+        "en-in-x-ene-local"
+      ],
       "language": "en-IN",
       "gender": "male",
       "quality": [
@@ -1930,67 +2039,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "US voice",
-      "name": "English United States",
-      "localizedName": "android",
-      "language": "en-US",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "UK voice",
-      "name": "English United Kingdom",
-      "localizedName": "android",
-      "language": "en-GB",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Australian voice",
-      "name": "English Australia",
-      "localizedName": "android",
-      "language": "en-AU",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Indian voice",
-      "name": "English India",
-      "localizedName": "android",
-      "language": "en-IN",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

@@ -94,6 +94,10 @@
         "Android Speech Recognition and Synthesis from Google fi-fi-x-afi-local",
         "Android Speech Recognition and Synthesis from Google fi-FI-language"
       ],
+      "nativeID": [
+        "fi-fi-x-afi-network",
+        "fi-fi-x-afi-local"
+      ],
       "language": "fi-FI",
       "gender": "female",
       "quality": [
@@ -102,22 +106,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Suomalainen ääni",
-      "name": "suomi Suomi",
-      "localizedName": "android",
-      "language": "fi-FI",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

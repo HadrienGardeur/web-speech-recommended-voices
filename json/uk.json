@@ -61,6 +61,10 @@
         "Android Speech Recognition and Synthesis from Google uk-ua-x-hfd-local",
         "Android Speech Recognition and Synthesis from Google uk-UA-language"
       ],
+      "nativeID": [
+        "uk-ua-x-hfd-network",
+        "uk-ua-x-hfd-local"
+      ],
       "language": "uk-UA",
       "gender": "female",
       "quality": [
@@ -69,22 +73,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Український голос",
-      "name": "українська Україна",
-      "localizedName": "android",
-      "language": "uk-UA",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

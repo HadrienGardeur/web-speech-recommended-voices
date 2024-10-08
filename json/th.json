@@ -94,6 +94,10 @@
         "Android Speech Recognition and Synthesis from Google th-th-x-mol-local",
         "Android Speech Recognition and Synthesis from Google th-TH-language"
       ],
+      "nativeID": [
+        "th-th-x-mol-network",
+        "th-th-x-mol-local"
+      ],
       "language": "th-TH",
       "gender": "female",
       "quality": [
@@ -102,22 +106,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "เสียงภาษาไทย",
-      "name": "ไทย ไทย",
-      "localizedName": "android",
-      "language": "th-TH",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

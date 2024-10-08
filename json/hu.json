@@ -77,6 +77,10 @@
         "Android Speech Recognition and Synthesis from Google hu-hu-x-kfl-local",
         "Android Speech Recognition and Synthesis from Google hu-HU-language"
       ],
+      "nativeID": [
+        "hu-hu-x-kfl-network",
+        "hu-hu-x-kfl-local"
+      ],
       "language": "hu-HU",
       "gender": "female",
       "quality": [
@@ -85,22 +89,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Magyar hang",
-      "name": "magyar Magyarország",
-      "localizedName": "android",
-      "language": "hu-HU",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

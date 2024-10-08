@@ -594,6 +594,10 @@
         "Android Speech Recognition and Synthesis from Google ar-xa-x-arc-local",
         "Android Speech Recognition and Synthesis from Google ar-language"
       ],
+      "nativeID": [
+        "ar-xa-x-arc-network",
+        "ar-xa-x-arc-local"
+      ],
       "language": "ar",
       "gender": "female",
       "quality": [
@@ -602,6 +606,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -612,6 +617,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ar-xa-x-arz-local"
       ],
+      "nativeID": [
+        "ar-xa-x-arz-network",
+        "ar-xa-x-arz-local"
+      ],
       "language": "ar",
       "gender": "female",
       "quality": [
@@ -620,6 +629,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -630,6 +640,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ar-xa-x-ard-local"
       ],
+      "nativeID": [
+        "ar-xa-x-ard-network",
+        "ar-xa-x-ard-local"
+      ],
       "language": "ar",
       "gender": "male",
       "quality": [
@@ -638,6 +652,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -648,6 +663,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google ar-xa-x-are-local"
       ],
+      "nativeID": [
+        "ar-xa-x-are-network",
+        "ar-xa-x-are-local"
+      ],
       "language": "ar",
       "gender": "male",
       "quality": [
@@ -656,22 +675,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "صوت عربي",
-      "name": "العربية العالم",
-      "localizedName": "android",
-      "language": "ar",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

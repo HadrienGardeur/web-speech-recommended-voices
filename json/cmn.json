@@ -675,6 +675,10 @@
         "Android Speech Recognition and Synthesis from Google cmn-CN-x-ccc-local",
         "Android Speech Recognition and Synthesis from Google zh-CN-language"
       ],
+      "nativeID": [
+        "cmn-CN-x-ccc-network",
+        "cmn-CN-x-ccc-local"
+      ],
       "language": "cmn-CN",
       "altLanguage": "zh-CN",
       "gender": "female",
@@ -684,6 +688,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -694,6 +699,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google cmn-CN-x-ssa-local"
       ],
+      "nativeID": [
+        "cmn-CN-x-ssa-network",
+        "cmn-CN-x-ssa-local"
+      ],
       "language": "cmn-CN",
       "altLanguage": "zh-CN",
       "gender": "female",
@@ -703,6 +712,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -713,6 +723,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google cmn-CN-x-ccd-local"
       ],
+      "nativeID": [
+        "cmn-CN-x-ccd-network",
+        "cmn-CN-x-ccd-local"
+      ],
       "language": "cmn-CN",
       "altLanguage": "zh-CN",
       "gender": "male",
@@ -722,6 +736,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -732,6 +747,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google cmn-CN-x-cce-local"
       ],
+      "nativeID": [
+        "cmn-CN-x-cce-network",
+        "cmn-CN-x-cce-local"
+      ],
       "language": "cmn-CN",
       "altLanguage": "zh-CN",
       "gender": "male",
@@ -741,6 +760,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -752,8 +772,12 @@
         "Android Speech Recognition and Synthesis from Google cmn-TW-x-ctc-local",
         "Android Speech Recognition and Synthesis from Google zh-TW-language"
       ],
-      "language": "cmn-CN",
-      "altLanguage": "zh-CN",
+      "nativeID": [
+        "cmn-TW-x-ctc-network",
+        "cmn-TW-x-ctc-local"
+      ],
+      "language": "cmn-TW",
+      "altLanguage": "zh-TW",
       "gender": "female",
       "quality": [
         "high"
@@ -761,6 +785,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -772,8 +797,12 @@
         "Chrome OS 粵語 1",
         "Android Speech Recognition and Synthesis from Google cmn-TW-x-ctd-local"
       ],
-      "language": "cmn-CN",
-      "altLanguage": "zh-CN",
+      "nativeID": [
+        "cmn-TW-x-ctd-network",
+        "cmn-TW-x-ctd-local"
+      ],
+      "language": "cmn-TW",
+      "altLanguage": "zh-TW",
       "gender": "male",
       "quality": [
         "high"
@@ -781,6 +810,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -792,8 +822,12 @@
         "Chrome OS 粵語 1",
         "Android Speech Recognition and Synthesis from Google cmn-TW-x-cte-local"
       ],
-      "language": "cmn-CN",
-      "altLanguage": "zh-CN",
+      "nativeID": [
+        "cmn-TW-x-cte-network",
+        "cmn-TW-x-cte-local"
+      ],
+      "language": "cmn-CTW",
+      "altLanguage": "zh-TW",
       "gender": "male",
       "quality": [
         "high"
@@ -801,6 +835,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true

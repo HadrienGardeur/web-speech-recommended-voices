@@ -116,6 +116,10 @@
         "Android Speech Recognition and Synthesis from Google ca-es-x-caf-local",
         "Android Speech Recognition and Synthesis from Google ca-ES-language"
       ],
+      "nativeID": [
+        "ca-es-x-caf-network",
+        "ca-es-x-caf-local"
+      ],
       "language": "ca-ES",
       "otherLanguages": [
         "es"
@@ -127,22 +131,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Veu catalana",
-      "name": "català Espanya",
-      "localizedName": "android",
-      "language": "ca-ES",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }

@@ -77,6 +77,10 @@
       "altNames": [
         "Android Speech Recognition and Synthesis from Google hr-hr-x-hra-local"
       ],
+      "nativeID": [
+        "hr-hr-x-hra-network",
+        "hr-hr-x-hra-local"
+      ],
       "language": "hr-HR",
       "gender": "female",
       "quality": [
@@ -85,6 +89,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
@@ -96,6 +101,10 @@
         "Android Speech Recognition and Synthesis from Google hr-hr-x-hrb-local",
         "Android Speech Recognition and Synthesis from Google hr-HR-language"
       ],
+      "nativeID": [
+        "hr-hr-x-hrb-network",
+        "hr-hr-x-hrb-local"
+      ],
       "language": "hr-HR",
       "gender": "male",
       "quality": [
@@ -104,22 +113,8 @@
       "rate": 1,
       "pitch": 1,
       "os": [
+        "Android",
         "ChromeOS"
-      ],
-      "preloaded": true
-    },
-    {
-      "label": "Hrvatski glas",
-      "name": "hrvatski Hrvatska",
-      "localizedName": "android",
-      "language": "hr-HR",
-      "quality": [
-        "high"
-      ],
-      "rate": 1,
-      "pitch": 1,
-      "os": [
-        "Android"
       ],
       "preloaded": true
     }
