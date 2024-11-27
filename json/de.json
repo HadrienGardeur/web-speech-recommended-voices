@@ -287,8 +287,8 @@
       "preloaded": true
     },
     {
-      "label": "Weibliche Google-Stimme (Deutschland)",
-      "name": "Google Deutsch",
+      "label": "Google Deutsch",
+      "name": "Weibliche Google-Stimme (Deutschland)",
       "language": "de-DE",
       "gender": "female",
       "quality": [
