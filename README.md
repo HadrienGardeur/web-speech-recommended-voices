@@ -17,7 +17,7 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Demo
 
-[A live demo](https://panac.github.io/readium-speech/demo/) based on the [Readium Speech project](https://github.com/readium/speech) is available.
+[A live demo](https://readium.org/speech/demo/) based on the [Readium Speech project](https://github.com/readium/speech) is available.
 
 This demo implements both [best practices for voice selection](https://github.com/HadrienGardeur/read-aloud-best-practices/blob/main/voice-selection.md) along with [data from this repository](json/).
 
