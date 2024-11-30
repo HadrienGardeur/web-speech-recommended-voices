@@ -189,7 +189,7 @@
       ]
     },
     {
-      "label": "Voz Google (Brasil)",
+      "label": "Voz feminina do Google",
       "name": "Google português do Brasil",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "pt-BR",

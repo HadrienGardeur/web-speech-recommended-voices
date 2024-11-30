@@ -85,7 +85,7 @@
     },
     {
       "label": "Xiaoni",
-      "name": "Microsoft Xiaobei Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
+      "name": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
       "language": "cmn-CN-shaanxi",
       "altLanguage": "zh-CN-shaanxi",
       "gender": "female",
@@ -539,8 +539,8 @@
       "preloaded": true
     },
     {
-      "label": "Google 女声（香港）",
-      "name": "Google 粤語（香港）",
+      "label": "Google 女声",
+      "name": "Google 普通话（中国大陆）",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "cmn-CN",
       "altLanguage": "zh-CN",
@@ -556,8 +556,8 @@
       "preloaded": true
     },
     {
-      "label": "Google 女聲（臺灣)",
-      "name": "Google 國語（臺灣)",
+      "label": "Google 女聲",
+      "name": "Google 國語（臺灣）",
       "note": "This voice is pre-loaded in Chrome on desktop. Utterances that are longer than 14 seconds long can trigger a bug with this voice, check the notes in the project's README for more information.",
       "language": "cmn-TW",
       "altLanguage": "zh-TW",
