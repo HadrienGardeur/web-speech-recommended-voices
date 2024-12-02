@@ -94,7 +94,7 @@
       "rate": 1,
       "pitch": 1,
       "os": [
-        "Android"
+        "Android",
         "ChromeOS"
       ],
       "preloaded": true
