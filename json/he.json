@@ -84,7 +84,7 @@
       ],
       "language": "he-IL",
       "altLanguage": "iw-IL",
-      "gender": "female",
+      "gender": "male",
       "quality": [
         "high"
       ],
@@ -97,7 +97,7 @@
       "preloaded": true
     },
     {
-      "label": "קול גברי 2",
+      "label": "קול נשי 1",
       "name": "Android Speech Recognition and Synthesis from Google he-il-x-hec-network",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google he-il-x-hec-local"
@@ -121,7 +121,7 @@
       "preloaded": true
     },
     {
-      "label": "קול נשי 1",
+      "label": "קול גברי 2",
       "name": "Android Speech Recognition and Synthesis from Google he-il-x-hed-network",
       "altNames": [
         "Android Speech Recognition and Synthesis from Google he-il-x-hed-local"
@@ -156,7 +156,7 @@
       ],
       "language": "he-IL",
       "altLanguage": "iw-IL",
-      "gender": "male",
+      "gender": "female",
       "quality": [
         "high"
       ],
