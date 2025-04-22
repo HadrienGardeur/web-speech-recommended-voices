@@ -21,7 +21,7 @@
     },
     {
       "label": "HiuMaan",
-      "name": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong)",
+      "name": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong SAR)",
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "female",
@@ -37,7 +37,7 @@
     },
     {
       "label": "WanLung",
-      "name": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong)",
+      "name": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong SAR)",
       "language": "yue-HK",
       "altLanguage": "zh-HK",
       "gender": "male",

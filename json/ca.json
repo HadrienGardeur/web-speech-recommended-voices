@@ -5,7 +5,7 @@
   "voices": [
     {
       "label": "Joana (Català)",
-      "name": "Microsoft Joana Online (Natural) - Catalan (Spain)",
+      "name": "Microsoft Joana Online (Natural) - Catalan",
       "language": "ca-ES",
       "otherLanguages": [
         "es"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Enric (Català)",
-      "name": "Microsoft Enric Online (Natural) - Catalan (Spain)",
+      "name": "Microsoft Enric Online (Natural) - Catalan",
       "language": "ca-ES",
       "otherLanguages": [
         "es"

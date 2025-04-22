@@ -20,7 +20,10 @@
     },
     {
       "label": "Hyunsu",
-      "name": "Microsoft Hyunsu Online (Natural) - Korean (Korea)",
+      "name": "Microsoft HyunsuMultilingual Online (Natural) - Korean (Korea)",
+      "altNames": [
+        "Microsoft Hyunsu Online (Natural) - Korean (Korea)"
+      ],
       "language": "ko-KR",
       "gender": "male",
       "quality": [

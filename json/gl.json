@@ -5,7 +5,7 @@
   "voices": [
     {
       "label": "Sabela",
-      "name": "Microsoft Sabela Online (Natural) - Galician (Spain)",
+      "name": "Microsoft Sabela Online (Natural) - Galician",
       "language": "gl-ES",
       "gender": "female",
       "quality": [
@@ -20,7 +20,7 @@
     },
     {
       "label": "Roi",
-      "name": "Microsoft Roi Online (Natural) - Galician (Spain)",
+      "name": "Microsoft Roi Online (Natural) - Galician",
       "language": "gl-ES",
       "gender": "male",
       "quality": [

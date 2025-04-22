@@ -476,7 +476,7 @@
     },
     {
       "label": "Yan",
-      "name": "Microsoft Yan Online (Natural) - English (Hongkong)",
+      "name": "Microsoft Yan Online (Natural) - English (Hong Kong SAR)",
       "language": "en-HK",
       "gender": "female",
       "quality": [
@@ -583,6 +583,36 @@
       "label": "Abeo",
       "name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
       "language": "en-NG",
+      "gender": "male",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "Rosa",
+      "name": "Microsoft Rosa Online (Natural) - English (Philippines)",
+      "language": "en-PH",
+      "gender": "female",
+      "quality": [
+        "veryHigh"
+      ],
+      "rate": 1,
+      "pitchControl": false,
+      "browser": [
+        "Edge"
+      ],
+      "preloaded": true
+    },
+    {
+      "label": "James",
+      "name": "Microsoft James Online (Natural) - English (Philippines)",
+      "language": "en-PH",
       "gender": "male",
       "quality": [
         "veryHigh"
