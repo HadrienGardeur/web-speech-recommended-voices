@@ -324,7 +324,11 @@
     {
       "label": "William",
       "name": "Microsoft William Online (Natural) - English (Australia)",
+      "altNames": [
+        "Microsoft WilliamMultilingual Online (Natural) - English (Australia)"
+      ],
       "language": "en-AU",
+      "multiLingual": true,
       "gender": "male",
       "quality": [
         "veryHigh"
