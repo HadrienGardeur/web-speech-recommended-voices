@@ -17,62 +17,65 @@ With its focus on voice selection, the goal of this project is to document highe
 
 ## Demo
 
-[A live demo](https://readium.org/speech/demo/) based on the [Readium Speech project](https://github.com/readium/speech) is available.
+[A live demo](https://readium.org/speech/demo/) based on [Readium Speech](https://github.com/readium/speech) is available for testing.
 
-This demo implements both [best practices for voice selection](https://github.com/HadrienGardeur/read-aloud-best-practices/blob/main/voice-selection.md) along with [data from this repository](json/).
+This demo implements both [best practices for voice selection](https://github.com/HadrienGardeur/read-aloud-best-practices/blob/main/voice-selection.md) along with [data originally documented in this repository](https://github.com/readium/speech/tree/main/json/).
 
 ## List of supported languages
+
+> [!WARNING]  
+> Moving forward, the list of voices will be managed in the [Readium Speech](https://github.com/readium/speech) project. To avoid confusion, this repository will no longer host these JSON files, but they remain available in the project's history, if needed.
 
 The goal of this project is to support all 43 languages available on Windows and macOS.
 
 In its current state, it covers 43 languages:
 
-* [Arabic](json/ar.json) (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Yemen)
-* [Basque](json/eu.json)
-* [Bengali](json/bn.json) (India and Bangladesh)
-* [Bhojpuri](json/bho.json)
-* [Bulgarian](json/bg.json)
-* [Catalan](json/ca.json)
+* [Arabic](https://github.com/readium/speech/tree/main/json/ar.json) (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Yemen)
+* [Basque](https://github.com/readium/speech/tree/main/json/eu.json)
+* [Bengali](https://github.com/readium/speech/tree/main/json/bn.json) (India and Bangladesh)
+* [Bhojpuri](https://github.com/readium/speech/tree/main/json/bho.json)
+* [Bulgarian](https://github.com/readium/speech/tree/main/json/bg.json)
+* [Catalan](https://github.com/readium/speech/tree/main/json/ca.json)
 * Chinese:
-  * [Mandarin Chinese](json/cmn.json) (Mainland China, Taiwan)
-  * [Wu Chinese](json/wuu.json) (aka "Shanghainese")
-  * [Yue Chinese](json/yue.json) (aka "Cantonese")
-* [Croatian](json/hr.json)
-* [Czech](json/cs.json)
-* [Danish](json/da.json)
-* [Dutch](json/nl.json) (Netherlands and Belgium)
-* [English](json/en.json) (United States, United Kingdom, Australia, Canada, Hong Kong, India, Ireland, Kenya, New Zealand, Nigeria, Scotland, Singapore, South Africa and Tanzania)
-* [Finnish](json/fi.json)
-* [French](json/fr.json) (France, Canada, Belgium and Switzerland)
-* [Galician](json/gl.json)
-* [German](json/de.json) (Germany, Austria and Switzerland)
-* [Greek](json/el.json)
-* [Hebrew](json/he.json)
-* [Hindi](json/hi.json)
-* [Hungarian](json/hu.json)
-* [Indonesian](json/id.json)
-* [Italian](json/it.json)
-* [Japanese](json/ja.json)
-* [Kannada](json/kn.json)
-* [Korean](json/ko.json)
-* [Malay](json/ms.json)
-* [Marathi](json/mr.json)
-* [Norwegian](json/nb.json)
-* [Persian](json/fa.json)
-* [Polish](json/pl.json)
-* [Portuguese](json/pt.json) (Portugal and Brazil)
-* [Romanian](json/ro.json)
-* [Russian](json/ru.json)
-* [Slovak](json/sk.json)
-* [Slovenian](json/sl.json)
-* [Spanish](json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
-* [Swedish](json/sv.json)
-* [Tamil](json/ta.json) (India, Sri Lanka, Malaysia and Singapore)
-* [Telugu](json/te.json)
-* [Thai](json/th.json)
-* [Turkish](json/tr.json)
-* [Ukrainian](json/uk.json)
-* [Vietnamese](json/vi.json)
+  * [Mandarin Chinese](https://github.com/readium/speech/tree/main/json/cmn.json) (Mainland China, Taiwan)
+  * [Wu Chinese](https://github.com/readium/speech/tree/main/json/wuu.json) (aka "Shanghainese")
+  * [Yue Chinese](https://github.com/readium/speech/tree/main/json/yue.json) (aka "Cantonese")
+* [Croatian](https://github.com/readium/speech/tree/main/json/hr.json)
+* [Czech](https://github.com/readium/speech/tree/main/json/cs.json)
+* [Danish](https://github.com/readium/speech/tree/main/json/da.json)
+* [Dutch](https://github.com/readium/speech/tree/main/json/nl.json) (Netherlands and Belgium)
+* [English](https://github.com/readium/speech/tree/main/json/en.json) (United States, United Kingdom, Australia, Canada, Hong Kong, India, Ireland, Kenya, New Zealand, Nigeria, Scotland, Singapore, South Africa and Tanzania)
+* [Finnish](https://github.com/readium/speech/tree/main/json/fi.json)
+* [French](https://github.com/readium/speech/tree/main/json/fr.json) (France, Canada, Belgium and Switzerland)
+* [Galician](https://github.com/readium/speech/tree/main/json/gl.json)
+* [German](https://github.com/readium/speech/tree/main/json/de.json) (Germany, Austria and Switzerland)
+* [Greek](https://github.com/readium/speech/tree/main/json/el.json)
+* [Hebrew](https://github.com/readium/speech/tree/main/json/he.json)
+* [Hindi](https://github.com/readium/speech/tree/main/json/hi.json)
+* [Hungarian](https://github.com/readium/speech/tree/main/json/hu.json)
+* [Indonesian](https://github.com/readium/speech/tree/main/json/id.json)
+* [Italian](https://github.com/readium/speech/tree/main/json/it.json)
+* [Japanese](https://github.com/readium/speech/tree/main/json/ja.json)
+* [Kannada](https://github.com/readium/speech/tree/main/json/kn.json)
+* [Korean](https://github.com/readium/speech/tree/main/json/ko.json)
+* [Malay](https://github.com/readium/speech/tree/main/json/ms.json)
+* [Marathi](https://github.com/readium/speech/tree/main/json/mr.json)
+* [Norwegian](https://github.com/readium/speech/tree/main/json/nb.json)
+* [Persian](https://github.com/readium/speech/tree/main/json/fa.json)
+* [Polish](https://github.com/readium/speech/tree/main/json/pl.json)
+* [Portuguese](https://github.com/readium/speech/tree/main/json/pt.json) (Portugal and Brazil)
+* [Romanian](https://github.com/readium/speech/tree/main/json/ro.json)
+* [Russian](https://github.com/readium/speech/tree/main/json/ru.json)
+* [Slovak](https://github.com/readium/speech/tree/main/json/sk.json)
+* [Slovenian](https://github.com/readium/speech/tree/main/json/sl.json)
+* [Spanish](https://github.com/readium/speech/tree/main/json/es.json) (Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay and Venezuela)
+* [Swedish](https://github.com/readium/speech/tree/main/json/sv.json)
+* [Tamil](https://github.com/readium/speech/tree/main/json/ta.json) (India, Sri Lanka, Malaysia and Singapore)
+* [Telugu](https://github.com/readium/speech/tree/main/json/te.json)
+* [Thai](https://github.com/readium/speech/tree/main/json/th.json)
+* [Turkish](https://github.com/readium/speech/tree/main/json/tr.json)
+* [Ukrainian](https://github.com/readium/speech/tree/main/json/uk.json)
+* [Vietnamese](https://github.com/readium/speech/tree/main/json/vi.json)
 
 ## List of voices to filter out
 
@@ -80,8 +83,8 @@ At the other end up the spectrum, this project also identifies a number of voice
 
 Some of them are harmful to the overall reading experience, while others have a very low quality on platforms where better preloaded options are available.
 
-* [Novelty voices](json/filters/novelty.json) (Apple devices)
-* [Very low quality voices](json/filters/veryLowQuality.json) (Apple devices and Chrome OS)
+* [Novelty voices](https://github.com/readium/speech/tree/main/json/filters/novelty.json) (Apple devices)
+* [Very low quality voices](https://github.com/readium/speech/tree/main/json/filters/veryLowQuality.json) (Apple devices and Chrome OS)
 
 
 ## Guiding principles
