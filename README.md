@@ -102,7 +102,7 @@ Some of them are harmful to the overall reading experience, while others have a 
 
 ## Syntax
 
-[A JSON Schema](voices.schema.json) is available for validation or potential contributors interested in opening a PR for new languages or voice additions.
+[A JSON Schema](https://github.com/readium/speech/tree/main/voices.schema.json) is available for validation or potential contributors interested in opening a PR for new languages or voice additions.
 
 ### Label
 
