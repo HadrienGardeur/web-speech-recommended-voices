@@ -57,6 +57,7 @@ In its current state, it covers 43 languages:
 * [Italian](https://github.com/readium/speech/tree/main/json/it.json)
 * [Japanese](https://github.com/readium/speech/tree/main/json/ja.json)
 * [Kannada](https://github.com/readium/speech/tree/main/json/kn.json)
+* [Kazhak](https://github.com/readium/speech/tree/main/json/kk.json)
 * [Korean](https://github.com/readium/speech/tree/main/json/ko.json)
 * [Malay](https://github.com/readium/speech/tree/main/json/ms.json)
 * [Marathi](https://github.com/readium/speech/tree/main/json/mr.json)
