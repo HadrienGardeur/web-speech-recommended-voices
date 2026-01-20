@@ -365,7 +365,7 @@ Each voice documented in this repo supports the following optional properties:
 ## Platform considerations
 
 > [!WARNING]  
-> Moving forward, platform considerations will be documented in the [Readium Speech]([https://github.com/readium/speech](https://github.com/readium/speech/blob/main/docs/WebSpeech.md)) project.
+> Moving forward, platform considerations will be documented in the [Readium Speech](https://github.com/readium/speech/blob/main/docs/WebSpeech.md) project.
 
 ## Additional notes
 
